@@ -48,6 +48,11 @@ fs.writeFileSync(
   JSON.stringify(Array.from(map.keys()))
 );
 
+fs.writeFileSync(
+  "../hub/forms.map.json",
+  JSON.stringify(Object.fromEntries(map.entries()))
+);
+
 let map2 = new Map();
 
 for (let c of collins) {
