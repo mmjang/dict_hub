@@ -33,8 +33,11 @@ for (let [f, v] of map) {
   if (f.length > 2) {
     const dir = f.slice(0, 2);
     createIfExist("../hub/forms/_" + dir);
-    fs.writeFileSync("../hub/forms/_" + dir + "/" + f, JSON.stringify(v));
+    fs.writeFileSync(
+      "../hub/forms/_" + dir + "/" + f + ".json",
+      JSON.stringify(v)
+    );
   } else {
-    fs.writeFileSync("../hub/forms/" + f, JSON.stringify(v));
+    fs.writeFileSync("../hub/forms/" + f + ".json", JSON.stringify(v));
   }
 }
