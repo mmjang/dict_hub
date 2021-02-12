@@ -15,7 +15,10 @@ let map = new Map();
 
 for (let f of forms) {
   const key = f.hwd.toLowerCase();
-  const value = f.bases.split("@@@").map((s) => s.toLowerCase());
+  const value = f.bases
+    .split("@@@")
+    .map((s) => s.toLowerCase())
+    .filter((r) => r);
   if (map.has(key)) {
     const oldValue = map.get(key);
     map.set(key, merge(value, oldValue));
