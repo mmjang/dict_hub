@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">棒球运动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In America, <b>baseball</b> is a game played by two teams of nine players. Each player from one team hits a ball with a bat and then tries to run around three bases and get to the home base before the other team can get the ball back.  \r \r\r\r</span>",
+    "display_hwd": "baseball",
+    "ext": "",
+    "hwd": "baseball",
+    "phonetics": "英\r[ˈbeɪsbɔ:l]美\r[ˈbesˌbɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">棒球</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>baseball</b> is a small hard ball which is used in the game of baseball.  \r \r\r\r</span>",
+    "display_hwd": "baseball",
+    "ext": "",
+    "hwd": "baseball",
+    "phonetics": "英\r[ˈbeɪsbɔ:l]美\r[ˈbesˌbɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

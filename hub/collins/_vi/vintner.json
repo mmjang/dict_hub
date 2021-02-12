@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">葡萄酒商</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>vintner</b> is someone whose job is to buy and sell wine.  \r \r\r\r</span>",
+    "display_hwd": "vintner",
+    "ext": "",
+    "hwd": "vintner",
+    "phonetics": "英\r[ˈvɪntnə(r)]美\r[ˈvɪntnɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">葡萄酒酿制者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>vintner</b> is someone who grows grapes and makes wine.  \r \r\r\r</span>",
+    "display_hwd": "vintner",
+    "ext": "",
+    "hwd": "vintner",
+    "phonetics": "英\r[ˈvɪntnə(r)]美\r[ˈvɪntnɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

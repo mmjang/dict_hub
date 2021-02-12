@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">铁饼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>discus</b> is a heavy circular object which athletes try to throw as far as they can as a sport.  \r \r\r\r</span>",
+    "display_hwd": "discus",
+    "ext": "",
+    "hwd": "discus",
+    "phonetics": "英\r[ˈdɪskəs]美\r[ˈdɪskəs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">掷铁饼运动</span>",
+    "def_en": "<span class=\"endef\"><b>The discus</b> is the sport of throwing a discus.  \r \r\r\r</span>",
+    "display_hwd": "discus",
+    "ext": "",
+    "hwd": "discus",
+    "phonetics": "英\r[ˈdɪskəs]美\r[ˈdɪskəs]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

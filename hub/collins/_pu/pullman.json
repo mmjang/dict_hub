@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（豪华型的）普尔曼式列车（或车厢）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Pullman</b> is a type of train or railway carriage which is extremely comfortable and luxurious. You can also refer to a <b>Pullman train</b> or a <b>Pullman carriage</b>.  \r \r\r\r</span>",
+    "display_hwd": "Pullman",
+    "ext": "",
+    "hwd": "Pullman",
+    "phonetics": "英\r[ˈpʊlmən]美\r[ˈpʊlmən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">卧铺车厢</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Pullman</b> or a <b>Pullman car</b> on a train is a railway car that provides beds for passengers to sleep in.  \r \r\r\r</span>",
+    "display_hwd": "Pullman",
+    "ext": "",
+    "hwd": "Pullman",
+    "phonetics": "英\r[ˈpʊlmən]美\r[ˈpʊlmən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

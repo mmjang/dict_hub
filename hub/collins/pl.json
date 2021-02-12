@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（用于地址中和地图、指示牌上）</span>",
+    "def_en": "<span class=\"endef\">\r\r In addresses and on maps and signs, <b>Pl</b> is often used as a written abbreviation for (书面缩略=) <b>Place</b>.  \r \r\r\r</span>",
+    "display_hwd": "pl",
+    "ext": "",
+    "hwd": "pl",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于语法中）</span>",
+    "def_en": "<span class=\"endef\">\r\r In grammar, <b>pl</b> is often used as a written abbreviation for (书面缩略=) <b>plural</b>.  \r \r\r\r</span>",
+    "display_hwd": "pl",
+    "ext": "",
+    "hwd": "pl",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Pl</b>. is sometimes used as a written abbreviation for (书面缩略=) <b>please</b>.  \r \r\r\r</span>",
+    "display_hwd": "pl",
+    "ext": "",
+    "hwd": "pl",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(使)短路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an electrical device <b>short-circuits</b> or if someone or something <b>short-circuits</b> it, a wrong connection or damaged wire causes electricity to travel along the wrong route and damage the device.  \r \r\r\r</span>",
+    "display_hwd": "short-circuit",
+    "ext": "",
+    "hwd": "short-circuit",
+    "phonetics": "英\r[ˈʃɔ:tˈsɜ:kɪt]美\r[ˈʃɔrtˈsəkɪt]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">回避，绕过（某一流程或程序)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something <b>short-circuits</b> a process or system, they avoid long or difficult parts of it and use a quicker, more direct method to achieve their aim.  \r \r\r\r</span>",
+    "display_hwd": "short-circuit",
+    "ext": "",
+    "hwd": "short-circuit",
+    "phonetics": "英\r[ˈʃɔ:tˈsɜ:kɪt]美\r[ˈʃɔrtˈsəkɪt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

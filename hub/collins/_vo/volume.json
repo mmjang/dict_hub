@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">量;数额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>volume of</b> something is the amount of it that there is.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">体积;容积;容量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>volume</b> of an object is the amount of space that it contains or occupies.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">书;书籍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>volume</b> is a book.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（书籍的）卷，册</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>volume</b> is one book in a series of books.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（杂志的）合集，合订本</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>volume</b> is a collection of several issues of a magazine, for example all the issues for one year.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（广播、电视或音响系统的）音量，声量,响度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>volume</b> of a radio, television, or sound system is the loudness of the sound it produces.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">清楚表明;详尽说明;充分说明</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as an action <b>speaks volumes about</b> a person or thing, it gives you a lot of information about them.  \r \r\r\r</span>",
+    "display_hwd": "volume",
+    "ext": "",
+    "hwd": "volume",
+    "phonetics": "英\r[ˈvɒlju:m]美\r[ˈvɑljum]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

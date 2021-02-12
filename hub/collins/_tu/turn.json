@@ -1,0 +1,402 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">转动;转身;扭转</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn</b> or when you <b>turn</b> part of your body, you move your body or part of your body so that it is facing in a different or opposite direction.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转动;使转向;使改变方向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn</b> something, you move it so that it is facing in a different or opposite direction, or is in a very different position.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)转动;(使)旋转</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something such as a wheel <b>turns</b>, or when you <b>turn</b> it, it continually moves around in a particular direction.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转动，旋动(钥匙、把手、开关等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn</b> something such as a key, knob, or switch, or when it <b>turns</b>, you hold it and twist your hand, in order to open something or make it start working.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转向;拐（弯）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn</b> in a particular direction or <b>turn</b> a corner, you change the direction in which you are moving or travelling.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(路、河)拐弯，转弯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The point where a road, path, or river <b>turns</b>, is the point where it has a bend or curve in it.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(潮)涨，落</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the tide <b>turns</b>, it starts coming in or going out.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">翻(筋斗)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone <b>turns</b> a cartwheel or a somersault, they do a cartwheel or somersault.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">翻动(书页)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn</b> a page of a book or magazine, you move it so that is flat against the previous page, and you can read the next page.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">指向;冲着;把…对准</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn</b> a weapon or an aggressive feeling <b>on</b> someone, you point it at them or direct it at them.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">翻到(某页码)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn to</b> a particular page in a book or magazine, you open it at that page.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">开始思考;开始讨论;把(注意力等)转向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn</b> your attention or thoughts <b>to</b> a particular subject or if you <b>turn to</b> it, you start thinking about it or discussing it.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">求助于;求教于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn to</b> someone, you ask for their help or advice.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">致力于;开始从事;启用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn to</b> a particular activity, job, or way of doing something, you start doing or using it.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)变成;(使)成为</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>turn</b> or <b>be turned into</b> something means to become that thing.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于形容词前)变为，变得</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>turn</b> before an adjective to indicate that something or someone changes by acquiring the quality described by the adjective.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-link\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)变成(某种颜色)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>turns</b> a particular colour or if something <b>turns</b> it a particular colour, it becomes that colour.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-link-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(天气)变得</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>turn</b> to indicate that there is a change to a particular kind of weather. For example, if it <b>turns</b> cold, the weather starts being cold.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-link\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(时局或趋势的)逆转，转变，变化</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a situation or trend takes a particular kind of <b>turn</b>, it changes so that it starts developing in a different or opposite way.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（使）(比赛)出现逆转</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In sports, if a game <b>turns</b>, or <b>is turned</b>, something significant happens which changes the way the game is developing.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">赚得，获得(利润)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a business <b>turns</b> a profit, it earns more money than it spends.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">达到(…年龄);到(…点钟)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone <b>turns</b> a particular age, they pass that age. When it <b>turns</b> a particular time, it passes that time.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">世纪之交/新年伊始</span>",
+    "def_en": "<span class=\"endef\"><b>Turn</b> is used in expressions such as <b>the turn of the century</b> and <b>the turn of the year</b> to refer to a period of time when one century or year is ending and the next one is beginning.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使成形;车削</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone <b>turns</b> a wooden or metal object that they are making, they shape it using a special tool.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(依次轮流时的)轮班，次序，轮番</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If it is your <b>turn to</b> do something, you now have the duty, chance, or right to do it, when other people have done it before you or will do it after you.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(疾病的)瞬间发作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is having a <b>turn</b>, you mean they feel suddenly very unwell for a short period of time.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://turning\">turning</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表示两种感情或品质的交替）时而，间或</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>by turns</b> to indicate that someone has two particular emotions or qualities, one after the other.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">形势的变化</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is a particular <b>turn of events</b>, a particular series of things happen.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">每每;总是;处处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something happens <b>at every turn</b>, you are emphasizing that it happens frequently or all the time, usually so that it prevents you from achieving what you want.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(对…)有利的事,有帮助的事</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do someone <b>a good turn</b>, you do something that helps or benefits them.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">彻底搜查;把…翻个底朝天</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>turns</b> a place <b>inside out</b> or <b>upside down</b>, they search it very thoroughly and usually make it very untidy.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">彻底改变，完全搅乱（体制或生活方式）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a system or way of life <b>is turned inside out</b> or <b>upside down</b>, it is changed completely, making people confused or upset.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">继而;转而;反过来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in turn</b> to refer to actions or events that are in a sequence one after the other, for example because one causes the other.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">逐一;依次;轮流地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If each person in a group does something <b>in turn</b>, they do it one after the other in a fixed or agreed order.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">思维;性情;秉性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is of a particular <b>turn of mind</b>, they have that kind of mind or character.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冒失地说;说话出格</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>speak out of turn</b> or <b>talk out of turn</b>, you say something that you do not have the right or authority to say.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">速度;脚力;马力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person, animal, or vehicle has a good <b>turn of speed</b>, they have the ability to move fast.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">轮流;依次</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two or more people <b>take turns to</b> do something, or in British English <b>take it in turns to</b> do something, they do it one after the other several times, rather than doing it together.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(情况)突然恶化/突然好转</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a situation <b>takes a turn for the worse</b>, it suddenly becomes worse. If a situation <b>takes a turn for the better</b>, it suddenly becomes better.  \r \r\r\r</span>",
+    "display_hwd": "turn",
+    "ext": "",
+    "hwd": "turn",
+    "phonetics": "英\r[tɜ:n]美\r[tɜrn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">邻居;邻人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>neighbour</b> is someone who lives near you.  \r \r\r\r</span>",
+    "display_hwd": "neighbour",
+    "ext": "",
+    "hwd": "neighbour",
+    "phonetics": "英\r['neɪbə(r)]美\r[ˈnebɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">邻座;身边的人;邻近的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the person who is standing or sitting next to you as your <b>neighbour</b> .  \r \r\r\r</span>",
+    "display_hwd": "neighbour",
+    "ext": "",
+    "hwd": "neighbour",
+    "phonetics": "英\r['neɪbə(r)]美\r[ˈnebɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">邻近的同类物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to something which stands next to something else of the same kind as its <b>neighbour</b> .  \r \r\r\r</span>",
+    "display_hwd": "neighbour",
+    "ext": "",
+    "hwd": "neighbour",
+    "phonetics": "英\r['neɪbə(r)]美\r[ˈnebɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">邻国</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A country's <b>neighbour</b> is a country that is next to it.  \r \r\r\r</span>",
+    "display_hwd": "neighbour",
+    "ext": "",
+    "hwd": "neighbour",
+    "phonetics": "英\r['neɪbə(r)]美\r[ˈnebɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

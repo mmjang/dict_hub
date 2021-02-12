@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">标签;标牌</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://dog tag\">dog tag</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://price tag\">price tag</a></b>;\r A <b>tag</b> is a small piece of card or cloth which is attached to an object or person and has information about that object or person on it.  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电子)追踪器</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://electronic tagging\">electronic tagging</a></b>;\r An electronic <b>tag</b> is a device that is firmly attached to someone or something and sets off an alarm if that person or thing moves away or is removed.  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…贴标签;在…上做记号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tag</b> something, you attach something to it or mark it so that it can be identified later.  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">称呼;称号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a phrase that is used to describe someone or something as a <b>tag</b> .  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">将…描述成;用…来称呼;把…称作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tag</b> someone in a particular way, you keep describing them using a particular phrase or thinking of them as a particular thing.  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(引用自书籍、讲演、文章的)短语，说法</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tag</b> is a short phrase or saying that you quote from a book, speech, or piece of writing.  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(儿童玩的)捉人游戏</span>",
+    "def_en": "<span class=\"endef\"><b>Tag</b> is a children's game in which one child chases the others and tries to touch them.  \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://question tag\">question tag</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "tag",
+    "ext": "",
+    "hwd": "tag",
+    "phonetics": "英\r[tæg]美\r[tæɡ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(基于思想或情感的)态度，情绪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sentiment</b> that people have is an attitude which is based on their thoughts and feelings.  \r \r\r\r</span>",
+    "display_hwd": "sentiment",
+    "ext": "",
+    "hwd": "sentiment",
+    "phonetics": "英\r[ˈsentɪmənt]美\r[ˈsɛntəmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用言辞表达的)见解，感想</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sentiment</b> is an idea or feeling that someone expresses in words.  \r \r\r\r</span>",
+    "display_hwd": "sentiment",
+    "ext": "",
+    "hwd": "sentiment",
+    "phonetics": "英\r[ˈsentɪmənt]美\r[ˈsɛntəmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指对过去的事过度而无谓的)感伤，眷恋</span>",
+    "def_en": "<span class=\"endef\"><b>Sentiment</b> is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish.  \r \r\r\r</span>",
+    "display_hwd": "sentiment",
+    "ext": "",
+    "hwd": "sentiment",
+    "phonetics": "英\r[ˈsentɪmənt]美\r[ˈsɛntəmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

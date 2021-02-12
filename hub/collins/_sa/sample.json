@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">样品;货样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sample</b> of a substance or product is a small quantity of it that shows you what it is like.  \r \r\r\r</span>",
+    "display_hwd": "sample",
+    "ext": "",
+    "hwd": "sample",
+    "phonetics": "英\r[ˈsɑ:mpl]美\r[ˈsæmpl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于化验的)取样,样本</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sample</b> of a substance is a small amount of it that is examined and analysed scientifically.  \r \r\r\r</span>",
+    "display_hwd": "sample",
+    "ext": "",
+    "hwd": "sample",
+    "phonetics": "英\r[ˈsɑ:mpl]美\r[ˈsæmpl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(抽查的)样本;抽选人员;抽样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sample</b> of people or things is a number of them chosen out of a larger group and then used in tests or used to provide information about the whole group.  \r \r\r\r</span>",
+    "display_hwd": "sample",
+    "ext": "",
+    "hwd": "sample",
+    "phonetics": "英\r[ˈsɑ:mpl]美\r[ˈsæmpl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">品尝;试尝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>sample</b> food or drink, you taste a small amount of it in order to find out if you like it.  \r \r\r\r</span>",
+    "display_hwd": "sample",
+    "ext": "",
+    "hwd": "sample",
+    "phonetics": "英\r[ˈsɑ:mpl]美\r[ˈsæmpl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">体验;尝试</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>sample</b> a place or situation, you experience it for a short time in order to find out about it.  \r \r\r\r</span>",
+    "display_hwd": "sample",
+    "ext": "",
+    "hwd": "sample",
+    "phonetics": "英\r[ˈsɑ:mpl]美\r[ˈsæmpl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">节录,选录(乐曲)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When musicians or pieces of their music <b>are sampled</b>, parts of their music are used by other musicians in their own work.  \r \r\r\r</span>",
+    "display_hwd": "sample",
+    "ext": "",
+    "hwd": "sample",
+    "phonetics": "英\r[ˈsɑ:mpl]美\r[ˈsæmpl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

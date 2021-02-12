@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(卡车、小轿车后面的)后背门，尾门，车斗门</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tailgate</b> is a door at the back of a truck or car, that is hinged at the bottom so that it opens downwards.  \r \r\r\r</span>",
+    "display_hwd": "tailgate",
+    "ext": "",
+    "hwd": "tailgate",
+    "phonetics": "英\r[ˈteɪlgeɪt]美\r[ˈtelˌɡet]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">紧随…行驶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tailgate</b> someone, you drive very closely behind them.  \r \r\r\r</span>",
+    "display_hwd": "tailgate",
+    "ext": "",
+    "hwd": "tailgate",
+    "phonetics": "英\r[ˈteɪlgeɪt]美\r[ˈtelˌɡet]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

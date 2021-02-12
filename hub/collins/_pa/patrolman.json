@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">巡警</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>patrolman</b> is a policeman who patrols a particular area.  \r \r\r\r</span>",
+    "display_hwd": "patrolman",
+    "ext": "",
+    "hwd": "patrolman",
+    "phonetics": "英\r[pəˈtrəʊlmən]美\r[pəˈtrolmən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（车友会帮助会员解决车辆故障的）巡回修理工，巡视员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>patrolman</b> is a person employed by a motoring organization to help members of the organization when their cars break down.  \r \r\r\r</span>",
+    "display_hwd": "patrolman",
+    "ext": "",
+    "hwd": "patrolman",
+    "phonetics": "英\r[pəˈtrəʊlmən]美\r[pəˈtrolmən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">隔音的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>soundproof</b> room, door, or window is designed to prevent all sound from getting in or out.  \r \r\r\r</span>",
+    "display_hwd": "soundproof",
+    "ext": "",
+    "hwd": "soundproof",
+    "phonetics": "英\r[ˈsaʊndpru:f]美\r[ˈsaʊndˌpruf]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使隔音</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>soundproof</b> a room, you line it with special materials to stop all sound from getting in or out.  \r \r\r\r</span>",
+    "display_hwd": "soundproof",
+    "ext": "",
+    "hwd": "soundproof",
+    "phonetics": "英\r[ˈsaʊndpru:f]美\r[ˈsaʊndˌpruf]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

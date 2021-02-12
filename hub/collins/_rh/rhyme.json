@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">押韵;成韵</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one word <b>rhymes with</b> another or if two words <b>rhyme</b>, they have a very similar sound. Words that rhyme with each other are often used in poems.  \r \r\r\r</span>",
+    "display_hwd": "rhyme",
+    "ext": "",
+    "hwd": "rhyme",
+    "phonetics": "英\r[raɪm]美\r[raɪm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-recip-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（诗或歌）押韵</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a poem or song <b>rhymes</b>, the lines end with words that have very similar sounds.  \r \r\r\r</span>",
+    "display_hwd": "rhyme",
+    "ext": "",
+    "hwd": "rhyme",
+    "phonetics": "英\r[raɪm]美\r[raɪm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">押韵词;同韵词;押韵的诗行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rhyme</b> is a word which rhymes with another word, or a set of lines which rhyme.  \r \r\r\r</span>",
+    "display_hwd": "rhyme",
+    "ext": "",
+    "hwd": "rhyme",
+    "phonetics": "英\r[raɪm]美\r[raɪm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">押韵短诗</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://nursery rhyme\">nursery rhyme</a></b>;\r A <b>rhyme</b> is a short poem which has rhyming words at the ends of its lines.  \r \r\r\r</span>",
+    "display_hwd": "rhyme",
+    "ext": "",
+    "hwd": "rhyme",
+    "phonetics": "英\r[raɪm]美\r[raɪm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">押韵;用韵</span>",
+    "def_en": "<span class=\"endef\"><b>Rhyme</b> is the use of rhyming words as a technique in poetry. If something is written <b>in rhyme</b>, it is written as a poem in which the lines rhyme.  \r \r\r\r</span>",
+    "display_hwd": "rhyme",
+    "ext": "",
+    "hwd": "rhyme",
+    "phonetics": "英\r[raɪm]美\r[raɪm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">莫名其妙;无缘无故;毫无道理</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens or is done <b>without rhyme or reason</b>, there seems to be no logical reason for it to happen or be done.  \r \r\r\r</span>",
+    "display_hwd": "rhyme",
+    "ext": "",
+    "hwd": "rhyme",
+    "phonetics": "英\r[raɪm]美\r[raɪm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

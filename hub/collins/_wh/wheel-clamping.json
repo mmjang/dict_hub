@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用以锁住非法停靠车辆的)车轮固定夹，轮夹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>wheel clamp</b> is a large metal device which is fitted to the wheel of an illegally parked car or other vehicle in order to prevent it from being driven away. The motorist has to pay to have the clamp removed.  \r \r\r\r</span>",
+    "display_hwd": "wheel-clamping",
+    "ext": "",
+    "hwd": "wheel-clamping",
+    "phonetics": "英\r[hwi:lklæmp]美\r[hwilklæmp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用轮夹锁住</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a car <b>is wheel clamped</b>, a wheel clamp is fixed to one of its wheels so that it cannot be driven away.  \r \r\r\r</span>",
+    "display_hwd": "wheel-clamping",
+    "ext": "",
+    "hwd": "wheel-clamping",
+    "phonetics": "英\r[hwi:lklæmp]美\r[hwilklæmp]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

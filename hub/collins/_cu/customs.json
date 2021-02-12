@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">海关(部门)</span>",
+    "def_en": "<span class=\"endef\"><b>Customs</b> is the official organization responsible for collecting taxes on goods coming into a country and preventing illegal goods from being brought in.  \r \r\r\r</span>",
+    "display_hwd": "customs",
+    "ext": "",
+    "hwd": "customs",
+    "phonetics": "英\r[ˈkʌstəmz]美\r[ˈkʌstəmz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">海关</span>",
+    "def_en": "<span class=\"endef\"><b>Customs</b> is the place where people arriving from a foreign country have to declare goods that they bring with them.  \r \r\r\r</span>",
+    "display_hwd": "customs",
+    "ext": "",
+    "hwd": "customs",
+    "phonetics": "英\r[ˈkʌstəmz]美\r[ˈkʌstəmz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(税收)海关的，进出口的</span>",
+    "def_en": "<span class=\"endef\"><b>Customs</b> duties are taxes that people pay for importing and exporting goods.  \r \r\r\r</span>",
+    "display_hwd": "customs",
+    "ext": "",
+    "hwd": "customs",
+    "phonetics": "英\r[ˈkʌstəmz]美\r[ˈkʌstəmz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://custom\">custom</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "customs",
+    "ext": "",
+    "hwd": "customs",
+    "phonetics": "英\r[ˈkʌstəmz]美\r[ˈkʌstəmz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  }
+]

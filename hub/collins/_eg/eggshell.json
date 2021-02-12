@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">蛋壳</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>eggshell</b> is the hard covering on the outside of an egg.  \r \r\r\r</span>",
+    "display_hwd": "eggshell",
+    "ext": "",
+    "hwd": "eggshell",
+    "phonetics": "英\r[ˈegʃel]美\r[ˈɛɡˌʃɛl]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">蛋壳漆的</span>",
+    "def_en": "<span class=\"endef\"><b>Eggshell</b> paint makes surfaces dull, not shiny, when it is painted on them.  \r \r\r\r</span>",
+    "display_hwd": "eggshell",
+    "ext": "",
+    "hwd": "eggshell",
+    "phonetics": "英\r[ˈegʃel]美\r[ˈɛɡˌʃɛl]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

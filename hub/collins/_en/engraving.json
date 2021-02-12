@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">雕版；图版</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>engraving</b> is a picture or design that has been cut into a surface.  \r \r\r\r</span>",
+    "display_hwd": "engraving",
+    "ext": "",
+    "hwd": "engraving",
+    "phonetics": "英\r[ɪnˈgreɪvɪŋ]美\r[ɛnˈɡrevɪŋ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">版画</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>engraving</b> is a picture that has been printed from a plate on which designs have been cut.  \r \r\r\r</span>",
+    "display_hwd": "engraving",
+    "ext": "",
+    "hwd": "engraving",
+    "phonetics": "英\r[ɪnˈgreɪvɪŋ]美\r[ɛnˈɡrevɪŋ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

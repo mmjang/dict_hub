@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">巨蟹宫，巨蟹座(黄道十二宫之一。6月21日至7月22日之间出生的人属此星座)</span>",
+    "def_en": "<span class=\"endef\"><b>Cancer</b> is one of the twelve signs of the zodiac. Its symbol is a crab. People who are born approximately between the 21st of June and the 22nd of July come under this sign.  \r \r\r\r</span>",
+    "display_hwd": "Cancer",
+    "ext": "",
+    "hwd": "Cancer",
+    "phonetics": "英\r[ˈkænsə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出生于巨蟹宫时段的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Cancer</b> is a person whose sign of the zodiac is Cancer.  \r \r\r\r</span>",
+    "display_hwd": "Cancer",
+    "ext": "",
+    "hwd": "Cancer",
+    "phonetics": "英\r[ˈkænsə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">癌;癌症</span>",
+    "def_en": "<span class=\"endef\"><b>Cancer</b> is a serious disease in which cells in a person's body increase rapidly in an uncontrolled way, producing abnormal growths.  \r \r\r\r</span>",
+    "display_hwd": "cancer",
+    "ext": "",
+    "hwd": "cancer",
+    "phonetics": "英\r[ˈkænsə(r)]美\r[ˈkænsɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

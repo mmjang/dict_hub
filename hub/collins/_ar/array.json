@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">一大批；一大群</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>array of</b> different things or people is a large number or wide range of them.  \r \r\r\r</span>",
+    "display_hwd": "array",
+    "ext": "",
+    "hwd": "array",
+    "phonetics": "英\r[əˈreɪ]美\r[ə'reɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">陈列;布置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>array of</b> objects is a collection of them that is displayed or arranged in a particular way.  \r \r\r\r</span>",
+    "display_hwd": "array",
+    "ext": "",
+    "hwd": "array",
+    "phonetics": "英\r[əˈreɪ]美\r[ə'reɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（多个望远镜、太阳能电池板之类的仪器设备连接在一起构成的）阵列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>array of</b> instruments such as telescopes or solar panels is a number of them that are connected together to form a single unit.  \r \r\r\r</span>",
+    "display_hwd": "array",
+    "ext": "",
+    "hwd": "array",
+    "phonetics": "英\r[əˈreɪ]美\r[ə'reɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">数列;数组;阵列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In science and mathematics, an <b>array of</b> things such as atoms or numbers is a regular pattern or structure that is formed by them.  \r \r\r\r</span>",
+    "display_hwd": "array",
+    "ext": "",
+    "hwd": "array",
+    "phonetics": "英\r[əˈreɪ]美\r[ə'reɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

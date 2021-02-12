@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">长柄大镰刀;大钐镰</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scythe</b> is a tool with a long curved blade at right angles to a long handle. It is used to cut long grass or grain.  \r \r\r\r</span>",
+    "display_hwd": "scythe",
+    "ext": "",
+    "hwd": "scythe",
+    "phonetics": "英\r[saɪð]美\r[saɪð]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用长柄大镰刀割(草、庄稼)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>scythe</b> grass or grain, you cut it with a scythe.  \r \r\r\r</span>",
+    "display_hwd": "scythe",
+    "ext": "",
+    "hwd": "scythe",
+    "phonetics": "英\r[saɪð]美\r[saɪð]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">垒球运动</span>",
+    "def_en": "<span class=\"endef\"><b>Softball</b> is a game similar to baseball, but played with a larger, softer ball.  \r \r\r\r</span>",
+    "display_hwd": "softball",
+    "ext": "",
+    "hwd": "softball",
+    "phonetics": "英\r[ˈsɒftbɔ:l]美\r[ˈsɔftbɔl]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">垒球</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>softball</b> is the ball used in the game of softball.  \r \r\r\r</span>",
+    "display_hwd": "softball",
+    "ext": "",
+    "hwd": "softball",
+    "phonetics": "英\r[ˈsɒftbɔ:l]美\r[ˈsɔftbɔl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

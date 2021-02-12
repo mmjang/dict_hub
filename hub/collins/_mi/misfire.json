@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">未奏效;未获得预期效果;失败</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a plan <b>misfires</b>, it goes wrong and does not have the results that you intend it to have.  \r \r\r\r</span>",
+    "display_hwd": "misfire",
+    "ext": "",
+    "hwd": "misfire",
+    "phonetics": "英\r[ˌmɪsˈfaɪə(r)]美\r[mɪsˈfaɪr]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(引擎)不发火，不启动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an engine <b>misfires</b>, the fuel fails to start burning when it should.  \r \r\r\r</span>",
+    "display_hwd": "misfire",
+    "ext": "",
+    "hwd": "misfire",
+    "phonetics": "英\r[ˌmɪsˈfaɪə(r)]美\r[mɪsˈfaɪr]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(枪)不能开火，射不出子弹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a gun <b>misfires</b>, the bullet is not sent out as it should be when the gun is fired.  \r \r\r\r</span>",
+    "display_hwd": "misfire",
+    "ext": "",
+    "hwd": "misfire",
+    "phonetics": "英\r[ˌmɪsˈfaɪə(r)]美\r[mɪsˈfaɪr]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

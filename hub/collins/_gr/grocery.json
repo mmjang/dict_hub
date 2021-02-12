@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">食品杂货店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>grocery</b> or a <b>grocery store</b> is a grocer's shop.  \r \r\r\r</span>",
+    "display_hwd": "grocery",
+    "ext": "",
+    "hwd": "grocery",
+    "phonetics": "英\r[ˈgrəʊsəri]美\r[ˈgroʊsəri]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">食品杂货</span>",
+    "def_en": "<span class=\"endef\"><b>Groceries</b> are foods you buy at a grocer's or at a supermarket such as flour, sugar, and tinned foods.  \r \r\r\r</span>",
+    "display_hwd": "grocery",
+    "ext": "",
+    "hwd": "grocery",
+    "phonetics": "英\r[ˈgrəʊsəri]美\r[ˈgroʊsəri]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

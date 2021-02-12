@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">食品;食物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Food can be referred to as <b>nosh</b> .  \r \r\r\r</span>",
+    "display_hwd": "nosh",
+    "ext": "",
+    "hwd": "nosh",
+    "phonetics": "英\r[nɒʃ]美\r[nɑʃ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">小吃;点心</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>nosh</b> is a snack or light meal.  \r \r\r\r</span>",
+    "display_hwd": "nosh",
+    "ext": "",
+    "hwd": "nosh",
+    "phonetics": "英\r[nɒʃ]美\r[nɑʃ]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吃;进餐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>nosh</b>, you eat.  \r \r\r\r</span>",
+    "display_hwd": "nosh",
+    "ext": "",
+    "hwd": "nosh",
+    "phonetics": "英\r[nɒʃ]美\r[nɑʃ]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

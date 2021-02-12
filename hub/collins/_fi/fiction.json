@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">小说</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://science fiction\">science fiction</a></b>;\r <b>Fiction</b> refers to books and stories about imaginary people and events, rather than books about real people or events.  \r \r\r\r</span>",
+    "display_hwd": "fiction",
+    "ext": "",
+    "hwd": "fiction",
+    "phonetics": "英\r[ˈfɪkʃn]美\r[ˈfɪkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">虚构;杜撰;编造</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A statement or account that is <b>fiction</b> is not true.  \r \r\r\r</span>",
+    "display_hwd": "fiction",
+    "ext": "",
+    "hwd": "fiction",
+    "phonetics": "英\r[ˈfɪkʃn]美\r[ˈfɪkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">虚构之事;幻想</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is a <b>fiction</b>, it is not true, although people sometimes pretend that it is true.  \r \r\r\r</span>",
+    "display_hwd": "fiction",
+    "ext": "",
+    "hwd": "fiction",
+    "phonetics": "英\r[ˈfɪkʃn]美\r[ˈfɪkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

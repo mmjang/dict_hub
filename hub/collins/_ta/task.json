@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">任务;工作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>task</b> is an activity or piece of work which you have to do, usually as part of a larger project.  \r \r\r\r</span>",
+    "display_hwd": "task",
+    "ext": "",
+    "hwd": "task",
+    "phonetics": "英\r[tɑ:sk]美\r[tæsk]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…分配任务;派给…（工作）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are tasked with</b> doing a particular activity or piece of work, someone in authority asks you to do it.  \r \r\r\r</span>",
+    "display_hwd": "task",
+    "ext": "",
+    "hwd": "task",
+    "phonetics": "英\r[tɑ:sk]美\r[tæsk]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">批评;责备</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone <b>to task</b>, you criticize them or tell them off because of something bad or wrong that they have done.  \r \r\r\r</span>",
+    "display_hwd": "task",
+    "ext": "",
+    "hwd": "task",
+    "phonetics": "英\r[tɑ:sk]美\r[tæsk]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(使)加快转速;(使)加速</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the engine of a vehicle <b>revs</b>, or when you <b>rev</b> it, the engine speed is increased as the accelerator is pressed.  \r \r\r\r</span>",
+    "display_hwd": "rev",
+    "ext": "",
+    "hwd": "rev",
+    "phonetics": "英\r[rev]美\r[rɛv]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(发动机的)转速</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about the <b>revs</b> of an engine, you are referring to its speed, which is measured in revolutions per minute.  \r \r\r\r</span>",
+    "display_hwd": "rev",
+    "ext": "",
+    "hwd": "rev",
+    "phonetics": "英\r[rev]美\r[rɛv]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

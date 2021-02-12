@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(指车轮、车灯或车门)靠近路边的;(在英国指)左边的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>nearside</b> wheels, lights, or doors of a vehicle are those nearest the edge of the road when the vehicle is being driven on the correct side of the road. In Britain, the nearside is on the left.  \r \r\r\r</span>",
+    "display_hwd": "nearside",
+    "ext": "",
+    "hwd": "nearside",
+    "phonetics": "英\r[ˈnɪəsaɪd]美\r[ˈnɪrsaɪd]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(车辆)靠路边的一侧，内侧，左边</span>",
+    "def_en": "<span class=\"endef\"><b>The nearside</b> of a vehicle is the side that is nearest the edge of the road when the vehicle is being driven on the correct side of the road.  \r \r\r\r</span>",
+    "display_hwd": "nearside",
+    "ext": "",
+    "hwd": "nearside",
+    "phonetics": "英\r[ˈnɪəsaɪd]美\r[ˈnɪrsaɪd]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

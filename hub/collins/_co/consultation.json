@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">商讨会;研讨;磋商</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>consultation</b> is a meeting which is held to discuss something. <b>Consultation</b> is discussion about something.  \r \r\r\r</span>",
+    "display_hwd": "consultation",
+    "ext": "",
+    "hwd": "consultation",
+    "phonetics": "英\r[ˌkɒnslˈteɪʃn]美\r[ˌkɑnslˈteɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">咨询;就诊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>consultation with</b> a doctor or other expert is a meeting with them to discuss a particular problem and get their advice. <b>Consultation</b> is the process of getting advice from a doctor or other expert.  \r \r\r\r</span>",
+    "display_hwd": "consultation",
+    "ext": "",
+    "hwd": "consultation",
+    "phonetics": "英\r[ˌkɒnslˈteɪʃn]美\r[ˌkɑnslˈteɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">会诊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>consultation</b> is a meeting where several doctors discuss a patient and his or her condition and treatment.  \r \r\r\r</span>",
+    "display_hwd": "consultation",
+    "ext": "",
+    "hwd": "consultation",
+    "phonetics": "英\r[ˌkɒnslˈteɪʃn]美\r[ˌkɑnslˈteɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">查阅;参看</span>",
+    "def_en": "<span class=\"endef\"><b>Consultation</b> of a book or other source of information is looking at it in order to find out certain facts.  \r \r\r\r</span>",
+    "display_hwd": "consultation",
+    "ext": "",
+    "hwd": "consultation",
+    "phonetics": "英\r[ˌkɒnslˈteɪʃn]美\r[ˌkɑnslˈteɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(政府或机构旨在修改法律的文件)征询意见的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>consultation</b> paper or document is a document containing ideas for changes in the law. It is published by the government or by an organization, so that people can discuss it and give their opinions on it.  \r \r\r\r</span>",
+    "display_hwd": "consultation",
+    "ext": "",
+    "hwd": "consultation",
+    "phonetics": "英\r[ˌkɒnslˈteɪʃn]美\r[ˌkɑnslˈteɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

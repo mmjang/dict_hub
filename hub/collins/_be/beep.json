@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（汽车喇叭、电话答录机等发出的）嘟嘟声，哔哔声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>beep</b> is a short, loud sound like that made by a car horn or a telephone answering machine.  \r \r\r\r</span>",
+    "display_hwd": "beep",
+    "ext": "",
+    "hwd": "beep",
+    "phonetics": "英\r[bi:p]美\r[bip]",
+    "phrase": "",
+    "sense": "n-count; sound\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（使）发出嘟嘟声；（使）发出哔哔声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a horn <b>beeps</b>, or you <b>beep</b> it, it makes a short, harsh sound.  \r \r\r\r</span>",
+    "display_hwd": "beep",
+    "ext": "",
+    "hwd": "beep",
+    "phonetics": "英\r[bi:p]美\r[bip]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

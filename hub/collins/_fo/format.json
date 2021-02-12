@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">版式;格式;形式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>format</b> of something is the way or order in which it is arranged and presented.  \r \r\r\r</span>",
+    "display_hwd": "format",
+    "ext": "",
+    "hwd": "format",
+    "phonetics": "英\r[ˈfɔ:mæt]美\r[ˈfɔrmæt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电脑软件或音乐的)载体形式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>format</b> of a piece of computer software or a musical recording is the type of equipment on which it is designed to be used or played. For example, possible formats for a musical recording are CD and cassette.  \r \r\r\r</span>",
+    "display_hwd": "format",
+    "ext": "",
+    "hwd": "format",
+    "phonetics": "英\r[ˈfɔ:mæt]美\r[ˈfɔrmæt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">格式化(磁盘)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>format</b> a computer disk means to run a program so that the disk can be written on.  \r \r\r\r</span>",
+    "display_hwd": "format",
+    "ext": "",
+    "hwd": "format",
+    "phonetics": "英\r[ˈfɔ:mæt]美\r[ˈfɔrmæt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">编排(计算机文本或图表)的格式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>format</b> a piece of computer text or graphics means to arrange the way in which it appears when it is printed or is displayed on a screen.  \r \r\r\r</span>",
+    "display_hwd": "format",
+    "ext": "",
+    "hwd": "format",
+    "phonetics": "英\r[ˈfɔ:mæt]美\r[ˈfɔrmæt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

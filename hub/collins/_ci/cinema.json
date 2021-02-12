@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电影院</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cinema</b> is  a place where people go to watch films for entertainment.  \r \r\r\r</span>",
+    "display_hwd": "cinema",
+    "ext": "",
+    "hwd": "cinema",
+    "phonetics": "英\r[ˈsɪnəmə]美\r[ˈsɪnəmə]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电影院的）电影</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can talk about <b>the cinema</b> when you are talking about seeing a film in a cinema.  \r \r\r\r</span>",
+    "display_hwd": "cinema",
+    "ext": "",
+    "hwd": "cinema",
+    "phonetics": "英\r[ˈsɪnəmə]美\r[ˈsɪnəmə]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电影业;电影艺术</span>",
+    "def_en": "<span class=\"endef\"><b>Cinema</b> is the business and art of making films.  \r \r\r\r</span>",
+    "display_hwd": "cinema",
+    "ext": "",
+    "hwd": "cinema",
+    "phonetics": "英\r[ˈsɪnəmə]美\r[ˈsɪnəmə]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

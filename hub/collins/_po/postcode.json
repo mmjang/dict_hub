@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">邮政编码；邮区编号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>postcode</b> is a short sequence of numbers and letters at the end of your address, which helps the post office to sort the mail.  \r \r\r\r</span>",
+    "display_hwd": "postcode",
+    "ext": "",
+    "hwd": "postcode",
+    "phonetics": "英\r[ˈpəʊstkəʊd]美\r[ˈpoʊstkoʊd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

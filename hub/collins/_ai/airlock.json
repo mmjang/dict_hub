@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">气闸室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>airlock</b> is a small room that is used to move between areas which do not have the same air pressure, for example in a spacecraft or submarine.  \r \r\r\r</span>",
+    "display_hwd": "airlock",
+    "ext": "",
+    "hwd": "airlock",
+    "phonetics": "英\r[ˈeəlɒk]美\r[ˈerlɑk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">气塞；气闸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>airlock</b> is a bubble of air in a pipe that prevents liquid from flowing through.  \r \r\r\r</span>",
+    "display_hwd": "airlock",
+    "ext": "",
+    "hwd": "airlock",
+    "phonetics": "英\r[ˈeəlɒk]美\r[ˈerlɑk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

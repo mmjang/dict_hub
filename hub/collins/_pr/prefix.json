@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">前缀</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>prefix</b> is a letter or group of letters, for example 'un-' or 'multi-', which is added to the beginning of a word in order to form a different word. For example, the prefix 'un-' is added to 'happy' to form 'unhappy'.  \r \r\r\r</span>",
+    "display_hwd": "prefix",
+    "ext": "",
+    "hwd": "prefix",
+    "phonetics": "英\r[ˈpri:fɪks]美\r[ˈpriˌfɪks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">前置代码（置于一组号码前的数字或字母，表示所属区域等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>prefix</b> is one or more numbers or letters added to the beginning of a code number to indicate, for example, what area something belongs to.  \r \r\r\r</span>",
+    "display_hwd": "prefix",
+    "ext": "",
+    "hwd": "prefix",
+    "phonetics": "英\r[ˈpri:fɪks]美\r[ˈpriˌfɪks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

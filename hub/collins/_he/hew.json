@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">砍;劈</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>hew</b> stone or wood, you cut it, for example with an axe.  \r \r\r\r</span>",
+    "display_hwd": "hew",
+    "ext": "",
+    "hwd": "hew",
+    "phonetics": "英\r[hju:]美\r[hju]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（在岩石或木材上）砍成，劈出</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://rough-hewn\">rough-hewn</a></b>;\r If something <b>is hewn from</b> stone or wood, it is cut from stone or wood.  \r \r\r\r</span>",
+    "display_hwd": "hew",
+    "ext": "",
+    "hwd": "hew",
+    "phonetics": "英\r[hju:]美\r[hju]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

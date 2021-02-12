@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">浴室；盥洗室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bathroom</b> is a room in a house that contains a bath or shower, a washbasin, and sometimes a toilet.  \r \r\r\r</span>",
+    "display_hwd": "bathroom",
+    "ext": "",
+    "hwd": "bathroom",
+    "phonetics": "英\r[ˈbɑ:θru:m]美\r[ˈbæθrum]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">洗手间；厕所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bathroom</b> is a room in a house or public building that contains a toilet.  \r \r\r\r</span>",
+    "display_hwd": "bathroom",
+    "ext": "",
+    "hwd": "bathroom",
+    "phonetics": "英\r[ˈbɑ:θru:m]美\r[ˈbæθrum]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">去洗手间；上厕所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People say that they <b>are going to the bathroom</b> when they want to say that they are going to use the toilet.  \r \r\r\r</span>",
+    "display_hwd": "bathroom",
+    "ext": "",
+    "hwd": "bathroom",
+    "phonetics": "英\r[ˈbɑ:θru:m]美\r[ˈbæθrum]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

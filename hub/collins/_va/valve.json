@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">阀;活门</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>valve</b> is a device attached to a pipe or a tube which controls the flow of air or liquid through the pipe or tube.  \r \r\r\r</span>",
+    "display_hwd": "valve",
+    "ext": "",
+    "hwd": "valve",
+    "phonetics": "英\r[vælv]美\r[vælv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（心脏的）瓣，瓣膜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>valve</b> is a small piece of tissue in your heart or in a vein which controls the flow of blood and keeps it flowing in one direction only.  \r \r\r\r</span>",
+    "display_hwd": "valve",
+    "ext": "",
+    "hwd": "valve",
+    "phonetics": "英\r[vælv]美\r[vælv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://safety valve\">safety valve</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "valve",
+    "ext": "",
+    "hwd": "valve",
+    "phonetics": "英\r[vælv]美\r[vælv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  }
+]

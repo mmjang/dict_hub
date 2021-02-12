@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">卡车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>truck</b> is a large vehicle that is used to transport goods by road.  \r \r\r\r</span>",
+    "display_hwd": "truck",
+    "ext": "",
+    "hwd": "truck",
+    "phonetics": "英\r[trʌk]美\r[trʌk]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(铁路)运货车皮，敞篷货运火车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>truck</b> is an open vehicle used for carrying goods on a railway.  \r \r\r\r</span>",
+    "display_hwd": "truck",
+    "ext": "",
+    "hwd": "truck",
+    "phonetics": "英\r[trʌk]美\r[trʌk]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用卡车装运;用货车运送</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something or someone <b>is trucked</b> somewhere, they are driven there in a lorry.  \r \r\r\r</span>",
+    "display_hwd": "truck",
+    "ext": "",
+    "hwd": "truck",
+    "phonetics": "英\r[trʌk]美\r[trʌk]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不愿参与;不与…来往;不掺和</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you will <b>have no truck with</b> someone or something, you are refusing to be involved with them in any way.  \r \r\r\r</span>",
+    "display_hwd": "truck",
+    "ext": "",
+    "hwd": "truck",
+    "phonetics": "英\r[trʌk]美\r[trʌk]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

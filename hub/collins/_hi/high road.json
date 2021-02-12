@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">大路;大街;交通要道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>high road</b> is a main road.  \r \r\r\r</span>",
+    "display_hwd": "high road",
+    "ext": "",
+    "hwd": "high road",
+    "phonetics": "英\r[hairoʊd]美\r[haɪrəʊd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（可能导致…的）途径，方式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say that something is <b>the high road to</b> a particular situation when it seems likely to lead to that situation.  \r \r\r\r</span>",
+    "display_hwd": "high road",
+    "ext": "",
+    "hwd": "high road",
+    "phonetics": "英\r[hairoʊd]美\r[haɪrəʊd]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最好（或最有把握）的途径;最保险的方式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is taking <b>the high road</b> in a situation, you mean that they are taking the most positive and careful course of action.  \r \r\r\r</span>",
+    "display_hwd": "high road",
+    "ext": "",
+    "hwd": "high road",
+    "phonetics": "英\r[hairoʊd]美\r[haɪrəʊd]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

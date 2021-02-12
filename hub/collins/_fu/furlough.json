@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(因工作量不足的)被迫休假，暂时下岗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If workers are given <b>furlough</b>, they are told to stay away from work for a certain period because there is not enough for them to do.  \r \r\r\r</span>",
+    "display_hwd": "furlough",
+    "ext": "",
+    "hwd": "furlough",
+    "phonetics": "英\r[ˈfɜ:ləʊ]美\r[ˈfɜrloʊ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使被迫休假;使暂时下岗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people who work for a particular organization <b>are furloughed</b>, they are given a furlough.  \r \r\r\r</span>",
+    "display_hwd": "furlough",
+    "ext": "",
+    "hwd": "furlough",
+    "phonetics": "英\r[ˈfɜ:ləʊ]美\r[ˈfɜrloʊ]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(军人的)休假</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When soldiers are given <b>furlough</b>, they are given official permission to leave the area where they are based or are fighting, for a certain period.  \r \r\r\r</span>",
+    "display_hwd": "furlough",
+    "ext": "",
+    "hwd": "furlough",
+    "phonetics": "英\r[ˈfɜ:ləʊ]美\r[ˈfɜrloʊ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

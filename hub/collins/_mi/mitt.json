@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">同 mittens</span>",
+    "def_en": "<span class=\"endef\"><b>Mitts</b> are the same as <b>mittens</b> .  \r \r\r\r</span>",
+    "display_hwd": "mitt",
+    "ext": "",
+    "hwd": "mitt",
+    "phonetics": "英\r[mɪt]美\r[mɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a person's hands as their <b>mitts</b> .  \r \r\r\r</span>",
+    "display_hwd": "mitt",
+    "ext": "",
+    "hwd": "mitt",
+    "phonetics": "英\r[mɪt]美\r[mɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">棒球手套</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A baseball <b>mitt</b> is a large glove worn by a player whose job involves catching the ball.  \r \r\r\r</span>",
+    "display_hwd": "mitt",
+    "ext": "",
+    "hwd": "mitt",
+    "phonetics": "英\r[mɪt]美\r[mɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">组成;构成;组合方式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you talk about the <b>composition</b> of something, you are referring to the way in which its various parts are put together and arranged.  \r \r\r\r</span>",
+    "display_hwd": "composition",
+    "ext": "",
+    "hwd": "composition",
+    "phonetics": "英\r[ˌkɒmpəˈzɪʃn]美\r[ˌkɑmpəˈzɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(作曲家、画家等的)作品</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>compositions</b> of a composer, painter, or other artist are the works of art that they have produced.  \r \r\r\r</span>",
+    "display_hwd": "composition",
+    "ext": "",
+    "hwd": "composition",
+    "phonetics": "英\r[ˌkɒmpəˈzɪʃn]美\r[ˌkɑmpəˈzɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(学生的)作文</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>composition</b> is a piece of written work that children write at school.  \r \r\r\r</span>",
+    "display_hwd": "composition",
+    "ext": "",
+    "hwd": "composition",
+    "phonetics": "英\r[ˌkɒmpəˈzɪʃn]美\r[ˌkɑmpəˈzɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">艺术创作技巧</span>",
+    "def_en": "<span class=\"endef\"><b>Composition</b> is the technique or skill involved in creating a work of art.  \r \r\r\r</span>",
+    "display_hwd": "composition",
+    "ext": "",
+    "hwd": "composition",
+    "phonetics": "英\r[ˌkɒmpəˈzɪʃn]美\r[ˌkɑmpəˈzɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(音乐、诗歌等的)创作，作曲</span>",
+    "def_en": "<span class=\"endef\"><b>Composition</b> is the act of composing something such as a piece of music or a poem.  \r \r\r\r</span>",
+    "display_hwd": "composition",
+    "ext": "",
+    "hwd": "composition",
+    "phonetics": "英\r[ˌkɒmpəˈzɪʃn]美\r[ˌkɑmpəˈzɪʃn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

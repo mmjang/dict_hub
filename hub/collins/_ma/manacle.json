@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">手铐;脚镣;镣铐</span>",
+    "def_en": "<span class=\"endef\"><b>Manacles</b> are metal devices attached to a prisoner's wrists or legs in order to prevent him or her from moving or escaping.  \r \r\r\r</span>",
+    "display_hwd": "manacle",
+    "ext": "",
+    "hwd": "manacle",
+    "phonetics": "英\r[ˈmænəkl]美\r[ˈmænəkəl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给（囚犯）上手铐（或脚镣）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a prisoner <b>is manacled</b>, their wrists or legs are put in manacles in order to prevent them from moving or escaping.  \r \r\r\r</span>",
+    "display_hwd": "manacle",
+    "ext": "",
+    "hwd": "manacle",
+    "phonetics": "英\r[ˈmænəkl]美\r[ˈmænəkəl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">茶杯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>teacup</b> is a cup that you use for drinking tea.  \r \r\r\r</span>",
+    "display_hwd": "teacup",
+    "ext": "",
+    "hwd": "teacup",
+    "phonetics": "英\r[ˈti:kʌp]美\r[ˈtiˌkʌp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">茶杯里的风暴;小题大做;大惊小怪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe a situation as <b>a storm in a teacup</b>, you think that a lot of fuss is being made about something that is not important.  \r \r\r\r</span>",
+    "display_hwd": "teacup",
+    "ext": "",
+    "hwd": "teacup",
+    "phonetics": "英\r[ˈti:kʌp]美\r[ˈtiˌkʌp]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

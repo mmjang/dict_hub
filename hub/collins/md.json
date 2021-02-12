@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">医学博士</span>",
+    "def_en": "<span class=\"endef\"><b>MD</b> is written after someone's name to indicate that they have been awarded a degree in medicine and are qualified to practise as a doctor.  \r \r\r\r</span>",
+    "display_hwd": "MD",
+    "ext": "",
+    "hwd": "MD",
+    "phonetics": "英\r[ˌemˈdi:]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>MD</b> is an abbreviation  for (缩略 =) <b>managing director</b>.  \r \r\r\r</span>",
+    "display_hwd": "MD",
+    "ext": "",
+    "hwd": "MD",
+    "phonetics": "英\r[ˌemˈdi:]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">足球运动</span>",
+    "def_en": "<span class=\"endef\"><b>Football</b> is a game played by two teams of eleven players using a round ball. Players kick the ball to each other and try to score goals by kicking the ball into a large net.  \r \r\r\r</span>",
+    "display_hwd": "football",
+    "ext": "",
+    "hwd": "football",
+    "phonetics": "英\r[ˈfʊtbɔ:l]美\r[ˈfʊtˌbɔl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">橄榄球运动</span>",
+    "def_en": "<span class=\"endef\"><b>Football</b> is a game played by two teams of eleven players using an oval ball. Players carry the ball in their hands or throw it to each other as they try to score goals that are called touchdowns.  \r \r\r\r</span>",
+    "display_hwd": "football",
+    "ext": "",
+    "hwd": "football",
+    "phonetics": "英\r[ˈfʊtbɔ:l]美\r[ˈfʊtˌbɔl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">足球;橄榄球</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>football</b> is a ball that is used for playing football.  \r \r\r\r</span>",
+    "display_hwd": "football",
+    "ext": "",
+    "hwd": "football",
+    "phonetics": "英\r[ˈfʊtbɔ:l]美\r[ˈfʊtˌbɔl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

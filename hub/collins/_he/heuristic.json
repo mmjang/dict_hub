@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（学习方法）启发式的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>heuristic</b> method of learning involves discovery and problem-solving, using reasoning and past experience.  \r \r\r\r</span>",
+    "display_hwd": "heuristic",
+    "ext": "",
+    "hwd": "heuristic",
+    "phonetics": "英\r[hjuˈrɪstɪk]美\r[hjʊˈrɪstɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（计算机程序）探试的，探索的</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://algorithm\">algorithm</a></b>;\r A <b>heuristic</b> computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure.  \r \r\r\r</span>",
+    "display_hwd": "heuristic",
+    "ext": "",
+    "hwd": "heuristic",
+    "phonetics": "英\r[hjuˈrɪstɪk]美\r[hjʊˈrɪstɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

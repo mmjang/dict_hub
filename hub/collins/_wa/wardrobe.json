@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">衣柜;衣橱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>wardrobe</b> is a tall cupboard or cabinet in which you can hang your clothes.  \r \r\r\r</span>",
+    "display_hwd": "wardrobe",
+    "ext": "",
+    "hwd": "wardrobe",
+    "phonetics": "英\r[ˈwɔ:drəʊb]美\r[ˈwɔrdroʊb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某人的)全部服装</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>wardrobe</b> is the total collection of clothes that they have.  \r \r\r\r</span>",
+    "display_hwd": "wardrobe",
+    "ext": "",
+    "hwd": "wardrobe",
+    "phonetics": "英\r[ˈwɔ:drəʊb]美\r[ˈwɔrdroʊb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(剧团演员的)全部戏装，行头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>wardrobe</b> in a theatre company is the actors' and actresses' costumes.  \r \r\r\r</span>",
+    "display_hwd": "wardrobe",
+    "ext": "",
+    "hwd": "wardrobe",
+    "phonetics": "英\r[ˈwɔ:drəʊb]美\r[ˈwɔrdroʊb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

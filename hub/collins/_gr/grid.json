@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">网格；（地图上的）坐标方格</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cattle grid\">cattle grid</a></b>;\r A <b>grid</b> is something which is in a pattern of straight lines that cross over each other, forming squares. On maps the grid is used to help you find a particular thing or place.  \r \r\r\r</span>",
+    "display_hwd": "grid",
+    "ext": "",
+    "hwd": "grid",
+    "phonetics": "英\r[grɪd]美\r[ɡrɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（输送电力等的）系统网络</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>grid</b> is a network of wires and cables by which sources of power, such as electricity, are distributed throughout a country or area.  \r \r\r\r</span>",
+    "display_hwd": "grid",
+    "ext": "",
+    "hwd": "grid",
+    "phonetics": "英\r[grɪd]美\r[ɡrɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">赛车起跑线</span>",
+    "def_en": "<span class=\"endef\"><b>The grid</b> or <b>the starting grid</b> is the starting line on a car-racing track.  \r \r\r\r</span>",
+    "display_hwd": "grid",
+    "ext": "",
+    "hwd": "grid",
+    "phonetics": "英\r[grɪd]美\r[ɡrɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

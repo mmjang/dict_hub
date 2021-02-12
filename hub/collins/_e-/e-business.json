@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指没有实体店面的）网上运营公司，电子商务公司</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>e-business</b> is a business which uses the Internet to sell goods or services, especially one which does not also have shops or offices that people can visit or phone.  \r \r\r\r</span>",
+    "display_hwd": "e-business",
+    "ext": "",
+    "hwd": "e-business",
+    "phonetics": "英\r[ɪ'bɪznɪs]美\r[ɪ'bɪznɪs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电子商务</span>",
+    "def_en": "<span class=\"endef\"><b>E-business</b> is the buying, selling, and ordering of goods and services using the Internet.  \r \r\r\r</span>",
+    "display_hwd": "e-business",
+    "ext": "",
+    "hwd": "e-business",
+    "phonetics": "英\r[ɪ'bɪznɪs]美\r[ɪ'bɪznɪs]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">窥探;刺探;打探</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>snoops</b> around a place, they secretly look around it in order to find out things.  \r \r\r\r</span>",
+    "display_hwd": "snoop",
+    "ext": "",
+    "hwd": "snoop",
+    "phonetics": "英\r[snu:p]美\r[snup]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">窥探(某人的生活)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>snoops on</b> a person, they watch them secretly in order to find out things about their life.  \r \r\r\r</span>",
+    "display_hwd": "snoop",
+    "ext": "",
+    "hwd": "snoop",
+    "phonetics": "英\r[snu:p]美\r[snup]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 snooper</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>snoop</b> is the same as a <b>snooper</b> .  \r \r\r\r</span>",
+    "display_hwd": "snoop",
+    "ext": "",
+    "hwd": "snoop",
+    "phonetics": "英\r[snu:p]美\r[snup]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

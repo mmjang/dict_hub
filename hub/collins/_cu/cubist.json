@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">立体派画家</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Cubist</b> is an artist who painted in the style of Cubism.  \r \r\r\r</span>",
+    "display_hwd": "Cubist",
+    "ext": "",
+    "hwd": "Cubist",
+    "phonetics": "['kjuːbɪst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">立体派的;立体主义的</span>",
+    "def_en": "<span class=\"endef\"><b>Cubist</b> art is art in the style of Cubism.  \r \r\r\r</span>",
+    "display_hwd": "Cubist",
+    "ext": "",
+    "hwd": "Cubist",
+    "phonetics": "['kjuːbɪst]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

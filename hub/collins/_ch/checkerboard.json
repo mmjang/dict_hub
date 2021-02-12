@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">西洋跳棋棋盘</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>checkerboard</b> is a square board with 64 black and white squares that is used for playing checkers or chess.  \r \r\r\r</span>",
+    "display_hwd": "checkerboard",
+    "ext": "",
+    "hwd": "checkerboard",
+    "phonetics": "英\r[ˈtʃekəbɔ:d]美\r[ˈtʃekərbɔrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通常为黑白)方格图案的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>checkerboard</b> pattern is made up of equal-sized squares of two different colours, usually black and white.  \r \r\r\r</span>",
+    "display_hwd": "checkerboard",
+    "ext": "",
+    "hwd": "checkerboard",
+    "phonetics": "英\r[ˈtʃekəbɔ:d]美\r[ˈtʃekərbɔrd]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">数字电视</span>",
+    "def_en": "<span class=\"endef\"><b>Digital television</b> is television in which the signals are transmitted in digital form and decoded by the television receiver.  \r \r\r\r</span>",
+    "display_hwd": "digital television",
+    "ext": "",
+    "hwd": "digital television",
+    "phonetics": "英\r[ˈdidʒitəlˈteliˌviʒən]美\r[ˈdɪdʒɪtlˈtɛləˌvɪʒən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">数字电视机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>digital television</b> is a television that can receive digital signals.  \r \r\r\r</span>",
+    "display_hwd": "digital television",
+    "ext": "",
+    "hwd": "digital television",
+    "phonetics": "英\r[ˈdidʒitəlˈteliˌviʒən]美\r[ˈdɪdʒɪtlˈtɛləˌvɪʒən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

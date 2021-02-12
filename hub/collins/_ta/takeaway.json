@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">外卖店;外卖餐馆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>takeaway</b> is a shop or restaurant which sells hot cooked food that you eat somewhere else.  \r \r\r\r</span>",
+    "display_hwd": "takeaway",
+    "ext": "",
+    "hwd": "takeaway",
+    "phonetics": "英\r[ˈteɪkəweɪ]美\r[ˈtekəˌwe]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(商店、餐馆的)外卖食品</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>takeaway</b> is hot cooked food that you buy from a shop or restaurant and eat somewhere else.  \r \r\r\r</span>",
+    "display_hwd": "takeaway",
+    "ext": "",
+    "hwd": "takeaway",
+    "phonetics": "英\r[ˈteɪkəweɪ]美\r[ˈtekəˌwe]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

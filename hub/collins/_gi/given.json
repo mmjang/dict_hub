@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Given</b> is the past participle of <b>give</b> .  \r \r\r\r</span>",
+    "display_hwd": "given",
+    "ext": "",
+    "hwd": "given",
+    "phonetics": "英\r[ˈgɪvn]美\r[ˈɡɪvən]",
+    "phrase": "",
+    "sense": "★★★☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">特定的；指定的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about, for example, any <b>given</b> position or a <b>given</b> time, you mean the particular position or time that you are discussing.  \r \r\r\r</span>",
+    "display_hwd": "given",
+    "ext": "",
+    "hwd": "given",
+    "phonetics": "英\r[ˈgɪvn]美\r[ˈɡɪvən]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">如果有（机会等）</span>",
+    "def_en": "<span class=\"endef\"><b>Given</b> is used when indicating a possible situation in which someone has the opportunity or ability to do something. For example, <b>given the chance</b> means 'if I had the chance'.  \r \r\r\r</span>",
+    "display_hwd": "given",
+    "ext": "",
+    "hwd": "given",
+    "phonetics": "英\r[ˈgɪvn]美\r[ˈɡɪvən]",
+    "phrase": "",
+    "sense": "★★★☆☆ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">考虑到；鉴于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>given that</b> something is the case, you mean taking that fact into account.  \r \r\r\r</span>",
+    "display_hwd": "given",
+    "ext": "",
+    "hwd": "given",
+    "phonetics": "英\r[ˈgɪvn]美\r[ˈɡɪvən]",
+    "phrase": "",
+    "sense": "★★★☆☆ phr-conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">考虑到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>given</b> something, you mean taking that thing into account.  \r \r\r\r</span>",
+    "display_hwd": "given",
+    "ext": "",
+    "hwd": "given",
+    "phonetics": "英\r[ˈgɪvn]美\r[ˈɡɪvən]",
+    "phrase": "",
+    "sense": "★★★☆☆ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">经常的；习惯的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>given to</b> doing something, you often do it.  \r \r\r\r</span>",
+    "display_hwd": "given",
+    "ext": "",
+    "hwd": "given",
+    "phonetics": "英\r[ˈgɪvn]美\r[ˈɡɪvən]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">研制时间；开发周期</span>",
+    "def_en": "<span class=\"endef\"><b>Lead time</b> is the time between the original design or idea for a particular product and its actual production.  \r \r\r\r</span>",
+    "display_hwd": "lead time",
+    "ext": "",
+    "hwd": "lead time",
+    "phonetics": "英\r[ˈli:dtaɪm]美\r[lidtaɪm]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（从订货到交货的）交付周期</span>",
+    "def_en": "<span class=\"endef\"><b>Lead time</b> is the period of time that it takes for goods to be delivered after someone has ordered them.  \r \r\r\r</span>",
+    "display_hwd": "lead time",
+    "ext": "",
+    "hwd": "lead time",
+    "phonetics": "英\r[ˈli:dtaɪm]美\r[lidtaɪm]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

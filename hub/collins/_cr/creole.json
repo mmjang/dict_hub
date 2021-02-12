@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔语(某些地方通用的混合语)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>creole</b> is a language that has developed from a mixture of different languages and has become the main language in a particular place  \r \r\r\r</span>",
+    "display_hwd": "Creole",
+    "ext": "",
+    "hwd": "Creole",
+    "phonetics": "英\r[ˈkri:əʊl]美\r[ˈkrioʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔人(指居住在西印度群岛的非洲人和欧洲人的混血儿)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Creole</b> is a person of mixed African and European race, who lives in the West Indies and speaks a creole language.  \r \r\r\r</span>",
+    "display_hwd": "Creole",
+    "ext": "",
+    "hwd": "Creole",
+    "phonetics": "英\r[ˈkri:əʊl]美\r[ˈkrioʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔人(指首批定居在西印度群岛或美国南部的欧洲人的后裔)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Creole</b> is a person descended from the Europeans who first settled in the West Indies or the southern United States of America.  \r \r\r\r</span>",
+    "display_hwd": "Creole",
+    "ext": "",
+    "hwd": "Creole",
+    "phonetics": "英\r[ˈkri:əʊl]美\r[ˈkrioʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔的;克里奥尔人的</span>",
+    "def_en": "<span class=\"endef\"><b>Creole</b> means belonging to or relating to the Creole community.  \r \r\r\r</span>",
+    "display_hwd": "Creole",
+    "ext": "",
+    "hwd": "Creole",
+    "phonetics": "英\r[ˈkri:əʊl]美\r[ˈkrioʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔语(某些地方通用的混合语)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>creole</b> is a language that has developed from a mixture of different languages and has become the main language in a particular place  \r \r\r\r</span>",
+    "display_hwd": "creole",
+    "ext": "",
+    "hwd": "creole",
+    "phonetics": "[ˈkriːəʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔人(指居住在西印度群岛的非洲人和欧洲人的混血儿)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Creole</b> is a person of mixed African and European race, who lives in the West Indies and speaks a creole language.  \r \r\r\r</span>",
+    "display_hwd": "creole",
+    "ext": "",
+    "hwd": "creole",
+    "phonetics": "[ˈkriːəʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔人(指首批定居在西印度群岛或美国南部的欧洲人的后裔)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Creole</b> is a person descended from the Europeans who first settled in the West Indies or the southern United States of America.  \r \r\r\r</span>",
+    "display_hwd": "creole",
+    "ext": "",
+    "hwd": "creole",
+    "phonetics": "[ˈkriːəʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">克里奥尔的;克里奥尔人的</span>",
+    "def_en": "<span class=\"endef\"><b>Creole</b> means belonging to or relating to the Creole community.  \r \r\r\r</span>",
+    "display_hwd": "creole",
+    "ext": "",
+    "hwd": "creole",
+    "phonetics": "[ˈkriːəʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

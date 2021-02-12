@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">单行的；单向的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In <b>one-way</b> streets or traffic systems, vehicles can only travel along in one direction.  \r \r\r\r</span>",
+    "display_hwd": "one-way",
+    "ext": "",
+    "hwd": "one-way",
+    "phonetics": "英\r[wʌnweɪ]美\r[ˈwʌnˈwe]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（旅行）单程的</span>",
+    "def_en": "<span class=\"endef\"><b>One-way</b> describes journeys which go to just one place, rather than to that place and then back again.  \r \r\r\r</span>",
+    "display_hwd": "one-way",
+    "ext": "",
+    "hwd": "one-way",
+    "phonetics": "英\r[wʌnweɪ]美\r[ˈwʌnˈwe]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（车票或票价）单程的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>one-way</b> ticket or fare is for a journey from one place to another, but not back again.  \r \r\r\r</span>",
+    "display_hwd": "one-way",
+    "ext": "",
+    "hwd": "one-way",
+    "phonetics": "英\r[wʌnweɪ]美\r[ˈwʌnˈwe]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（必定）通往…的，导致…的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a course of action is a <b>one-way</b> ticket to a place or situation, or is a <b>one-way</b> journey there, you are sure that it will lead to the place or situation mentioned.  \r \r\r\r</span>",
+    "display_hwd": "one-way",
+    "ext": "",
+    "hwd": "one-way",
+    "phonetics": "英\r[wʌnweɪ]美\r[ˈwʌnˈwe]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（玻璃或镜子）单向的，单面的</span>",
+    "def_en": "<span class=\"endef\"><b>One-way</b> glass or a <b>one-way</b> mirror is a piece of glass which acts as a mirror when looked at from one side, but acts as a window when looked through from the other side. They are used for watching people without their knowledge.  \r \r\r\r</span>",
+    "display_hwd": "one-way",
+    "ext": "",
+    "hwd": "one-way",
+    "phonetics": "英\r[wʌnweɪ]美\r[ˈwʌnˈwe]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">单向付出的关系；单方受益的协议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe an agreement or a relationship as a <b>one-way street</b>, you mean that only one of the sides in the agreement or relationship is offering something or is benefitting from it.  \r \r\r\r</span>",
+    "display_hwd": "one-way",
+    "ext": "",
+    "hwd": "one-way",
+    "phonetics": "英\r[wʌnweɪ]美\r[ˈwʌnˈwe]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

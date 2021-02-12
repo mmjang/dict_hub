@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电池</span>",
+    "def_en": "<span class=\"endef\"><b>Batteries</b> are small devices that provide the power for electrical items such as radios and children's toys.  \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（汽车）电瓶，蓄电池</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A car <b>battery</b> is a rectangular box containing acid that is found in a car engine. It provides the electricity needed to start the car.  \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（设备的）一排，一套</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>battery of</b> equipment such as guns, lights, or computers is a large set of it kept together in one place.  \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（物品的）一组，一系列；（人的）一群</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>battery of</b> people or things is a very large number of them.  \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一系列（测试、检查等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>battery of</b> tests is a set of tests that is used to assess a number of different aspects of something, such as your health.  \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（养鸡场）层架式的</span>",
+    "def_en": "<span class=\"endef\"><b>Battery</b> farming is a system of breeding chickens and hens in which large numbers of them are kept in small cages, and used for their meat and eggs.  \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://assault and battery\">assault and battery</a></b>;\r   \rto recharge your batteries<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://recharge\">recharge</a></b>; \r \r\r\r</span>",
+    "display_hwd": "battery",
+    "ext": "",
+    "hwd": "battery",
+    "phonetics": "英\r[ˈbætri]美\r[ˈbætəri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  }
+]

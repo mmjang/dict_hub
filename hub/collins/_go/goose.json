@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">鹅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>goose</b> is a large bird that has a long neck and webbed feet. Geese are often farmed for their meat.  \r \r\r\r</span>",
+    "display_hwd": "goose",
+    "ext": "",
+    "hwd": "goose",
+    "phonetics": "英\r[gu:s]美\r[ɡus]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鹅肉</span>",
+    "def_en": "<span class=\"endef\"><b>Goose</b> is the meat from a goose that has been cooked.  \r \r\r\r</span>",
+    "display_hwd": "goose",
+    "ext": "",
+    "hwd": "goose",
+    "phonetics": "英\r[gu:s]美\r[ɡus]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wild goose chase\">wild goose chase</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "goose",
+    "ext": "",
+    "hwd": "goose",
+    "phonetics": "英\r[gu:s]美\r[ɡus]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阻挠；破坏…的计划</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>cook</b> someone's <b>goose</b>, you prevent their plans from succeeding.  \r \r\r\r</span>",
+    "display_hwd": "goose",
+    "ext": "",
+    "hwd": "goose",
+    "phonetics": "英\r[gu:s]美\r[ɡus]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">杀鸡取卵；自绝财源</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>kills the goose that lays the golden egg</b>, they harm or destroy the person or thing that gives them their money, power, or advantage.  \r \r\r\r</span>",
+    "display_hwd": "goose",
+    "ext": "",
+    "hwd": "goose",
+    "phonetics": "英\r[gu:s]美\r[ɡus]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">适于此者适于彼；应该一视同仁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>what's sauce for the goose is sauce for the gander</b>, you mean what is acceptable for one person in a particular situation should be acceptable for another person in a similar situation.  \r \r\r\r</span>",
+    "display_hwd": "goose",
+    "ext": "",
+    "hwd": "goose",
+    "phonetics": "英\r[gu:s]美\r[ɡus]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

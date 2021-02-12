@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">禁运;贸易禁令</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one country or group of countries imposes an <b>embargo</b> against another, it forbids trade with that country.  \r \r\r\r</span>",
+    "display_hwd": "embargo",
+    "ext": "",
+    "hwd": "embargo",
+    "phonetics": "英\r[ɪmˈbɑ:gəʊ]美\r[ɪmˈbɑrgoʊ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">禁运（货物）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If goods of a particular kind <b>are embargoed</b>, people are not allowed to import them from a particular country or export them to a particular country.  \r \r\r\r</span>",
+    "display_hwd": "embargo",
+    "ext": "",
+    "hwd": "embargo",
+    "phonetics": "英\r[ɪmˈbɑ:gəʊ]美\r[ɪmˈbɑrgoʊ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

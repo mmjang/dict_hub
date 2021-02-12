@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">洗发液;香波</span>",
+    "def_en": "<span class=\"endef\"><b>Shampoo</b> is a soapy liquid that you use for washing your hair.  \r \r\r\r</span>",
+    "display_hwd": "shampoo",
+    "ext": "",
+    "hwd": "shampoo",
+    "phonetics": "英\r[ʃæmˈpu:]美\r[ʃæmˈpu]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用洗发液洗(头发)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>shampoo</b> your hair, you wash it using shampoo.  \r \r\r\r</span>",
+    "display_hwd": "shampoo",
+    "ext": "",
+    "hwd": "shampoo",
+    "phonetics": "英\r[ʃæmˈpu:]美\r[ʃæmˈpu]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

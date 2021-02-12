@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">作者;著作者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>author of</b> a piece of writing is the person who wrote it.  \r \r\r\r</span>",
+    "display_hwd": "author",
+    "ext": "",
+    "hwd": "author",
+    "phonetics": "英\r[ˈɔ:θə(r)]美\r[ˈɔθɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">作家</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>author</b> is a person whose job is writing books.  \r \r\r\r</span>",
+    "display_hwd": "author",
+    "ext": "",
+    "hwd": "author",
+    "phonetics": "英\r[ˈɔ:θə(r)]美\r[ˈɔθɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计划或建议的）筹划者，制定者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>author of</b> a plan or proposal is the person who thinks of it and works out the details.  \r \r\r\r</span>",
+    "display_hwd": "author",
+    "ext": "",
+    "hwd": "author",
+    "phonetics": "英\r[ˈɔ:θə(r)]美\r[ˈɔθɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">创作；撰写</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>author</b> something means to be the author of it.  \r \r\r\r</span>",
+    "display_hwd": "author",
+    "ext": "",
+    "hwd": "author",
+    "phonetics": "英\r[ˈɔ:θə(r)]美\r[ˈɔθɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://co-author\">co-author</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "author",
+    "ext": "",
+    "hwd": "author",
+    "phonetics": "英\r[ˈɔ:θə(r)]美\r[ˈɔθɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">女低音歌手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>alto</b> is a woman who has a low singing voice.  \r \r\r\r</span>",
+    "display_hwd": "alto",
+    "ext": "",
+    "hwd": "alto",
+    "phonetics": "英\r[ˈæltəʊ]美\r[ˈæltoʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">男高音歌手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>alto</b> or <b>male alto</b> is a man who has the highest male singing voice.  \r \r\r\r</span>",
+    "display_hwd": "alto",
+    "ext": "",
+    "hwd": "alto",
+    "phonetics": "英\r[ˈæltəʊ]美\r[ˈæltoʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（乐器）中音的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>alto</b> musical instrument has a range of notes of medium pitch.  \r \r\r\r</span>",
+    "display_hwd": "alto",
+    "ext": "",
+    "hwd": "alto",
+    "phonetics": "英\r[ˈæltəʊ]美\r[ˈæltoʊ]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

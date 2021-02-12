@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">杂草;野草</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>weed</b> is a wild plant that grows in gardens or fields of crops and prevents the plants that you want from growing properly.  \r \r\r\r</span>",
+    "display_hwd": "weeding",
+    "ext": "",
+    "hwd": "weeding",
+    "phonetics": "英\r['wi:dɪŋ]美\r['widɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">水草;水生植物</span>",
+    "def_en": "<span class=\"endef\"><b>Weed</b> is a plant that grows in water and usually forms a thick floating mass. There are many different kinds of weed.  \r \r\r\r</span>",
+    "display_hwd": "weeding",
+    "ext": "",
+    "hwd": "weeding",
+    "phonetics": "英\r['wi:dɪŋ]美\r['widɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…除杂草</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>weed</b> an area, you remove the weeds from it.  \r \r\r\r</span>",
+    "display_hwd": "weeding",
+    "ext": "",
+    "hwd": "weeding",
+    "phonetics": "英\r['wi:dɪŋ]美\r['widɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">烟草；大麻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes refer to tobacco or marijuana as <b>weed</b> .  \r \r\r\r</span>",
+    "display_hwd": "weeding",
+    "ext": "",
+    "hwd": "weeding",
+    "phonetics": "英\r['wi:dɪŋ]美\r['widɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

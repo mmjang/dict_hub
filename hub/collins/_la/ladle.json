@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">长柄勺</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ladle</b> is a large, round, deep spoon with a long handle, used for serving soup, stew, or sauce.  \r \r\r\r</span>",
+    "display_hwd": "ladle",
+    "ext": "",
+    "hwd": "ladle",
+    "phonetics": "英\r[ˈleɪdl]美\r[ˈledl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指用长柄勺）舀，盛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>ladle</b> food such as soup or stew, you serve it, especially with a ladle.  \r \r\r\r</span>",
+    "display_hwd": "ladle",
+    "ext": "",
+    "hwd": "ladle",
+    "phonetics": "英\r[ˈleɪdl]美\r[ˈledl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

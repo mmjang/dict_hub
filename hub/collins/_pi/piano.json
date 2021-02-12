@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">钢琴</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://grand piano\">grand piano</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://upright piano\">upright piano</a></b>;\r A <b>piano</b> is a large musical instrument with a row of black and white keys. When you press these keys with your fingers, little hammers hit wire strings inside the piano which vibrate to produce musical notes.  \r \r\r\r</span>",
+    "display_hwd": "piano",
+    "ext": "",
+    "hwd": "piano",
+    "phonetics": "英\r[piˈænəʊ]美\r[piˈænoʊ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">轻轻地；微弱地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A piece of music that is played <b>piano</b> is played quietly.  \r \r\r\r</span>",
+    "display_hwd": "piano",
+    "ext": "",
+    "hwd": "piano",
+    "phonetics": "英\r[piˈænəʊ]美\r[piˈænoʊ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adv\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

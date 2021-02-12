@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">财产；资产；所有物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>property</b> is all the things that belong to them or something that belongs to them.  \r \r\r\r</span>",
+    "display_hwd": "property",
+    "ext": "",
+    "hwd": "property",
+    "phonetics": "英\r[ˈprɒpəti]美\r[ˈprɑpərti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">房地产</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>property</b> is a building and the land belonging to it.  \r \r\r\r</span>",
+    "display_hwd": "property",
+    "ext": "",
+    "hwd": "property",
+    "phonetics": "英\r[ˈprɒpəti]美\r[ˈprɑpərti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">特性；性质；性能；属性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>properties</b> of a substance or object are the ways in which it behaves in particular conditions.  \r \r\r\r</span>",
+    "display_hwd": "property",
+    "ext": "",
+    "hwd": "property",
+    "phonetics": "英\r[ˈprɒpəti]美\r[ˈprɑpərti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

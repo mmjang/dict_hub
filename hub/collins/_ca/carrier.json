@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">运输工具;(尤指)军车,运输舰</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://aircraft carrier\">aircraft carrier</a></b>;\r A <b>carrier</b> is a vehicle that is used for carrying people, especially soldiers, or things.  \r \r\r\r</span>",
+    "display_hwd": "carrier",
+    "ext": "",
+    "hwd": "carrier",
+    "phonetics": "英\r[ˈkæriə(r)]美\r[ˈkæriɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">客运航空公司</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>carrier</b> is a passenger airline.  \r \r\r\r</span>",
+    "display_hwd": "carrier",
+    "ext": "",
+    "hwd": "carrier",
+    "phonetics": "英\r[ˈkæriə(r)]美\r[ˈkæriɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">携带病菌者;带菌者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>carrier</b> is a person or an animal that is infected with a disease and so can make other people or animals ill.  \r \r\r\r</span>",
+    "display_hwd": "carrier",
+    "ext": "",
+    "hwd": "carrier",
+    "phonetics": "英\r[ˈkæriə(r)]美\r[ˈkæriɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">脸色苍白的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>pasty</b> or if you have a <b>pasty</b> face, you look pale and unhealthy.  \r \r\r\r</span>",
+    "display_hwd": "pasty",
+    "ext": "",
+    "hwd": "pasty",
+    "phonetics": "英\r[ˈpeɪsti]美\r[ˈpeɪsti]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">馅饼</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://Cornish pasty\">Cornish pasty</a></b>;\r In Britain, a <b>pasty</b> is a small pie which consists of pastry folded around meat, vegetables, or cheese.  \r \r\r\r</span>",
+    "display_hwd": "pasty",
+    "ext": "",
+    "hwd": "pasty",
+    "phonetics": "英\r[ˈpeɪsti]美\r[ˈpeɪsti]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

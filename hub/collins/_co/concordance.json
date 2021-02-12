@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">相似;一致;协调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is <b>concordance between</b> two things, they are similar to each other or consistent with each other.  \r \r\r\r</span>",
+    "display_hwd": "concordance",
+    "ext": "",
+    "hwd": "concordance",
+    "phonetics": "英\r[kənˈkɔ:dəns]美\r[kənˈkɔrdəns]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">语汇索引</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>concordance</b> is a list of the words in a text or group of texts, with information about where in the text each word occurs and how often it occurs. The sentences each word occurs in are often given.  \r \r\r\r</span>",
+    "display_hwd": "concordance",
+    "ext": "",
+    "hwd": "concordance",
+    "phonetics": "英\r[kənˈkɔ:dəns]美\r[kənˈkɔrdəns]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

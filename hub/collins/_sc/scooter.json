@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">小型摩托车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scooter</b> is a small light motorcycle which has a low seat.  \r \r\r\r</span>",
+    "display_hwd": "scooter",
+    "ext": "",
+    "hwd": "scooter",
+    "phonetics": "英\r[ˈsku:tə(r)]美\r[ˈskutɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(儿童)踏板车，滑板车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scooter</b> is a type of child's bicycle which has two wheels joined by a wooden board and a handle on a long pole attached to the front wheel. The child stands on the board with one foot, and uses the other foot to move forwards.  \r \r\r\r</span>",
+    "display_hwd": "scooter",
+    "ext": "",
+    "hwd": "scooter",
+    "phonetics": "英\r[ˈsku:tə(r)]美\r[ˈskutɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

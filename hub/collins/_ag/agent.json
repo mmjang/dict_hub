@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">代理人;代理商</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://estate agent\">estate agent</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://press agent\">press agent</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://travel agent\">travel agent</a></b>;\r An <b>agent</b> is a person who looks after someone else's business affairs or does business on their behalf.  \r \r\r\r</span>",
+    "display_hwd": "agent",
+    "ext": "",
+    "hwd": "agent",
+    "phonetics": "英\r[ˈeɪdʒənt]美\r[ˈedʒənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（艺术领域的）代理人，经纪人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>agent</b> in the arts world is a person who gets work for an actor or musician, or who sells the work of a writer to publishers.  \r \r\r\r</span>",
+    "display_hwd": "agent",
+    "ext": "",
+    "hwd": "agent",
+    "phonetics": "英\r[ˈeɪdʒənt]美\r[ˈedʒənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">间谍；特务</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>agent</b> is a person who works for a country's secret service.  \r \r\r\r</span>",
+    "display_hwd": "agent",
+    "ext": "",
+    "hwd": "agent",
+    "phonetics": "英\r[ˈeɪdʒənt]美\r[ˈedʒənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">动力;媒介;因素;工具</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone or something as the <b>agent of</b> a particular effect, you mean that they cause this effect.  \r \r\r\r</span>",
+    "display_hwd": "agent",
+    "ext": "",
+    "hwd": "agent",
+    "phonetics": "英\r[ˈeɪdʒənt]美\r[ˈedʒənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（化学）剂;作用剂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A chemical that has a particular effect or is used for a particular purpose can be referred to as a particular kind of <b>agent</b>.  \r \r\r\r</span>",
+    "display_hwd": "agent",
+    "ext": "",
+    "hwd": "agent",
+    "phonetics": "英\r[ˈeɪdʒənt]美\r[ˈedʒənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

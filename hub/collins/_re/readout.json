@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">读数，数据显示（如速度、高度或分贝）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an electronic measuring device gives you a <b>readout</b>, it displays information about the level of something such as a speed, height, or sound.  \r \r\r\r</span>",
+    "display_hwd": "readout",
+    "ext": "",
+    "hwd": "readout",
+    "phonetics": "英\r['ri:daʊt]美\r[ˈridˌaʊt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

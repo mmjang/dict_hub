@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">草皮</span>",
+    "def_en": "<span class=\"endef\"><b>Turf</b> is short, thick, even grass.  \r \r\r\r</span>",
+    "display_hwd": "turf",
+    "ext": "",
+    "hwd": "turf",
+    "phonetics": "英\r[tɜ:f]美\r[tɜrf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(铺草坪用的)草皮块</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>turf</b> is a small rectangular piece of grass which you lay on the ground in order to make a lawn.  \r \r\r\r</span>",
+    "display_hwd": "turf",
+    "ext": "",
+    "hwd": "turf",
+    "phonetics": "英\r[tɜ:f]美\r[tɜrf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(熟悉的)地区，地盘</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>turf</b> is the area which is most familiar to them or where they feel most confident.  \r \r\r\r</span>",
+    "display_hwd": "turf",
+    "ext": "",
+    "hwd": "turf",
+    "phonetics": "英\r[tɜ:f]美\r[tɜrf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

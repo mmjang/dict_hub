@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">慢车道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a motorway or freeway, <b>the slow lane</b> is the lane for vehicles which are moving more slowly than the other vehicles.  \r \r\r\r</span>",
+    "display_hwd": "slow lane",
+    "ext": "",
+    "hwd": "slow lane",
+    "phonetics": "英\r[sləulein]美\r[slolen]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(走上)慢车道;渐渐落后</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a person, country, or company is in <b>the slow lane</b>, you mean that they are not progressing as fast as other people, countries, or companies in a particular area of activity.  \r \r\r\r</span>",
+    "display_hwd": "slow lane",
+    "ext": "",
+    "hwd": "slow lane",
+    "phonetics": "英\r[sləulein]美\r[slolen]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

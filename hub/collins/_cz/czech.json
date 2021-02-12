@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">捷克的; 捷克人的;捷克文化的</span>",
+    "def_en": "<span class=\"endef\"><b>Czech</b> means belonging or relating to the Czech Republic, or to its people, language, or culture.  \r \r\r\r</span>",
+    "display_hwd": "Czech",
+    "ext": "",
+    "hwd": "Czech",
+    "phonetics": "英\r[tʃek]美\r[tʃɛk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">捷克人;捷克裔人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Czech</b> is a Czech citizen, or a person of Czech origin.  \r \r\r\r</span>",
+    "display_hwd": "Czech",
+    "ext": "",
+    "hwd": "Czech",
+    "phonetics": "英\r[tʃek]美\r[tʃɛk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">捷克语</span>",
+    "def_en": "<span class=\"endef\"><b>Czech</b> is the language spoken in the Czech Republic.  \r \r\r\r</span>",
+    "display_hwd": "Czech",
+    "ext": "",
+    "hwd": "Czech",
+    "phonetics": "英\r[tʃek]美\r[tʃɛk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

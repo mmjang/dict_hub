@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">校定，校准，调节(计量器具)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>calibrate</b> an instrument or tool, you mark or adjust it so that you can use it to measure something accurately.  \r \r\r\r</span>",
+    "display_hwd": "calibrate",
+    "ext": "",
+    "hwd": "calibrate",
+    "phonetics": "英\r[ˈkælɪbreɪt]美\r[ˈkæləˌbret]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">精确测量;准确估量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>calibrate</b> something, you measure it accurately.  \r \r\r\r</span>",
+    "display_hwd": "calibrate",
+    "ext": "",
+    "hwd": "calibrate",
+    "phonetics": "英\r[ˈkælɪbreɪt]美\r[ˈkæləˌbret]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

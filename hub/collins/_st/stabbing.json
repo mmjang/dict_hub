@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">持刀伤人事件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stabbing</b> is an incident in which someone stabs someone else with a knife.  \r \r\r\r</span>",
+    "display_hwd": "stabbing",
+    "ext": "",
+    "hwd": "stabbing",
+    "phonetics": "英\r[ˈstæbɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(疼痛)剧烈突发的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stabbing</b> pain is a sudden sharp pain.  \r \r\r\r</span>",
+    "display_hwd": "stabbing",
+    "ext": "",
+    "hwd": "stabbing",
+    "phonetics": "英\r[ˈstæbɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">租车人自己驾驶的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>self-drive</b> car is one which you hire and drive yourself.  \r \r\r\r</span>",
+    "display_hwd": "self-drive",
+    "ext": "",
+    "hwd": "self-drive",
+    "phonetics": "英\r[selfdraiv]美\r[sɛlfdraɪv]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(度假)自己驾车的,自驾游的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>self-drive</b> holiday is one where you drive yourself to the place where you are staying, rather than being taken there by plane or coach.  \r \r\r\r</span>",
+    "display_hwd": "self-drive",
+    "ext": "",
+    "hwd": "self-drive",
+    "phonetics": "英\r[selfdraiv]美\r[sɛlfdraɪv]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

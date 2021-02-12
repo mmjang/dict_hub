@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">药丸；丸剂</span>",
+    "def_en": "<span class=\"endef\"><b>Pills</b> are small solid round masses of medicine or vitamins that you swallow without chewing.  \r \r\r\r</span>",
+    "display_hwd": "pill",
+    "ext": "",
+    "hwd": "pill",
+    "phonetics": "英\r[pɪl]美\r[pɪl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（女用）口服避孕药</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a woman is <b>on the pill</b>, she takes a special pill that prevents her from becoming pregnant.  \r \r\r\r</span>",
+    "display_hwd": "pill",
+    "ext": "",
+    "hwd": "pill",
+    "phonetics": "英\r[pɪl]美\r[pɪl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不得不承受的苦事；不得不接受的现实</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or group has to accept a failure or an unpleasant piece of news, you can say that it was <b>a bitter pill</b> or <b>a bitter pill to swallow</b> .  \r \r\r\r</span>",
+    "display_hwd": "pill",
+    "ext": "",
+    "hwd": "pill",
+    "phonetics": "英\r[pɪl]美\r[pɪl]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把苦药包上糖衣；使不愉快的事变得较易接受</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone does something to <b>sweeten the pill</b> or <b>sugar the pill</b>, they do it to make some unpleasant news or an unpleasant measure more acceptable.  \r \r\r\r</span>",
+    "display_hwd": "pill",
+    "ext": "",
+    "hwd": "pill",
+    "phonetics": "英\r[pɪl]美\r[pɪl]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

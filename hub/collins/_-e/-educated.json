@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（与名词和形容词连用构成形容词）表示“在…受教育的”，“在…读书的”</span>",
+    "def_en": "<span class=\"endef\"><b>-educated</b> combines with nouns and adjectives to form adjectives indicating where someone was educated.  \r \r\r\r</span>",
+    "display_hwd": "-educated",
+    "ext": "",
+    "hwd": "-educated",
+    "phonetics": "[əd]",
+    "phrase": "",
+    "sense": "comb in adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与副词连用构成形容词）表示“受过…教育的”</span>",
+    "def_en": "<span class=\"endef\"><b>-educated</b> combines with adverbs to form adjectives indicating how much education someone has had and how good it was.  \r \r\r\r</span>",
+    "display_hwd": "-educated",
+    "ext": "",
+    "hwd": "-educated",
+    "phonetics": "[əd]",
+    "phrase": "",
+    "sense": "comb in adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

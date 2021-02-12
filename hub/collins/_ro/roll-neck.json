@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(毛衣)翻领的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>roll-neck</b> sweater or a <b>roll-necked</b> sweater is a sweater with a high neck that can be rolled over.  \r \r\r\r</span>",
+    "display_hwd": "roll-neck",
+    "ext": "",
+    "hwd": "roll-neck",
+    "phonetics": "英\r[rəulnek]美\r[rolnɛk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">翻领毛衣</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>roll-neck</b> is a roll-neck sweater.  \r \r\r\r</span>",
+    "display_hwd": "roll-neck",
+    "ext": "",
+    "hwd": "roll-neck",
+    "phonetics": "英\r[rəulnek]美\r[rolnɛk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

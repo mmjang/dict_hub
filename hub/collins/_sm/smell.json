@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">气味</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>smell</b> of something is a quality it has which you become aware of when you breathe in through your nose.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">嗅觉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your sense of <b>smell</b> is the ability that your nose has to detect things.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">散发出…气味;有…气味</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>smells</b> in a particular way, it has a quality which you become aware of through your nose.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-link\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">散发异味;气味难闻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>smells</b>, you mean that it smells unpleasant.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">嗅到;闻到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>smell</b> something, you become aware of it when you breathe in through your nose.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用鼻子凑过去)嗅，闻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>smell</b> something, you put your nose near it and breathe in, so that you can discover its smell.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(本能地)预感到，觉察到，嗅出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>smell</b> something, you feel that it is likely to happen or be true.  \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>smell a rat</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://rat\">rat</a></b>; \r \r\r\r</span>",
+    "display_hwd": "smell",
+    "ext": "",
+    "hwd": "smell",
+    "phonetics": "英\r[smel]美\r[smɛl]",
+    "phrase": "",
+    "sense": "★★★☆☆ "
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">阻塞，堵塞（道路）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>obstructs</b> a road or path, it blocks it, stopping people or vehicles getting past.  \r \r\r\r</span>",
+    "display_hwd": "obstruct",
+    "ext": "",
+    "hwd": "obstruct",
+    "phonetics": "英\r[əbˈstrʌkt]美\r[əbˈstrʌkt,ɑb-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阻止，妨碍（通行）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>obstruct</b> someone or something means to make it difficult for them to move forward by blocking their path.  \r \r\r\r</span>",
+    "display_hwd": "obstruct",
+    "ext": "",
+    "hwd": "obstruct",
+    "phonetics": "英\r[əbˈstrʌkt]美\r[əbˈstrʌkt,ɑb-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阻挠，妨碍（进展或进程）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>obstruct</b> progress or a process means to prevent it from happening properly.  \r \r\r\r</span>",
+    "display_hwd": "obstruct",
+    "ext": "",
+    "hwd": "obstruct",
+    "phonetics": "英\r[əbˈstrʌkt]美\r[əbˈstrʌkt,ɑb-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">遮住，挡住（视线）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something <b>obstructs</b> your view, they are positioned between you and the thing you are trying to look at, stopping you from seeing it properly.  \r \r\r\r</span>",
+    "display_hwd": "obstruct",
+    "ext": "",
+    "hwd": "obstruct",
+    "phonetics": "英\r[əbˈstrʌkt]美\r[əbˈstrʌkt,ɑb-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

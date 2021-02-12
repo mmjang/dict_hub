@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">骑(自行车)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>cycle</b>, you ride a bicycle.  \r \r\r\r</span>",
+    "display_hwd": "cycle",
+    "ext": "",
+    "hwd": "cycle",
+    "phonetics": "英\r[ˈsaɪkl]美\r[ˈsaɪkəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自行车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cycle</b> is a bicycle.  \r \r\r\r</span>",
+    "display_hwd": "cycle",
+    "ext": "",
+    "hwd": "cycle",
+    "phonetics": "英\r[ˈsaɪkl]美\r[ˈsaɪkəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">摩托车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cycle</b> is a motorcycle.  \r \r\r\r</span>",
+    "display_hwd": "cycle",
+    "ext": "",
+    "hwd": "cycle",
+    "phonetics": "英\r[ˈsaɪkl]美\r[ˈsaɪkəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">循环；周期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cycle</b> is a series of events or processes that is repeated again and again, always in the same order.  \r \r\r\r</span>",
+    "display_hwd": "cycle",
+    "ext": "",
+    "hwd": "cycle",
+    "phonetics": "英\r[ˈsaɪkl]美\r[ˈsaɪkəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(运转的)一周，一圈;一个工作循环</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cycle</b> is a single complete series of movements in an electrical, electronic, or mechanical process.  \r \r\r\r</span>",
+    "display_hwd": "cycle",
+    "ext": "",
+    "hwd": "cycle",
+    "phonetics": "英\r[ˈsaɪkl]美\r[ˈsaɪkəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">组歌;组诗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cycle</b> is a series of songs or poems that are intended to be performed or read one after the other.  \r \r\r\r</span>",
+    "display_hwd": "cycle",
+    "ext": "",
+    "hwd": "cycle",
+    "phonetics": "英\r[ˈsaɪkl]美\r[ˈsaɪkəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

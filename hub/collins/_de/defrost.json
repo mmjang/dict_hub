@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(冷冻食物)解冻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>defrost</b> frozen food or when it <b>defrosts</b>, you allow or cause it to become unfrozen so that you can eat it or cook it.  \r \r\r\r</span>",
+    "display_hwd": "defrost",
+    "ext": "",
+    "hwd": "defrost",
+    "phonetics": "英\r[ˌdi:ˈfrɒst]美\r[ˌdiˈfrɔst]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(给)(冰箱或冰柜)除霜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>defrost</b> a fridge or freezer, you switch it off or press a special switch so that the ice inside it can melt. You can also say that a fridge or freezer <b>is defrosting</b> .  \r \r\r\r</span>",
+    "display_hwd": "defrost",
+    "ext": "",
+    "hwd": "defrost",
+    "phonetics": "英\r[ˌdi:ˈfrɒst]美\r[ˌdiˈfrɔst]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

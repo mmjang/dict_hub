@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">姐;妹</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://half-sister\">half-sister</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://stepsister\">stepsister</a></b>;\r Your <b>sister</b> is a girl or woman who has the same parents as you.  \r \r\r\r</span>",
+    "display_hwd": "sister",
+    "ext": "",
+    "hwd": "sister",
+    "phonetics": "英\r[ˈsɪstə(r)]美\r[ˈsɪstɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">修女;女教友</span>",
+    "def_en": "<span class=\"endef\"><b>Sister</b> is a title given to a woman who belongs to a religious community.  \r \r\r\r</span>",
+    "display_hwd": "sister",
+    "ext": "",
+    "hwd": "sister",
+    "phonetics": "英\r[ˈsɪstə(r)]美\r[ˈsɪstɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count; n-title; n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">护士长;高级护士</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sister</b> is a senior female nurse who supervises part of a hospital.  \r \r\r\r</span>",
+    "display_hwd": "sister",
+    "ext": "",
+    "hwd": "sister",
+    "phonetics": "英\r[ˈsɪstə(r)]美\r[ˈsɪstɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count; n-title; n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(同一种族、宗教、国家或职业的)姐妹;同道中的女性;志同道合的女士</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can describe a woman as your <b>sister</b> if you feel a connection with her, for example because she belongs to the same race, religion, country, or profession.  \r \r\r\r</span>",
+    "display_hwd": "sister",
+    "ext": "",
+    "hwd": "sister",
+    "phonetics": "英\r[ˈsɪstə(r)]美\r[ˈsɪstɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同类型的;相关联的;如同姐妹的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>sister</b> to describe something that is of the same type or is connected in some way to another thing you have mentioned. For example, if a company has a <b>sister</b> company, they are connected.  \r \r\r\r</span>",
+    "display_hwd": "sister",
+    "ext": "",
+    "hwd": "sister",
+    "phonetics": "英\r[ˈsɪstə(r)]美\r[ˈsɪstɚ]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

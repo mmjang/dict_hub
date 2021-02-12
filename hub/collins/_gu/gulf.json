@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">波斯湾；阿拉伯海湾；海湾地区</span>",
+    "def_en": "<span class=\"endef\"><b>The Gulf</b> is used to refer to the Arabian Gulf, the Persian Gulf and the surrounding countries.  \r \r\r\r</span>",
+    "display_hwd": "Gulf",
+    "ext": "",
+    "hwd": "Gulf",
+    "phonetics": "英\r[gʌlf]美\r[ɡʌlf]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鸿沟；严重分歧；巨大的差距</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>gulf</b> is an important or significant difference between two people, things, or groups.  \r \r\r\r</span>",
+    "display_hwd": "gulf",
+    "ext": "",
+    "hwd": "gulf",
+    "phonetics": "英\r[gʌlf]美\r[ɡʌlf]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">海湾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>gulf</b> is a large area of sea which extends a long way into the surrounding land.  \r \r\r\r</span>",
+    "display_hwd": "gulf",
+    "ext": "",
+    "hwd": "gulf",
+    "phonetics": "英\r[gʌlf]美\r[ɡʌlf]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

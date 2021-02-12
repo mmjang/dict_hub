@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">图表;图片;曲线图</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bar chart\">bar chart</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://flow chart\">flow chart</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://pie chart\">pie chart</a></b>;\r A <b>chart</b> is a diagram, picture, or graph which is intended to make information easier to understand.  \r \r\r\r</span>",
+    "display_hwd": "chart",
+    "ext": "",
+    "hwd": "chart",
+    "phonetics": "英\r[tʃɑ:t]美\r[tʃɑrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">海图;星位图</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chart</b> is a map of the sea or stars.  \r \r\r\r</span>",
+    "display_hwd": "chart",
+    "ext": "",
+    "hwd": "chart",
+    "phonetics": "英\r[tʃɑ:t]美\r[tʃɑrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">绘制…的地图(或海图、星位图)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>chart</b> an area of land, sea, or sky, or a feature in that area, you make a map of the area or show the feature in it.  \r \r\r\r</span>",
+    "display_hwd": "chart",
+    "ext": "",
+    "hwd": "chart",
+    "phonetics": "英\r[tʃɑ:t]美\r[tʃɑrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(唱片销售量的)排行榜</span>",
+    "def_en": "<span class=\"endef\"><b>The charts</b> are the official lists that show which CDs have sold the most copies each week.  \r \r\r\r</span>",
+    "display_hwd": "chart",
+    "ext": "",
+    "hwd": "chart",
+    "phonetics": "英\r[tʃɑ:t]美\r[tʃɑrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">记录，跟踪(进展)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>chart</b> the development or progress of something, you observe it and record or show it. You can also say that a report or graph <b>charts</b> the development or progress of something.  \r \r\r\r</span>",
+    "display_hwd": "chart",
+    "ext": "",
+    "hwd": "chart",
+    "phonetics": "英\r[tʃɑ:t]美\r[tʃɑrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">规定，制订(行动计划)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or plan <b>charts</b> a course of action, they describe what should be done in order to achieve something or to make progress in the future.  \r \r\r\r</span>",
+    "display_hwd": "chart",
+    "ext": "",
+    "hwd": "chart",
+    "phonetics": "英\r[tʃɑ:t]美\r[tʃɑrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

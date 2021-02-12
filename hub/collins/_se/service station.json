@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">加油站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>service station</b> is a place that sells things such as petrol, oil, and spare parts. Service stations often sell food, drink, and other goods.  \r \r\r\r</span>",
+    "display_hwd": "service station",
+    "ext": "",
+    "hwd": "service station",
+    "phonetics": "英\r[ˈsɜːvɪsˈsteiʃən]美\r['sɝvɪsˈsteʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(高速公路旁可加油、购物、用餐的)服务站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>service station</b> is a place beside a motorway where you can buy petrol and other things, or have a meal.  \r \r\r\r</span>",
+    "display_hwd": "service station",
+    "ext": "",
+    "hwd": "service station",
+    "phonetics": "英\r[ˈsɜːvɪsˈsteiʃən]美\r['sɝvɪsˈsteʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

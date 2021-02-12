@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">宅邸;大厦</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mansion</b> is a very large house.  \r \r\r\r</span>",
+    "display_hwd": "mansion",
+    "ext": "",
+    "hwd": "mansion",
+    "phonetics": "英\r[ˈmænʃn]美\r[ˈmænʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（常用于公寓楼的专有名称中）公寓，大厦</span>",
+    "def_en": "<span class=\"endef\"><b>Mansions</b> is often used in the names of blocks of flats.  \r \r\r\r</span>",
+    "display_hwd": "mansion",
+    "ext": "",
+    "hwd": "mansion",
+    "phonetics": "英\r[ˈmænʃn]美\r[ˈmænʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

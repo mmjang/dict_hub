@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">统计数字(或资料)</span>",
+    "def_en": "<span class=\"endef\"><b>Stats</b> are facts which are obtained from analysing information expressed in numbers. <b>Stats</b> is an abbreviation for (缩略=) 'statistics'.  \r \r\r\r</span>",
+    "display_hwd": "stats",
+    "ext": "",
+    "hwd": "stats",
+    "phonetics": "英\r[stæts]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">统计学</span>",
+    "def_en": "<span class=\"endef\"><b>Stats</b> is a branch of mathematics concerned with the study of information that is expressed in numbers.  \r \r\r\r</span>",
+    "display_hwd": "stats",
+    "ext": "",
+    "hwd": "stats",
+    "phonetics": "英\r[stæts]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

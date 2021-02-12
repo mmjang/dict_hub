@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">腰围</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>waistline</b> is your waist measurement.  \r \r\r\r</span>",
+    "display_hwd": "waistline",
+    "ext": "",
+    "hwd": "waistline",
+    "phonetics": "英\r[ˈweɪstlaɪn]美\r[ˈwestˌlaɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(衣服的)腰身</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>waistline</b> of a piece of clothing is the place where the upper and lower parts are sewn together, which is near to your waist when you wear it.  \r \r\r\r</span>",
+    "display_hwd": "waistline",
+    "ext": "",
+    "hwd": "waistline",
+    "phonetics": "英\r[ˈweɪstlaɪn]美\r[ˈwestˌlaɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

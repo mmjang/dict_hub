@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（旅途中在公路旁的）休息，歇脚</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a long journey by road, a <b>rest stop</b> is a short period when you stop and leave your vehicle, for example to eat or go to the toilet.  \r \r\r\r</span>",
+    "display_hwd": "rest stop",
+    "ext": "",
+    "hwd": "rest stop",
+    "phonetics": "英\r[reststɔp]美\r[rɛststɑp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（高速公路旁的）停车区，休息站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rest stop</b> is a place beside a motorway or freeway where you can buy petrol and other things, or have a meal.  \r \r\r\r</span>",
+    "display_hwd": "rest stop",
+    "ext": "",
+    "hwd": "rest stop",
+    "phonetics": "英\r[reststɔp]美\r[rɛststɑp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

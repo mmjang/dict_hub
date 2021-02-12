@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(电路的)开关，闸，转换器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>switch</b> is a small control for an electrical device which you use to turn the device on or off.  \r \r\r\r</span>",
+    "display_hwd": "switch",
+    "ext": "",
+    "hwd": "switch",
+    "phonetics": "英\r[swɪtʃ]美\r[swɪtʃ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转换;改变;转变</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>switch to</b> something different, for example to a different system, task, or subject of conversation, you change to it from what you were doing or saying before.  \r \r\r\r</span>",
+    "display_hwd": "switch",
+    "ext": "",
+    "hwd": "switch",
+    "phonetics": "英\r[swɪtʃ]美\r[swɪtʃ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转移(注意力);(注意力)转变</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>switch</b> your attention from one thing <b>to</b> another or if your attention <b>switches</b>, you stop paying attention to the first thing and start paying attention to the second.  \r \r\r\r</span>",
+    "display_hwd": "switch",
+    "ext": "",
+    "hwd": "switch",
+    "phonetics": "英\r[swɪtʃ]美\r[swɪtʃ]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">交换;调换;对调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>switch</b> two things, you replace one with the other.  \r \r\r\r</span>",
+    "display_hwd": "switch",
+    "ext": "",
+    "hwd": "switch",
+    "phonetics": "英\r[swɪtʃ]美\r[swɪtʃ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

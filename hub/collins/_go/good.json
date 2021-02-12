@@ -1,0 +1,362 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">愉快的；有趣的；令人愉快的</span>",
+    "def_en": "<span class=\"endef\"><b>Good</b> means pleasant or enjoyable.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">好的；高品质的；高水准的</span>",
+    "def_en": "<span class=\"endef\"><b>Good</b> means of a high quality, standard, or level.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">擅长的；精通的；能干的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>good at</b> something, you are skilful and successful at doing it.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有利的；有益的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe a piece of news, an action, or an effect as <b>good</b>, you mean that it is likely to result in benefit or success.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">合情理的；理由充足的；有根据的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>good</b> idea, reason, method, or decision is a sensible or valid one.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">令人满意的；合适的；正确的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>it is good that</b> something should happen or <b>good to</b> do something, you mean it is desirable, acceptable, or right.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">精确的；准确的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>good</b> estimate or indication of something is an accurate one.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">划算的；收益可观的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you get a <b>good</b> deal or a <b>good</b> price when you buy or sell something, you receive a lot in exchange for what you give.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有利的；有益的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>good for</b> a person or organization, it benefits them.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">好处；利益</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is done for <b>the good</b> of a person or organization, it is done in order to benefit them.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">差强人意；低劣；不好</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something is <b>no good</b> or is <b>not any good</b>, they are not satisfactory or are of a low standard.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">没好处；没用处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that doing something is <b>no good</b> or does <b>not</b> do <b>any good</b>, you mean that doing it is not of any use or will not bring any success.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">善行；美德；合乎道德的行为</span>",
+    "def_en": "<span class=\"endef\"><b>Good</b> is what is considered to be right according to moral standards or religious beliefs.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">正直的；高尚的；品行好的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>good</b> is morally correct in their attitudes and behaviour.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指小孩）乖的，恭顺的，有礼貌的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone, especially a child, who is <b>good</b> obeys rules and instructions and behaves in a socially correct way.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">好心的；体贴的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>good</b> is kind and thoughtful.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（心情）愉快的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is in a <b>good</b> mood is cheerful and pleasant to be with.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">亲密的；友好的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people are <b>good</b> friends, they get on well together and are very close.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（身体部位或器官）健全的，强健的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person's <b>good</b> eye, arm, or leg is the one that is healthy and strong, if the other one is injured or weak.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相当的；非常的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>good</b> to emphasize the great extent or degree of something.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">好；很好</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>Good</b>' or '<b>Very good</b>' to express pleasure, satisfaction, or agreement with something that has been said or done, especially when you are in a position of authority.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://best\">best</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://better\">better</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://goods\">goods</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">几乎；差不多</span>",
+    "def_en": "<span class=\"endef\">\r\r\r '<b>As good as</b>' can be used to mean 'almost.'  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为了共同利益</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>for the common good</b>, you do it for the benefit or advantage of everyone.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…有好处（或有帮助）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will <b>do</b> someone <b>good</b>, you mean that it will benefit them or improve them.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">永远；永久</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something changes or disappears <b>for good</b>, it never changes back or comes back as it was before.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（称赞某人）真行，真棒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People say '<b>Good for you</b>' to express approval of your actions.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">善于做；精通于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is good for</b> something, you can rely on them to provide that thing.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">庆幸的是，幸运的是（英国英语中作 it's a good job, that）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>it's a good thing</b>, or in British English <b>it's a good job</b> ,<b>that</b> something is the case, you mean that it is fortunate.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">修复；恢复；偿付；赔偿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>make good</b> some damage, a loss, or a debt, you try to repair the damage, replace what has been lost, or repay the debt.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">兑现，履行（诺言等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>makes good</b> a threat or promise or <b>makes good on</b> it, they do what they have threatened or promised to do.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">获得成功；出名；发迹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>makes good</b>, they become successful, famous, or rich.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指在康复或修复后）同以前一样好</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something or someone is <b>as good as new</b>, you mean that they are in a very good condition or state, especially after they have been damaged or ill.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于人名、地名或事物名前表示喜爱）亲爱的，可爱的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>good old</b> before the name of a person, place, or thing when you are referring to them in an affectionate way.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">优裕的生活；奢华安逸的生活</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is living <b>the good life</b>, you mean that they are living in comfort and luxury with few problems or worries.  \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>be in</b> someone's <b>good books</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://book\">book</a></b>; \rgood deal<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://deal\">deal</a></b>; \rin good faith<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://faith\">faith</a></b>; \rso far so good<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://far\">far</a></b>; \ra good few<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://few\">few</a></b>; \rgood as gold<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://gold\">gold</a></b>; \rgood gracious<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://gracious\">gracious</a></b>; \rgood grief<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://grief\">grief</a></b>; \rgood heavens<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://heaven\">heaven</a></b>; \rfor good or ill<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://ill\">ill</a></b>; \rgood job<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://job\">job</a></b>; \rgood lord<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://lord\">lord</a></b>; \rfor good measure<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://measure\">measure</a></b>; \rthe good old days<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://old\">old</a></b>; \rgood question<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://question\">question</a></b>; \rin good shape<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://shape\">shape</a></b>; \rto stand someone in good stead<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://stead\">stead</a></b>; \rin good time<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://time\">time</a></b>; \rtoo good to be true<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://true\">true</a></b>; \rto be as good as  one's word<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://word\">word</a></b>; \r \r\r\r</span>",
+    "display_hwd": "good",
+    "ext": "",
+    "hwd": "good",
+    "phonetics": "英\r[gʊd]美\r[ɡʊd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

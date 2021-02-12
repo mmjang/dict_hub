@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">临时雇员;临时工</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>temp</b> is a person who is employed by an agency that sends them to work in different offices for short periods of time, for example to replace someone who is ill or on holiday.  \r \r\r\r</span>",
+    "display_hwd": "temp",
+    "ext": "",
+    "hwd": "temp",
+    "phonetics": "英\r[temp]美\r[tɛmp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">当临时雇员;打零工</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is temping</b>, they are working as a temp.  \r \r\r\r</span>",
+    "display_hwd": "temp",
+    "ext": "",
+    "hwd": "temp",
+    "phonetics": "英\r[temp]美\r[tɛmp]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

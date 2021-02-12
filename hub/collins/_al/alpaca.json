@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">羊驼毛</span>",
+    "def_en": "<span class=\"endef\"><b>Alpaca</b> is a type of soft wool.  \r \r\r\r</span>",
+    "display_hwd": "alpaca",
+    "ext": "",
+    "hwd": "alpaca",
+    "phonetics": "英\r[ælˈpækə]美\r[ælˈpækə]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（南美的）羊驼</span>",
+    "def_en": "<span class=\"endef\"><b>Alpacas</b> are South American animals similar to llamas. Their hair is the source of alpaca wool.  \r \r\r\r</span>",
+    "display_hwd": "alpaca",
+    "ext": "",
+    "hwd": "alpaca",
+    "phonetics": "英\r[ælˈpækə]美\r[ælˈpækə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

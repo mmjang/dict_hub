@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">机关枪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scattergun</b> is a gun that fires a lot of small metal balls at the same time.  \r \r\r\r</span>",
+    "display_hwd": "scattergun",
+    "ext": "",
+    "hwd": "scattergun",
+    "phonetics": "英\r[ˈskætəgʌn]美\r[ˈskætərgʌn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 scattershot</span>",
+    "def_en": "<span class=\"endef\"><b>Scattergun</b> means the same as <b>scattershot</b> .  \r \r\r\r</span>",
+    "display_hwd": "scattergun",
+    "ext": "",
+    "hwd": "scattergun",
+    "phonetics": "英\r[ˈskætəgʌn]美\r[ˈskætərgʌn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

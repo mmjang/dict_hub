@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">外卖店;外卖餐馆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>takeout</b> is a store or restaurant which sells hot cooked food that you eat somewhere else.  \r \r\r\r</span>",
+    "display_hwd": "takeout",
+    "ext": "",
+    "hwd": "takeout",
+    "phonetics": "英\r['teɪkaʊt]美\r[ˈtekaʊt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">外卖饭菜;外卖食物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>takeout</b> or <b>takeout</b> food is hot cooked food which you buy from a store or restaurant and eat somewhere else.  \r \r\r\r</span>",
+    "display_hwd": "takeout",
+    "ext": "",
+    "hwd": "takeout",
+    "phonetics": "英\r['teɪkaʊt]美\r[ˈtekaʊt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

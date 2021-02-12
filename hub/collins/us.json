@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">美国</span>",
+    "def_en": "<span class=\"endef\"><b>The US</b> is an abbreviation for (缩略=) <b>the United States</b> .  \r \r\r\r</span>",
+    "display_hwd": "US",
+    "ext": "",
+    "hwd": "US",
+    "phonetics": "英\r[ˌju:ˈes]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">我们</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A speaker or writer uses <b>us</b> to refer both to himself or herself and to one or more other people. You can use <b>us</b> before a noun to make it clear which group of people you are referring to.  \r \r\r\r</span>",
+    "display_hwd": "us",
+    "ext": "",
+    "hwd": "us",
+    "phonetics": "英\r[əs]美\r[ʌs]",
+    "phrase": "",
+    "sense": "★★★★★ pron-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（泛指）人们</span>",
+    "def_en": "<span class=\"endef\"><b>Us</b> is sometimes used to refer to people in general.  \r \r\r\r</span>",
+    "display_hwd": "us",
+    "ext": "",
+    "hwd": "us",
+    "phonetics": "英\r[əs]美\r[ʌs]",
+    "phrase": "",
+    "sense": "★★★★★ pron-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于包含听众或读者）我们</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A speaker or writer may use <b>us</b> instead of 'me' in order to include the audience or reader in what they are saying.  \r \r\r\r</span>",
+    "display_hwd": "us",
+    "ext": "",
+    "hwd": "us",
+    "phonetics": "英\r[əs]美\r[ʌs]",
+    "phrase": "",
+    "sense": "★★★★★ pron-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（不规范用法中代替me）我</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In non-standard English, <b>us</b> is sometimes used instead of 'me'.  \r \r\r\r</span>",
+    "display_hwd": "us",
+    "ext": "",
+    "hwd": "us",
+    "phonetics": "英\r[əs]美\r[ʌs]",
+    "phrase": "",
+    "sense": "★★★★★ pron-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

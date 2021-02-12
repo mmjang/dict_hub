@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">天气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>weather</b> is the condition of the atmosphere in one area at a particular time, for example if it is raining, hot, or windy.  \r \r\r\r</span>",
+    "display_hwd": "weathered",
+    "ext": "",
+    "hwd": "weathered",
+    "phonetics": "英\r['weðəd]美\r[ˈwɛðəd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)风化;(使)褪色;(使)受到侵蚀</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as wood or rock <b>weathers</b> or <b>is weathered</b>, it changes colour or shape as a result of the wind, sun, rain, or cold.  \r \r\r\r</span>",
+    "display_hwd": "weathered",
+    "ext": "",
+    "hwd": "weathered",
+    "phonetics": "英\r['weðəd]美\r[ˈwɛðəd]",
+    "phrase": "",
+    "sense": "★★★★☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">经受住，渡过(难关等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>weather</b> a difficult time or a difficult situation, you survive it and are able to continue normally after it has passed or ended.  \rto <b>weather the storm</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://storm\">storm</a></b>; \r \r\r\r</span>",
+    "display_hwd": "weathered",
+    "ext": "",
+    "hwd": "weathered",
+    "phonetics": "英\r['weðəd]美\r[ˈwɛðəd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">警惕;密切注意；留心观察</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep a weather eye on</b> someone or something, you stay alert so that you will notice if anything unpleasant happens.  \r \r\r\r</span>",
+    "display_hwd": "weathered",
+    "ext": "",
+    "hwd": "weathered",
+    "phonetics": "英\r['weðəd]美\r[ˈwɛðəd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">夸大…的困难；对…小题大做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is making heavy weather of</b> a task, you are critical of them because they are doing it in an inefficient way and are making it seem more difficult than it really is.  \r \r\r\r</span>",
+    "display_hwd": "weathered",
+    "ext": "",
+    "hwd": "weathered",
+    "phonetics": "英\r['weðəd]美\r[ˈwɛðəd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">身体不适;微恙</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you are <b>under the weather</b>, you mean that you feel slightly ill.  \r \r\r\r</span>",
+    "display_hwd": "weathered",
+    "ext": "",
+    "hwd": "weathered",
+    "phonetics": "英\r['weðəd]美\r[ˈwɛðəd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

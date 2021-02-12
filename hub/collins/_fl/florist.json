@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">花店店主;花商</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>florist</b> is a shopkeeper who arranges and sells flowers and sells house plants.  \r \r\r\r</span>",
+    "display_hwd": "florist",
+    "ext": "",
+    "hwd": "florist",
+    "phonetics": "英\r[ˈflɒrɪst]美\r[ˈflɔrɪst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鲜花店;花坊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>florist</b> or a <b>florist's</b> is a shop where flowers and house plants are sold.  \r \r\r\r</span>",
+    "display_hwd": "florist",
+    "ext": "",
+    "hwd": "florist",
+    "phonetics": "英\r[ˈflɒrɪst]美\r[ˈflɔrɪst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

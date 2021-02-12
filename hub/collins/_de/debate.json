@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（各自发表不同观点的）辩论，争论，讨论</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>debate</b> is a discussion about a subject on which people have different views.  \r \r\r\r</span>",
+    "display_hwd": "debate",
+    "ext": "",
+    "hwd": "debate",
+    "phonetics": "英\r[dɪˈbeɪt]美\r[dɪˈbet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(议会或其他机构就某问题在投票前进行的)辩论</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>debate</b> is a formal discussion, for example in a parliament or institution, in which people express different opinions about a particular subject and then vote on it.  \r \r\r\r</span>",
+    "display_hwd": "debate",
+    "ext": "",
+    "hwd": "debate",
+    "phonetics": "英\r[dɪˈbeɪt]美\r[dɪˈbet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与…）辩论，争论，讨论</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people <b>debate</b> a topic, they discuss it fairly formally, putting forward different views. You can also say that one person <b>debates</b> a topic <b>with</b> another person.  \r \r\r\r</span>",
+    "display_hwd": "debate",
+    "ext": "",
+    "hwd": "debate",
+    "phonetics": "英\r[dɪˈbeɪt]美\r[dɪˈbet]",
+    "phrase": "",
+    "sense": "★★★★☆ v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">考虑;盘算;权衡</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>debate</b> whether to do something or what to do, you think or talk about possible courses of action before deciding exactly what you are going to do.  \r \r\r\r</span>",
+    "display_hwd": "debate",
+    "ext": "",
+    "hwd": "debate",
+    "phonetics": "英\r[dɪˈbeɪt]美\r[dɪˈbet]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">存在争论的;有待讨论的;未确定的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a matter is <b>open to debate</b>, you mean that people have different opinions about it, or it has not yet been firmly decided.  \r \r\r\r</span>",
+    "display_hwd": "debate",
+    "ext": "",
+    "hwd": "debate",
+    "phonetics": "英\r[dɪˈbeɪt]美\r[dɪˈbet]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

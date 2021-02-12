@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">固件(由于经常使用而储存在芯片上的一组指令)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computer systems, <b>firmware</b> is a set of commands which are stored on a chip rather than as part of a program, because the computer uses them very often.  \r \r\r\r</span>",
+    "display_hwd": "firmware",
+    "ext": "",
+    "hwd": "firmware",
+    "phonetics": "英\r[ˈfɜ:mweə(r)]美\r[ˈfɜrmwer]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

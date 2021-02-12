@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">空中交通管制</span>",
+    "def_en": "<span class=\"endef\"><b>Air traffic control</b> is the activity of organizing the routes that aircraft should follow, and telling pilots by radio which routes they should take.  \r \r\r\r</span>",
+    "display_hwd": "air traffic control",
+    "ext": "",
+    "hwd": "air traffic control",
+    "phonetics": "英\r[eə(r)ˈtræfikkənˈtrəul]美\r[erˈtræfɪkkənˈtrol]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">空中交通管制人员</span>",
+    "def_en": "<span class=\"endef\"><b>Air traffic control</b> is the group of people who organize the routes aircraft take.  \r \r\r\r</span>",
+    "display_hwd": "air traffic control",
+    "ext": "",
+    "hwd": "air traffic control",
+    "phonetics": "英\r[eə(r)ˈtræfikkənˈtrəul]美\r[erˈtræfɪkkənˈtrol]",
+    "phrase": "",
+    "sense": "n-uncount-coll\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

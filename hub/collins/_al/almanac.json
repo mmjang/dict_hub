@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">历书;年历</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>almanac</b> is a book published every year which contains information about the movements of the planets, the changes of the moon and the tides, and the dates of important anniversaries.  \r \r\r\r</span>",
+    "display_hwd": "almanac",
+    "ext": "",
+    "hwd": "almanac",
+    "phonetics": "英\r[ˈɔ:lmənæk]美\r[ˈɔlməˌnæk,ˈæl-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">年鉴</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>almanac</b> is a book published every year which contains information about events connected with a particular subject or activity, and facts and statistics about that activity.  \r \r\r\r</span>",
+    "display_hwd": "almanac",
+    "ext": "",
+    "hwd": "almanac",
+    "phonetics": "英\r[ˈɔ:lmənæk]美\r[ˈɔlməˌnæk,ˈæl-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

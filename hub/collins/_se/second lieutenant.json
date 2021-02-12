@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">陆军少尉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>second lieutenant</b> is an officer in the army who ranks directly below a lieutenant.  \r \r\r\r</span>",
+    "display_hwd": "second lieutenant",
+    "ext": "",
+    "hwd": "second lieutenant",
+    "phonetics": "英\r[ˈsekəndlefˈtenənt]美\r[ˈsɛkəndluˈtɛnənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(陆军、空军或海军的)少尉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>second lieutenant</b> is an officer in the army, air force, or marines who ranks directly below a first lieutenant.  \r \r\r\r</span>",
+    "display_hwd": "second lieutenant",
+    "ext": "",
+    "hwd": "second lieutenant",
+    "phonetics": "英\r[ˈsekəndlefˈtenənt]美\r[ˈsɛkəndluˈtɛnənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

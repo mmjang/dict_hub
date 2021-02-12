@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">公告栏；布告牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bulletin board</b> is a board which is usually attached to a wall in order to display notices giving information about something.  \r \r\r\r</span>",
+    "display_hwd": "bulletin board",
+    "ext": "",
+    "hwd": "bulletin board",
+    "phonetics": "英\r[ˈbulitinbɔ:d]美\r[ˈbʊlɪtnbɔrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电子布告栏；电子公告系统</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, a <b>bulletin board</b> is a system that enables users to send and receive messages of general interest.  \r \r\r\r</span>",
+    "display_hwd": "bulletin board",
+    "ext": "",
+    "hwd": "bulletin board",
+    "phonetics": "英\r[ˈbulitinbɔ:d]美\r[ˈbʊlɪtnbɔrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

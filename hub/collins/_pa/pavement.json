@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">人行道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pavement</b> is a path with a hard surface, usually by the side of a road.  \r \r\r\r</span>",
+    "display_hwd": "pavement",
+    "ext": "",
+    "hwd": "pavement",
+    "phonetics": "英\r[ˈpeɪvmənt]美\r[ˈpevmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（硬化）路面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>pavement</b> is the hard surface of a road.  \r \r\r\r</span>",
+    "display_hwd": "pavement",
+    "ext": "",
+    "hwd": "pavement",
+    "phonetics": "英\r[ˈpeɪvmənt]美\r[ˈpevmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

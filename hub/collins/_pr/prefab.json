@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">预制装备式房屋</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>prefab</b> is a house built with parts which have been made in a factory and then quickly put together at the place where the house was built.  \r \r\r\r</span>",
+    "display_hwd": "prefab",
+    "ext": "",
+    "hwd": "prefab",
+    "phonetics": "英\r[ˈpri:fæb]美\r[ˈpriˌfæb]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（建筑、结构）预制的，组装的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>prefab</b> building or structure is one that has been made from parts which were made in a factory and then quickly put together at the place where the structure was built.  \r \r\r\r</span>",
+    "display_hwd": "prefab",
+    "ext": "",
+    "hwd": "prefab",
+    "phonetics": "英\r[ˈpri:fæb]美\r[ˈpriˌfæb]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(长途旅程中暂时停留休息的）小站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>way station</b> is a place where people stop to eat and rest when they are on a long journey.  \r \r\r\r</span>",
+    "display_hwd": "way station",
+    "ext": "",
+    "hwd": "way station",
+    "phonetics": "英\r[weiˈsteiʃən]美\r[weˈsteʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(铁路上大站之间的)小站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>way station</b> is a small station between two large stations on a railway.  \r \r\r\r</span>",
+    "display_hwd": "way station",
+    "ext": "",
+    "hwd": "way station",
+    "phonetics": "英\r[weiˈsteiʃən]美\r[weˈsteʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

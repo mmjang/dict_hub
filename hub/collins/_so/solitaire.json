@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">单人跳棋(独自一人玩的一种游戏，玩者移动盘上棋子的位置，直至最后剩下一枚棋子为止)</span>",
+    "def_en": "<span class=\"endef\"><b>Solitaire</b> is a game for one person in which you move and remove objects on a board, with the aim of having one object left at the end of the game.  \r \r\r\r</span>",
+    "display_hwd": "solitaire",
+    "ext": "",
+    "hwd": "solitaire",
+    "phonetics": "英\r[ˌsɒlɪˈteə(r)]美\r[ˈsɑləter]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">接龙(一种单人纸牌戏)</span>",
+    "def_en": "<span class=\"endef\"><b>Solitaire</b> is a card game for only one player.  \r \r\r\r</span>",
+    "display_hwd": "solitaire",
+    "ext": "",
+    "hwd": "solitaire",
+    "phonetics": "英\r[ˌsɒlɪˈteə(r)]美\r[ˈsɑləter]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(镶嵌于戒指或其他珠宝饰物上的)独粒钻石，独粒宝石</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>solitaire</b> is a diamond or other jewel that is set on its own in a ring or other piece of jewellery.  \r \r\r\r</span>",
+    "display_hwd": "solitaire",
+    "ext": "",
+    "hwd": "solitaire",
+    "phonetics": "英\r[ˌsɒlɪˈteə(r)]美\r[ˈsɑləter]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

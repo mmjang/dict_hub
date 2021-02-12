@@ -1,5 +1,6 @@
 const fs = require("fs");
 const forms = require("./forms.json");
+const collins = require("./collins.json");
 
 function createIfExist(dir) {
   if (!fs.existsSync(dir)) {
@@ -41,3 +42,43 @@ for (let [f, v] of map) {
     fs.writeFileSync("../hub/forms/" + f + ".json", JSON.stringify(v));
   }
 }
+
+fs.writeFileSync(
+  "../hub/forms.list.json",
+  JSON.stringify(Array.from(map.keys()))
+);
+
+let map2 = new Map();
+
+for (let c of collins) {
+  const key = c.hwd.toLowerCase();
+  if (map2.has(key)) {
+    const old = map2.get(key);
+    map2.set(key, [...old, c]);
+  } else {
+    map2.set(key, [c]);
+  }
+}
+
+for (let [f, v] of map2) {
+  try {
+    if (f.length > 2) {
+      const dir = f.slice(0, 2);
+      createIfExist("../hub/collins/_" + dir);
+      fs.writeFileSync(
+        "../hub/collins/_" + dir + "/" + f + ".json",
+        JSON.stringify(v, null, 2)
+      );
+    } else {
+      fs.writeFileSync(
+        "../hub/collins/" + f + ".json",
+        JSON.stringify(v, null, 2)
+      );
+    }
+  } catch {}
+}
+
+fs.writeFileSync(
+  "../hub/collins.list.json",
+  JSON.stringify(Array.from(map2.keys()))
+);

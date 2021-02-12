@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">玩具</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://soft toy\">soft toy</a></b>;\r A <b>toy</b> is an object that children play with, for example a doll or a model car.  \r \r\r\r</span>",
+    "display_hwd": "toy",
+    "ext": "",
+    "hwd": "toy",
+    "phonetics": "英\r[tɔɪ]美\r[tɔɪ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">消遣物;小玩意儿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to objects that adults use for fun rather than for a serious purpose as <b>toys</b> .  \r \r\r\r</span>",
+    "display_hwd": "toy",
+    "ext": "",
+    "hwd": "toy",
+    "phonetics": "英\r[tɔɪ]美\r[tɔɪ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

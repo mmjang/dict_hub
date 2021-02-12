@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">志愿者;义务工作者;义工</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>volunteer</b> is someone who does work without being paid for it, because they want to do it.  \r \r\r\r</span>",
+    "display_hwd": "volunteer",
+    "ext": "",
+    "hwd": "volunteer",
+    "phonetics": "英\r[ˌvɒlənˈtɪə(r)]美\r[ˌvɑlənˈtɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自告奋勇者;主动做事者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>volunteer</b> is someone who offers to do a particular task or job without being forced to do it.  \r \r\r\r</span>",
+    "display_hwd": "volunteer",
+    "ext": "",
+    "hwd": "volunteer",
+    "phonetics": "英\r[ˌvɒlənˈtɪə(r)]美\r[ˌvɑlənˈtɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自告奋勇;主动要求</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>volunteer to</b> do something, you offer to do it without being forced to do it.  \r \r\r\r</span>",
+    "display_hwd": "volunteer",
+    "ext": "",
+    "hwd": "volunteer",
+    "phonetics": "英\r[ˌvɒlənˈtɪə(r)]美\r[ˌvɑlənˈtɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">主动提供（信息）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>volunteer</b> information, you tell someone something without being asked.  \r \r\r\r</span>",
+    "display_hwd": "volunteer",
+    "ext": "",
+    "hwd": "volunteer",
+    "phonetics": "英\r[ˌvɒlənˈtɪə(r)]美\r[ˌvɑlənˈtɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">志愿兵;义勇军</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>volunteer</b> is someone who chooses to join the armed forces, especially during a war, as opposed to someone who is forced to join by law.  \r \r\r\r</span>",
+    "display_hwd": "volunteer",
+    "ext": "",
+    "hwd": "volunteer",
+    "phonetics": "英\r[ˌvɒlənˈtɪə(r)]美\r[ˌvɑlənˈtɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

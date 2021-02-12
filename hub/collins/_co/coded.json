@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">译成密码(或代码)的</span>",
+    "def_en": "<span class=\"endef\"><b>Coded</b> messages have words or symbols which represent other words, so that the message is secret unless you know the system behind the code.  \r \r\r\r</span>",
+    "display_hwd": "coded",
+    "ext": "",
+    "hwd": "coded",
+    "phonetics": "英\r[ˈkəʊdɪd]美\r[ˈkoʊdɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通常指为避免冒犯别人)表达含蓄的，间接的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is using <b>coded</b> language, they are expressing their opinion in an indirect way, usually because that opinion is likely to offend people.  \r \r\r\r</span>",
+    "display_hwd": "coded",
+    "ext": "",
+    "hwd": "coded",
+    "phonetics": "英\r[ˈkəʊdɪd]美\r[ˈkoʊdɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电子信号)二进制编码的</span>",
+    "def_en": "<span class=\"endef\"><b>Coded</b> electronic signals use a binary system of digits which can be decoded by an appropriate machine.  \r \r\r\r</span>",
+    "display_hwd": "coded",
+    "ext": "",
+    "hwd": "coded",
+    "phonetics": "英\r[ˈkəʊdɪd]美\r[ˈkoʊdɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

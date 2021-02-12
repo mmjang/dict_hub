@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">水果;果实</span>",
+    "def_en": "<span class=\"endef\"><b>Fruit</b> or a <b>fruit</b> is something which grows on a tree or bush and which contains seeds or a stone covered by a substance that you can eat.  \r \r\r\r</span>",
+    "display_hwd": "fruit",
+    "ext": "",
+    "hwd": "fruit",
+    "phonetics": "英\r[fru:t]美\r[frut]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结果实</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a plant <b>fruits</b>, it produces fruit.  \r \r\r\r</span>",
+    "display_hwd": "fruit",
+    "ext": "",
+    "hwd": "fruit",
+    "phonetics": "英\r[fru:t]美\r[frut]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">成果;硕果</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://dried fruit\">dried fruit</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://forbidden fruit\">forbidden fruit</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://kiwi fruit\">kiwi fruit</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://passion fruit\">passion fruit</a></b>;\r <b>The</b> <b>fruits</b> or <b>the</b> <b>fruit</b> <b>of</b> someone's work or activity are the good things that result from it.  \r \r\r\r</span>",
+    "display_hwd": "fruit",
+    "ext": "",
+    "hwd": "fruit",
+    "phonetics": "英\r[fru:t]美\r[frut]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">取得成果;奏效;产生好的结果</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If the effort that you put into something or a particular way of doing something <b>bears fruit</b>, it is successful and produces good results.  \r \r\r\r</span>",
+    "display_hwd": "fruit",
+    "ext": "",
+    "hwd": "fruit",
+    "phonetics": "英\r[fru:t]美\r[frut]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(项目或活动的)初步成果，最初成效</span>",
+    "def_en": "<span class=\"endef\"><b>The first fruits</b> or <b>the first fruit</b> of a project or activity are its earliest results or profits.  \r \r\r\r</span>",
+    "display_hwd": "fruit",
+    "ext": "",
+    "hwd": "fruit",
+    "phonetics": "英\r[fru:t]美\r[frut]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

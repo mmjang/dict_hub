@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">用跨接引线发动（汽车）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>jump-start</b> a vehicle which has a flat battery means to make the engine start by getting power from the battery of another vehicle, using special cables called jump leads.  \r \r\r\r</span>",
+    "display_hwd": "jump-start",
+    "ext": "",
+    "hwd": "jump-start",
+    "phonetics": "英\r[ˈdʒʌmpstɑ:t]美\r[ˈdʒʌmpˌstɑrt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">推动（已停顿的系统或进程）；使重新快速运转</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>jump-start</b> a system or process that has stopped working or progressing means to do something that will make it start working quickly or effectively.  \r \r\r\r</span>",
+    "display_hwd": "jump-start",
+    "ext": "",
+    "hwd": "jump-start",
+    "phonetics": "英\r[ˈdʒʌmpstɑ:t]美\r[ˈdʒʌmpˌstɑrt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

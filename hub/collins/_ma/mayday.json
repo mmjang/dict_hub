@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(飞机或船只遇险时发出的)无线电呼救信号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone in a plane or ship sends out a <b>Mayday</b> or a <b>Mayday</b> message, they send out a radio message calling for help because they are in serious difficulty.  \r \r\r\r</span>",
+    "display_hwd": "Mayday",
+    "ext": "",
+    "hwd": "Mayday",
+    "phonetics": "英\r[ˈmeɪdeɪ]美\r[ˈmeˌde]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（无线电求救信号中的求救内容）“求救！求救！”</span>",
+    "def_en": "<span class=\"endef\">\r\r\r '<b>Mayday! Mayday!</b>' is the phrase that is used in Mayday messages to indicate that help is needed.  \r \r\r\r</span>",
+    "display_hwd": "Mayday",
+    "ext": "",
+    "hwd": "Mayday",
+    "phonetics": "英\r[ˈmeɪdeɪ]美\r[ˈmeˌde]",
+    "phrase": "",
+    "sense": "convention\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

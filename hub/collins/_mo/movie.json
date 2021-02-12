@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电影;影片</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>movie</b> is a film.  \r \r\r\r</span>",
+    "display_hwd": "movie",
+    "ext": "",
+    "hwd": "movie",
+    "phonetics": "英\r[ˈmu:vi]美\r[ˈmuvi]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">看电影</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can talk about <b>the movies</b> when you are talking about seeing a movie in a movie theater.  \r \r\r\r</span>",
+    "display_hwd": "movie",
+    "ext": "",
+    "hwd": "movie",
+    "phonetics": "英\r[ˈmu:vi]美\r[ˈmuvi]",
+    "phrase": "",
+    "sense": "★★★★☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

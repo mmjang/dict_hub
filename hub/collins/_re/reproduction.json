@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">复制品;仿制品</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://reproduce\">reproduce</a></b>;\r A <b>reproduction</b> is a copy of something such as a piece of furniture or a work of art.  \r \r\r\r</span>",
+    "display_hwd": "reproduction",
+    "ext": "",
+    "hwd": "reproduction",
+    "phonetics": "英\r[ˌri:prəˈdʌkʃn]美\r[ˌriprəˈdʌkʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(声音的)录制</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Sound <b>reproduction</b> is the recording of sound onto tapes, CDs, or films so that it can be heard by a large number of people.  \r \r\r\r</span>",
+    "display_hwd": "reproduction",
+    "ext": "",
+    "hwd": "reproduction",
+    "phonetics": "英\r[ˌri:prəˈdʌkʃn]美\r[ˌriprəˈdʌkʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

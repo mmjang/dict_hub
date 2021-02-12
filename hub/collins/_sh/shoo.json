@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(挥手)赶走</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>shoo</b> an animal or a person <b>away</b>, you make them go away by waving your hands or arms at them.  \r \r\r\r</span>",
+    "display_hwd": "shoo",
+    "ext": "",
+    "hwd": "shoo",
+    "phonetics": "英\r[ʃu:]美\r[ʃu]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(赶动物走的声音)嘘！去！走！</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>shoo!</b>' to an animal when you want it to go away.  \r \r\r\r</span>",
+    "display_hwd": "shoo",
+    "ext": "",
+    "hwd": "shoo",
+    "phonetics": "英\r[ʃu:]美\r[ʃu]",
+    "phrase": "",
+    "sense": "exclam\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">羊毛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A sheep's <b>fleece</b> is the coat of wool that covers it.  \r \r\r\r</span>",
+    "display_hwd": "fleece",
+    "ext": "",
+    "hwd": "fleece",
+    "phonetics": "英\r[fli:s]美\r[flis]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一只羊一次剪下的羊毛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fleece</b> is the wool that is cut off one sheep in a single piece.  \r \r\r\r</span>",
+    "display_hwd": "fleece",
+    "ext": "",
+    "hwd": "fleece",
+    "phonetics": "英\r[fli:s]美\r[flis]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">欺诈;诈骗;敲诈</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>fleece</b> someone, you get a lot of money from them by tricking them or charging them too much.  \r \r\r\r</span>",
+    "display_hwd": "fleece",
+    "ext": "",
+    "hwd": "fleece",
+    "phonetics": "英\r[fli:s]美\r[flis]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">绒头织物;绒头织物服装</span>",
+    "def_en": "<span class=\"endef\"><b>Fleece</b> is a soft warm artificial fabric. A <b>fleece</b> is also a jacket or other garment made from this fabric.  \r \r\r\r</span>",
+    "display_hwd": "fleece",
+    "ext": "",
+    "hwd": "fleece",
+    "phonetics": "英\r[fli:s]美\r[flis]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

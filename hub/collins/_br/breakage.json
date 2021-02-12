@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">破损；毁坏</span>",
+    "def_en": "<span class=\"endef\"><b>Breakage</b> is the act of breaking something.  \r \r\r\r</span>",
+    "display_hwd": "breakage",
+    "ext": "",
+    "hwd": "breakage",
+    "phonetics": "英\r[ˈbreɪkɪdʒ]美\r[ˈbrekɪdʒ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">破损物品</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>breakage</b> is something that has been broken.  \r \r\r\r</span>",
+    "display_hwd": "breakage",
+    "ext": "",
+    "hwd": "breakage",
+    "phonetics": "英\r[ˈbreɪkɪdʒ]美\r[ˈbrekɪdʒ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

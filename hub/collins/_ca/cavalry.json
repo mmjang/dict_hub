@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">装甲部队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>cavalry</b> is the part of an army that uses armoured vehicles for fighting.  \r \r\r\r</span>",
+    "display_hwd": "cavalry",
+    "ext": "",
+    "hwd": "cavalry",
+    "phonetics": "英\r[ˈkævlri]美\r[ˈkævəlri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">骑兵</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>cavalry</b> is the group of soldiers in an army who ride horses.  \r \r\r\r</span>",
+    "display_hwd": "cavalry",
+    "ext": "",
+    "hwd": "cavalry",
+    "phonetics": "英\r[ˈkævlri]美\r[ˈkævəlri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

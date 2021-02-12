@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（表示国籍的）舰旗，商船旗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ensign</b> is a flag flown on a ship to show what country the ship belongs to.  \r \r\r\r</span>",
+    "display_hwd": "ensign",
+    "ext": "",
+    "hwd": "ensign",
+    "phonetics": "英\r[ˈensən]美\r[ˈɛnsən,-ˌsaɪn]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国的）海军少尉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ensign</b> is a junior officer in the United States Navy.  \r \r\r\r</span>",
+    "display_hwd": "ensign",
+    "ext": "",
+    "hwd": "ensign",
+    "phonetics": "英\r[ˈensən]美\r[ˈɛnsən,-ˌsaɪn]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count; n-title\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

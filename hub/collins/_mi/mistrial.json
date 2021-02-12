@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">无效审判(指由于没有考虑到所有证据等原因造成审判不公正，所以必须重新审判)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mistrial</b> is a legal trial that is conducted unfairly, for example because not all the evidence is considered, so that there must be a new trial.  \r \r\r\r</span>",
+    "display_hwd": "mistrial",
+    "ext": "",
+    "hwd": "mistrial",
+    "phonetics": "英\r[ˌmɪsˈtraɪəl]美\r[mɪsˈtraɪəl,-ˈtraɪl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(由于陪审团意见不一致等而产生的)未决审判，失审</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mistrial</b> is a legal trial which ends without a verdict, for example because the jury cannot agree on one.  \r \r\r\r</span>",
+    "display_hwd": "mistrial",
+    "ext": "",
+    "hwd": "mistrial",
+    "phonetics": "英\r[ˌmɪsˈtraɪəl]美\r[mɪsˈtraɪəl,-ˈtraɪl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">手电筒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>torch</b> is a small electric light which is powered by batteries and which you can carry in your hand.  \r \r\r\r</span>",
+    "display_hwd": "torch",
+    "ext": "",
+    "hwd": "torch",
+    "phonetics": "英\r[tɔ:tʃ]美\r[tɔrtʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">火把;火炬</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>torch</b> is a long stick with burning material at one end, used to provide light or to set things on fire.  \r \r\r\r</span>",
+    "display_hwd": "torch",
+    "ext": "",
+    "hwd": "torch",
+    "phonetics": "英\r[tɔ:tʃ]美\r[tɔrtʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吹管;喷灯;氧乙炔炬</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://blowtorch\">blowtorch</a></b>;\r A <b>torch</b> is a device that produces a hot flame and is used for tasks such as cutting or joining pieces of metal.  \r \r\r\r</span>",
+    "display_hwd": "torch",
+    "ext": "",
+    "hwd": "torch",
+    "phonetics": "英\r[tɔ:tʃ]美\r[tɔrtʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">纵火焚烧;放火烧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>torches</b> a building or vehicle, they set fire to it deliberately.  \r \r\r\r</span>",
+    "display_hwd": "torch",
+    "ext": "",
+    "hwd": "torch",
+    "phonetics": "英\r[tɔ:tʃ]美\r[tɔrtʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">暗恋;对…单相思</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is carrying a torch for</b> someone else, you mean that they secretly admire them or love them.  \r \r\r\r</span>",
+    "display_hwd": "torch",
+    "ext": "",
+    "hwd": "torch",
+    "phonetics": "英\r[tɔ:tʃ]美\r[tɔrtʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(为…)奋战;(为…)奋斗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>carrying the torch</b> of a particular belief or movement, you mean that they are working hard to ensure that it is not forgotten and continues to grow stronger.  \r \r\r\r</span>",
+    "display_hwd": "torch",
+    "ext": "",
+    "hwd": "torch",
+    "phonetics": "英\r[tɔ:tʃ]美\r[tɔrtʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

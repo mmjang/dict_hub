@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">喜欢;爱慕;忠诚</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have an <b>attachment to</b> someone or something, you are fond of them or loyal to them.  \r \r\r\r</span>",
+    "display_hwd": "attachment",
+    "ext": "",
+    "hwd": "attachment",
+    "phonetics": "英\r[əˈtætʃmənt]美\r[əˈtætʃmənt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（机器的）附件，附加装置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>attachment</b> is a device that can be fixed onto a machine in order to enable it to do different jobs.  \r \r\r\r</span>",
+    "display_hwd": "attachment",
+    "ext": "",
+    "hwd": "attachment",
+    "phonetics": "英\r[əˈtætʃmənt]美\r[əˈtætʃmənt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（临时的）隶属，委派</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>on attachment to</b> another company, department, or place, they are working there temporarily.  \r \r\r\r</span>",
+    "display_hwd": "attachment",
+    "ext": "",
+    "hwd": "attachment",
+    "phonetics": "英\r[əˈtætʃmənt]美\r[əˈtætʃmənt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（文件）附件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>attachment</b> is an extra document that is added to another document.  \r \r\r\r</span>",
+    "display_hwd": "attachment",
+    "ext": "",
+    "hwd": "attachment",
+    "phonetics": "英\r[əˈtætʃmənt]美\r[əˈtætʃmənt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（邮件）附件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, an <b>attachment</b> is a file which is attached separately to a message that you send to someone.  \r \r\r\r</span>",
+    "display_hwd": "attachment",
+    "ext": "",
+    "hwd": "attachment",
+    "phonetics": "英\r[əˈtætʃmənt]美\r[əˈtætʃmənt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

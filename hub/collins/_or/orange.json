@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">橙色；橙黄色</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>orange</b> is of a colour between red and yellow.  \r \r\r\r</span>",
+    "display_hwd": "orange",
+    "ext": "",
+    "hwd": "orange",
+    "phonetics": "英\r[ˈɒrɪndʒ]美\r[ˈɔrɪndʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ colour\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">橙；甜橙</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>orange</b> is a round juicy fruit with a thick, orange coloured skin.  \r \r\r\r</span>",
+    "display_hwd": "orange",
+    "ext": "",
+    "hwd": "orange",
+    "phonetics": "英\r[ˈɒrɪndʒ]美\r[ˈɔrɪndʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">橙汁；橘子水</span>",
+    "def_en": "<span class=\"endef\"><b>Orange</b> is a drink that is made from or tastes of oranges.  \r \r\r\r</span>",
+    "display_hwd": "orange",
+    "ext": "",
+    "hwd": "orange",
+    "phonetics": "英\r[ˈɒrɪndʒ]美\r[ˈɔrɪndʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

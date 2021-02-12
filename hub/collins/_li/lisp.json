@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">咬舌（指将s和z读作th，如把sing念作thing等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone has <b>a lisp</b>, they pronounce the sounds 's' and 'z' as if they were 'th'. For example, they say 'thing' instead of 'sing'.  \r \r\r\r</span>",
+    "display_hwd": "lisp",
+    "ext": "",
+    "hwd": "lisp",
+    "phonetics": "英\r[lɪsp]美\r[lɪsp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">咬着舌说；口齿不清地说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>lisps</b>, they say something with a lisp or speak with a lisp.  \r \r\r\r</span>",
+    "display_hwd": "lisp",
+    "ext": "",
+    "hwd": "lisp",
+    "phonetics": "英\r[lɪsp]美\r[lɪsp]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

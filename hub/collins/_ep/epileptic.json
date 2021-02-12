@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">癫痫的;患有癫痫的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>epileptic</b> suffers from epilepsy.  \r \r\r\r</span>",
+    "display_hwd": "epileptic",
+    "ext": "",
+    "hwd": "epileptic",
+    "phonetics": "英\r[ˌepɪ'leptɪk]美\r[ˌepɪ'leptɪk]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">由癫痫引发的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>epileptic</b> fit is caused by epilepsy.  \r \r\r\r</span>",
+    "display_hwd": "epileptic",
+    "ext": "",
+    "hwd": "epileptic",
+    "phonetics": "英\r[ˌepɪ'leptɪk]美\r[ˌepɪ'leptɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

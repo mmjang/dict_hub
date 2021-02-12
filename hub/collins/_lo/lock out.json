@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">把…关在门外</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>locks</b> you <b>out</b> of a place, they prevent you entering it by locking the doors.  \r \r\r\r</span>",
+    "display_hwd": "lock out",
+    "ext": "",
+    "hwd": "lock out",
+    "phonetics": "英\r[lɔkaut]美\r[lɑkaʊt]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">反锁（自己）在外</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>lock</b> yourself <b>out</b> of a place, such as your house, you cannot get in because the door is locked and you do not have your keys.  \r \r\r\r</span>",
+    "display_hwd": "lock out",
+    "ext": "",
+    "hwd": "lock out",
+    "phonetics": "英\r[lɔkaut]美\r[lɑkaʊt]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（在劳资纠纷中公司）不准（工人）进入工作场所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In an industrial dispute, if a company <b>locks</b> its workers <b>out</b>, it closes the factory or office in order to prevent the employees coming to work.  \r \r\r\r</span>",
+    "display_hwd": "lock out",
+    "ext": "",
+    "hwd": "lock out",
+    "phonetics": "英\r[lɔkaut]美\r[lɑkaʊt]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

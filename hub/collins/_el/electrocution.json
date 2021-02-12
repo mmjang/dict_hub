@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">使触电身亡;用电击伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is electrocuted</b>, they are accidentally killed or badly injured when they touch something connected to a source of electricity.  \r \r\r\r</span>",
+    "display_hwd": "electrocution",
+    "ext": "",
+    "hwd": "electrocution",
+    "phonetics": "英\r[ɪˌlektrə'kju:ʃn]美\r[ɪˌlektrə'kjuʃn]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用电刑处死（罪犯）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a criminal <b>is electrocuted</b>, he or she is executed using electricity.  \r \r\r\r</span>",
+    "display_hwd": "electrocution",
+    "ext": "",
+    "hwd": "electrocution",
+    "phonetics": "英\r[ɪˌlektrə'kju:ʃn]美\r[ɪˌlektrə'kjuʃn]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">发热;发烧</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hay fever\">hay fever</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://rheumatic fever\">rheumatic fever</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://scarlet fever\">scarlet fever</a></b>;\r If you have a <b>fever</b> when you are ill, your body temperature is higher than usual and your heart beats faster.  \r \r\r\r</span>",
+    "display_hwd": "fever",
+    "ext": "",
+    "hwd": "fever",
+    "phonetics": "英\r[ˈfi:və(r)]美\r[ˈfivɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">亢奋;极度兴奋</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fever</b> is extreme excitement or nervousness about something.  \r \r\r\r</span>",
+    "display_hwd": "fever",
+    "ext": "",
+    "hwd": "fever",
+    "phonetics": "英\r[ˈfi:və(r)]美\r[ˈfivɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

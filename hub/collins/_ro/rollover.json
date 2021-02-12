@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（彩票奖金的）累积，顺延，滚动增加</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a lottery draw, a <b>rollover</b> is a prize that includes the prize money from the previous draw, because nobody won it.  \r \r\r\r</span>",
+    "display_hwd": "rollover",
+    "ext": "",
+    "hwd": "rollover",
+    "phonetics": "英\r[ˈrəʊləʊvə(r)]美\r[ˈroʊloʊvər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（贷款等的）延期，展期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In finance, a <b>rollover</b> is when a loan or other financial arrangement is extended.  \r \r\r\r</span>",
+    "display_hwd": "rollover",
+    "ext": "",
+    "hwd": "rollover",
+    "phonetics": "英\r[ˈrəʊləʊvə(r)]美\r[ˈroʊloʊvər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">翻车;翻船;倾翻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rollover</b> is an incident where a vehicle or boat turns over completely, usually finishing the right way up.  \r \r\r\r</span>",
+    "display_hwd": "rollover",
+    "ext": "",
+    "hwd": "rollover",
+    "phonetics": "英\r[ˈrəʊləʊvə(r)]美\r[ˈroʊloʊvər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

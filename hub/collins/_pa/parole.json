@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">假释</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a prisoner is given <b>parole</b>, he or she is released before the official end of their prison sentence and has to promise to behave well.  \r \r\r\r</span>",
+    "display_hwd": "parole",
+    "ext": "",
+    "hwd": "parole",
+    "phonetics": "英\r[pəˈrəʊl]美\r[pəˈroʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">假释（囚犯）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a prisoner <b>is paroled</b>, he or she is given parole.  \r \r\r\r</span>",
+    "display_hwd": "parole",
+    "ext": "",
+    "hwd": "parole",
+    "phonetics": "英\r[pəˈrəʊl]美\r[pəˈroʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

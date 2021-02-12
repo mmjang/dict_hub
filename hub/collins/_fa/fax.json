@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">传真机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fax</b> or a <b>fax machine</b> is a piece of equipment used to copy documents by sending information electronically along a telephone line, and to receive copies that are sent in this way.  \r \r\r\r</span>",
+    "display_hwd": "fax",
+    "ext": "",
+    "hwd": "fax",
+    "phonetics": "英\r[fæks]美\r[fæks]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用传真机发送</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>fax</b> a document to someone, you send it from one fax machine to another.  \r \r\r\r</span>",
+    "display_hwd": "fax",
+    "ext": "",
+    "hwd": "fax",
+    "phonetics": "英\r[fæks]美\r[fæks]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">传真件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a copy of a document that is transmitted by a fax machine as a <b>fax</b> .  \r \r\r\r</span>",
+    "display_hwd": "fax",
+    "ext": "",
+    "hwd": "fax",
+    "phonetics": "英\r[fæks]美\r[fæks]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

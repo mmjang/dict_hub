@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">日本的；日本人的；日语的；日本文化的</span>",
+    "def_en": "<span class=\"endef\"><b>Japanese</b> means belonging or relating to Japan, or to its people, language, or culture.  \r \r\r\r</span>",
+    "display_hwd": "Japanese",
+    "ext": "",
+    "hwd": "Japanese",
+    "phonetics": "英\r[ˌdʒæpə'ni:z]美\r[ˌdʒæpəˈniz,-ˈnis]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">日本人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>Japanese</b> are the people of Japan.  \r \r\r\r</span>",
+    "display_hwd": "Japanese",
+    "ext": "",
+    "hwd": "Japanese",
+    "phonetics": "英\r[ˌdʒæpə'ni:z]美\r[ˌdʒæpəˈniz,-ˈnis]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">日语</span>",
+    "def_en": "<span class=\"endef\"><b>Japanese</b> is the language spoken in Japan.  \r \r\r\r</span>",
+    "display_hwd": "Japanese",
+    "ext": "",
+    "hwd": "Japanese",
+    "phonetics": "英\r[ˌdʒæpə'ni:z]美\r[ˌdʒæpəˈniz,-ˈnis]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

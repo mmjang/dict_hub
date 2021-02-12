@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(经济的)部门，行业，领域</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://public sector\">public sector</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://private sector\">private sector</a></b>;\r A particular <b>sector</b> of a country's economy is the part connected with that specified type of industry.  \r \r\r\r</span>",
+    "display_hwd": "sector",
+    "ext": "",
+    "hwd": "sector",
+    "phonetics": "英\r[ˈsektə(r)]美\r[ˈsɛktɚ,-ˌtɔr]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(大型组织的)部分,小群体</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sector</b> of a large group is a smaller group which is part of it.  \r \r\r\r</span>",
+    "display_hwd": "sector",
+    "ext": "",
+    "hwd": "sector",
+    "phonetics": "英\r[ˈsektə(r)]美\r[ˈsɛktɚ,-ˌtɔr]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">军事管制区;军事防御区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sector</b> is an area of a city or country which is controlled by a military force.  \r \r\r\r</span>",
+    "display_hwd": "sector",
+    "ext": "",
+    "hwd": "sector",
+    "phonetics": "英\r[ˈsektə(r)]美\r[ˈsɛktɚ,-ˌtɔr]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扇形</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sector</b> is a part of a circle which is formed when you draw two straight lines from the centre of the circle to the edge.  \r \r\r\r</span>",
+    "display_hwd": "sector",
+    "ext": "",
+    "hwd": "sector",
+    "phonetics": "英\r[ˈsektə(r)]美\r[ˈsɛktɚ,-ˌtɔr]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(书的)连续发表，连续刊载</span>",
+    "def_en": "<span class=\"endef\"><b>Serialization</b> is the act of serializing a book.  \r \r\r\r</span>",
+    "display_hwd": "serialization",
+    "ext": "",
+    "hwd": "serialization",
+    "phonetics": "英\r[ˌsɪərɪəlaɪ'zeɪʃn]美\r[ˌsɪərɪrlaɪ'zeɪʃn]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">连载小说;连续剧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>serialization</b> is a story, originally written as a book, which is being published or broadcast in a number of parts.  \r \r\r\r</span>",
+    "display_hwd": "serialization",
+    "ext": "",
+    "hwd": "serialization",
+    "phonetics": "英\r[ˌsɪərɪəlaɪ'zeɪʃn]美\r[ˌsɪərɪrlaɪ'zeɪʃn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

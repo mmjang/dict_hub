@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(衣服)三件套的(通常包括男式上衣、马甲和裤子)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>three-piece</b> suit is a set of three pieces of matching clothing, usually a man's jacket, waistcoat, and trousers.  \r \r\r\r</span>",
+    "display_hwd": "three-piece",
+    "ext": "",
+    "hwd": "three-piece",
+    "phonetics": "英\r[ˈθri:ˌpi:s]美\r[ˈθriˌpis]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(沙发)三件套的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>three-piece</b> suite is a sofa and two matching armchairs.  \r \r\r\r</span>",
+    "display_hwd": "three-piece",
+    "ext": "",
+    "hwd": "three-piece",
+    "phonetics": "英\r[ˈθri:ˌpi:s]美\r[ˈθriˌpis]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

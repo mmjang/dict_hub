@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">超支；花钱过多</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>overspend</b>, you spend more money than you can afford to.  \r \r\r\r</span>",
+    "display_hwd": "overspend",
+    "ext": "",
+    "hwd": "overspend",
+    "phonetics": "英\r[ˌəʊvəˈspend]美\r[ˌoʊvərˈspend]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">超支（额）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an organization or business has an <b>overspend</b>, it spends more money than was planned or allowed in its budget.  \r \r\r\r</span>",
+    "display_hwd": "overspend",
+    "ext": "",
+    "hwd": "overspend",
+    "phonetics": "英\r[ˌəʊvəˈspend]美\r[ˌoʊvərˈspend]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">每日;每天</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>daily</b>, it happens every day.  \r \r\r\r</span>",
+    "display_hwd": "daily",
+    "ext": "",
+    "hwd": "daily",
+    "phonetics": "英\r[ˈdeɪli]美\r[ˈdeli]",
+    "phrase": "",
+    "sense": "★★★★☆ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一天的;按天计算的</span>",
+    "def_en": "<span class=\"endef\"><b>Daily</b> quantities or rates relate to a period of one day.  \r \r\r\r</span>",
+    "display_hwd": "daily",
+    "ext": "",
+    "hwd": "daily",
+    "phonetics": "英\r[ˈdeɪli]美\r[ˈdeli]",
+    "phrase": "",
+    "sense": "★★★★☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">日报</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>daily</b> is a newspaper that is published every day of the week except Sunday.  \r \r\r\r</span>",
+    "display_hwd": "daily",
+    "ext": "",
+    "hwd": "daily",
+    "phonetics": "英\r[ˈdeɪli]美\r[ˈdeli]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">日常生活</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>daily life</b> is the things that you do every day as part of your normal life.  \r \r\r\r</span>",
+    "display_hwd": "daily",
+    "ext": "",
+    "hwd": "daily",
+    "phonetics": "英\r[ˈdeɪli]美\r[ˈdeli]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

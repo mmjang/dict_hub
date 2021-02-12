@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">缝纫用品</span>",
+    "def_en": "<span class=\"endef\"><b>Haberdashery</b> is small articles for sewing, such as buttons, zips, and thread, which are sold in a haberdasher's shop.  \r \r\r\r</span>",
+    "display_hwd": "haberdashery",
+    "ext": "",
+    "hwd": "haberdashery",
+    "phonetics": "英\r[ˌhæbəˈdæʃəri]美\r[ˈhæbərdæʃəri]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（商店里出售的）男士服装</span>",
+    "def_en": "<span class=\"endef\"><b>Haberdashery</b> is men's clothing sold in a shop.  \r \r\r\r</span>",
+    "display_hwd": "haberdashery",
+    "ext": "",
+    "hwd": "haberdashery",
+    "phonetics": "英\r[ˌhæbəˈdæʃəri]美\r[ˈhæbərdæʃəri]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">缝纫用品店；男装店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>haberdashery</b> is a shop selling haberdashery.  \r \r\r\r</span>",
+    "display_hwd": "haberdashery",
+    "ext": "",
+    "hwd": "haberdashery",
+    "phonetics": "英\r[ˌhæbəˈdæʃəri]美\r[ˈhæbərdæʃəri]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

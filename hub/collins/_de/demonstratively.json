@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">感情外露的;热情奔放的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>demonstrative</b> shows affection freely and openly.  \r \r\r\r</span>",
+    "display_hwd": "demonstratively",
+    "ext": "",
+    "hwd": "demonstratively",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">指示词</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, the words 'this', 'that', 'these', and 'those' are sometimes called <b>demonstratives</b> .  \r \r\r\r</span>",
+    "display_hwd": "demonstratively",
+    "ext": "",
+    "hwd": "demonstratively",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

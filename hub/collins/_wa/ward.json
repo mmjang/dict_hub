@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">病房;病室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ward</b> is a room in a hospital which has beds for many people, often people who need similar treatment.  \r \r\r\r</span>",
+    "display_hwd": "ward",
+    "ext": "",
+    "hwd": "ward",
+    "phonetics": "英\r[wɔ:d]美\r[wɔrd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">区;行政区;选区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ward</b> is a district which forms part of a political constituency or local council.  \r \r\r\r</span>",
+    "display_hwd": "ward",
+    "ext": "",
+    "hwd": "ward",
+    "phonetics": "英\r[wɔ:d]美\r[wɔrd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">被监护人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ward</b> or a <b>ward of court</b> is a child who is the responsibility of a person called a guardian, or of a court of law, because their parents are dead or because they are believed to be in need of protection.  \r \r\r\r</span>",
+    "display_hwd": "ward",
+    "ext": "",
+    "hwd": "ward",
+    "phonetics": "英\r[wɔ:d]美\r[wɔrd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

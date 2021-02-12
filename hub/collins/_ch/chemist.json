@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(兼卖化妆品和某些日用品的)药店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chemist</b> or a <b>chemist's</b> is a shop where drugs and medicines are sold or given out, and where you can buy cosmetics and some household goods.  \r \r\r\r</span>",
+    "display_hwd": "chemist",
+    "ext": "",
+    "hwd": "chemist",
+    "phonetics": "英\r[ˈkemɪst]美\r[ˈkɛmɪst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">药剂师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chemist</b> is someone who works in a chemist's shop and is qualified to prepare and sell medicines.  \r \r\r\r</span>",
+    "display_hwd": "chemist",
+    "ext": "",
+    "hwd": "chemist",
+    "phonetics": "英\r[ˈkemɪst]美\r[ˈkɛmɪst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">化学家</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chemist</b> is a person who does research connected with chemistry or who studies chemistry.  \r \r\r\r</span>",
+    "display_hwd": "chemist",
+    "ext": "",
+    "hwd": "chemist",
+    "phonetics": "英\r[ˈkemɪst]美\r[ˈkɛmɪst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

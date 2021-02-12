@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用滚烫的液体、蒸汽)烫伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>scald yourself</b>, you burn yourself with very hot liquid or steam.  \r \r\r\r</span>",
+    "display_hwd": "scald",
+    "ext": "",
+    "hwd": "scald",
+    "phonetics": "英\r[skɔ:ld]美\r[skɔld]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">烫伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scald</b> is a burn caused by very hot liquid or steam.  \r \r\r\r</span>",
+    "display_hwd": "scald",
+    "ext": "",
+    "hwd": "scald",
+    "phonetics": "英\r[skɔ:ld]美\r[skɔld]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

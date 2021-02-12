@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">立方体;立方形的东西</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cube</b> is a solid object with six square surfaces which are all the same size.  \r \r\r\r</span>",
+    "display_hwd": "cube",
+    "ext": "",
+    "hwd": "cube",
+    "phonetics": "英\r[kju:b]美\r[kjub]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把(食物)切成小方块</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>cube</b> food, you cut it into cube-shaped pieces.  \r \r\r\r</span>",
+    "display_hwd": "cube",
+    "ext": "",
+    "hwd": "cube",
+    "phonetics": "英\r[kju:b]美\r[kjub]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">立方;三次幂</span>",
+    "def_en": "<span class=\"endef\"><b>The cube of</b> a number is another number that is produced by multiplying the first number by itself twice. For example, the cube of 2 is 8.  \r \r\r\r</span>",
+    "display_hwd": "cube",
+    "ext": "",
+    "hwd": "cube",
+    "phonetics": "英\r[kju:b]美\r[kjub]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（某事发生或某物坐落的）位置，场所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>location</b> is the place where something happens or is situated.  \r \r\r\r</span>",
+    "display_hwd": "location",
+    "ext": "",
+    "hwd": "location",
+    "phonetics": "英\r[ləʊˈkeɪʃn]美\r[loʊˈkeɪʃn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某人或某物所在的确切）位置，地点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>location</b> of someone  or something is their exact position.  \r \r\r\r</span>",
+    "display_hwd": "location",
+    "ext": "",
+    "hwd": "location",
+    "phonetics": "英\r[ləʊˈkeɪʃn]美\r[loʊˈkeɪʃn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">外景拍摄地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>location</b> is a place away from a studio where a film or part of a film is made.  \r \r\r\r</span>",
+    "display_hwd": "location",
+    "ext": "",
+    "hwd": "location",
+    "phonetics": "英\r[ləʊˈkeɪʃn]美\r[loʊˈkeɪʃn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

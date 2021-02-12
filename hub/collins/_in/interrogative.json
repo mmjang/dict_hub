@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(姿势、语调)询问的，疑问的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>interrogative</b> gesture or tone of voice shows that you want to know the answer to a question.  \r \r\r\r</span>",
+    "display_hwd": "interrogative",
+    "ext": "",
+    "hwd": "interrogative",
+    "phonetics": "英\r[ˌɪntəˈrɒgətɪv]美\r[ˌɪntəˈrɑgətɪv]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">疑问句;疑问结构</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, a clause that is in the <b>interrogative</b>, or in the <b>interrogative</b> mood, has its subject following 'do', 'be', 'have', or a modal verb. Examples are 'When did he get back?' and 'Are you all right?'. Clauses of this kind are typically used to ask questions.  \r \r\r\r</span>",
+    "display_hwd": "interrogative",
+    "ext": "",
+    "hwd": "interrogative",
+    "phonetics": "英\r[ˌɪntəˈrɒgətɪv]美\r[ˌɪntəˈrɑgətɪv]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">疑问词</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, an <b>interrogative</b> is a word such as 'who', 'how', or 'why', which can be used to ask a question.  \r \r\r\r</span>",
+    "display_hwd": "interrogative",
+    "ext": "",
+    "hwd": "interrogative",
+    "phonetics": "英\r[ˌɪntəˈrɒgətɪv]美\r[ˌɪntəˈrɑgətɪv]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

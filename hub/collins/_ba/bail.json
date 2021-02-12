@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">保释金</span>",
+    "def_en": "<span class=\"endef\"><b>Bail</b> is a sum of money that an arrested person or someone else puts forward as a guarantee that the arrested person will attend their trial in a law court. If the arrested person does not attend it, the money will be lost.  \r \r\r\r</span>",
+    "display_hwd": "bail",
+    "ext": "",
+    "hwd": "bail",
+    "phonetics": "英\r[beɪl]美\r[bel]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">保释</span>",
+    "def_en": "<span class=\"endef\"><b>Bail</b> is permission for an arrested person to be released after bail has been paid.  \r \r\r\r</span>",
+    "display_hwd": "bail",
+    "ext": "",
+    "hwd": "bail",
+    "phonetics": "英\r[beɪl]美\r[bel]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">保释</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is bailed</b>, they are released while they are waiting for their trial, after paying an amount of money to the court.  \r \r\r\r</span>",
+    "display_hwd": "bail",
+    "ext": "",
+    "hwd": "bail",
+    "phonetics": "英\r[beɪl]美\r[bel]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（板球运动中）三柱门上的横木</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In cricket, the <b>bails</b> are the two small pieces of wood that are laid across the top of the stumps to form the wicket.  \r \r\r\r</span>",
+    "display_hwd": "bail",
+    "ext": "",
+    "hwd": "bail",
+    "phonetics": "英\r[beɪl]美\r[bel]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（往外）舀水</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>bail</b>, you use a container to remove water from a boat or from a place which is flooded.  \r \r\r\r</span>",
+    "display_hwd": "bail",
+    "ext": "",
+    "hwd": "bail",
+    "phonetics": "英\r[beɪl]美\r[bel]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（囚犯）在保释期间逃跑，弃保潜逃</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a prisoner <b>jumps bail</b>, he or she does not come back for his or her trial after being released on bail.  \r \r\r\r</span>",
+    "display_hwd": "bail",
+    "ext": "",
+    "hwd": "bail",
+    "phonetics": "英\r[beɪl]美\r[bel]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

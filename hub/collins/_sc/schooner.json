@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">中型帆船</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>schooner</b> is a medium-sized sailing ship.  \r \r\r\r</span>",
+    "display_hwd": "schooner",
+    "ext": "",
+    "hwd": "schooner",
+    "phonetics": "英\r[ˈsku:nə(r)]美\r[ˈskunɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">雪利酒杯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>schooner</b> is a large glass used for drinking sherry.  \r \r\r\r</span>",
+    "display_hwd": "schooner",
+    "ext": "",
+    "hwd": "schooner",
+    "phonetics": "英\r[ˈsku:nə(r)]美\r[ˈskunɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大啤酒杯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>schooner</b> is a tall glass for beer.  \r \r\r\r</span>",
+    "display_hwd": "schooner",
+    "ext": "",
+    "hwd": "schooner",
+    "phonetics": "英\r[ˈsku:nə(r)]美\r[ˈskunɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

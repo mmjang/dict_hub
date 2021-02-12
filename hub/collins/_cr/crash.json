@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">撞车;碰撞;相撞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>crash</b> is an accident in which a moving vehicle hits something and is damaged or destroyed.  \r \r\r\r</span>",
+    "display_hwd": "crash",
+    "ext": "",
+    "hwd": "crash",
+    "phonetics": "英\r[kræʃ]美\r[kræʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)碰撞;(使)撞毁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a moving vehicle <b>crashes</b> or if the driver <b>crashes</b> it, it hits something and is damaged or destroyed.  \r \r\r\r</span>",
+    "display_hwd": "crash",
+    "ext": "",
+    "hwd": "crash",
+    "phonetics": "英\r[kræʃ]美\r[kræʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">猛撞;撞击</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>crashes</b> somewhere, it moves and hits something else violently, making a loud noise.  \r \r\r\r</span>",
+    "display_hwd": "crash",
+    "ext": "",
+    "hwd": "crash",
+    "phonetics": "英\r[kræʃ]美\r[kræʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(突然间响起的)巨大声响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>crash</b> is a sudden, loud noise.  \r \r\r\r</span>",
+    "display_hwd": "crash",
+    "ext": "",
+    "hwd": "crash",
+    "phonetics": "英\r[kræʃ]美\r[kræʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(生意或金融体制)倒闭，破产，失败</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a business or financial system <b>crashes</b>, it fails suddenly, often with serious effects.  \r \r\r\r</span>",
+    "display_hwd": "crash",
+    "ext": "",
+    "hwd": "crash",
+    "phonetics": "英\r[kræʃ]美\r[kræʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机或计算机程序)崩溃，瘫痪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a computer or a computer program <b>crashes</b>, it fails suddenly.  \r \r\r\r</span>",
+    "display_hwd": "crash",
+    "ext": "",
+    "hwd": "crash",
+    "phonetics": "英\r[kræʃ]美\r[kræʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

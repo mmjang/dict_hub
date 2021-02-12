@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">城郊;郊区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>suburb of</b> a city or large town is a smaller area which is part of the city or large town but is outside its centre.  \r \r\r\r</span>",
+    "display_hwd": "suburb",
+    "ext": "",
+    "hwd": "suburb",
+    "phonetics": "英\r[ˈsʌbɜ:b]美\r[ˈsʌbɜrb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">城郊住宅区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you live <b>in the suburbs</b>, you live in an area of houses outside the centre of a large town or city.  \r \r\r\r</span>",
+    "display_hwd": "suburb",
+    "ext": "",
+    "hwd": "suburb",
+    "phonetics": "英\r[ˈsʌbɜ:b]美\r[ˈsʌbɜrb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

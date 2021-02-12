@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">苏联的</span>",
+    "def_en": "<span class=\"endef\"><b>Soviet</b> is used to describe something that belonged or related to the former Soviet Union.  \r \r\r\r</span>",
+    "display_hwd": "Soviet",
+    "ext": "",
+    "hwd": "Soviet",
+    "phonetics": "英\r[ˈsəʊviət]美\r[ˈsoʊviet]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">苏联人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>Soviets</b> were the people of the former Soviet Union.  \r \r\r\r</span>",
+    "display_hwd": "Soviet",
+    "ext": "",
+    "hwd": "Soviet",
+    "phonetics": "英\r[ˈsəʊviət]美\r[ˈsoʊviet]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(苏联的各级)苏维埃，委员会，代表会议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>soviet</b> was an elected local, regional, or national council in the former Soviet Union.  \r \r\r\r</span>",
+    "display_hwd": "Soviet",
+    "ext": "",
+    "hwd": "Soviet",
+    "phonetics": "英\r[ˈsəʊviət]美\r[ˈsoʊviet]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

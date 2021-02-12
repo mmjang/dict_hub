@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（价格）低廉的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>knockdown</b> price is much lower than it would be normally.  \r \r\r\r</span>",
+    "display_hwd": "knockdown",
+    "ext": "",
+    "hwd": "knockdown",
+    "phonetics": "英\r['nɒkdaʊn]美\r[ˈnɑkˌdaʊn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（拳击中）击倒对手的一击</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In boxing, a <b>knockdown</b> is a blow that makes one of the fighters fall to the ground for a short time before getting up again.  \r \r\r\r</span>",
+    "display_hwd": "knockdown",
+    "ext": "",
+    "hwd": "knockdown",
+    "phonetics": "英\r['nɒkdaʊn]美\r[ˈnɑkˌdaʊn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

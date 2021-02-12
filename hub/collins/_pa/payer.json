@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">付款人；交款人</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://ratepayer\">ratepayer</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://taxpayer\">taxpayer</a></b>;\r You can refer to someone as a <b>payer</b> if they pay a particular kind of bill or fee. For example, a mortgage <b>payer</b> is someone who pays a mortgage.  \r \r\r\r</span>",
+    "display_hwd": "payer",
+    "ext": "",
+    "hwd": "payer",
+    "phonetics": "英\r[ˈpeɪə(r)]美\r[ˈpeɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">支付人；还账人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A good <b>payer</b> pays you quickly or pays you a lot of money. A bad <b>payer</b> takes a long time to pay you, or does not pay you very much.  \r \r\r\r</span>",
+    "display_hwd": "payer",
+    "ext": "",
+    "hwd": "payer",
+    "phonetics": "英\r[ˈpeɪə(r)]美\r[ˈpeɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

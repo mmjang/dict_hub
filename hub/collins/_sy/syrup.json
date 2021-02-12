@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">糖水(有时加果汁)</span>",
+    "def_en": "<span class=\"endef\"><b>Syrup</b> is a sweet liquid made by cooking sugar with water, and sometimes with fruit juice as well.  \r \r\r\r</span>",
+    "display_hwd": "syrup",
+    "ext": "",
+    "hwd": "syrup",
+    "phonetics": "英\r[ˈsɪrəp]美\r[ˈsɪrəp,ˈsɚ-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">糖浆</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://golden syrup\">golden syrup</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://maple syrup\">maple syrup</a></b>;\r <b>Syrup</b> is a very sweet thick liquid made from sugar.  \r \r\r\r</span>",
+    "display_hwd": "syrup",
+    "ext": "",
+    "hwd": "syrup",
+    "phonetics": "英\r[ˈsɪrəp]美\r[ˈsɪrəp,ˈsɚ-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">药用糖浆;糖浆剂</span>",
+    "def_en": "<span class=\"endef\"><b>Syrup</b> is a medicine in the form of a thick, sweet liquid.  \r \r\r\r</span>",
+    "display_hwd": "syrup",
+    "ext": "",
+    "hwd": "syrup",
+    "phonetics": "英\r[ˈsɪrəp]美\r[ˈsɪrəp,ˈsɚ-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

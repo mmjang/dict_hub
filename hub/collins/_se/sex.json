@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">男性;女性;雌性;雄性</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fair sex\">fair sex</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://opposite sex\">opposite sex</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://same-sex\">same-sex</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://single-sex\">single-sex</a></b>;\r The two <b>sexes</b> are the two groups, male and female, into which people and animals are divided according to the function they have in producing young.  \r \r\r\r</span>",
+    "display_hwd": "sex",
+    "ext": "",
+    "hwd": "sex",
+    "phonetics": "英\r[seks]美\r[sɛks]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">性别;性别特征</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sex</b> of a person or animal is their characteristic of being either male or female.  \r \r\r\r</span>",
+    "display_hwd": "sex",
+    "ext": "",
+    "hwd": "sex",
+    "phonetics": "英\r[seks]美\r[sɛks]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">性行为;性交;性活动</span>",
+    "def_en": "<span class=\"endef\"><b>Sex</b> is the physical activity by which people can produce young.  \r \r\r\r</span>",
+    "display_hwd": "sex",
+    "ext": "",
+    "hwd": "sex",
+    "phonetics": "英\r[seks]美\r[sɛks]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">辨别…的性别;辨识…的雌雄</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an animal <b>is sexed</b>, someone finds out whether it is male or female.  \r \r\r\r</span>",
+    "display_hwd": "sex",
+    "ext": "",
+    "hwd": "sex",
+    "phonetics": "英\r[seks]美\r[sɛks]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发生性关系;做爱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two people <b>have sex</b>, they perform the act of sex.  \r \r\r\r</span>",
+    "display_hwd": "sex",
+    "ext": "",
+    "hwd": "sex",
+    "phonetics": "英\r[seks]美\r[sɛks]",
+    "phrase": "",
+    "sense": "★★★★☆ phr-recip\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(建筑物)立面，立面图，立视图</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In architecture, an <b>elevation</b> is the front, back, or side of a building, or a drawing of one of these.  \r \r\r\r</span>",
+    "display_hwd": "elevation",
+    "ext": "",
+    "hwd": "elevation",
+    "phonetics": "英\r[ˌelɪˈveɪʃn]美\r[ˌɛləˈveʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">海拔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>elevation</b> of a place is its height above sea level.  \r \r\r\r</span>",
+    "display_hwd": "elevation",
+    "ext": "",
+    "hwd": "elevation",
+    "phonetics": "英\r[ˌelɪˈveɪʃn]美\r[ˌɛləˈveʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">高地；高处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>elevation</b> is a piece of ground that is higher than the area around it.  \r \r\r\r</span>",
+    "display_hwd": "elevation",
+    "ext": "",
+    "hwd": "elevation",
+    "phonetics": "英\r[ˌelɪˈveɪʃn]美\r[ˌɛləˈveʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://elevate\">elevate</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "elevation",
+    "ext": "",
+    "hwd": "elevation",
+    "phonetics": "英\r[ˌelɪˈveɪʃn]美\r[ˌɛləˈveʃən]",
+    "phrase": "",
+    "sense": "see also:"
+  }
+]

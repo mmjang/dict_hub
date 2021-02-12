@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">鸲;知更鸟</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>robin</b> is a small brown bird found in Europe. The male has an orangey-red neck and breast.  \r \r\r\r</span>",
+    "display_hwd": "robin",
+    "ext": "",
+    "hwd": "robin",
+    "phonetics": "英\r[ˈrɒbɪn]美\r[ˈrɑbɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鸫</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>robin</b> is a brown bird found in North America. The male has a reddish-brown breast. North American robins are larger than European ones, and are a completely different species of bird.  \r \r\r\r</span>",
+    "display_hwd": "robin",
+    "ext": "",
+    "hwd": "robin",
+    "phonetics": "英\r[ˈrɒbɪn]美\r[ˈrɑbɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://round-robin\">round-robin</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "robin",
+    "ext": "",
+    "hwd": "robin",
+    "phonetics": "英\r[ˈrɒbɪn]美\r[ˈrɑbɪn]",
+    "phrase": "",
+    "sense": "see also:"
+  }
+]

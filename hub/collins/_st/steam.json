@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">蒸汽;水蒸气</span>",
+    "def_en": "<span class=\"endef\"><b>Steam</b> is the hot mist that forms when water boils. <b>Steam</b> vehicles and machines are operated using steam as a means of power.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冒蒸汽;冒热气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>steams</b>, it gives off steam.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">蒸(食物)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>steam</b> food or if it <b>steams</b>, you cook it in steam rather than in water.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cook\">cook</a></b></span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">进展迅速;全速前进</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a plan or a project goes <b>full steam ahead</b>, it progresses quickly.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发泄怒火;宣泄情感</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>let off steam</b>, you get rid of your energy, anger, or strong emotions with physical activity or by behaving in a noisy or violent way.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(信念、计划、项目等)变得越来越重要，开始发展壮大</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a belief, a plan, or a project <b>picks up steam</b>, it starts to develop and become more important.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">精疲力竭;丧失热情;泄气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>run out of steam</b>, you stop doing something because you have no more energy or enthusiasm left.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">靠自己的力量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>under</b> your <b>own steam</b>, you do it without any help from anyone else.  \r \r\r\r</span>",
+    "display_hwd": "steam",
+    "ext": "",
+    "hwd": "steam",
+    "phonetics": "英\r[sti:m]美\r[stim]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

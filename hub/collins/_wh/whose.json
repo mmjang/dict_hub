@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用于关系从句的句首，表示与前句所提到的人或事物有所属关系或相关联）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>whose</b> at the beginning of a relative clause where you mention something that belongs to or is associated with the person or thing mentioned in the previous clause.  \r \r\r\r</span>",
+    "display_hwd": "whose",
+    "ext": "",
+    "hwd": "whose",
+    "phonetics": "英\r[hu:z]美\r[huz]",
+    "phrase": "",
+    "sense": "★★★★★ pron-rel\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于疑问句中，询问某物所属或其与何人何事有关)谁的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>whose</b> in questions to ask about the person or thing that something belongs to or is associated with.  \r \r\r\r</span>",
+    "display_hwd": "whose",
+    "ext": "",
+    "hwd": "whose",
+    "phonetics": "英\r[hu:z]美\r[huz]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤用在动词或形容词等后面，引导谈论某物所属或与何人何事相关的从句)谁的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>whose</b> after certain words, especially verbs and adjectives, to introduce a clause where you talk about the person or thing that something belongs to or is associated with.  \r \r\r\r</span>",
+    "display_hwd": "whose",
+    "ext": "",
+    "hwd": "whose",
+    "phonetics": "英\r[hu:z]美\r[huz]",
+    "phrase": "",
+    "sense": "★★★★★ det-poss\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

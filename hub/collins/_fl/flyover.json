@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">立交桥;高架公路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>flyover</b> is a structure which carries one road over the top of another road.  \r \r\r\r</span>",
+    "display_hwd": "flyover",
+    "ext": "",
+    "hwd": "flyover",
+    "phonetics": "英\r[ˈflaɪəʊvə(r)]美\r[ˈflaɪoʊvər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同flypast</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>flyover</b> is the same as a <b>flypast</b> .  \r \r\r\r</span>",
+    "display_hwd": "flyover",
+    "ext": "",
+    "hwd": "flyover",
+    "phonetics": "英\r[ˈflaɪəʊvə(r)]美\r[ˈflaɪoʊvər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

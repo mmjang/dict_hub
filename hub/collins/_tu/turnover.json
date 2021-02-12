@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">营业额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>turnover</b> of a company is the value of the goods or services sold during a particular period of time.  \r \r\r\r</span>",
+    "display_hwd": "turnover",
+    "ext": "",
+    "hwd": "turnover",
+    "phonetics": "英\r[ˈtɜ:nəʊvə(r)]美\r[ˈtɜrnoʊvə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人员的)流动率</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>turnover</b> of people in an organization or place is the rate at which people leave and are replaced.  \r \r\r\r</span>",
+    "display_hwd": "turnover",
+    "ext": "",
+    "hwd": "turnover",
+    "phonetics": "英\r[ˈtɜ:nəʊvə(r)]美\r[ˈtɜrnoʊvə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

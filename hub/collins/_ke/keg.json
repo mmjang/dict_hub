@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（盛啤酒或其他酒精饮品的）小桶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>keg</b> is a small barrel used for storing something such as beer or other alcoholic drinks.  \r \r\r\r</span>",
+    "display_hwd": "keg",
+    "ext": "",
+    "hwd": "keg",
+    "phonetics": "英\r[keg]美\r[kɛɡ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用气压出的）桶装啤酒</span>",
+    "def_en": "<span class=\"endef\"><b>Keg</b> is a kind of beer which is kept under pressure in a metal barrel.  \r \r\r\r</span>",
+    "display_hwd": "keg",
+    "ext": "",
+    "hwd": "keg",
+    "phonetics": "英\r[keg]美\r[kɛɡ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

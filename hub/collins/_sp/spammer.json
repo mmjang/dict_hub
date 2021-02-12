@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">斯帕姆午餐肉</span>",
+    "def_en": "<span class=\"endef\"><b>Spam</b> is a cooked meat product made from pork and ham.  \r \r\r\r</span>",
+    "display_hwd": "spammer",
+    "ext": "",
+    "hwd": "spammer",
+    "phonetics": "英\r['spæmə(r)]美\r['spæmə(r)]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向…群发垃圾邮件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, to <b>spam</b> people or  organizations means to send unwanted e-mails to a large number of them, usually as advertising.  \r \r\r\r</span>",
+    "display_hwd": "spammer",
+    "ext": "",
+    "hwd": "spammer",
+    "phonetics": "英\r['spæmə(r)]美\r['spæmə(r)]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

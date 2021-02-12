@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">超（文本）链接</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In an HTML document, a <b>hyperlink</b> is a link to another part of the document or to another document. Hyperlinks are shown as words with a line under them.  \r \r\r\r</span>",
+    "display_hwd": "hyperlink",
+    "ext": "",
+    "hwd": "hyperlink",
+    "phonetics": "英\r[ˈhaɪpəlɪŋk]美\r[ˈhaɪpərlɪŋk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对（文件）作超链接</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a document or file <b>is hyperlinked</b>, it contains hyperlinks.  \r \r\r\r</span>",
+    "display_hwd": "hyperlink",
+    "ext": "",
+    "hwd": "hyperlink",
+    "phonetics": "英\r[ˈhaɪpəlɪŋk]美\r[ˈhaɪpərlɪŋk]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

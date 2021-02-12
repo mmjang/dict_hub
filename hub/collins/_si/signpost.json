@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">路标;道路指示牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>signpost</b> is a sign where roads meet that tells you which direction to go in to reach a particular place or different places.  \r \r\r\r</span>",
+    "display_hwd": "signpost",
+    "ext": "",
+    "hwd": "signpost",
+    "phonetics": "英\r[ˈsaɪnpəʊst]美\r[ˈsaɪnpoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">线索;征兆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>signpost</b> is something that helps you to know how a situation or a course of action will develop.  \r \r\r\r</span>",
+    "display_hwd": "signpost",
+    "ext": "",
+    "hwd": "signpost",
+    "phonetics": "英\r[ˈsaɪnpəʊst]美\r[ˈsaɪnpoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

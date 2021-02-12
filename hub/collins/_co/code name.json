@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">代号;化名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>code name</b> is a name used for someone or something in order to keep their identity secret.  \r \r\r\r</span>",
+    "display_hwd": "code name",
+    "ext": "",
+    "hwd": "code name",
+    "phonetics": "英\r[kəudneim]美\r[kodnem]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(军事行动或警方的行动)以…为代号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a military or police operation <b>is code-named</b> something, it is given a name which only the people involved in it know.  \r \r\r\r</span>",
+    "display_hwd": "code name",
+    "ext": "",
+    "hwd": "code name",
+    "phonetics": "英\r[kəudneim]美\r[kodnem]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">理发师;美发师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hairdresser</b> is a person who cuts, colours, and arranges people's hair.  \r \r\r\r</span>",
+    "display_hwd": "hairdresser",
+    "ext": "",
+    "hwd": "hairdresser",
+    "phonetics": "英\r[ˈheədresə(r)]美\r[ˈherdresə(r)]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">理发店;美发店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hairdresser</b> or a <b>hairdresser's</b> is a shop where a hairdresser works.  \r \r\r\r</span>",
+    "display_hwd": "hairdresser",
+    "ext": "",
+    "hwd": "hairdresser",
+    "phonetics": "英\r[ˈheədresə(r)]美\r[ˈherdresə(r)]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

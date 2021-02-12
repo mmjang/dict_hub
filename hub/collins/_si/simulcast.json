@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(广播和电视上或多个电视频道的)联播节目</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>simulcast</b> is a programme which is broadcast at the same time on radio and television, or on more than one channel.  \r \r\r\r</span>",
+    "display_hwd": "simulcast",
+    "ext": "",
+    "hwd": "simulcast",
+    "phonetics": "英\r[ˈsɪmlkɑ:st]美\r[ˈsaɪməlˌkæst,ˈsɪməl-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(在广播和电视上或多个电视频道)联播，同步播出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>simulcast</b> a programme means to broadcast it at the same time on radio and television, or on more than one channel.  \r \r\r\r</span>",
+    "display_hwd": "simulcast",
+    "ext": "",
+    "hwd": "simulcast",
+    "phonetics": "英\r[ˈsɪmlkɑ:st]美\r[ˈsaɪməlˌkæst,ˈsɪməl-]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

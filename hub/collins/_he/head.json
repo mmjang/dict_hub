@@ -1,0 +1,472 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（人的）头，头部</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>head</b> is the top part of your body, which has your eyes, mouth, and brain in it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">头脑;心智;才智</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>head</b> to refer to your mind and your mental abilities.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（队伍中的）领头位置;队首;排头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head of</b> a line of people or vehicles is the front of it, or the first person or vehicle in the line.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">排在（队列等）的最前面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something <b>heads</b> a line or procession, they are at the front of it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">居…之首;在…名列首位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>heads</b> a list or group, it is at the top of it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">顶部;上端</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head</b> of something is the highest or top part of it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（细长物体的）头部，顶端</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head</b> of something long and thin is the end which is wider than or a different shape from the rest, and which is often considered to be the most important part.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（中小学的）校长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head</b> of a school is the teacher who is in charge.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（公司、组织的）负责人，领导人，首脑，长，主任</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head</b> of a company or organization is the person in charge of it and in charge of the people in it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">掌管;主管;负责</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>head</b> a department, company, or organization, you are the person in charge of it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">脓头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head</b> of an infected spot is its white or yellow centre.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（啤酒表层的）泡沫;酒头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>head</b> on a glass of beer is the layer of small bubbles that form on the top of the beer.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表示牲畜的数目）头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>head</b> to say how many animals of a particular type a farmer has. For example, if they have fifty <b>head of</b> cattle, they have fifty cows.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">头痛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have a bad <b>head</b>, you have a headache.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（硬币的）有人头像的一面，正面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you toss a coin and it comes down <b>heads</b>, you can see the side of the coin which has a picture of a head on it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">朝着（某一地点）行进（美国英语中亦作 are headed）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are heading</b> for a particular place, you are going towards that place. In American English, you can also say that you <b>are headed</b> for a particular place.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">很可能要遭受，会招致（美国英语中亦作 is headed for）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone <b>is heading for</b> a particular result, the situation they are in is developing in a way that makes that result very likely. In American English, you can also say that something or someone <b>is headed for</b> a particular result.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">标题为</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a piece of writing <b>is headed</b> a particular title, it has that title written at the beginning of it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（足球比赛中）用头顶（球）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>head</b> a ball in football, you hit it with your head in order to make it go in a particular direction.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://heading\">heading</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">每人/人均</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>a head</b> or <b>per head</b> after stating a cost or amount in order to indicate that that cost or amount is for each person in a particular group.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">让人生气;让人沮丧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone <b>does</b> your <b>head in</b>, they make you angry or frustrated.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从头到脚;全身</span>",
+    "def_en": "<span class=\"endef\"><b>From head to foot</b> means all over your body.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">擅长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have <b>a head for</b> something, you can deal with it easily. For example, if you have <b>a head for figures</b>, you can do arithmetic easily, and if you have <b>a head for heights</b>, you can climb to a great height without feeling afraid.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">充分理解并接受;打定（主意）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>get</b> a fact or idea <b>into</b> your <b>head</b>, you suddenly realize or think that it is true and you usually do not change your opinion about it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">终于明白</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone has <b>got</b> something <b>into</b> their <b>head</b>, you mean that they have finally understood or accepted it, and you are usually criticizing them because it has taken them a long time to do this.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">让…自由行动;对…不加约束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>give</b> someone their <b>head</b>, you allow them to do what they want to do, without trying to advise or stop them.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（酒）使人感到醉，上头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If alcoholic drink <b>goes to</b> your <b>head</b>, it makes you feel drunk.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（赞扬或成功）冲昏…的头脑，使…骄傲自满</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something such as praise or success <b>goes to</b> someone's <b>head</b>, you are criticizing them because you think that it makes them too proud or confident.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">深陷情网</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>head over heels</b> or <b>head over heels in love</b>, you are very much in love.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">保持镇静/张皇失措</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep</b> your <b>head</b>, you remain calm in a difficult situation. If you <b>lose</b> your <b>head</b>, you panic or do not remain calm in a difficult situation.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">停止;结束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>knock</b> something <b>on the head</b>, you stop it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表示强调）大笑/大声尖叫</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Phrases such as <b>laugh</b> your <b>head off</b> and <b>scream</b> your <b>head off</b> can be used to emphasize that someone is laughing or screaming a lot or very loudly.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（吸毒后）昏头昏脑的，神志不清的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>off</b> their <b>head</b>, you mean that they have taken so many drugs that they do not know what they are doing.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">昏了头的;愚蠢的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>off</b> their <b>head</b>, you think that their ideas or behaviour are very strange, foolish, or dangerous.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">倒过来想;从全新的角度理解</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stand</b> an idea or argument <b>on its head</b> or <b>turn</b> it <b>on its head</b>, you think about it or treat it in a completely new and different way.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">超过…的理解力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as an idea, joke, or comment goes <b>over</b> someone's <b>head</b>, it is too difficult for them to understand.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">未与…商量地;(尤指)越级</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone does something <b>over</b> another person's <b>head</b>, they do it without asking them or discussing it with them, especially when they should do so because the other person is in a position of authority.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（不好的事情）再次出现，重新抬头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something unpleasant or embarrassing <b>rears its ugly head</b> or <b>raises its ugly head</b>, you mean that it occurs, often after not occurring for some time.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">倒立;竖蜻蜓</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stand on</b> your <b>head</b>, you balance upside down with the top of your head and your hands on the ground.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">理解;弄明白</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you cannot <b>make head nor tail of</b> something or you cannot <b>make head or tail of</b> it, you are emphasizing that you cannot understand it at all.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">突然决定（做某事，尤指古怪或愚蠢的事）；心血来潮</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If somebody <b>takes it into</b> their <b>head to</b> do something, especially something strange or foolish, they suddenly decide to do it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">到了危急关头;到达关键点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a problem or disagreement <b>comes to a head</b> or <b>is brought to a head</b>, it becomes so bad that something must be done about it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">严厉训斥</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>bang</b> peoples' <b>heads together</b> or <b>knock</b> their <b>heads together</b>, you tell them off severely for doing something wrong or for not doing something they were asked to do.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">集体商讨;集思广益</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two or more people <b>put</b> their <b>heads together</b>, they talk about a problem they have and try to solve it.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指在生意方面）勉强逃脱困境</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep</b> your <b>head above water</b>, you just avoid getting into difficulties; used especially to talk about business.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有人会遭殃，有人会（因此）受到惩罚（尤指被解雇）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>heads will roll</b> as a result of something bad that has happened, you mean that people will be punished for it, especially by losing their jobs.  \r \r\r\r</span>",
+    "display_hwd": "head",
+    "ext": "",
+    "hwd": "head",
+    "phonetics": "英\r[hed]美\r[hɛd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">破译，译解(密码信息)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>decode</b> a message that has been written or spoken in a code, you change it into ordinary language.  \r \r\r\r</span>",
+    "display_hwd": "decode",
+    "ext": "",
+    "hwd": "decode",
+    "phonetics": "英\r[ˌdi:ˈkəʊd]美\r[ˌdiˈkoʊd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">解读，揣摩(戏剧、艺术作品、行为等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>decode</b> something such as a play or a work of art, or someone's behaviour, you manage to understand its meaning or what it implies, although this is not obvious.  \r \r\r\r</span>",
+    "display_hwd": "decode",
+    "ext": "",
+    "hwd": "decode",
+    "phonetics": "英\r[ˌdi:ˈkəʊd]美\r[ˌdiˈkoʊd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">破解转换(电视广播信号)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A device that <b>decodes</b> a broadcast signal changes it into a form that can be displayed on a television screen.  \r \r\r\r</span>",
+    "display_hwd": "decode",
+    "ext": "",
+    "hwd": "decode",
+    "phonetics": "英\r[ˌdi:ˈkəʊd]美\r[ˌdiˈkoʊd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

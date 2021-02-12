@@ -1,0 +1,102 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">登记本；注册簿；（官方）记录</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>register</b> is an official list or record of people or things.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">登记；注册</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>register</b> to do something, you put your name on an official list, in order to be able to do that thing or to receive a service.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">登记;正式记录;给…注册</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>register</b> something, such as the name of a person who has just died or information about something you own, you have these facts recorded on an official list.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（仪表等）显示，指示</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something <b>registers on</b> a scale or measuring instrument, it shows on the scale or instrument. You can also say that something <b>registers</b> a certain amount or level <b>on</b> a scale or measuring instrument.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">表示，表达（情绪或意见）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>register</b> your feelings or opinions about something, you do something that makes them clear to other people.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表情）流露，显露，显出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a feeling <b>registers on</b> someone's face, their expression shows clearly that they have that feeling.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">引起注意;（被）意识到;（使）留下印象</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a piece of information does not <b>register</b> or if you do not <b>register</b> it, you do not really pay attention to it, and so you do not remember it or react to it.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（嗓音或乐器的）音域</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you sing or play something in a high or low <b>register</b>, you sing, or play it using high or low notes. If you say something in a high or low <b>register</b>, you say it in a high or low voice.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（语言学中的）语域</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In linguistics, the <b>register</b> of a piece of speech or writing is its level and style of language, which is usually appropriate to the situation or circumstances in which it is used.  \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cash register\">cash register</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://electoral register\">electoral register</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "register",
+    "ext": "",
+    "hwd": "register",
+    "phonetics": "英\r[ˈredʒɪstə(r)]美\r[ˈrɛdʒɪstɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

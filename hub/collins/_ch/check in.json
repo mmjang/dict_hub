@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(在旅馆)登记入住;(在门诊部)挂号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>check in</b> or <b>check into</b> a hotel or clinic, or if someone <b>checks</b> you <b>in</b>, you arrive and go through the necessary procedures before you stay there.  \r \r\r\r</span>",
+    "display_hwd": "check in",
+    "ext": "",
+    "hwd": "check in",
+    "phonetics": "英\r[tʃekin]美\r[tʃɛkɪn]",
+    "phrase": "",
+    "sense": "phrasal verb-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(在机场)办理登机手续，检票登机</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://check-in\">check-in</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://check 6\">check 6</a></b>;\r When you <b>check in</b> at an airport, you arrive and show your ticket before going on a flight.  \r \r\r\r</span>",
+    "display_hwd": "check in",
+    "ext": "",
+    "hwd": "check in",
+    "phonetics": "英\r[tʃekin]美\r[tʃɛkɪn]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

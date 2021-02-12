@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（声波或电流信号的）振幅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In physics, the <b>amplitude</b> of a sound wave or electrical signal is its strength.  \r \r\r\r</span>",
+    "display_hwd": "amplitude",
+    "ext": "",
+    "hwd": "amplitude",
+    "phonetics": "英\r[ˈæmplɪtju:d]美\r[ˈæmplɪtud]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">广大;广阔;大量</span>",
+    "def_en": "<span class=\"endef\"><b>Amplitude</b> is the quality of being large in size or quantity.  \r \r\r\r</span>",
+    "display_hwd": "amplitude",
+    "ext": "",
+    "hwd": "amplitude",
+    "phonetics": "英\r[ˈæmplɪtju:d]美\r[ˈæmplɪtud]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

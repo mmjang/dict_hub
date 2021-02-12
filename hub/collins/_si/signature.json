@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">签名;署名;签字</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>signature</b> is your name, written in your own characteristic way, often at the end of a document to indicate that you wrote the document or that you agree with what it says.  \r \r\r\r</span>",
+    "display_hwd": "signature",
+    "ext": "",
+    "hwd": "signature",
+    "phonetics": "英\r[ˈsɪgnətʃə(r)]美\r[ˈsɪɡnətʃɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为(某人)所特有的;体现个体特征的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>signature</b> item is typical of or associated with a particular person.  \r \r\r\r</span>",
+    "display_hwd": "signature",
+    "ext": "",
+    "hwd": "signature",
+    "phonetics": "英\r[ˈsɪgnətʃə(r)]美\r[ˈsɪɡnətʃɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…上签字;签署</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>put</b> your <b>signature to</b> a document, you sign it as a way of officially showing that you agree with what is written.  \r \r\r\r</span>",
+    "display_hwd": "signature",
+    "ext": "",
+    "hwd": "signature",
+    "phonetics": "英\r[ˈsɪgnətʃə(r)]美\r[ˈsɪɡnətʃɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

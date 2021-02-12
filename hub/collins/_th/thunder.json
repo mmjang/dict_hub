@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">雷;雷声</span>",
+    "def_en": "<span class=\"endef\"><b>Thunder</b> is the loud noise that you hear from the sky after a flash of lightning, especially during a storm.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">打雷</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When <b>it thunders</b>, a loud noise comes from the sky after a flash of lightning.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">雷鸣般的响声;轰隆声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>thunder of</b> something that is moving or making a sound is the loud deep noise it makes.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">轰隆隆地快速移动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone <b>thunders</b> somewhere, they move there quickly and with a lot of noise.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发出轰隆声;轰鸣</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>thunders</b>, it makes a very loud noise, usually continuously.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">愤怒地大叫;怒吼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>thunder</b> something, you say it loudly and forcefully, especially because you are angry.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">抢…的风头;抢…的功劳</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>steal</b> someone's <b>thunder</b>, you get the attention or praise that they thought they would get, usually by saying or doing what they had intended to say or do.  \r \r\r\r</span>",
+    "display_hwd": "thunder",
+    "ext": "",
+    "hwd": "thunder",
+    "phonetics": "英\r[ˈθʌndə(r)]美\r[ˈθʌndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

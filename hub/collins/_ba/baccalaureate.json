@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（法国和其他一些国家的）中学毕业会考</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>baccalaureate</b> is an examination taken by students at the age of eighteen in France and some other countries.  \r \r\r\r</span>",
+    "display_hwd": "baccalaureate",
+    "ext": "",
+    "hwd": "baccalaureate",
+    "phonetics": "英\r[ˌbækəˈlɔ:riət]美\r[ˌbækəˈlɔriɪt]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国的）学位授予仪式（或演讲）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, a <b>baccalaureate</b> service or address is a service that is held or a talk that is given during the ceremony when students receive their degrees.  \r \r\r\r</span>",
+    "display_hwd": "baccalaureate",
+    "ext": "",
+    "hwd": "baccalaureate",
+    "phonetics": "英\r[ˌbækəˈlɔ:riət]美\r[ˌbækəˈlɔriɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

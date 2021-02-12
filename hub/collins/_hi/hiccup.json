@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r also hiccough.  \r \r\r\r</span>",
+    "display_hwd": "hiccup",
+    "ext": "",
+    "hwd": "hiccup",
+    "phonetics": "英\r['hɪkʌp]美\r[ˈhɪkəp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">小问题;（尤指）暂时的耽搁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a small problem or difficulty as a <b>hiccup</b>, especially if it does not last very long or is easily put right.  \r \r\r\r</span>",
+    "display_hwd": "hiccup",
+    "ext": "",
+    "hwd": "hiccup",
+    "phonetics": "英\r['hɪkʌp]美\r[ˈhɪkəp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">呃逆;打嗝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you have <b>hiccups</b>, you make repeated sharp sounds in your throat, often because you have been eating or drinking too quickly.  \r \r\r\r</span>",
+    "display_hwd": "hiccup",
+    "ext": "",
+    "hwd": "hiccup",
+    "phonetics": "英\r['hɪkʌp]美\r[ˈhɪkəp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">打嗝声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hiccup</b> is a sound of the kind that you make when you have hiccups.  \r \r\r\r</span>",
+    "display_hwd": "hiccup",
+    "ext": "",
+    "hwd": "hiccup",
+    "phonetics": "英\r['hɪkʌp]美\r[ˈhɪkəp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">呃逆;打嗝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>hiccup</b>, you make repeated sharp sounds in your throat.  \r \r\r\r</span>",
+    "display_hwd": "hiccup",
+    "ext": "",
+    "hwd": "hiccup",
+    "phonetics": "英\r['hɪkʌp]美\r[ˈhɪkəp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

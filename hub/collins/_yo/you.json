@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">你,您,你们（可用于名词前指定谈话对象）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A speaker or writer uses <b>you</b> to refer to the person or people that they are talking or writing to. It is possible to use <b>you</b> before a noun to make it clear which group of people you are talking to.  \r \r\r\r</span>",
+    "display_hwd": "you",
+    "ext": "",
+    "hwd": "you",
+    "phonetics": "英\r[ju]美\r[jə]",
+    "phrase": "",
+    "sense": "★★★★★ pron\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于口语和非正式书面语中表示泛指）你，任何人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In spoken English and informal written English, <b>you</b> is sometimes used to refer to people in general.  \r \r\r\r</span>",
+    "display_hwd": "you",
+    "ext": "",
+    "hwd": "you",
+    "phonetics": "英\r[ju]美\r[jə]",
+    "phrase": "",
+    "sense": "★★★★★ pron\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某些方言中指两个或多个人时有时用yous代替you）你们</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some dialects of English, <b>yous</b> is sometimes used instead of 'you' when talking to two or more people.  \r \r\r\r</span>",
+    "display_hwd": "you",
+    "ext": "",
+    "hwd": "you",
+    "phonetics": "英\r[ju]美\r[jə]",
+    "phrase": "",
+    "sense": "★★★★★ pron-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

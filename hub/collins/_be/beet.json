@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">甜菜</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://sugar beet\">sugar beet</a></b>;\r <b>Beet</b> is a crop with a thick round root. It is often used to feed animals, especially cows.  \r \r\r\r</span>",
+    "display_hwd": "beet",
+    "ext": "",
+    "hwd": "beet",
+    "phonetics": "英\r[bi:t]美\r[bit]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">甜菜根</span>",
+    "def_en": "<span class=\"endef\"><b>Beets</b> are dark red roots that are eaten as a vegetable. They are often preserved in vinegar.  \r \r\r\r</span>",
+    "display_hwd": "beet",
+    "ext": "",
+    "hwd": "beet",
+    "phonetics": "英\r[bi:t]美\r[bit]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

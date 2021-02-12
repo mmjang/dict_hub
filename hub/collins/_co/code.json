@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">行为准则;规则;法典;法规</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>code</b> is a set of rules about how people should behave or about how something must be done.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">密码;暗码;代码</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>code</b> is a system of replacing the words in a message with other words or symbols, so that nobody can understand it unless they know the system.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(邮政)编码;(电话)区号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>code</b> is a group of numbers or letters which is used to identify something, such as a postal address or part of a telephone system.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">信号;标记</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>code</b> is any system of signs or symbols that has a meaning.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(遗传)密码</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The genetic <b>code</b> of a person, animal or plant is the information contained in DNA which determines the structure and function of cells, and the inherited characteristics of all living things.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…编码(或编号)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>code</b> something means to give it a code or to mark it with its code.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">编码</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Computer <b>code</b> is a system or language for expressing information and instructions in a form which can be understood by a computer.  \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bar code\">bar code</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://Highway Code\">Highway Code</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://machine code\">machine code</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://morse code\">morse code</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://postcode\">postcode</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://zip code\">zip code</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "code",
+    "ext": "",
+    "hwd": "code",
+    "phonetics": "英\r[kəʊd]美\r[koʊd]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

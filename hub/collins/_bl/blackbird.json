@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">乌鸫（常见于欧洲）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>blackbird</b> is a common European bird. The male has black feathers and a yellow beak, and the female has brown feathers.  \r \r\r\r</span>",
+    "display_hwd": "blackbird",
+    "ext": "",
+    "hwd": "blackbird",
+    "phonetics": "英\r[ˈblækbɜ:d]美\r[ˈblækbɜrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">黑鹂（常见于北美洲）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>blackbird</b> is a common North American bird. The male has black feathers and often a red patch on its wings.  \r \r\r\r</span>",
+    "display_hwd": "blackbird",
+    "ext": "",
+    "hwd": "blackbird",
+    "phonetics": "英\r[ˈblækbɜ:d]美\r[ˈblækbɜrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

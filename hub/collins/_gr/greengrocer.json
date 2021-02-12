@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">蔬菜水果商</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>greengrocer</b> is a shopkeeper who sells fruit and vegetables.  \r \r\r\r</span>",
+    "display_hwd": "greengrocer",
+    "ext": "",
+    "hwd": "greengrocer",
+    "phonetics": "英\r[ˈgri:ngrəʊsə(r)]美\r[ˈgringroʊsə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">蔬菜水果店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>greengrocer</b> or a <b>greengrocer's</b> is a shop where fruit and vegetables are sold.  \r \r\r\r</span>",
+    "display_hwd": "greengrocer",
+    "ext": "",
+    "hwd": "greengrocer",
+    "phonetics": "英\r[ˈgri:ngrəʊsə(r)]美\r[ˈgringroʊsə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

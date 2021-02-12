@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">油煎;油炸;油炒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>fry</b> food, you cook it in a pan that contains hot fat or oil.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cook\">cook</a></b></span>",
+    "display_hwd": "fry",
+    "ext": "",
+    "hwd": "fry",
+    "phonetics": "英\r[fraɪ]美\r[fraɪ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鱼苗;鱼秧</span>",
+    "def_en": "<span class=\"endef\"><b>Fry</b> are very small, young fish.  \r \r\r\r</span>",
+    "display_hwd": "fry",
+    "ext": "",
+    "hwd": "fry",
+    "phonetics": "英\r[fraɪ]美\r[fraɪ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">fries 同 French fries</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://small fry\">small fry</a></b>;\r <b>Fries</b> are the same as <b>French fries</b>.  \r \r\r\r</span>",
+    "display_hwd": "fry",
+    "ext": "",
+    "hwd": "fry",
+    "phonetics": "英\r[fraɪ]美\r[fraɪ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指为尽快做好便饭)煎一下，炸一下</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fry-up\">fry-up</a></b>;\r If you <b>fry up</b> food, you fry it, especially in order to make a quick, casual meal.  \r \r\r\r</span>",
+    "display_hwd": "fry",
+    "ext": "",
+    "hwd": "fry",
+    "phonetics": "英\r[fraɪ]美\r[fraɪ]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

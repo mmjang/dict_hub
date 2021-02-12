@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">隐藏物,隐匿物(如军火)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cache</b> is a quantity of things such as weapons that have been hidden.  \r \r\r\r</span>",
+    "display_hwd": "cache",
+    "ext": "",
+    "hwd": "cache",
+    "phonetics": "英\r[kæʃ]美\r[kæʃ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">高速缓冲存储器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cache</b> or <b>cache memory</b> is an area of computer memory that is used for temporary storage of data and can be accessed more quickly than the main memory.  \r \r\r\r</span>",
+    "display_hwd": "cache",
+    "ext": "",
+    "hwd": "cache",
+    "phonetics": "英\r[kæʃ]美\r[kæʃ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

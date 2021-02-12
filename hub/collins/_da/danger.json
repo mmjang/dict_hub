@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">危险</span>",
+    "def_en": "<span class=\"endef\"><b>Danger</b> is the possibility that someone may be harmed or killed.  \r \r\r\r</span>",
+    "display_hwd": "danger",
+    "ext": "",
+    "hwd": "danger",
+    "phonetics": "英\r[ˈdeɪndʒə(r)]美\r[ˈdendʒɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">危险的事物（或人）；危害;威胁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>danger</b> is something or someone that can hurt or harm you.  \r \r\r\r</span>",
+    "display_hwd": "danger",
+    "ext": "",
+    "hwd": "danger",
+    "phonetics": "英\r[ˈdeɪndʒə(r)]美\r[ˈdendʒɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(不愉快之事发生的)可能性，风险</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is a <b>danger that</b> something unpleasant will happen, it is possible that it will happen.  \r \r\r\r</span>",
+    "display_hwd": "danger",
+    "ext": "",
+    "hwd": "danger",
+    "phonetics": "英\r[ˈdeɪndʒə(r)]美\r[ˈdendʒɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(病人）脱离危险</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone who has been seriously ill is <b>out of danger</b>, they are still ill, but they are not expected to die.  \r \r\r\r</span>",
+    "display_hwd": "danger",
+    "ext": "",
+    "hwd": "danger",
+    "phonetics": "英\r[ˈdeɪndʒə(r)]美\r[ˈdendʒɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

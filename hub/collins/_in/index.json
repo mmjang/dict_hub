@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">指数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>index</b> is a system by which changes in the value of something and the rate at which it changes can be recorded, measured, or interpreted.  \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">索引</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>index</b> is an alphabetical list that is printed at the back of a book and tells you on which pages important topics are referred to.  \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为(书等)编索引</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>index</b> a book or a collection of information, you make an alphabetical list of the items in it.  \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使(与…)相应挂钩;使指数化</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a quantity or value <b>is indexed to</b> another, a system is arranged so that it increases or decreases whenever the other one increases or decreases.  \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">标志;迹象;指标</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing is an <b>index of</b> another, it indicates what the other thing will be like.  \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(数学中的)指数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In mathematics, <b>indices</b> are the little numbers that show how many times you must multiply a number by itself. In the equation 32 = 9, the number 2 is an index.  \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://card index\">card index</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "index",
+    "ext": "",
+    "hwd": "index",
+    "phonetics": "英\r[ˈɪndeks]美\r[ˈɪnˌdɛks]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

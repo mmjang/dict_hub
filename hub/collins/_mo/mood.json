@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">心情;心境</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>mood</b> is the way you are feeling at a particular time. If you are <b>in</b> a good <b>mood</b>, you feel cheerful. If you are <b>in</b> a bad <b>mood</b>, you feel angry and impatient.  \r \r\r\r</span>",
+    "display_hwd": "mood",
+    "ext": "",
+    "hwd": "mood",
+    "phonetics": "英\r[mu:d]美\r[mud]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坏心情;坏脾气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>in a mood</b>, the way they are behaving shows that they are feeling angry and impatient.  \r \r\r\r</span>",
+    "display_hwd": "mood",
+    "ext": "",
+    "hwd": "mood",
+    "phonetics": "英\r[mu:d]美\r[mud]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（群体的）态度，心态，意愿</span>",
+    "def_en": "<span class=\"endef\"><b>The mood</b> of a group of people is the way that they think and feel about an idea, event, or question at a particular time.  \r \r\r\r</span>",
+    "display_hwd": "mood",
+    "ext": "",
+    "hwd": "mood",
+    "phonetics": "英\r[mu:d]美\r[mud]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">气氛;氛围</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>mood</b> of a place is the general impression that you get of it.  \r \r\r\r</span>",
+    "display_hwd": "mood",
+    "ext": "",
+    "hwd": "mood",
+    "phonetics": "英\r[mu:d]美\r[mud]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(语法中的)语气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, the <b>mood</b> of a clause is the way in which the verb forms are used to show whether the clause is, for example, a statement, a question, or an instruction.  \r \r\r\r</span>",
+    "display_hwd": "mood",
+    "ext": "",
+    "hwd": "mood",
+    "phonetics": "英\r[mu:d]美\r[mud]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

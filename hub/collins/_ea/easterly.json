@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">东的;向东的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>easterly</b> point, area, or direction is to the east or towards the east.  \r \r\r\r</span>",
+    "display_hwd": "easterly",
+    "ext": "",
+    "hwd": "easterly",
+    "phonetics": "英\r[ˈi:stəli]美\r[ˈistərli]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（风）从东方吹来的；东风的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>easterly</b> wind is a wind that blows from the east.  \r \r\r\r</span>",
+    "display_hwd": "easterly",
+    "ext": "",
+    "hwd": "easterly",
+    "phonetics": "英\r[ˈi:stəli]美\r[ˈistərli]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

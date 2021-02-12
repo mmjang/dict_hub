@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">红利;股息;股利</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dividend</b> is the part of a company's profits which is paid to people who have shares in the company.  \r \r\r\r</span>",
+    "display_hwd": "dividend",
+    "ext": "",
+    "hwd": "dividend",
+    "phonetics": "英\r[ˈdɪvɪdend]美\r[ˈdɪvɪˌdɛnd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有回报;产生效益</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>pays dividends</b>, it brings advantages at a later date.  \r \r\r\r</span>",
+    "display_hwd": "dividend",
+    "ext": "",
+    "hwd": "dividend",
+    "phonetics": "英\r[ˈdɪvɪdend]美\r[ˈdɪvɪˌdɛnd]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://peace dividend\">peace dividend</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "dividend",
+    "ext": "",
+    "hwd": "dividend",
+    "phonetics": "英\r[ˈdɪvɪdend]美\r[ˈdɪvɪˌdɛnd]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

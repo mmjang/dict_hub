@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">有趣的对比</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is a <b>counterpoint to</b> something else contrasts with it in a satisfying way.  \r \r\r\r</span>",
+    "display_hwd": "counterpoint",
+    "ext": "",
+    "hwd": "counterpoint",
+    "phonetics": "英\r[ˈkaʊntəpɔɪnt]美\r[ˈkaʊntərpɔɪnt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…形成有趣的对比</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>counterpoints</b> another, it contrasts with it in a satisfying way.  \r \r\r\r</span>",
+    "display_hwd": "counterpoint",
+    "ext": "",
+    "hwd": "counterpoint",
+    "phonetics": "英\r[ˈkaʊntəpɔɪnt]美\r[ˈkaʊntərpɔɪnt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(音乐的)对位法，对位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In music, <b>counterpoint</b> is a technique in which two or more different tunes are played together at the same time.  \r \r\r\r</span>",
+    "display_hwd": "counterpoint",
+    "ext": "",
+    "hwd": "counterpoint",
+    "phonetics": "英\r[ˈkaʊntəpɔɪnt]美\r[ˈkaʊntərpɔɪnt]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

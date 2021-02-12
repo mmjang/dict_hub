@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">排气扇；换气扇</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>extractor</b> or <b>extractor fan</b> is a device that is fixed to a window or wall to draw smells, steam, or hot air out of a room.  \r \r\r\r</span>",
+    "display_hwd": "extractor",
+    "ext": "",
+    "hwd": "extractor",
+    "phonetics": "英\r[ɪkˈstræktə(r)]美\r[ɪkˈstræktər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">榨汁机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>extractor</b> is a device that squeezes liquid out of something.  \r \r\r\r</span>",
+    "display_hwd": "extractor",
+    "ext": "",
+    "hwd": "extractor",
+    "phonetics": "英\r[ɪkˈstræktə(r)]美\r[ɪkˈstræktər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

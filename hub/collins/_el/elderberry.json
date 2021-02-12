@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">接骨木浆果</span>",
+    "def_en": "<span class=\"endef\"><b>Elderberries</b> are the edible black berries that grow on an elder bush or tree.  \r \r\r\r</span>",
+    "display_hwd": "elderberry",
+    "ext": "",
+    "hwd": "elderberry",
+    "phonetics": "英\r[ˈeldəberi]美\r[ˈeldərberi]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">接骨木</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>elderberry</b> is an elder bush or tree.  \r \r\r\r</span>",
+    "display_hwd": "elderberry",
+    "ext": "",
+    "hwd": "elderberry",
+    "phonetics": "英\r[ˈeldəberi]美\r[ˈeldərberi]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

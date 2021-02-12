@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">展览会;博览会</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>expo</b> is a large event where goods, especially industrial goods, are displayed.  \r \r\r\r</span>",
+    "display_hwd": "Expo",
+    "ext": "",
+    "hwd": "Expo",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">展览会;博览会</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>expo</b> is a large event where goods, especially industrial goods, are displayed.  \r \r\r\r</span>",
+    "display_hwd": "expo",
+    "ext": "",
+    "hwd": "expo",
+    "phonetics": "英\r['ekspəʊ]美\r[ˈɛkspo]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

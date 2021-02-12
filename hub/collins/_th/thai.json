@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">泰国的;泰国人的;泰语的;泰国文化的</span>",
+    "def_en": "<span class=\"endef\"><b>Thai</b> means belonging or relating to Thailand, or to its people, language, or culture.  \r \r\r\r</span>",
+    "display_hwd": "Thai",
+    "ext": "",
+    "hwd": "Thai",
+    "phonetics": "英\r[taɪ]美\r[taɪ]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">泰国人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Thai</b> is a citizen of Thailand, or a person of Thai origin.  \r \r\r\r</span>",
+    "display_hwd": "Thai",
+    "ext": "",
+    "hwd": "Thai",
+    "phonetics": "英\r[taɪ]美\r[taɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">泰语</span>",
+    "def_en": "<span class=\"endef\"><b>Thai</b> is the language spoken in Thailand.  \r \r\r\r</span>",
+    "display_hwd": "Thai",
+    "ext": "",
+    "hwd": "Thai",
+    "phonetics": "英\r[taɪ]美\r[taɪ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">食物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Food can be referred to as <b>chow</b> .  \r \r\r\r</span>",
+    "display_hwd": "chow",
+    "ext": "",
+    "hwd": "chow",
+    "phonetics": "英\r[tʃaʊ]美\r[tʃaʊ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">狮子狗;松狮犬</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chow</b> is a kind of dog that has a thick coat and a curled tail. Chows originally came from China.  \r \r\r\r</span>",
+    "display_hwd": "chow",
+    "ext": "",
+    "hwd": "chow",
+    "phonetics": "英\r[tʃaʊ]美\r[tʃaʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

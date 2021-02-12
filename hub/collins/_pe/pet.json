@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">宠物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pet</b> is an animal that you keep in your home to give you company and pleasure.  \r \r\r\r</span>",
+    "display_hwd": "pet",
+    "ext": "",
+    "hwd": "pet",
+    "phonetics": "英\r[pet]美\r[pɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">很喜欢的；钟爱的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>pet</b> theory, project, or subject is one that they particularly support or like.  \r \r\r\r</span>",
+    "display_hwd": "pet",
+    "ext": "",
+    "hwd": "pet",
+    "phonetics": "英\r[pet]美\r[pɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表示喜欢、友好的称呼）宝贝，乖乖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Some people call the person they are talking to '<b>pet</b>' to show affection or friendliness.  \r \r\r\r</span>",
+    "display_hwd": "pet",
+    "ext": "",
+    "hwd": "pet",
+    "phonetics": "英\r[pet]美\r[pɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">抚摸；（爱抚地）摩挲</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>pet</b> a person or animal, you touch them in an affectionate way.  \r \r\r\r</span>",
+    "display_hwd": "pet",
+    "ext": "",
+    "hwd": "pet",
+    "phonetics": "英\r[pet]美\r[pɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">已婚（状态）</span>",
+    "def_en": "<span class=\"endef\"><b>Wedlock</b> is the state of being married.  \r \r\r\r</span>",
+    "display_hwd": "wedlock",
+    "ext": "",
+    "hwd": "wedlock",
+    "phonetics": "英\r[ˈwedlɒk]美\r[ˈwedlɑk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（指孩子）婚生的/非婚生的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a baby is born <b>in wedlock</b>, it is born while its parents are married. If it is born <b>out of wedlock</b>, it is born at a time when its parents are not married.  \r \r\r\r</span>",
+    "display_hwd": "wedlock",
+    "ext": "",
+    "hwd": "wedlock",
+    "phonetics": "英\r[ˈwedlɒk]美\r[ˈwedlɑk]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

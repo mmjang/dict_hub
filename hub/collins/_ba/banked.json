@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（路段）一边高出的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>banked</b> stretch of road is higher on one side than the other.  \r \r\r\r</span>",
+    "display_hwd": "banked",
+    "ext": "",
+    "hwd": "banked",
+    "phonetics": "英\r[bæŋkt]美\r[bæŋkt]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">堆积的；高高积起的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a place is <b>banked with</b> something, it is piled high with that thing. If something is <b>banked up</b>, it is piled high.  \r \r\r\r</span>",
+    "display_hwd": "banked",
+    "ext": "",
+    "hwd": "banked",
+    "phonetics": "英\r[bæŋkt]美\r[bæŋkt]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（政府提供给失业者或病人的）直接转账救济支票</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>giro</b> or a <b>giro cheque</b> is a cheque that is given by the government to a person who is unemployed or ill.  \r \r\r\r</span>",
+    "display_hwd": "Giro",
+    "ext": "",
+    "hwd": "Giro",
+    "phonetics": "[ˈdʒairəu]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">银行（或邮局）直接转账体系</span>",
+    "def_en": "<span class=\"endef\"><b>Giro</b> is a system in which banks and post offices transfer money directly from one bank account to another using computers.  \r \r\r\r</span>",
+    "display_hwd": "Giro",
+    "ext": "",
+    "hwd": "Giro",
+    "phonetics": "[ˈdʒairəu]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（政府提供给失业者或病人的）直接转账救济支票</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>giro</b> or a <b>giro cheque</b> is a cheque that is given by the government to a person who is unemployed or ill.  \r \r\r\r</span>",
+    "display_hwd": "giro",
+    "ext": "",
+    "hwd": "giro",
+    "phonetics": "英\r[ˈdʒaɪrəʊ]美\r[ˈdʒaɪroʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">银行（或邮局）直接转账体系</span>",
+    "def_en": "<span class=\"endef\"><b>Giro</b> is a system in which banks and post offices transfer money directly from one bank account to another using computers.  \r \r\r\r</span>",
+    "display_hwd": "giro",
+    "ext": "",
+    "hwd": "giro",
+    "phonetics": "英\r[ˈdʒaɪrəʊ]美\r[ˈdʒaɪroʊ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

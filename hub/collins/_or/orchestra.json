@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">管弦乐队</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://chamber orchestra\">chamber orchestra</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://symphony orchestra\">symphony orchestra</a></b>;\r An <b>orchestra</b> is a large group of musicians who play a variety of different instruments together. Orchestras usually play classical music.  \r \r\r\r</span>",
+    "display_hwd": "orchestra",
+    "ext": "",
+    "hwd": "orchestra",
+    "phonetics": "英\r[ˈɔ:kɪstrə]美\r[ˈɔrkɪstrə]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（剧院或音乐厅的）正厅前排座位</span>",
+    "def_en": "<span class=\"endef\"><b>The orchestra</b> or <b>the orchestra seats</b> in a theatre or concert hall are the seats on the ground floor directly in front of the stage.  \r \r\r\r</span>",
+    "display_hwd": "orchestra",
+    "ext": "",
+    "hwd": "orchestra",
+    "phonetics": "英\r[ˈɔ:kɪstrə]美\r[ˈɔrkɪstrə]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

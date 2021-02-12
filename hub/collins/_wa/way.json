@@ -1,0 +1,942 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">方法;手段</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to a <b>way of</b> doing something, you are referring to how you can do it, for example the action you can take or the method you can use to achieve it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">方式;作风</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about the <b>way</b> someone does something, you are talking about the qualities their action has.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">形式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a general statement or description is true <b>in</b> a particular <b>way</b>, this is the form of it that is true in a particular case.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某个)方面;(某)点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>way</b> in expressions such as <b>in some ways</b> ,<b>in many ways</b>, and <b>in every way</b> to indicate the degree or extent to which a statement is true.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">习惯;习俗;行为方式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>ways</b> of a particular person or group of people are their customs or their usual behaviour.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">惯常的行为;作风</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone's <b>way</b>, you are referring to their usual or preferred type of behaviour.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">看法;角度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>way</b> to refer to one particular opinion or interpretation of something, when others are possible.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可能的后果;可能作出的决定</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>way</b> when mentioning one of a number of possible, alternative results or decisions.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">观点;态度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>way</b> you feel about something is your attitude to it or your opinion about it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">情况;状态</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you mention <b>the way</b> that something happens, you are mentioning the fact that it happens.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">行进;前进;进程</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>way</b> in expressions such as <b>push</b> your <b>way</b> ,<b>work</b> your <b>way</b>, or <b>eat</b> your <b>way</b>, followed by a prepositional phrase or adverb, in order to indicate movement, progress, or force as well as the action described by the verb.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">路线;路径</span>",
+    "def_en": "<span class=\"endef\"><b>The way</b> somewhere consists of the different places that you go through or the route that you take in order to get there.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">方向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you go or look a particular <b>way</b>, you go or look in that direction.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">行进方向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the direction you are travelling in as your <b>way</b> .  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(正确的)路径，道路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you lose your <b>way</b>, you take a wrong or unfamiliar route, so that you do not know how to get to the place that you want to go to. If you find your <b>way</b>, you manage to get to the place that you want to go to.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">生活道路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You talk about people going their different <b>ways</b> in order to say that their lives develop differently and they have less contact with each other.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">获得;收到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something comes your <b>way</b>, you get it or receive it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">行进路线；通路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something is in the <b>way</b>, they prevent you from moving forward or seeing clearly.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于道路名）…路</span>",
+    "def_en": "<span class=\"endef\"><b>Way</b> is used in the names of some roads, and also in the names of some long paths for walkers in the countryside.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某人居住地的）周边；特定的地区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>way</b> to refer to the area near where someone lives or near a specified place.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">位置;摆放</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>way</b> in expressions such as <b>the right way up</b> and <b>the other way around</b> to refer to one of two or more possible positions or arrangements that something can have.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">远远地;大大地;非常</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>way</b> to emphasize, for example, that something is a great distance away or is very much below or above a particular level or amount.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(分成的)部分</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you split something a number of <b>ways</b>, you divide it into a number of different parts or quantities, usually fairly equal in size.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">路程;距离</span>",
+    "def_en": "<span class=\"endef\"><b>Way</b> is used in expressions such as <b>a long way</b> ,<b>a little way</b>, and <b>quite a way</b>, to say how far away something is or how far you have travelled.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(时间的)距离</span>",
+    "def_en": "<span class=\"endef\"><b>Way</b> is used in expressions such as <b>a long way</b> ,<b>a little way</b>, and <b>quite a way</b>, to say how far away in time something is.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示动作完成的程度)全部/多半/一半</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>way</b> in expressions such as <b>all the way</b> ,<b>most of the way</b> and <b>half the way</b> to refer to the extent to which an action has been completed.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在街对面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>across the way</b>, it is nearby on the opposite side of a road or area.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(强调距离)一路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>all the way</b> to emphasize how long a distance is.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自始至终;一直</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>all the way</b> to emphasize that your remark applies to every part of a situation, activity, or period of time.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">事情就是这样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>as is the way</b> to say that a particular situation or example of behaviour is typical and you would not expect it to be different.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">病得很重;很不健康</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>in a bad way</b>, you mean that they are very ill or unhealthy.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大规模地；大肆地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something exists, happens, or develops <b>in a big way</b>, you are emphasizing its great extent or importance.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">二者不能兼得</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone says that you <b>can't have it both ways</b>, they are telling you that you have to choose between two things and cannot do or have them both.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">顺便地;附带说一句</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>by the way</b> when you add something to what you are saying, especially something that you have just thought of.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">作为…；以求…</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>by way of</b> when you are explaining the purpose of something that you have said or are about to say. For example, if you say something <b>by way of an introduction</b>, you say it as an introduction.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">采用…方法；通过</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>by way of</b> a particular method, you use that method to do it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">经由；取道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you go somewhere <b>by way of</b> a particular place, you go through that place in order to get to where you want.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(彻底地)改变</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>changes</b> their <b>ways</b> or <b>mends</b> their <b>ways</b>, they permanently improve their behaviour or their way of doing something.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">排除障碍;扫清道路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>clear the way</b> ,<b>open the way</b>, or <b>prepare the way</b> for something, you create an opportunity for it to happen.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(采取)最容易的办法，最省事的做法(以回避困难或尴尬处境)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone takes <b>the easy way out</b>, you disapprove of them because they do what is easiest for them in a difficult situation, rather than dealing with it properly.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(两种情况中)不论发生哪一种情况</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>either way</b> in order to introduce a statement which is true in each of the two possible or alternative cases that you have just mentioned.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出路;未来发展之路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a particular type of action or development is <b>the way forward</b>, you approve of it because it is likely to lead to success.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">想怎样就怎样;随心所欲</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>gets</b> their <b>way</b> or <b>has</b> their <b>way</b>, nobody stops them doing what they want to do. You can also say that someone <b>gets</b> their <b>own</b> way or <b>has</b> their <b>own way</b> .  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">被…替代</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>gives way to</b> another, the first thing is replaced by the second.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">断裂; 倒塌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an object that is supporting something <b>gives way</b>, it breaks or collapses, so that it can no longer support that thing.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向…让步;向…妥协</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>give way to</b> someone or something that you have been resisting, you stop resisting and allow yourself to be persuaded or controlled by them.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">让路;让其他人(或车辆)先行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a moving person, a vehicle, or its driver <b>gives way</b>, they slow down or stop in order to allow other people or vehicles to pass in front of them.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有…习惯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something <b>has a way of</b> doing a particular thing, you mean that they often do it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">善于与(某人或某事物)打交道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say hat a person <b>has a way with</b> something or someone, you mean that that person seems to have a natural skill or instinct for dealing with them.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">随你的便</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>have it your way</b> or <b>have it your own way</b>, you are telling someone in an annoyed way that you will agree with or accept their suggestion even though you do not think they are right.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">决不;一点也不</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in no way</b> or <b>not in any way</b> to emphasize that a statement is not at all true.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于缓和语气)在某种程度上，在某些方面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is true <b>in a way</b>, you mean that although it is not completely true, it is true to a limited extent or in certain respects. You use <b>in a way</b> to reduce the force of a statement.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">小规模地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone does something <b>in a small way</b>, you mean that although they do not do very much, their actions are useful or important.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">妨碍;碍事</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>gets in the way</b> or <b>is in the way</b>, you are annoyed because their presence or their actions stop you doing something properly.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阻碍;妨碍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>get in the way of</b> something means to make it difficult for it to happen, continue, or be appreciated properly.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…完全熟悉;通晓</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>know</b> your <b>way around</b> a particular subject, system, or job, or if you <b>know</b> your <b>way about</b> it, you know all the procedures and facts about it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">赚钱容易；轻轻松松赚大钱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is laughing all the way to the bank</b>, you mean that they are making a lot of money very easily.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">带路;领路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>lead the way</b> along a particular route, you go along it in front of someone in order to show them where to go.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">领先;走在前沿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or group <b>leads the way in</b> a particular activity, they are the first person or group to do it or they make the most new developments in it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">取得巨大进展;取得很多成就</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something <b>has come a long way</b>, you mean that they have developed, progressed, or become very successful.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示强调)远远地，大大地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>by a long way</b> to emphasize that something is, for example, much better, worse, or bigger than any other thing of that kind.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">离…还差得远</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>a long way from</b> being true, you are emphasizing that it is definitely not true.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(对…)大有帮助;(对…)有很大作用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>goes a long way towards</b> doing a particular thing, you mean that it is an important factor in achieving that thing.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">迷失;茫然;不知所措</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone has <b>lost</b> their <b>way</b>, you are criticizing them because they do not have any good ideas any more, or seem to have become unsure about what to do.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">去;前往</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>make</b> your <b>way</b> somewhere, you walk or travel there.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">被…取代;让位于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one person or thing <b>makes way for</b> another, the first is replaced by the second.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">没有可能</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>there's no way</b> that something will happen, you are emphasizing that you think it will definitely not happen.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">没门儿;不可能</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say <b>no way</b> as an emphatic way of saying no.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">关于;就…而言</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in the way of</b> or <b>by way of</b> in order to specify the kind of thing you are talking about.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在路上;在途中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are on</b> your <b>way</b>, you have started your journey somewhere.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">继续行程</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>go on</b> your <b>way</b>, you continue with your journey.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在过程中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>on the way</b> or <b>along the way</b>, it happens during the course of a particular event or process.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(大)有进展</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on</b> your <b>way</b> or <b>well on</b> your <b>way to</b> something, you have made so much progress that you are almost certain to achieve that thing.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">即将到来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>on the way</b>, it will arrive soon.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示某事一定发生)无论如何，不管怎样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>one way or another</b> or <b>one way or the other</b> when you want to say that something definitely happens, but without giving any details about how it happens.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(指之前提到的两个可能的决定或结论)无论哪个</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>one way or the other</b> or <b>one way or another</b> to refer to two possible decisions or conclusions that have previously been mentioned, without stating which one is reached or preferred.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不止一种意义;不单是这样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>in more ways than one</b> to indicate that what you have said is intended to have more than one meaning.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相反地;倒过来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>the other way around</b> or <b>the other way round</b> to refer to the opposite of what you have just said.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">行将消失;行将被取代</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone is <b>on the way out</b> or <b>on</b> their <b>way out</b>, they are likely to disappear or to be replaced very soon.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">特地;不怕麻烦;格外努力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>go out of</b> your <b>way to</b> do something, for example to help someone, you make a special effort to do it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">避开;不参加;不卷入</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep out of</b> someone's <b>way</b> or <b>stay out of</b> their <b>way</b>, you avoid them or do not get involved with them.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结束;被处理好;得到解决</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something is <b>out of the way</b>, it has finished or you have dealt with it, so that it is no longer a problem or needs no more time spent on it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">按自己的意愿行事</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>go</b> your <b>own way</b>, you do what you want rather than what everyone else does or expects.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同样;同理</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in the same way</b> to introduce a situation that you are comparing with one that you have just mentioned, because there is a strong similarity between them.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">顽固不变;不变通</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>set in</b> their <b>ways</b>, you mean that they have been behaving in the same way for many years and do not want to change.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于指刚才说过的话）那样，这样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>that way</b> and <b>this way</b> to refer to a statement or comment that you have just made.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于引出结果)那样，这样</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>that way</b> or <b>this way</b> to refer to an action or situation that you have just mentioned, when you go on to mention the likely consequence or effect of it.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从目前事情发展的情况看</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>the way things are going</b> to indicate that you expect something to happen because of the way the present situation is developing.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(提供个人意见)我觉得</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You add <b>to</b> my <b>way of thinking</b> to a statement in order to indicate that you are giving your opinion.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毫无疑问；千真万确</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that there are <b>no two ways about it</b>, you are emphasizing that there is no doubt at all about a particular situation or about how it should be interpreted.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在进行中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an activity or plan is <b>under way</b>, it has begun and is now taking place.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以各种方式；采用各种方式</span>",
+    "def_en": "<span class=\"endef\"><b>Every which way</b> and <b>any which way</b> are used to emphasize that something happens, or might happen, in a lot of different ways, or using a lot of different methods.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(强调位置和方向的混乱)向四面八方，杂乱地</span>",
+    "def_en": "<span class=\"endef\"><b>Every which way</b> is used to emphasize that things move in a lot of different directions or are arranged in a lot of different positions.  \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto see <b>the error of</b> your <b>ways</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://error\">error</a></b>; \rto look the other way<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://look\">look</a></b>; \r \r\r\r</span>",
+    "display_hwd": "way",
+    "ext": "",
+    "hwd": "way",
+    "phonetics": "英\r[weɪ]美\r[we]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

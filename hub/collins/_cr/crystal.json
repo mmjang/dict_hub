@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">结晶;晶体</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://liquid crystal\">liquid crystal</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://liquid crystal display\">liquid crystal display</a></b>;\r A <b>crystal</b> is a small piece of a substance that has formed naturally into a regular symmetrical shape.  \r \r\r\r</span>",
+    "display_hwd": "crystal",
+    "ext": "",
+    "hwd": "crystal",
+    "phonetics": "英\r[ˈkrɪstl]美\r[ˈkrɪstəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">水晶</span>",
+    "def_en": "<span class=\"endef\"><b>Crystal</b> is a transparent rock that is used to make jewellery and ornaments.  \r \r\r\r</span>",
+    "display_hwd": "crystal",
+    "ext": "",
+    "hwd": "crystal",
+    "phonetics": "英\r[ˈkrɪstl]美\r[ˈkrɪstəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">水晶玻璃</span>",
+    "def_en": "<span class=\"endef\"><b>Crystal</b> is a high quality glass, usually with patterns cut into its surface.  \r \r\r\r</span>",
+    "display_hwd": "crystal",
+    "ext": "",
+    "hwd": "crystal",
+    "phonetics": "英\r[ˈkrɪstl]美\r[ˈkrɪstəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">水晶玻璃杯;水晶玻璃容器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Glasses and other containers made of crystal are referred to as <b>crystal</b> .  \r \r\r\r</span>",
+    "display_hwd": "crystal",
+    "ext": "",
+    "hwd": "crystal",
+    "phonetics": "英\r[ˈkrɪstl]美\r[ˈkrɪstəl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

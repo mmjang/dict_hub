@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">主教</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bishop</b> is a clergyman of high rank in the Roman Catholic, Anglican, and Orthodox churches.  \r \r\r\r</span>",
+    "display_hwd": "bishop",
+    "ext": "",
+    "hwd": "bishop",
+    "phonetics": "英\r[ˈbɪʃəp]美\r[ˈbɪʃəp]",
+    "phrase": "",
+    "sense": "n-count; n-title; n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（国际象棋中的）象</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In chess a <b>bishop</b> is a piece that can be moved diagonally across the board on squares that are the same colour.  \r \r\r\r</span>",
+    "display_hwd": "bishop",
+    "ext": "",
+    "hwd": "bishop",
+    "phonetics": "英\r[ˈbɪʃəp]美\r[ˈbɪʃəp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

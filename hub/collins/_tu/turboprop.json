@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">涡轮螺旋桨发动机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>turboprop</b> is a turbine engine that makes an aircraft propeller go round.  \r \r\r\r</span>",
+    "display_hwd": "turboprop",
+    "ext": "",
+    "hwd": "turboprop",
+    "phonetics": "英\r[ˈtɜ:bəʊprɒp]美\r[ˈtɜrboʊprɑp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">涡轮螺旋桨飞机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>turboprop</b> is an aircraft with one or more turboprops.  \r \r\r\r</span>",
+    "display_hwd": "turboprop",
+    "ext": "",
+    "hwd": "turboprop",
+    "phonetics": "英\r[ˈtɜ:bəʊprɒp]美\r[ˈtɜrboʊprɑp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

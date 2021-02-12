@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(戏剧、电影)剧本;(电视节目)广播稿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>script</b> of a play, film, or television programme is the written version of it.  \r \r\r\r</span>",
+    "display_hwd": "script",
+    "ext": "",
+    "hwd": "script",
+    "phonetics": "英\r[skrɪpt]美\r[skrɪpt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为(电影等)写剧本;为(广播、电视节目)撰稿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The person who <b>scripts</b> a film or a radio or television play writes it.  \r \r\r\r</span>",
+    "display_hwd": "script",
+    "ext": "",
+    "hwd": "script",
+    "phonetics": "英\r[skrɪpt]美\r[skrɪpt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(一种语言的)书写系统，字母表</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a particular system of writing as a particular <b>script</b> .  \r \r\r\r</span>",
+    "display_hwd": "script",
+    "ext": "",
+    "hwd": "script",
+    "phonetics": "英\r[skrɪpt]美\r[skrɪpt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">期待;计划</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something which has happened is not in <b>the script</b>, or that someone has not followed <b>the script</b>, you mean that something has happened which was not expected or intended to happen.  \r \r\r\r</span>",
+    "display_hwd": "script",
+    "ext": "",
+    "hwd": "script",
+    "phonetics": "英\r[skrɪpt]美\r[skrɪpt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

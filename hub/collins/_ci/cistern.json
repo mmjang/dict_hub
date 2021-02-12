@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(大楼的)蓄水箱，水塔;(抽水马桶的)水箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cistern</b> is a container which stores the water supply for a building, or that holds the water for flushing a toilet.  \r \r\r\r</span>",
+    "display_hwd": "cistern",
+    "ext": "",
+    "hwd": "cistern",
+    "phonetics": "英\r[ˈsɪstən]美\r[ˈsɪstərn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（贮存雨水的）地下蓄水罐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cistern</b> is a container for storing rain water.  \r \r\r\r</span>",
+    "display_hwd": "cistern",
+    "ext": "",
+    "hwd": "cistern",
+    "phonetics": "英\r[ˈsɪstən]美\r[ˈsɪstərn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">大学;学院;专科学校</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>college</b> is an institution where students study after they have left school.  \r \r\r\r</span>",
+    "display_hwd": "college",
+    "ext": "",
+    "hwd": "college",
+    "phonetics": "英\r[ˈkɒlɪdʒ]美\r[ˈkɑlɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(英国某些大学设立的)学院</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>college</b> is one of the institutions which some British universities are divided into.  \r \r\r\r</span>",
+    "display_hwd": "college",
+    "ext": "",
+    "hwd": "college",
+    "phonetics": "英\r[ˈkɒlɪdʒ]美\r[ˈkɑlɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(美国某些大学的专科)学院</span>",
+    "def_en": "<span class=\"endef\">\r\r\r At some universities in the United States, <b>colleges</b> are divisions which offer degrees in particular subjects.  \r \r\r\r</span>",
+    "display_hwd": "college",
+    "ext": "",
+    "hwd": "college",
+    "phonetics": "英\r[ˈkɒlɪdʒ]美\r[ˈkɑlɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于英国某些收费中学的名称中)中学，公学</span>",
+    "def_en": "<span class=\"endef\"><b>College</b> is used in Britain in the names of some secondary schools which charge fees.  \r \r\r\r</span>",
+    "display_hwd": "college",
+    "ext": "",
+    "hwd": "college",
+    "phonetics": "英\r[ˈkɒlɪdʒ]美\r[ˈkɑlɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">学会;协会;社团</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>college</b> of a particular kind is an organized group of people who have special duties and powers.  \r \r\r\r</span>",
+    "display_hwd": "college",
+    "ext": "",
+    "hwd": "college",
+    "phonetics": "英\r[ˈkɒlɪdʒ]美\r[ˈkɑlɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

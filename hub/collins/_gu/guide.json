@@ -1,0 +1,132 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）女童子军（美国为Girl Scout）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, <b>the Guides</b> is an organization for girls which teaches them to become practical and independent. The Guides used to be called the Girl Guides. In the United States, there is a similar organization called the <b>Girl Scouts</b>.  \r \r\r\r</span>",
+    "display_hwd": "Guide",
+    "ext": "",
+    "hwd": "Guide",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）女童子军成员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>Guide</b> is a girl who is a member of the Guides.  \r \r\r\r</span>",
+    "display_hwd": "Guide",
+    "ext": "",
+    "hwd": "Guide",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">指南；手册</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guide</b> is a book that gives you information or instructions to help you do or understand something.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">旅行指南</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guide</b> is a book that gives tourists information about a town, area, or country.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">导游</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guide</b> is someone who shows tourists around places such as museums or cities.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…当导游；带…参观</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://guided tour\">guided tour</a></b>;\r If you <b>guide</b> someone around a city, museum, or building, you show it to them and explain points of interest.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向导</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guide</b> is someone who shows people the way to a place in a difficult or dangerous region.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">指导原则；准则</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guide</b> is something that can be used to help you plan your actions or to form an opinion about something.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…带路；为…引路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>guide</b> someone somewhere,  you go there with them in order to show them the way.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驾驶（交通工具）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>guide</b> a vehicle somewhere, you control it carefully to make sure that it goes in the right direction.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…指明方向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>guides</b> you somewhere, it gives you the information you need in order to go in the right direction.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">指导；影响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone <b>guides</b> you, they influence your actions or decisions.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">指导；指引</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>guide</b> someone through something that is difficult to understand or to achieve, you help them to understand it or to achieve success in it.  \r \r\r\r</span>",
+    "display_hwd": "guide",
+    "ext": "",
+    "hwd": "guide",
+    "phonetics": "英\r[gaɪd]美\r[ɡaɪd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

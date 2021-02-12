@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">气道；呼吸道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person's <b>airways</b> are the passages from their nose and mouth down to their lungs, through which air enters and leaves their body.  \r \r\r\r</span>",
+    "display_hwd": "airway",
+    "ext": "",
+    "hwd": "airway",
+    "phonetics": "英\r[ˈeəweɪ]美\r[ˈerweɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">航空路线；航线</span>",
+    "def_en": "<span class=\"endef\"><b>The airways</b> are all the routes that planes can travel along.  \r \r\r\r</span>",
+    "display_hwd": "airway",
+    "ext": "",
+    "hwd": "airway",
+    "phonetics": "英\r[ˈeəweɪ]美\r[ˈerweɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同airwaves</span>",
+    "def_en": "<span class=\"endef\"><b>Airways</b> means the same as <b>airwaves</b> .  \r \r\r\r</span>",
+    "display_hwd": "airway",
+    "ext": "",
+    "hwd": "airway",
+    "phonetics": "英\r[ˈeəweɪ]美\r[ˈerweɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

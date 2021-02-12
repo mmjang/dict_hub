@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">母校</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>alma mater</b> is the school or university which you went to.  \r \r\r\r</span>",
+    "display_hwd": "alma mater",
+    "ext": "",
+    "hwd": "alma mater",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">校歌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A school or college's <b>alma mater</b> is its official song.  \r \r\r\r</span>",
+    "display_hwd": "alma mater",
+    "ext": "",
+    "hwd": "alma mater",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

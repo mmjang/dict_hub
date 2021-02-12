@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">双桅方帆船</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>brig</b> is a type of ship with two masts and square sails.  \r \r\r\r</span>",
+    "display_hwd": "brig",
+    "ext": "",
+    "hwd": "brig",
+    "phonetics": "英\r[brɪg]美\r[brɪɡ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指战船上的）牢房</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>brig</b> is a prison on a ship, especially a warship.  \r \r\r\r</span>",
+    "display_hwd": "brig",
+    "ext": "",
+    "hwd": "brig",
+    "phonetics": "英\r[brɪg]美\r[brɪɡ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

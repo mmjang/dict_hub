@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指为某一特定目的给予的)资金，钱款</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fund-raising\">fund-raising</a></b>;\r <b>Funds</b> are amounts of money that are available to be spent, especially money that is given to an organization or person for a particular purpose.  \r \r\r\r</span>",
+    "display_hwd": "-funded",
+    "ext": "",
+    "hwd": "-funded",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某一特定的)基金，专款</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://trust fund\">trust fund</a></b>;\r A <b>fund</b> is an amount of money that is collected or saved for a particular purpose.  \r \r\r\r</span>",
+    "display_hwd": "-funded",
+    "ext": "",
+    "hwd": "-funded",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">资助;为…提供资金</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a person or organization <b>funds</b> something, they provide money for it.  \r \r\r\r</span>",
+    "display_hwd": "-funded",
+    "ext": "",
+    "hwd": "-funded",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大量;充足</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have a <b>fund of</b> something, you have a lot of it.  \r \r\r\r</span>",
+    "display_hwd": "-funded",
+    "ext": "",
+    "hwd": "-funded",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

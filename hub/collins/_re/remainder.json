@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">剩余部分;剩余物;余下的人(或物)</span>",
+    "def_en": "<span class=\"endef\"><b>The remainder of</b> a group are the things or people that still remain after the other things or people have gone or have been dealt with.  \r \r\r\r</span>",
+    "display_hwd": "remainder",
+    "ext": "",
+    "hwd": "remainder",
+    "phonetics": "英\r[rɪˈmeɪndə(r)]美\r[rɪˈmendɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ quant\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(算术中的)余数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In arithmetic, <b>the remainder</b> is the amount that remains when one amount cannot be exactly divided by another. For example, if you divide 22 by 7, the answer is 3 and the remainder is 1.  \r \r\r\r</span>",
+    "display_hwd": "remainder",
+    "ext": "",
+    "hwd": "remainder",
+    "phonetics": "英\r[rɪˈmeɪndə(r)]美\r[rɪˈmendɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(因为滞销而)廉价出售（图书）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a book <b>is remaindered</b>, it is sold at a reduced price because it has not been selling very well and will not be published again.  \r \r\r\r</span>",
+    "display_hwd": "remainder",
+    "ext": "",
+    "hwd": "remainder",
+    "phonetics": "英\r[rɪˈmeɪndə(r)]美\r[rɪˈmendɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">廉价销售的书</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>remainder</b> is a book that has been remaindered.  \r \r\r\r</span>",
+    "display_hwd": "remainder",
+    "ext": "",
+    "hwd": "remainder",
+    "phonetics": "英\r[rɪˈmeɪndə(r)]美\r[rɪˈmendɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

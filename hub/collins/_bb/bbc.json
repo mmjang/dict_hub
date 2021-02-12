@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">英国广播公司</span>",
+    "def_en": "<span class=\"endef\"><b>The BBC</b> is a British organization which broadcasts programmes on radio and television. <b>BBC</b> is an abbreviation for (缩略=) 'British Broadcasting Corporation'.  \r \r\r\r</span>",
+    "display_hwd": "BBC",
+    "ext": "",
+    "hwd": "BBC",
+    "phonetics": "英\r[ˌbi:bi:ˈsi:]美\r[ˌbibi'si]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">英国广播公司的电视频道（或广播电台）</span>",
+    "def_en": "<span class=\"endef\"><b>BBC</b> is used to refer to television channels and radio stations that are run by the BBC.  \r \r\r\r</span>",
+    "display_hwd": "BBC",
+    "ext": "",
+    "hwd": "BBC",
+    "phonetics": "英\r[ˌbi:bi:ˈsi:]美\r[ˌbibi'si]",
+    "phrase": "",
+    "sense": "n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

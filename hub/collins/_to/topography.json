@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">地形学;地形测量学</span>",
+    "def_en": "<span class=\"endef\"><b>Topography</b> is the study and description of the physical features of an area, for example its hills, valleys, or rivers, or the representation of these features on maps.  \r \r\r\r</span>",
+    "display_hwd": "topography",
+    "ext": "",
+    "hwd": "topography",
+    "phonetics": "英\r[təˈpɒgrəfi]美\r[təˈpɑgrəfi]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">地形；地貌；地势</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>topography</b> of a particular area is its physical shape, including its hills, valleys, and rivers.  \r \r\r\r</span>",
+    "display_hwd": "topography",
+    "ext": "",
+    "hwd": "topography",
+    "phonetics": "英\r[təˈpɒgrəfi]美\r[təˈpɑgrəfi]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">邮政编码</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>zip code</b> is a short sequence of letters and numbers at the end of your address, which helps the post office to sort the mail.  \r \r\r\r</span>",
+    "display_hwd": "zip code",
+    "ext": "",
+    "hwd": "zip code",
+    "phonetics": "英\r[zipkəud]美\r[zɪpkod]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

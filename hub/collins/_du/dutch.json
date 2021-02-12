@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">荷兰的;荷兰语的;荷兰人的</span>",
+    "def_en": "<span class=\"endef\"><b>Dutch</b> means belonging or relating to the Netherlands, or to its people, language, or culture.  \r \r\r\r</span>",
+    "display_hwd": "Dutch",
+    "ext": "",
+    "hwd": "Dutch",
+    "phonetics": "英\r[dʌtʃ]美\r[dʌtʃ]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">荷兰人</span>",
+    "def_en": "<span class=\"endef\"><b>The Dutch</b> are the people of the Netherlands.  \r \r\r\r</span>",
+    "display_hwd": "Dutch",
+    "ext": "",
+    "hwd": "Dutch",
+    "phonetics": "英\r[dʌtʃ]美\r[dʌtʃ]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">荷兰语</span>",
+    "def_en": "<span class=\"endef\"><b>Dutch</b> is the language that is spoken by the people who live in the Netherlands.  \r \r\r\r</span>",
+    "display_hwd": "Dutch",
+    "ext": "",
+    "hwd": "Dutch",
+    "phonetics": "英\r[dʌtʃ]美\r[dʌtʃ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">各付各的账;平摊费用;AA 制</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two or more people <b>go Dutch</b>, each of them pays their own bill, for example in a restaurant.  \r \r\r\r</span>",
+    "display_hwd": "Dutch",
+    "ext": "",
+    "hwd": "Dutch",
+    "phonetics": "英\r[dʌtʃ]美\r[dʌtʃ]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">书签</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bookmark</b> is a narrow piece of card or leather that you put between the pages of a book so that you can find a particular page easily.  \r \r\r\r</span>",
+    "display_hwd": "bookmark",
+    "ext": "",
+    "hwd": "bookmark",
+    "phonetics": "英\r[ˈbʊkmɑ:k]美\r[ˈbʊkmɑrk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（记录因特网网址的）书签</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, a <b>bookmark</b> is the address of an Internet site that you put into a list on your computer so that you can return to it easily.  \r \r\r\r</span>",
+    "display_hwd": "bookmark",
+    "ext": "",
+    "hwd": "bookmark",
+    "phonetics": "英\r[ˈbʊkmɑ:k]美\r[ˈbʊkmɑrk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">录像带;录影带</span>",
+    "def_en": "<span class=\"endef\"><b>Videotape</b> is magnetic tape that is used to record moving pictures and sounds to be shown on television.  \r \r\r\r</span>",
+    "display_hwd": "videotape",
+    "ext": "",
+    "hwd": "videotape",
+    "phonetics": "英\r[ˈvɪdiəʊteɪp]美\r[ˈvɪdioʊteɪp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同video cassette</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>videotape</b> is the same as a <b>video cassette</b> .  \r \r\r\r</span>",
+    "display_hwd": "videotape",
+    "ext": "",
+    "hwd": "videotape",
+    "phonetics": "英\r[ˈvɪdiəʊteɪp]美\r[ˈvɪdioʊteɪp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…录在录像带上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>videotape</b> a television programme or event, you record it on tape using a video recorder or video camera, so that you can watch it later.  \r \r\r\r</span>",
+    "display_hwd": "videotape",
+    "ext": "",
+    "hwd": "videotape",
+    "phonetics": "英\r[ˈvɪdiəʊteɪp]美\r[ˈvɪdioʊteɪp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

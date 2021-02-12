@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(大学、教会、银行等)(大型)机构</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>institution</b> is a large important organization such as a university, church, or bank.  \r \r\r\r</span>",
+    "display_hwd": "institution",
+    "ext": "",
+    "hwd": "institution",
+    "phonetics": "英\r[ˌɪnstɪˈtju:ʃn]美\r[ˌɪnstɪˈtuʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(精神病院、孤儿院等)社会收容机构</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>institution</b> is a building where certain people are looked after, for example people who are mentally ill or children who have no parents.  \r \r\r\r</span>",
+    "display_hwd": "institution",
+    "ext": "",
+    "hwd": "institution",
+    "phonetics": "英\r[ˌɪnstɪˈtju:ʃn]美\r[ˌɪnstɪˈtuʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">习俗;制度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>institution</b> is a custom or system that is considered an important or typical feature of a particular society or group, usually because it has existed for a long time.  \r \r\r\r</span>",
+    "display_hwd": "institution",
+    "ext": "",
+    "hwd": "institution",
+    "phonetics": "英\r[ˌɪnstɪˈtju:ʃn]美\r[ˌɪnstɪˈtuʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">建立;设立;制定</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>institution</b> of a new system is the act of starting it or bringing it in.  \r \r\r\r</span>",
+    "display_hwd": "institution",
+    "ext": "",
+    "hwd": "institution",
+    "phonetics": "英\r[ˌɪnstɪˈtju:ʃn]美\r[ˌɪnstɪˈtuʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

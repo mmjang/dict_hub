@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">螺旋(形)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>spiral</b> is a shape which winds round and round, with each curve above or outside the previous one.  \r \r\r\r</span>",
+    "display_hwd": "spiral",
+    "ext": "",
+    "hwd": "spiral",
+    "phonetics": "英\r[ˈspaɪrəl]美\r[ˈspaɪrəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)盘旋着生长(或移动)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>spirals</b> or <b>is spiralled</b> somewhere, it grows or moves in a spiral curve.  \r \r\r\r</span>",
+    "display_hwd": "spiral",
+    "ext": "",
+    "hwd": "spiral",
+    "phonetics": "英\r[ˈspaɪrəl]美\r[ˈspaɪrəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(数量、水平)急遽增长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If  an amount or level <b>spirals</b>, it rises quickly and at an increasing rate.  \r \r\r\r</span>",
+    "display_hwd": "spiral",
+    "ext": "",
+    "hwd": "spiral",
+    "phonetics": "英\r[ˈspaɪrəl]美\r[ˈspaɪrəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(数量、水平)急遽变化</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an amount or level <b>spirals</b> downwards, it falls quickly and at an increasing rate.  \r \r\r\r</span>",
+    "display_hwd": "spiral",
+    "ext": "",
+    "hwd": "spiral",
+    "phonetics": "英\r[ˈspaɪrəl]美\r[ˈspaɪrəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

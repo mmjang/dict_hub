@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">不履行;未支付</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person, company, or country <b>defaults on</b> something that they have legally agreed to do, such as paying some money or doing a piece of work before a particular time, they fail to do it.  \r \r\r\r</span>",
+    "display_hwd": "default",
+    "ext": "",
+    "hwd": "default",
+    "phonetics": "英\r[dɪˈfɔ:lt]美\r[dɪˈfɔlt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">默认的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>default</b> situation is what exists or happens unless someone or something changes it.  \r \r\r\r</span>",
+    "display_hwd": "default",
+    "ext": "",
+    "hwd": "default",
+    "phonetics": "英\r[dɪˈfɔ:lt]美\r[dɪˈfɔlt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">默认值;缺省指令</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, the <b>default</b> is a particular set of instructions which the computer always uses unless the person using the computer gives other instructions.  \r \r\r\r</span>",
+    "display_hwd": "default",
+    "ext": "",
+    "hwd": "default",
+    "phonetics": "英\r[dɪˈfɔ:lt]美\r[dɪˈfɔlt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(事情的发生)自动地(因可能阻止或改变结果之事未发生)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>by default</b>, it happens only because something else which might have prevented it or changed it has not happened.  \r \r\r\r</span>",
+    "display_hwd": "default",
+    "ext": "",
+    "hwd": "default",
+    "phonetics": "英\r[dɪˈfɔ:lt]美\r[dɪˈfɔlt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">因…未发生;因…不可能</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>in default of</b> something else, it happens because that other thing does not happen or proves to be impossible.  \r \r\r\r</span>",
+    "display_hwd": "default",
+    "ext": "",
+    "hwd": "default",
+    "phonetics": "英\r[dɪˈfɔ:lt]美\r[dɪˈfɔlt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

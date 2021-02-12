@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（美国的）女童子军</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, <b>the Girl Scouts</b> is an organization similar to <b>the Guides</b>.  \r \r\r\r</span>",
+    "display_hwd": "Girl Scout",
+    "ext": "",
+    "hwd": "Girl Scout",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国的）女童子军成员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, a <b>Girl Scout</b> is a girl who is a member of the Girl Scouts.  \r \r\r\r</span>",
+    "display_hwd": "Girl Scout",
+    "ext": "",
+    "hwd": "Girl Scout",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

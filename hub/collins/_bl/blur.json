@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">模糊形状；模糊的区域</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>blur</b> is a shape or area which you cannot see clearly because it has no distinct outline or because it is moving very fast.  \r \r\r\r</span>",
+    "display_hwd": "blur",
+    "ext": "",
+    "hwd": "blur",
+    "phonetics": "英\r[blɜ:(r)]美\r[blɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（使）变得模糊不清</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a thing <b>blurs</b> or when something <b>blurs</b> it, you cannot see it clearly because its edges are no longer distinct.  \r \r\r\r</span>",
+    "display_hwd": "blur",
+    "ext": "",
+    "hwd": "blur",
+    "phonetics": "英\r[blɜ:(r)]美\r[blɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使（想法、区别等）模糊；使（想法、区别等）不明晰</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>blurs</b> an idea or a distinction between things, that idea or distinction no longer seems clear.  \r \r\r\r</span>",
+    "display_hwd": "blur",
+    "ext": "",
+    "hwd": "blur",
+    "phonetics": "英\r[blɜ:(r)]美\r[blɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（使）（视力）模糊；（使）看不清楚</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If your vision <b>blurs</b>, or if something <b>blurs</b> it, you cannot see things clearly.  \r \r\r\r</span>",
+    "display_hwd": "blur",
+    "ext": "",
+    "hwd": "blur",
+    "phonetics": "英\r[blɜ:(r)]美\r[blɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

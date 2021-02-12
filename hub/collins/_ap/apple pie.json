@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">苹果派</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>apple pie</b> is a kind of pie made with apples.  \r \r\r\r</span>",
+    "display_hwd": "apple pie",
+    "ext": "",
+    "hwd": "apple pie",
+    "phonetics": "英\r[ˈæplpai]美\r[ˈæpəlpaɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">整整齐齐的;井井有条的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a room or a desk is <b>in apple pie order</b>, it is neat and tidy, and everything is where it should be.  \r \r\r\r</span>",
+    "display_hwd": "apple pie",
+    "ext": "",
+    "hwd": "apple pie",
+    "phonetics": "英\r[ˈæplpai]美\r[ˈæpəlpaɪ]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">十足美国味的；地道美国式的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>as American as apple pie</b>, you mean that it is typically American.  \r \r\r\r</span>",
+    "display_hwd": "apple pie",
+    "ext": "",
+    "hwd": "apple pie",
+    "phonetics": "英\r[ˈæplpai]美\r[ˈæpəlpaɪ]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

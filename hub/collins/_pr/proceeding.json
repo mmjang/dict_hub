@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">诉讼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Legal <b>proceedings</b> are legal action taken against someone.  \r \r\r\r</span>",
+    "display_hwd": "proceeding",
+    "ext": "",
+    "hwd": "proceeding",
+    "phonetics": "英\r[prəˈsi:dɪŋ]美\r[proˈsidɪŋ,prə-]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（有组织的一系列）活动，事件，行动</span>",
+    "def_en": "<span class=\"endef\"><b>The proceedings</b> are an organized series of events that take place in a particular place.  \r \r\r\r</span>",
+    "display_hwd": "proceeding",
+    "ext": "",
+    "hwd": "proceeding",
+    "phonetics": "英\r[prəˈsi:dɪŋ]美\r[proˈsidɪŋ,prə-]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（会议）记录</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a written record of the discussions at a meeting or conference as <b>the proceedings</b>.  \r \r\r\r</span>",
+    "display_hwd": "proceeding",
+    "ext": "",
+    "hwd": "proceeding",
+    "phonetics": "英\r[prəˈsi:dɪŋ]美\r[proˈsidɪŋ,prə-]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

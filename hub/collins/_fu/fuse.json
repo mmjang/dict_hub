@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">保险丝;熔丝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fuse</b> is a safety device in an electric plug or circuit. It contains a piece of wire which melts when there is a fault so that the flow of electricity stops.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(电器等)因保险丝熔断而停止工作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When an electric device <b>fuses</b> or when you <b>fuse</b> it, it stops working because of a fault.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">导火线;引信;信管</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fuse</b> is a device on a bomb or firework which delays the explosion so that people can move a safe distance away.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)熔接;(使)熔合;(使)结合</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When things <b>fuse</b> or <b>are fused</b>, they join together physically or chemically, usually to become one thing. You can also say that one thing <b>fuses</b> with another.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-recip-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(不同特质、思想等)合二为一，合为一体</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>fuses</b> two different qualities, ideas, or things, or if they <b>fuse</b>, they join together, especially in order to form a pleasing or satisfactory combination.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-recip-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">勃然大怒;大发雷霆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>blow a fuse</b>, you suddenly become very angry and are unable to stay calm.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(突然)触发，启动，激活</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something <b>lights the fuse</b> of a particular situation or activity, they suddenly get it started.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">容易发怒;动辄发火</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>has a short fuse</b> or is <b>on a short fuse</b> you mean that they are quick to react angrily when something goes wrong.  \r \r\r\r</span>",
+    "display_hwd": "fuse",
+    "ext": "",
+    "hwd": "fuse",
+    "phonetics": "英\r[fju:z]美\r[fjuz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(使)杂交;杂交繁育</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one species of animal or plant <b>cross-breeds with</b> another, they reproduce, and new or different animals or plants are produced. You can also say that someone <b>cross-breeds</b> something such as an animal or plant.  \r \r\r\r</span>",
+    "display_hwd": "crossbreed",
+    "ext": "",
+    "hwd": "crossbreed",
+    "phonetics": "英\r['krɔ:sbri:d]美\r[ˈkrɔsˌbrid,ˈkrɑs-]",
+    "phrase": "",
+    "sense": "v-recip-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(动物的)杂交品种</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cross-breed</b> is an animal that is the result of cross-breeding.  \r \r\r\r</span>",
+    "display_hwd": "crossbreed",
+    "ext": "",
+    "hwd": "crossbreed",
+    "phonetics": "英\r['krɔ:sbri:d]美\r[ˈkrɔsˌbrid,ˈkrɑs-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">第十亿（个）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>billionth</b> item in a series is the one you count as number one billion.  \r \r\r\r</span>",
+    "display_hwd": "billionth",
+    "ext": "",
+    "hwd": "billionth",
+    "phonetics": "英\r['bɪljənθ]美\r[ˈbɪljənθ]",
+    "phrase": "",
+    "sense": "ord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">十亿分之一</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>billionth</b> is one of a billion equal parts of something.  \r \r\r\r</span>",
+    "display_hwd": "billionth",
+    "ext": "",
+    "hwd": "billionth",
+    "phonetics": "英\r['bɪljənθ]美\r[ˈbɪljənθ]",
+    "phrase": "",
+    "sense": "fraction\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(大学或学院的)学生;大学生</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mature student\">mature student</a></b>;\r A <b>student</b> is a person who is studying at a university or college.  \r \r\r\r</span>",
+    "display_hwd": "student",
+    "ext": "",
+    "hwd": "student",
+    "phonetics": "英\r[ˈstju:dnt]美\r[ˈstudnt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">中学生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>student</b> is a child who is studying at a secondary school.  \r \r\r\r</span>",
+    "display_hwd": "student",
+    "ext": "",
+    "hwd": "student",
+    "phonetics": "英\r[ˈstju:dnt]美\r[ˈstudnt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">研究者;学者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is a <b>student of</b> a particular subject is interested in the subject and spends time learning about it.  \r \r\r\r</span>",
+    "display_hwd": "student",
+    "ext": "",
+    "hwd": "student",
+    "phonetics": "英\r[ˈstju:dnt]美\r[ˈstudnt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

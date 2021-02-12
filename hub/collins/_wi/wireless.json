@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">无线的;用无线电波传送的</span>",
+    "def_en": "<span class=\"endef\"><b>Wireless</b> technology uses radio waves rather than electricity and therefore does not require any wires.  \r \r\r\r</span>",
+    "display_hwd": "wireless",
+    "ext": "",
+    "hwd": "wireless",
+    "phonetics": "英\r[ˈwaɪələs]美\r[ˈwaɪərləs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">无线电;无线电收发系统</span>",
+    "def_en": "<span class=\"endef\"><b>Wireless</b> is a system by which messages are sent over a distance by radio signals.  \r \r\r\r</span>",
+    "display_hwd": "wireless",
+    "ext": "",
+    "hwd": "wireless",
+    "phonetics": "英\r[ˈwaɪələs]美\r[ˈwaɪərləs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">无线电收音机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>wireless</b> or <b>wireless set</b> is a radio.  \r \r\r\r</span>",
+    "display_hwd": "wireless",
+    "ext": "",
+    "hwd": "wireless",
+    "phonetics": "英\r[ˈwaɪələs]美\r[ˈwaɪərləs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

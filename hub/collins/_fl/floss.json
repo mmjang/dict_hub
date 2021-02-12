@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">丝棉;丝线</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://candyfloss\">candyfloss</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://dental floss\">dental floss</a></b>;\r You can use <b>floss</b> to refer to fine soft threads of some kind.  \r \r\r\r</span>",
+    "display_hwd": "floss",
+    "ext": "",
+    "hwd": "floss",
+    "phonetics": "英\r[flɒs]美\r[flɔs]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用牙线剔牙</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>floss</b>, you use a special kind of strong string to clean between your teeth and gums.  \r \r\r\r</span>",
+    "display_hwd": "floss",
+    "ext": "",
+    "hwd": "floss",
+    "phonetics": "英\r[flɒs]美\r[flɔs]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

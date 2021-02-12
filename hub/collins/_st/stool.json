@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">凳子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stool</b> is a seat with legs but no support for your arms or back.  \r \r\r\r</span>",
+    "display_hwd": "stool",
+    "ext": "",
+    "hwd": "stool",
+    "phonetics": "英\r[stu:l]美\r[stul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">两头落空;鸡飞蛋打</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>has fallen between two stools</b>, they are unable to decide which of two courses of action to take and as a result they have not done either of them successfully.  \r \r\r\r</span>",
+    "display_hwd": "stool",
+    "ext": "",
+    "hwd": "stool",
+    "phonetics": "英\r[stu:l]美\r[stul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大便;粪便</span>",
+    "def_en": "<span class=\"endef\"><b>Stools</b> are the pieces of solid waste matter that are passed out of a person's body through their bowels.  \r \r\r\r</span>",
+    "display_hwd": "stool",
+    "ext": "",
+    "hwd": "stool",
+    "phonetics": "英\r[stu:l]美\r[stul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

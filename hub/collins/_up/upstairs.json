@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">上楼；往楼上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you go <b>upstairs</b> in a building, you go up a staircase towards a higher floor.  \r \r\r\r</span>",
+    "display_hwd": "upstairs",
+    "ext": "",
+    "hwd": "upstairs",
+    "phonetics": "英\r[ˌʌpˈsteəz]美\r[ˌʌpˈsterz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在楼上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone is <b>upstairs</b> in a building, they are on a floor that is higher than the ground floor.  \r \r\r\r</span>",
+    "display_hwd": "upstairs",
+    "ext": "",
+    "hwd": "upstairs",
+    "phonetics": "英\r[ˌʌpˈsteəz]美\r[ˌʌpˈsterz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">楼上的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>upstairs</b> room or object is situated on a floor of a building that is higher than the ground floor.  \r \r\r\r</span>",
+    "display_hwd": "upstairs",
+    "ext": "",
+    "hwd": "upstairs",
+    "phonetics": "英\r[ˌʌpˈsteəz]美\r[ˌʌpˈsterz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">楼层</span>",
+    "def_en": "<span class=\"endef\"><b>The upstairs</b> of a building is the floor or floors that are higher than the ground floor.  \r \r\r\r</span>",
+    "display_hwd": "upstairs",
+    "ext": "",
+    "hwd": "upstairs",
+    "phonetics": "英\r[ˌʌpˈsteəz]美\r[ˌʌpˈsterz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

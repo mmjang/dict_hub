@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">黑名单</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is on a <b>blacklist</b>, they are seen by a government or other organization as being one of a number of people who cannot be trusted or who have done something wrong.  \r \r\r\r</span>",
+    "display_hwd": "blacklisting",
+    "ext": "",
+    "hwd": "blacklisting",
+    "phonetics": "[ˈblækˌlɪstɪŋ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…列入黑名单</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is blacklisted</b> by a government or organization, they are put on a blacklist.  \r \r\r\r</span>",
+    "display_hwd": "blacklisting",
+    "ext": "",
+    "hwd": "blacklisting",
+    "phonetics": "[ˈblækˌlɪstɪŋ]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

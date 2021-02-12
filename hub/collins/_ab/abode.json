@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">住所；寓所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>abode</b> is the place where you live.  \r \r\r\r</span>",
+    "display_hwd": "abode",
+    "ext": "",
+    "hwd": "abode",
+    "phonetics": "英\r[əˈbəʊd]美\r[əˈboʊd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">居无定所；无家可归</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone has <b>no fixed abode</b>, they are homeless.  \r \r\r\r</span>",
+    "display_hwd": "abode",
+    "ext": "",
+    "hwd": "abode",
+    "phonetics": "英\r[əˈbəʊd]美\r[əˈboʊd]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">居住权；居留权</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is given the <b>right of abode</b> in a particular country, they are legally allowed to live there.  \r \r\r\r</span>",
+    "display_hwd": "abode",
+    "ext": "",
+    "hwd": "abode",
+    "phonetics": "英\r[əˈbəʊd]美\r[əˈboʊd]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

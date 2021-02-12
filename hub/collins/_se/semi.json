@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">半独立式住宅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>semi</b> is a semi-detached house.  \r \r\r\r</span>",
+    "display_hwd": "semi",
+    "ext": "",
+    "hwd": "semi",
+    "phonetics": "英\r[ˈsemi]美\r[ˈsɛmaɪ,ˈsɛmi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(体育比赛中的)半决赛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a sporting competition, <b>the semis</b> are the semi-finals.  \r \r\r\r</span>",
+    "display_hwd": "semi",
+    "ext": "",
+    "hwd": "semi",
+    "phonetics": "英\r[ˈsemi]美\r[ˈsɛmaɪ,ˈsɛmi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">半拖车；半挂车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>semi</b> is a <b>semi-trailer</b> .  \r \r\r\r</span>",
+    "display_hwd": "semi",
+    "ext": "",
+    "hwd": "semi",
+    "phonetics": "英\r[ˈsemi]美\r[ˈsɛmaɪ,ˈsɛmi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">通讯录;地址簿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>address book</b> is a book in which you write people's names and addresses.  \r \r\r\r</span>",
+    "display_hwd": "address book",
+    "ext": "",
+    "hwd": "address book",
+    "phonetics": "英\r[əˈdresbuk]美\r[əˈdrɛsbʊk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电子邮箱的）地址簿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>address book</b> is a computer file which contains a list of e-mail addresses.  \r \r\r\r</span>",
+    "display_hwd": "address book",
+    "ext": "",
+    "hwd": "address book",
+    "phonetics": "英\r[əˈdresbuk]美\r[əˈdrɛsbʊk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

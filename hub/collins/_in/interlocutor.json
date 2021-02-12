@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">对话者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>interlocutor</b> is the person with whom you are having a conversation.  \r \r\r\r</span>",
+    "display_hwd": "interlocutor",
+    "ext": "",
+    "hwd": "interlocutor",
+    "phonetics": "英\r[ˌɪntəˈlɒkjətə(r)]美\r[ˌɪntərˈlɑkjətə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(会谈或谈判的)参加者，代表</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or organization has a role as an <b>interlocutor</b> in talks or negotiations, they take part or act as a representative in them.  \r \r\r\r</span>",
+    "display_hwd": "interlocutor",
+    "ext": "",
+    "hwd": "interlocutor",
+    "phonetics": "英\r[ˌɪntəˈlɒkjətə(r)]美\r[ˌɪntərˈlɑkjətə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

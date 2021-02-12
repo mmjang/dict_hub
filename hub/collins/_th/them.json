@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">他们;她们;它们</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>them</b> to refer to a group of people, animals, or things.  \r \r\r\r</span>",
+    "display_hwd": "them",
+    "ext": "",
+    "hwd": "them",
+    "phonetics": "英\r[ðəm]美\r[ðəm]",
+    "phrase": "",
+    "sense": "★★★★★ pron-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(代替 him or her，而不指明是男是女;有人认为这种用法不对)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>them</b> instead of 'him or her' to refer to a person without saying whether that person is a man or a woman. Some people think this use is incorrect.  \r \r\r\r</span>",
+    "display_hwd": "them",
+    "ext": "",
+    "hwd": "them",
+    "phonetics": "英\r[ðəm]美\r[ðəm]",
+    "phrase": "",
+    "sense": "★★★★★ pron-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">那些(不规范口语中代替those)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In non-standard spoken English, <b>them</b> is sometimes used instead of 'those'.  \r \r\r\r</span>",
+    "display_hwd": "them",
+    "ext": "",
+    "hwd": "them",
+    "phonetics": "英\r[ðəm]美\r[ðəm]",
+    "phrase": "",
+    "sense": "★★★★★ det\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(单人划的)短桨</span>",
+    "def_en": "<span class=\"endef\"><b>Sculls</b> are small oars which are held by one person and used to move a boat through water.  \r \r\r\r</span>",
+    "display_hwd": "scull",
+    "ext": "",
+    "hwd": "scull",
+    "phonetics": "英\r[skʌl]美\r[skʌl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">单人双桨赛艇</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scull</b> is a small light racing boat which is rowed with two sculls.  \r \r\r\r</span>",
+    "display_hwd": "scull",
+    "ext": "",
+    "hwd": "scull",
+    "phonetics": "英\r[skʌl]美\r[skʌl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用短桨划(船)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>scull</b> a boat means to row it using sculls.  \r \r\r\r</span>",
+    "display_hwd": "scull",
+    "ext": "",
+    "hwd": "scull",
+    "phonetics": "英\r[skʌl]美\r[skʌl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

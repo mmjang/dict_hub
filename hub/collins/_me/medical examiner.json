@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">法医;验尸官</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>medical examiner</b> is a medical expert who is responsible for investigating the deaths of people who have died in a sudden, violent, or unusual way.  \r \r\r\r</span>",
+    "display_hwd": "medical examiner",
+    "ext": "",
+    "hwd": "medical examiner",
+    "phonetics": "[ˈmedikəliɡˈzæminə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(申请健康保险或求职时负责体检的)特约体检医生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>medical examiner</b> is a doctor whose job is to examine people, for example when they apply for a job or for health insurance.  \r \r\r\r</span>",
+    "display_hwd": "medical examiner",
+    "ext": "",
+    "hwd": "medical examiner",
+    "phonetics": "[ˈmedikəliɡˈzæminə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

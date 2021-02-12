@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">医生;医科学生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>medic</b> is a doctor or medical student.  \r \r\r\r</span>",
+    "display_hwd": "medic",
+    "ext": "",
+    "hwd": "medic",
+    "phonetics": "英\r[ˈmedɪk]美\r[ˈmɛdɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(随军)卫生员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>medic</b> is a doctor who works with the armed forces, as part of a medical corps.  \r \r\r\r</span>",
+    "display_hwd": "medic",
+    "ext": "",
+    "hwd": "medic",
+    "phonetics": "英\r[ˈmedɪk]美\r[ˈmɛdɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

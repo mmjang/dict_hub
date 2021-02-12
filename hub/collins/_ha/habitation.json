@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">居住</span>",
+    "def_en": "<span class=\"endef\"><b>Habitation</b> is the activity of living somewhere.  \r \r\r\r</span>",
+    "display_hwd": "habitation",
+    "ext": "",
+    "hwd": "habitation",
+    "phonetics": "英\r[ˌhæbɪˈteɪʃn]美\r[ˌhæbɪˈteʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">住处；住所;聚居地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>habitation</b> is a place where people live.  \r \r\r\r</span>",
+    "display_hwd": "habitation",
+    "ext": "",
+    "hwd": "habitation",
+    "phonetics": "英\r[ˌhæbɪˈteɪʃn]美\r[ˌhæbɪˈteʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

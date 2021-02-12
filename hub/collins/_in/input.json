@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">投入物(指信息、资源等)</span>",
+    "def_en": "<span class=\"endef\"><b>Input</b> consists of information or resources that a group or project receives.  \r \r\r\r</span>",
+    "display_hwd": "input",
+    "ext": "",
+    "hwd": "input",
+    "phonetics": "英\r[ˈɪnpʊt]美\r[ˈɪnˌpʊt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">输入信息</span>",
+    "def_en": "<span class=\"endef\"><b>Input</b> is information that is put into a computer.  \r \r\r\r</span>",
+    "display_hwd": "input",
+    "ext": "",
+    "hwd": "input",
+    "phonetics": "英\r[ˈɪnpʊt]美\r[ˈɪnˌpʊt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">输入(信息)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>input</b> information into a computer, you feed it in, for example by typing it on a keyboard.  \r \r\r\r</span>",
+    "display_hwd": "input",
+    "ext": "",
+    "hwd": "input",
+    "phonetics": "英\r[ˈɪnpʊt]美\r[ˈɪnˌpʊt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

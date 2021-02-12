@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">会员身份;成员资格</span>",
+    "def_en": "<span class=\"endef\"><b>Membership</b> of an organization is the state of being a member of it.  \r \r\r\r</span>",
+    "display_hwd": "membership",
+    "ext": "",
+    "hwd": "membership",
+    "phonetics": "英\r[ˈmembəʃɪp]美\r[ˈmembərʃɪp]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">全体会员(或成员);全体会员(或成员)人数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>membership</b> of an organization is the people who belong to it, or the number of people who belong to it.  \r \r\r\r</span>",
+    "display_hwd": "membership",
+    "ext": "",
+    "hwd": "membership",
+    "phonetics": "英\r[ˈmembəʃɪp]美\r[ˈmembərʃɪp]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var-coll\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

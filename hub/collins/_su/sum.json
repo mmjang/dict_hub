@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">款项;金额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sum of</b> money is an amount of money.  \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">算术;简单计算</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sum</b> is a simple calculation in arithmetic.  \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">和;总和;总数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In mathematics, <b>the sum of</b> two numbers is the number that is obtained when they are added together.  \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">全部;所有</span>",
+    "def_en": "<span class=\"endef\"><b>The sum of</b> something is all of it.  \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://lump sum\">lump sum</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">总之;总而言之</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in sum</b> to introduce a statement that briefly describes a situation.  \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">个体相加不如集体的力量大;总体大于个体之和</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>more than the sum of</b> its <b>parts</b> or <b>greater than the sum of</b> its <b>parts</b>, you mean that it is better than you would expect from the individual parts, because the way they combine adds a different quality.  \r \r\r\r</span>",
+    "display_hwd": "sum",
+    "ext": "",
+    "hwd": "sum",
+    "phonetics": "英\r[sʌm]美\r[sʌm]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">出席人数;到场人数;参加人数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>turnout</b> at an event is the number of people who go to it or take part in it.  \r \r\r\r</span>",
+    "display_hwd": "turnout",
+    "ext": "",
+    "hwd": "turnout",
+    "phonetics": "英\r[ˈtɜ:naʊt]美\r[ˈtɜrnaʊt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(选举的)投票人数，投票率</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>turnout</b> in an election is the number of people who vote in it, as a proportion of the number of people who have the right to vote in it.  \r \r\r\r</span>",
+    "display_hwd": "turnout",
+    "ext": "",
+    "hwd": "turnout",
+    "phonetics": "英\r[ˈtɜ:naʊt]美\r[ˈtɜrnaʊt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

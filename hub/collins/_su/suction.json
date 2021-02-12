@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">吸;抽吸;吸出</span>",
+    "def_en": "<span class=\"endef\"><b>Suction</b> is the process by which liquids, gases, or other substances are drawn out of somewhere.  \r \r\r\r</span>",
+    "display_hwd": "suction",
+    "ext": "",
+    "hwd": "suction",
+    "phonetics": "英\r[ˈsʌkʃn]美\r[ˈsʌkʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用医疗器械)抽吸，吸出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a doctor or nurse <b>suctions</b> a liquid, they remove it by using a machine which sucks it away.  \r \r\r\r</span>",
+    "display_hwd": "suction",
+    "ext": "",
+    "hwd": "suction",
+    "phonetics": "英\r[ˈsʌkʃn]美\r[ˈsʌkʃən]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(平面的)相吸</span>",
+    "def_en": "<span class=\"endef\"><b>Suction</b> is the process by which two surfaces stick together when the air between them is removed.  \r \r\r\r</span>",
+    "display_hwd": "suction",
+    "ext": "",
+    "hwd": "suction",
+    "phonetics": "英\r[ˈsʌkʃn]美\r[ˈsʌkʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

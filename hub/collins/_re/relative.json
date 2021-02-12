@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">亲戚;亲属;家属</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>relatives</b> are the members of your family.  \r \r\r\r</span>",
+    "display_hwd": "relative",
+    "ext": "",
+    "hwd": "relative",
+    "phonetics": "英\r[ˈrelətɪv]美\r[ˈrɛlətɪv]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相对的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>relative</b> to say that something is true to a certain degree, especially when compared with other things of the same kind.  \r \r\r\r</span>",
+    "display_hwd": "relative",
+    "ext": "",
+    "hwd": "relative",
+    "phonetics": "英\r[ˈrelətɪv]美\r[ˈrɛlətɪv]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相对的;比较而言的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>relative</b> when you are comparing the quality or size of two things.  \r \r\r\r</span>",
+    "display_hwd": "relative",
+    "ext": "",
+    "hwd": "relative",
+    "phonetics": "英\r[ˈrelətɪv]美\r[ˈrɛlətɪv]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…相比;与…有关;涉及;关于</span>",
+    "def_en": "<span class=\"endef\"><b>Relative to</b> something means with reference to it or in comparison with it.  \r \r\r\r</span>",
+    "display_hwd": "relative",
+    "ext": "",
+    "hwd": "relative",
+    "phonetics": "英\r[ˈrelətɪv]美\r[ˈrɛlətɪv]",
+    "phrase": "",
+    "sense": "★★★☆☆ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相对的;比较而言的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>relative</b>, you mean that it needs to be considered and judged in relation to other things.  \r \r\r\r</span>",
+    "display_hwd": "relative",
+    "ext": "",
+    "hwd": "relative",
+    "phonetics": "英\r[ˈrelətɪv]美\r[ˈrɛlətɪv]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">亲缘动物（或植物、语言、发明等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one animal, plant, language, or invention is a <b>relative of</b> another, they have both developed from the same type of animal, plant, language, or invention.  \r \r\r\r</span>",
+    "display_hwd": "relative",
+    "ext": "",
+    "hwd": "relative",
+    "phonetics": "英\r[ˈrelətɪv]美\r[ˈrɛlətɪv]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

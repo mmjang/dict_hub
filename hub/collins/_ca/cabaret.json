@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(餐馆、夜总会晚间的)卡巴莱歌舞表演,卡巴莱滑稽剧演出</span>",
+    "def_en": "<span class=\"endef\"><b>Cabaret</b> is live entertainment consisting of dancing, singing, or comedy acts that are performed in the evening in restaurants or nightclubs.  \r \r\r\r</span>",
+    "display_hwd": "cabaret",
+    "ext": "",
+    "hwd": "cabaret",
+    "phonetics": "英\r[ˈkæbəreɪ]美\r[ˌkæbəˈreɪ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(餐馆、夜总会的)歌舞表演,喜剧表演</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cabaret</b> is a show that is performed in a restaurant or nightclub, and that consists of dancing, singing, or comedy acts.  \r \r\r\r</span>",
+    "display_hwd": "cabaret",
+    "ext": "",
+    "hwd": "cabaret",
+    "phonetics": "英\r[ˈkæbəreɪ]美\r[ˌkæbəˈreɪ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">卡巴莱餐馆;卡巴莱夜总会</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cabaret</b> is a restaurant or nightclub where live entertainment such as dancing, singing, or comedy is performed.  \r \r\r\r</span>",
+    "display_hwd": "cabaret",
+    "ext": "",
+    "hwd": "cabaret",
+    "phonetics": "英\r[ˈkæbəreɪ]美\r[ˌkæbəˈreɪ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

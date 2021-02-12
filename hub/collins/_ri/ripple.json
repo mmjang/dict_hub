@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">波纹;涟漪;细浪</span>",
+    "def_en": "<span class=\"endef\"><b>Ripples</b> are little waves on the surface of water caused by the wind or by something moving in or on the water.  \r \r\r\r</span>",
+    "display_hwd": "ripple",
+    "ext": "",
+    "hwd": "ripple",
+    "phonetics": "英\r[ˈrɪpl]美\r[ˈrɪpəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)泛起涟漪;(使)泛起细浪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the surface of an area of water <b>ripples</b> or when something <b>ripples</b> it, a number of little waves appear on it.  \r \r\r\r</span>",
+    "display_hwd": "ripple",
+    "ext": "",
+    "hwd": "ripple",
+    "phonetics": "英\r[ˈrɪpl]美\r[ˈrɪpəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(植物等)如波浪起伏;（使）呈波状起伏</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the wind <b>ripples</b> plants or trees or when they <b>ripple</b>, they move in a wave-like motion.  \r \r\r\r</span>",
+    "display_hwd": "ripple",
+    "ext": "",
+    "hwd": "ripple",
+    "phonetics": "英\r[ˈrɪpl]美\r[ˈrɪpəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(感觉)传开，传遍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a feeling <b>ripples</b> over someone's body, it moves across it or through it.  \r \r\r\r</span>",
+    "display_hwd": "ripple",
+    "ext": "",
+    "hwd": "ripple",
+    "phonetics": "英\r[ˈrɪpl]美\r[ˈrɪpəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(事情引起的)连锁反应，涟漪作用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an event causes <b>ripples</b>, its effects gradually spread, causing several other events to happen one after the other.  \r \r\r\r</span>",
+    "display_hwd": "ripple",
+    "ext": "",
+    "hwd": "ripple",
+    "phonetics": "英\r[ˈrɪpl]美\r[ˈrɪpəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

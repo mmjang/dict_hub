@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">正式决定;决议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A<b>resolution</b> is a formal decision taken at a meeting by means of a vote.  \r \r\r\r</span>",
+    "display_hwd": "resolution",
+    "ext": "",
+    "hwd": "resolution",
+    "phonetics": "英\r[ˌrezəˈlu:ʃn]美\r[ˌrɛzəˈluʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">决心;决定</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://New Year's resolution\">New Year's resolution</a></b>;\r If you make a <b>resolution</b>, you decide to try very hard to do something.  \r \r\r\r</span>",
+    "display_hwd": "resolution",
+    "ext": "",
+    "hwd": "resolution",
+    "phonetics": "英\r[ˌrezəˈlu:ʃn]美\r[ˌrɛzəˈluʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坚定;坚决;果断</span>",
+    "def_en": "<span class=\"endef\"><b>Resolution</b> is determination to do something or not do something.  \r \r\r\r</span>",
+    "display_hwd": "resolution",
+    "ext": "",
+    "hwd": "resolution",
+    "phonetics": "英\r[ˌrezəˈlu:ʃn]美\r[ˌrɛzəˈluʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">解决</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>resolution</b> of a problem or difficulty is the final solving of it.  \r \r\r\r</span>",
+    "display_hwd": "resolution",
+    "ext": "",
+    "hwd": "resolution",
+    "phonetics": "英\r[ˌrezəˈlu:ʃn]美\r[ˌrɛzəˈluʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">分辨率;清晰度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>resolution</b> of an image is how clear the image is.  \r \r\r\r</span>",
+    "display_hwd": "resolution",
+    "ext": "",
+    "hwd": "resolution",
+    "phonetics": "英\r[ˌrezəˈlu:ʃn]美\r[ˌrɛzəˈluʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

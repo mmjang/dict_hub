@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">陶瓷</span>",
+    "def_en": "<span class=\"endef\"><b>Ceramic</b> is clay that has been heated to a very high temperature so that it becomes hard.  \r \r\r\r</span>",
+    "display_hwd": "ceramic",
+    "ext": "",
+    "hwd": "ceramic",
+    "phonetics": "英\r[səˈræmɪk]美\r[səˈræmɪk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">陶瓷装饰品;陶瓷制品</span>",
+    "def_en": "<span class=\"endef\"><b>Ceramics</b> are ceramic ornaments or objects.  \r \r\r\r</span>",
+    "display_hwd": "ceramic",
+    "ext": "",
+    "hwd": "ceramic",
+    "phonetics": "英\r[səˈræmɪk]美\r[səˈræmɪk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">制陶术</span>",
+    "def_en": "<span class=\"endef\"><b>Ceramics</b> is the art of making artistic objects out of clay.  \r \r\r\r</span>",
+    "display_hwd": "ceramic",
+    "ext": "",
+    "hwd": "ceramic",
+    "phonetics": "英\r[səˈræmɪk]美\r[səˈræmɪk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">机敏的回答</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>riposte</b> is a quick, clever reply to something that someone has said.  \r \r\r\r</span>",
+    "display_hwd": "riposte",
+    "ext": "",
+    "hwd": "riposte",
+    "phonetics": "英\r[rɪˈpɒst]美\r[rɪˈpoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">机敏地回答</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>riposte</b>, you make a quick, clever response to something someone has said.  \r \r\r\r</span>",
+    "display_hwd": "riposte",
+    "ext": "",
+    "hwd": "riposte",
+    "phonetics": "英\r[rɪˈpɒst]美\r[rɪˈpoʊst]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">回应;还击</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to an action as a <b>riposte to</b> something when it is a response to that thing.  \r \r\r\r</span>",
+    "display_hwd": "riposte",
+    "ext": "",
+    "hwd": "riposte",
+    "phonetics": "英\r[rɪˈpɒst]美\r[rɪˈpoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

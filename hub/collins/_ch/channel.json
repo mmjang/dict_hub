@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电视台;电视频道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>channel</b> is a television station.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">频道;波段</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>channel</b> is a band of radio waves on which radio messages can be sent and received.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">渠道;途径;门路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something through a particular <b>channel</b>, or particular <b>channels</b>, that is the system or organization that you use to achieve your aims or to communicate.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">将(资金或资源)专门用于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>channel</b> money or resources into something, you arrange for them to be used for that thing, rather than for a wider  range of things.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">将(精力或情感)专注于;集中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>channel</b> your energies or emotions <b>into</b> something, you concentrate on or do that one thing, rather than a range of things.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">水道;沟渠</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>channel</b> is a passage along which water flows.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">航道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>channel</b> is a route used by boats.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">英吉利海峡</span>",
+    "def_en": "<span class=\"endef\"><b>The Channel</b> or <b>the English Channel</b> is the narrow area of water between England and France.  \r \r\r\r</span>",
+    "display_hwd": "channel",
+    "ext": "",
+    "hwd": "channel",
+    "phonetics": "英\r[ˈtʃænl]美\r[ˈtʃænəl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

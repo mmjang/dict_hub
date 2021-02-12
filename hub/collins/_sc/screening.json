@@ -1,0 +1,92 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(电视、电脑的)屏幕;(电影的)银幕</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://big screen\">big screen</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://small screen\">small screen</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://widescreen\">widescreen</a></b>;\r A <b>screen</b> is a flat vertical surface on which pictures or words are shown. Television sets and computers have screens, and films are shown on a screen in cinemas.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(总称)电影，电视</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to film or television as <b>the screen</b> .  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">放映(电影);播放(电视节目)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a film or a television programme <b>is screened</b>, it is shown in the cinema or broadcast on television.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">屏风;隔板</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>screen</b> is a vertical panel which can be moved around. It is used to keep cold air away from part of a room, or to create a smaller area within a room.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">遮挡;遮蔽</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>is screened by</b> another thing, it is behind it and hidden by it.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">检查，筛查(以确定是否患病)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>screen for</b> a disease means to examine people to make sure that they do not have it.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">筛选，甄别(看是否可靠)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When an organization <b>screens</b> people who apply to join it, it investigates them to make sure that they are not likely to cause problems.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对(人、行李)进行安全检查</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>screen</b> people or luggage means to check them using special equipment to make sure they are not carrying a weapon or a bomb.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转接，甄别(来电以决定是否接听)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>screen</b> your telephone calls, calls made to you are connected to an answering machine or are answered by someone else, so that you can choose whether or not to speak to the people phoning you.  \r \r\r\r</span>",
+    "display_hwd": "screening",
+    "ext": "",
+    "hwd": "screening",
+    "phonetics": "英\r[ˈskri:nɪŋ]美\r[ˈskrinɪŋ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

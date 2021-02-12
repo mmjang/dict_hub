@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">纬度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>latitude</b> of a place is its distance from the equator.  \r \r\r\r</span>",
+    "display_hwd": "latitude",
+    "ext": "",
+    "hwd": "latitude",
+    "phonetics": "英\r[ˈlætɪtju:d]美\r[ˈlætɪtud]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">选择的自由；回旋余地</span>",
+    "def_en": "<span class=\"endef\"><b>Latitude</b> is freedom to choose the way in which you do something.  \r \r\r\r</span>",
+    "display_hwd": "latitude",
+    "ext": "",
+    "hwd": "latitude",
+    "phonetics": "英\r[ˈlætɪtju:d]美\r[ˈlætɪtud]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

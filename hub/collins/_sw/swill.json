@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">大口喝;狂饮</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>swill</b> an alcoholic drink, you drink a lot of it.  \r \r\r\r</span>",
+    "display_hwd": "swill",
+    "ext": "",
+    "hwd": "swill",
+    "phonetics": "英\r[swɪl]美\r[swɪl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(液体)晃动,摇晃;(使)来回流动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a liquid <b>swills around</b>, or if you <b>swill</b> it <b>around</b>, it moves around the area that it is contained in.  \r \r\r\r</span>",
+    "display_hwd": "swill",
+    "ext": "",
+    "hwd": "swill",
+    "phonetics": "英\r[swɪl]美\r[swɪl]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冲刷;冲洗;涮</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>swill out</b> something means to clean it by pouring water over it.  \r \r\r\r</span>",
+    "display_hwd": "swill",
+    "ext": "",
+    "hwd": "swill",
+    "phonetics": "英\r[swɪl]美\r[swɪl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">泔脚饲料;猪食</span>",
+    "def_en": "<span class=\"endef\"><b>Swill</b> is a liquid mixture containing waste food that is given to pigs to eat.  \r \r\r\r</span>",
+    "display_hwd": "swill",
+    "ext": "",
+    "hwd": "swill",
+    "phonetics": "英\r[swɪl]美\r[swɪl]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

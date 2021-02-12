@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">冷淡的;无热情的;故作随意的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people or their opinions are <b>downbeat</b>, they are deliberately casual and not enthusiastic about a situation.  \r \r\r\r</span>",
+    "display_hwd": "downbeat",
+    "ext": "",
+    "hwd": "downbeat",
+    "phonetics": "英\r[ˈdaʊnbi:t]美\r[ˈdaʊnˌbit]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">沮丧的;悲观的;绝望的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are feeling <b>downbeat</b>, you are feeling depressed and without hope.  \r \r\r\r</span>",
+    "display_hwd": "downbeat",
+    "ext": "",
+    "hwd": "downbeat",
+    "phonetics": "英\r[ˈdaʊnbi:t]美\r[ˈdaʊnˌbit]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">下拍(乐队指挥示意强拍的向下手势)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In music, the <b>downbeat</b> is the downward movement of the conductor's hand, indicating the first beat of the bar.  \r \r\r\r</span>",
+    "display_hwd": "downbeat",
+    "ext": "",
+    "hwd": "downbeat",
+    "phonetics": "英\r[ˈdaʊnbi:t]美\r[ˈdaʊnˌbit]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

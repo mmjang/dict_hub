@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(超级)高速公路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>superhighway</b> is a large, fast motorway or freeway with several lanes.  \r \r\r\r</span>",
+    "display_hwd": "superhighway",
+    "ext": "",
+    "hwd": "superhighway",
+    "phonetics": "英\r[ˌsu:pəˈhaɪweɪ]美\r[ˌsupərˈhaɪweɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">信息高速公路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The information <b>superhighway</b> is the network of computer links that enables computer users all over the world to communicate with each other.  \r \r\r\r</span>",
+    "display_hwd": "superhighway",
+    "ext": "",
+    "hwd": "superhighway",
+    "phonetics": "英\r[ˌsu:pəˈhaɪweɪ]美\r[ˌsupərˈhaɪweɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

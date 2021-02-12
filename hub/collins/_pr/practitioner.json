@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">执业医生</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://GP\">GP</a></b>;\r Doctors are sometimes referred to as <b>practitioners</b> or <b>medical practitioners</b> .  \r \r\r\r</span>",
+    "display_hwd": "practitioner",
+    "ext": "",
+    "hwd": "practitioner",
+    "phonetics": "英\r[prækˈtɪʃənə(r)]美\r[prækˈtɪʃənɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

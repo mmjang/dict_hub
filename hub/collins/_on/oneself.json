@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（用作从句中动词或代词的宾语，指代动词主语“我”或“任何人”）自己，自身</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A speaker or writer uses <b>oneself</b> as the object of a verb or preposition in a clause where 'oneself' meaning 'me' or 'any person in general' refers to the same person as the subject of the verb.  \r \r\r\r</span>",
+    "display_hwd": "oneself",
+    "ext": "",
+    "hwd": "oneself",
+    "phonetics": "英\r[wʌnˈself]美\r[wʌnˈsɛlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ pron-refl\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（one 虽缺失但可理解为动词主语时，用作动词或介词的宾语）自己，自身</span>",
+    "def_en": "<span class=\"endef\"><b>Oneself</b> can be used as the object of a verb or preposition, when 'one' is not present but is understood to be the subject of the verb.  \r \r\r\r</span>",
+    "display_hwd": "oneself",
+    "ext": "",
+    "hwd": "oneself",
+    "phonetics": "英\r[wʌnˈself]美\r[wʌnˈsɛlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ pron-refl\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">独自；亲自；本人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To do something <b>oneself</b> means to do it without any help from anyone else.  \r \r\r\r</span>",
+    "display_hwd": "oneself",
+    "ext": "",
+    "hwd": "oneself",
+    "phonetics": "英\r[wʌnˈself]美\r[wʌnˈsɛlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ pron-refl-emph\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（强调事情发生的对象）自己，自身</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>oneself</b> to emphasize that something happens to you rather than to people in general.  \r \r\r\r</span>",
+    "display_hwd": "oneself",
+    "ext": "",
+    "hwd": "oneself",
+    "phonetics": "英\r[wʌnˈself]美\r[wʌnˈsɛlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ pron-refl-emph\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

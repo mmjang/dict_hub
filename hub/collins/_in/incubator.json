@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(放置病弱婴儿,氧气浓度与温度可以控制的)恒温箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>incubator</b> is a piece of hospital equipment which helps weak or small babies to survive. It consists of a transparent container in which the oxygen and temperature levels can be controlled.  \r \r\r\r</span>",
+    "display_hwd": "incubator",
+    "ext": "",
+    "hwd": "incubator",
+    "phonetics": "英\r[ˈɪŋkjubeɪtə(r)]美\r[ˈɪnkjəˌbetɚ,ˈɪŋ-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">孵化器;(细菌)培养器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>incubator</b> is a piece of equipment used to keep eggs or bacteria at the correct temperature for them to develop.  \r \r\r\r</span>",
+    "display_hwd": "incubator",
+    "ext": "",
+    "hwd": "incubator",
+    "phonetics": "英\r[ˈɪŋkjubeɪtə(r)]美\r[ˈɪnkjəˌbetɚ,ˈɪŋ-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

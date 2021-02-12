@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电传系统(通过电力或无线电信号收发信息的通讯方式)</span>",
+    "def_en": "<span class=\"endef\"><b>Telex</b> is an international system of sending written messages. Messages are converted into signals which are transmitted, either by electricity or by radio signals, and then printed out by a machine in another place.  \r \r\r\r</span>",
+    "display_hwd": "telex",
+    "ext": "",
+    "hwd": "telex",
+    "phonetics": "英\r[ˈteleks]美\r[ˈtɛlˌɛks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电传机;电传收发机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>telex</b> is a machine that transmits and receives telex messages.  \r \r\r\r</span>",
+    "display_hwd": "telex",
+    "ext": "",
+    "hwd": "telex",
+    "phonetics": "英\r[ˈteleks]美\r[ˈtɛlˌɛks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电传;通过电传收发的信息</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>telex</b> is a message that you send or that has been received and printed by telex.  \r \r\r\r</span>",
+    "display_hwd": "telex",
+    "ext": "",
+    "hwd": "telex",
+    "phonetics": "英\r[ˈteleks]美\r[ˈtɛlˌɛks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…发电传;用电传发送</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>telex</b> a message to someone, you send it to them by telex.  \r \r\r\r</span>",
+    "display_hwd": "telex",
+    "ext": "",
+    "hwd": "telex",
+    "phonetics": "英\r[ˈteleks]美\r[ˈtɛlˌɛks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(使)终止;(使)结束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>terminate</b> something or when it <b>terminates</b>, it ends completely.  \r \r\r\r</span>",
+    "display_hwd": "terminate",
+    "ext": "",
+    "hwd": "terminate",
+    "phonetics": "英\r[ˈtɜ:mɪneɪt]美\r[ˈtɜrmɪneɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">终止(妊娠)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>terminate</b> a pregnancy means to end it.  \r \r\r\r</span>",
+    "display_hwd": "terminate",
+    "ext": "",
+    "hwd": "terminate",
+    "phonetics": "英\r[ˈtɜ:mɪneɪt]美\r[ˈtɜrmɪneɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(火车、公共汽车)到达终点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a train or bus <b>terminates</b> somewhere, it ends its journey there.  \r \r\r\r</span>",
+    "display_hwd": "terminate",
+    "ext": "",
+    "hwd": "terminate",
+    "phonetics": "英\r[ˈtɜ:mɪneɪt]美\r[ˈtɜrmɪneɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

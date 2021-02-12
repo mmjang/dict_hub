@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">邮政;邮政系统</span>",
+    "def_en": "<span class=\"endef\"><b>The mail</b> is the public service or system by which letters and parcels are collected and delivered.  \r \r\r\r</span>",
+    "display_hwd": "mail",
+    "ext": "",
+    "hwd": "mail",
+    "phonetics": "英\r[meɪl]美\r[mel]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">邮件;信件;邮包</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to letters and parcels that are delivered to you as <b>mail</b> .  \r \r\r\r</span>",
+    "display_hwd": "mail",
+    "ext": "",
+    "hwd": "mail",
+    "phonetics": "英\r[meɪl]美\r[mel]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">寄出;邮寄</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>mail</b> a letter or parcel to someone, you send it to them by putting it in a post box or taking it to a post office.  \r \r\r\r</span>",
+    "display_hwd": "mail",
+    "ext": "",
+    "hwd": "mail",
+    "phonetics": "英\r[meɪl]美\r[mel]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发送(电子邮件)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>mail</b> a message to someone means to send it to them by means of e-mail or a computer network.  \r \r\r\r</span>",
+    "display_hwd": "mail",
+    "ext": "",
+    "hwd": "mail",
+    "phonetics": "英\r[meɪl]美\r[mel]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mailing\">mailing</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://chain mail\">chain mail</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://e-mail\">e-mail</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://electronic mail\">electronic mail</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://hate mail\">hate mail</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://junk mail\">junk mail</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://surface mail\">surface mail</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "mail",
+    "ext": "",
+    "hwd": "mail",
+    "phonetics": "英\r[meɪl]美\r[mel]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

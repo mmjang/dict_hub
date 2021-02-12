@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">广州的；广东的</span>",
+    "def_en": "<span class=\"endef\"><b>Cantonese</b> means belonging or relating to the Chinese city of Guangzhou and the province of Guangdong.  \r \r\r\r</span>",
+    "display_hwd": "Cantonese",
+    "ext": "",
+    "hwd": "Cantonese",
+    "phonetics": "英\r[ˌkæntəˈni:z]美\r[ˌkæntəˈniz,-ˈnis]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">广州人；广东人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>Cantonese</b> are the people who live in or come from the Chinese city of Guangzhou and the province of Guangdong.  \r \r\r\r</span>",
+    "display_hwd": "Cantonese",
+    "ext": "",
+    "hwd": "Cantonese",
+    "phonetics": "英\r[ˌkæntəˈni:z]美\r[ˌkæntəˈniz,-ˈnis]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">广东话;粤语</span>",
+    "def_en": "<span class=\"endef\"><b>Cantonese</b> is a dialect of Chinese spoken in China's Guangdong, Guangxi and Hong Kong, as well as in other parts of the world.  \r \r\r\r</span>",
+    "display_hwd": "Cantonese",
+    "ext": "",
+    "hwd": "Cantonese",
+    "phonetics": "英\r[ˌkæntəˈni:z]美\r[ˌkæntəˈniz,-ˈnis]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

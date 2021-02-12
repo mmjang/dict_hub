@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(学科或系统间相互影响或衔接的)边缘区域,接合部位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>interface</b> between two subjects or systems is the area in which they affect each other or have links with each other.  \r \r\r\r</span>",
+    "display_hwd": "interface",
+    "ext": "",
+    "hwd": "interface",
+    "phonetics": "英\r[ˈɪntəfeɪs]美\r[ˈɪntərfeɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(软件的用户)界面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to the user <b>interface</b> of a particular piece of computing software, you are talking about its presentation on screen and how easy it is to operate.  \r \r\r\r</span>",
+    "display_hwd": "interface",
+    "ext": "",
+    "hwd": "interface",
+    "phonetics": "英\r[ˈɪntəfeɪs]美\r[ˈɪntərfeɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机或电子设备的)接口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing and electronics, an <b>interface</b> is an electrical cricuit which links one machine, especially a computer, with another.  \r \r\r\r</span>",
+    "display_hwd": "interface",
+    "ext": "",
+    "hwd": "interface",
+    "phonetics": "英\r[ˈɪntəfeɪs]美\r[ˈɪntərfeɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(与…)相互联系（或连接）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>interfaces with</b> another, or if two things <b>interface</b>, they have connections with each other. If you <b>interface</b> one thing <b>with</b> another, you connect the two things.  \r \r\r\r</span>",
+    "display_hwd": "interface",
+    "ext": "",
+    "hwd": "interface",
+    "phonetics": "英\r[ˈɪntəfeɪs]美\r[ˈɪntərfeɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-recip-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

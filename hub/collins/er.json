@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">急救室;急诊室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>ER</b> is the part of a hospital where people who have severe injuries or sudden illnesses are taken for emergency treatment. <b>ER</b> is an abbreviation for (缩略=) 'emergency room'.  \r \r\r\r</span>",
+    "display_hwd": "ER",
+    "ext": "",
+    "hwd": "ER",
+    "phonetics": "英\r[ˌi:ˈɑ:(r)]美\r[ˌi'ɑr]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">哦，呃，嗯（表示说话时的犹豫）</span>",
+    "def_en": "<span class=\"endef\"><b>Er</b> is used in writing to represent the sound that people make when they hesitate, especially while they decide what to say next.  \r \r\r\r</span>",
+    "display_hwd": "er",
+    "ext": "",
+    "hwd": "er",
+    "phonetics": "英\r[ɜ:(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ "
+  }
+]

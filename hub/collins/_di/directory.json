@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(通常按字母顺序排列的)通讯录，姓名住址录，工商行名录</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>directory</b> is a book which gives lists of facts, for example people's names, addresses, and telephone numbers, or the names and addresses of business companies, usually arranged in alphabetical order.  \r \r\r\r</span>",
+    "display_hwd": "directory",
+    "ext": "",
+    "hwd": "directory",
+    "phonetics": "英\r[dəˈrektəri]美\r[dɪˈrɛktəri,daɪ-]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机磁盘中文件等的)目录</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>directory</b> is an area of a computer disk which contains one or more files or other directories.  \r \r\r\r</span>",
+    "display_hwd": "directory",
+    "ext": "",
+    "hwd": "directory",
+    "phonetics": "英\r[dəˈrektəri]美\r[dɪˈrɛktəri,daɪ-]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(国际互联网网站上的)专题目录</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On the World Wide Web, a <b>directory</b> is a list of the subjects that you can find information on.  \r \r\r\r</span>",
+    "display_hwd": "directory",
+    "ext": "",
+    "hwd": "directory",
+    "phonetics": "英\r[dəˈrektəri]美\r[dɪˈrɛktəri,daɪ-]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

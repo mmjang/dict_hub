@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">农场;牧场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>farm</b> is an area of land, together with the buildings on it, that is used for growing crops or raising animals, usually in order to sell them.  \r \r\r\r</span>",
+    "display_hwd": "farm",
+    "ext": "",
+    "hwd": "farm",
+    "phonetics": "英\r[fɑ:m]美\r[fɑrm]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">耕种;在…上从事畜牧业</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>farm</b> an area of land, you grow crops or keep animals on it.  \r \r\r\r</span>",
+    "display_hwd": "farm",
+    "ext": "",
+    "hwd": "farm",
+    "phonetics": "英\r[fɑ:m]美\r[fɑrm]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">养殖场;饲养地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A mink <b>farm</b> or a fish <b>farm</b>, for example, is a place where a particular kind of animal or fish is bred and kept in large quantities in order to be sold.  \r \r\r\r</span>",
+    "display_hwd": "farm",
+    "ext": "",
+    "hwd": "farm",
+    "phonetics": "英\r[fɑ:m]美\r[fɑrm]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

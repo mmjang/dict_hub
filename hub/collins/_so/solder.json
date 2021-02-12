@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">焊;焊接;焊合</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>solder</b> two pieces of metal together, you join them by melting a small piece of soft metal and putting it between them so that it holds them together after it has cooled.  \r \r\r\r</span>",
+    "display_hwd": "solder",
+    "ext": "",
+    "hwd": "solder",
+    "phonetics": "英\r[ˈsəʊldə(r)]美\r[ˈsɑdər]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">焊料;焊锡</span>",
+    "def_en": "<span class=\"endef\"><b>Solder</b> is the soft metal used for soldering.  \r \r\r\r</span>",
+    "display_hwd": "solder",
+    "ext": "",
+    "hwd": "solder",
+    "phonetics": "英\r[ˈsəʊldə(r)]美\r[ˈsɑdər]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

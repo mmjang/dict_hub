@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">诗圣（有时用来指莎士比亚）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes refer to William Shakespeare as <b>the Bard</b> .  \r \r\r\r</span>",
+    "display_hwd": "Bard",
+    "ext": "",
+    "hwd": "Bard",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诗人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bard</b> is a poet.  \r \r\r\r</span>",
+    "display_hwd": "bard",
+    "ext": "",
+    "hwd": "bard",
+    "phonetics": "英\r[bɑ:d]美\r[bɑrd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

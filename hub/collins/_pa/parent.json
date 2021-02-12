@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">父母</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://foster parent\">foster parent</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://one-parent family\">one-parent family</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://single parent\">single parent</a></b>;\r Your <b>parents</b> are your mother and father.  \r \r\r\r</span>",
+    "display_hwd": "parent",
+    "ext": "",
+    "hwd": "parent",
+    "phonetics": "英\r[ˈpeərənt]美\r[ˈperənt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">创始的；母公司的；总公司的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An organization's <b>parent</b> organization is the organization that created it and usually still controls it.  \r \r\r\r</span>",
+    "display_hwd": "parent",
+    "ext": "",
+    "hwd": "parent",
+    "phonetics": "英\r[ˈpeərənt]美\r[ˈperənt]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（动物、植物或有机体）亲本的，亲代的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>parent</b> animal, plant, or organism of a particular animal, plant or organism is the one that it comes from or is produced by.  \r \r\r\r</span>",
+    "display_hwd": "parent",
+    "ext": "",
+    "hwd": "parent",
+    "phonetics": "英\r[ˈpeərənt]美\r[ˈperənt]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

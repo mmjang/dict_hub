@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">档案编号;文件编号</span>",
+    "def_en": "<span class=\"endef\"><b>Ref</b> is an abbreviation for (缩略=) <b>reference</b>. It is written in front of a code at the top of business letters and documents. The code refers to a file where all the letters and documents about the same matter are kept.  \r \r\r\r</span>",
+    "display_hwd": "ref",
+    "ext": "",
+    "hwd": "ref",
+    "phonetics": "英\r[ref]美\r[rɛf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（比赛中的）裁判</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>ref</b> in a sports game, such as football or boxing, is the same as the <b>referee</b>.  \r \r\r\r</span>",
+    "display_hwd": "ref",
+    "ext": "",
+    "hwd": "ref",
+    "phonetics": "英\r[ref]美\r[rɛf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

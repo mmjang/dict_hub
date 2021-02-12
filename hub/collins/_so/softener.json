@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">硬水软化器，硬水软化剂(可以去除水中某些矿物质，使洗衣时容易产生肥皂泡)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A water <b>softener</b> is a device or substance which removes certain minerals, for example calcium, from water, so that it makes bubbles easily when you use soap to wash things.  \r \r\r\r</span>",
+    "display_hwd": "softener",
+    "ext": "",
+    "hwd": "softener",
+    "phonetics": "英\r[ˈsɒfnə(r)]美\r[ˈsɔfnə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">织物软化剂，柔顺剂(洗衣时加入水中的一种化学物质，可使衣物手感柔和)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A fabric <b>softener</b> is a chemical substance that you add to water when you wash clothes in order to make the clothes feel softer.  \r \r\r\r</span>",
+    "display_hwd": "softener",
+    "ext": "",
+    "hwd": "softener",
+    "phonetics": "英\r[ˈsɒfnə(r)]美\r[ˈsɔfnə(r)]",
+    "phrase": "",
+    "sense": "n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

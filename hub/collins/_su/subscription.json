@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">会员费;用户费;捐助款;订阅费</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>subscription</b> is an amount of money that you pay regularly in order to belong to an organization, to help a charity or campaign, or to receive copies of a magazine or newspaper.  \r \r\r\r</span>",
+    "display_hwd": "subscription",
+    "ext": "",
+    "hwd": "subscription",
+    "phonetics": "英\r[səbˈskrɪpʃn]美\r[səbˈskrɪpʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电视或电视频道)付费的，收费的</span>",
+    "def_en": "<span class=\"endef\"><b>Subscription</b> television is television that you can watch only if you pay a subscription. A <b>subscription</b> channel is a channel that you can watch only if you pay a subscription.  \r \r\r\r</span>",
+    "display_hwd": "subscription",
+    "ext": "",
+    "hwd": "subscription",
+    "phonetics": "英\r[səbˈskrɪpʃn]美\r[səbˈskrɪpʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

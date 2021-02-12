@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">坝;堤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dam</b> is a wall that is built across a river in order to stop the water flowing and to make a lake.  \r \r\r\r</span>",
+    "display_hwd": "dam",
+    "ext": "",
+    "hwd": "dam",
+    "phonetics": "英\r[dæm]美\r[dæm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在（河）上筑坝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>dam</b> a river means to build a dam across it.  \r \r\r\r</span>",
+    "display_hwd": "dam",
+    "ext": "",
+    "hwd": "dam",
+    "phonetics": "英\r[dæm]美\r[dæm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">雌亲;母畜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the breeding of farm animals, an animal's <b>dam</b> is its mother.  \r \r\r\r</span>",
+    "display_hwd": "dam",
+    "ext": "",
+    "hwd": "dam",
+    "phonetics": "英\r[dæm]美\r[dæm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

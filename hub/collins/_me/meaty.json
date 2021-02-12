@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（食物）含肉的，多肉的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Food that is <b>meaty</b> contains a lot of meat.  \r \r\r\r</span>",
+    "display_hwd": "meaty",
+    "ext": "",
+    "hwd": "meaty",
+    "phonetics": "英\r[ˈmi:ti]美\r[ˈmiti]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（文章、电影等）内容丰富的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can describe something such as a piece of writing or a part in a film as <b>meaty</b> if it contains a lot of interesting or important material.  \r \r\r\r</span>",
+    "display_hwd": "meaty",
+    "ext": "",
+    "hwd": "meaty",
+    "phonetics": "英\r[ˈmi:ti]美\r[ˈmiti]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(身体部位)肥厚的，粗壮的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can describe a part of someone's body as <b>meaty</b> if it is big and strong.  \r \r\r\r</span>",
+    "display_hwd": "meaty",
+    "ext": "",
+    "hwd": "meaty",
+    "phonetics": "英\r[ˈmi:ti]美\r[ˈmiti]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

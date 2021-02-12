@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（帽）檐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>brim</b> of a hat is the wide part that sticks outwards at the bottom.  \r \r\r\r</span>",
+    "display_hwd": "-brimmed",
+    "ext": "",
+    "hwd": "-brimmed",
+    "phonetics": "[baund]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">充满；充溢</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something <b>is brimming with</b> a particular quality, they are full of that quality.  \r \r\r\r</span>",
+    "display_hwd": "-brimmed",
+    "ext": "",
+    "hwd": "-brimmed",
+    "phonetics": "[baund]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">充满，充盈（泪水）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When your eyes <b>are brimming with</b> tears, they are full of fluid because you are upset, although you are not actually crying.  \r \r\r\r</span>",
+    "display_hwd": "-brimmed",
+    "ext": "",
+    "hwd": "-brimmed",
+    "phonetics": "[baund]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">装满；充满</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>brims with</b> particular things, it is packed full of them.  \r \r\r\r</span>",
+    "display_hwd": "-brimmed",
+    "ext": "",
+    "hwd": "-brimmed",
+    "phonetics": "[baund]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指容器）盛满，装满</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something, especially a container, <b>is filled to the brim</b> or <b>full to the brim with</b> something, it is filled right up to the top.  \r \r\r\r</span>",
+    "display_hwd": "-brimmed",
+    "ext": "",
+    "hwd": "-brimmed",
+    "phonetics": "[baund]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">充满，洋溢（某种感情）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>full to the brim with</b> a particular emotion, you feel that emotion so strongly that it is stronger than all other emotions.  \r \r\r\r</span>",
+    "display_hwd": "-brimmed",
+    "ext": "",
+    "hwd": "-brimmed",
+    "phonetics": "[baund]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

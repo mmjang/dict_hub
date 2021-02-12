@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">冷凝器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A  <b>condenser</b> is a device that cools gases into liquids.  \r \r\r\r</span>",
+    "display_hwd": "condenser",
+    "ext": "",
+    "hwd": "condenser",
+    "phonetics": "英\r[kənˈdensə(r)]美\r[kənˈdɛnsɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电容器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>condenser</b> is a device for accumulating electric charge.  \r \r\r\r</span>",
+    "display_hwd": "condenser",
+    "ext": "",
+    "hwd": "condenser",
+    "phonetics": "英\r[kənˈdensə(r)]美\r[kənˈdɛnsɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

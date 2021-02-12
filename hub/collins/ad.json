@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">公元</span>",
+    "def_en": "<span class=\"endef\">\r\r You use <b>AD</b> in dates to indicate the number of years or centuries that have passed since the year in which Jesus Christ is believed to have been born.  \r \r\r\r</span>",
+    "display_hwd": "AD",
+    "ext": "",
+    "hwd": "AD",
+    "phonetics": "英\r[ˌeɪˈdi:]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">广告</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ad</b> is an advertisement.  \r \r\r\r</span>",
+    "display_hwd": "ad",
+    "ext": "",
+    "hwd": "ad",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

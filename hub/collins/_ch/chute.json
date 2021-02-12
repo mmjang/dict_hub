@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">滑道;斜道;溜槽</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chute</b> is a steep, narrow slope down which people or things can slide.  \r \r\r\r</span>",
+    "display_hwd": "chute",
+    "ext": "",
+    "hwd": "chute",
+    "phonetics": "英\r[ʃu:t]美\r[ʃut]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">降落伞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>chute</b> is a parachute.  \r \r\r\r</span>",
+    "display_hwd": "chute",
+    "ext": "",
+    "hwd": "chute",
+    "phonetics": "英\r[ʃu:t]美\r[ʃut]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

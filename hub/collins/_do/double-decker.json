@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">双层公共汽车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>double-decker</b> or a <b>double-decker bus</b> is a bus that has two levels, so that passengers can sit upstairs or downstairs.  \r \r\r\r</span>",
+    "display_hwd": "double-decker",
+    "ext": "",
+    "hwd": "double-decker",
+    "phonetics": "英\r[ˈdʌblˈdekə]美\r[ˈdʌbəlˈdɛkɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">双层结构的;两层的</span>",
+    "def_en": "<span class=\"endef\"><b>Double-decker</b> items or structures have two layers or levels instead of one.  \r \r\r\r</span>",
+    "display_hwd": "double-decker",
+    "ext": "",
+    "hwd": "double-decker",
+    "phonetics": "英\r[ˈdʌblˈdekə]美\r[ˈdʌbəlˈdɛkɚ]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

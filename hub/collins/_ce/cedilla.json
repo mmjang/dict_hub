@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">变音符号(在法语、葡萄牙语等语言里，标在c下的符号，表示此处应读/s/，不读/k/，写作ç）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cedilla</b> is a symbol that is written under the letter 'c' in French, Portuguese, and some other languages to show that you pronounce it like a letter 's' rather than like a letter 'k'. It is written ç.  \r \r\r\r</span>",
+    "display_hwd": "cedilla",
+    "ext": "",
+    "hwd": "cedilla",
+    "phonetics": "英\r[sɪˈdɪlə]美\r[sɪˈdɪlə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

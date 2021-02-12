@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">既不…(也不…)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>neither</b> in front of the first of two or more words or expressions when you are linking two or more things which are not true or do not happen. The other thing is introduced by 'nor'.  \r \r\r\r</span>",
+    "display_hwd": "neither",
+    "ext": "",
+    "hwd": "neither",
+    "phonetics": "英\r[ˈnaɪðə(r)]美\r[ˈniðɚ,ˈnaɪ-]",
+    "phrase": "",
+    "sense": "★★★★☆ conj-coord-neg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">两个都不;(两者之中)无一个</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>neither</b> to refer to each of two things or people, when you are making a negative statement that includes both of them.  \r \r\r\r</span>",
+    "display_hwd": "neither",
+    "ext": "",
+    "hwd": "neither",
+    "phonetics": "英\r[ˈnaɪðə(r)]美\r[ˈniðɚ,ˈnaɪ-]",
+    "phrase": "",
+    "sense": "★★★★☆ det-neg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">也不;都不</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that one person or thing does not do something and <b>neither</b> does another, what you say is true of all the people or things that you are mentioning.  \r \r\r\r</span>",
+    "display_hwd": "neither",
+    "ext": "",
+    "hwd": "neither",
+    "phonetics": "英\r[ˈnaɪðə(r)]美\r[ˈniðɚ,ˈnaɪ-]",
+    "phrase": "",
+    "sense": "★★★★☆ conj-coord-neg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于否定陈述后，强调要引出另一否定陈述)也不</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>neither</b> after a negative statement to emphasize that you are introducing another negative statement.  \r \r\r\r</span>",
+    "display_hwd": "neither",
+    "ext": "",
+    "hwd": "neither",
+    "phonetics": "英\r[ˈnaɪðə(r)]美\r[ˈniðɚ,ˈnaɪ-]",
+    "phrase": "",
+    "sense": "★★★★☆ conj-coord-neg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不相干;无关紧要</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>neither here nor there</b>, you mean that it does not matter because it is not a relevant point.  \r \r\r\r</span>",
+    "display_hwd": "neither",
+    "ext": "",
+    "hwd": "neither",
+    "phonetics": "英\r[ˈnaɪðə(r)]美\r[ˈniðɚ,ˈnaɪ-]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

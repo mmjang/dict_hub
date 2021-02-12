@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">哈罗;你好</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>Hello</b>' to someone when you meet them.  \r \r\r\r</span>",
+    "display_hwd": "hello",
+    "ext": "",
+    "hwd": "hello",
+    "phonetics": "英\r[hə'ləʊ]美\r[həˈloʊ]",
+    "phrase": "",
+    "sense": "★★★☆☆ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（打电话时的招呼语）喂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>Hello</b>' to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning.  \r \r\r\r</span>",
+    "display_hwd": "hello",
+    "ext": "",
+    "hwd": "hello",
+    "phonetics": "英\r[hə'ləʊ]美\r[həˈloʊ]",
+    "phrase": "",
+    "sense": "★★★☆☆ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于引起别人注意）喂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can call '<b>hello</b>' to attract someone's attention.  \r \r\r\r</span>",
+    "display_hwd": "hello",
+    "ext": "",
+    "hwd": "hello",
+    "phonetics": "英\r[hə'ləʊ]美\r[həˈloʊ]",
+    "phrase": "",
+    "sense": "★★★☆☆ convention\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">协议；协定；协约</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>agreement</b> is a formal decision about future action which is made by two or more countries, groups, or people.  \r \r\r\r</span>",
+    "display_hwd": "agreement",
+    "ext": "",
+    "hwd": "agreement",
+    "phonetics": "英\r[əˈgri:mənt]美\r[əˈɡrimənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">达成协议</span>",
+    "def_en": "<span class=\"endef\"><b>Agreement on</b> something is a joint decision that a particular course of action should be taken.  \r \r\r\r</span>",
+    "display_hwd": "agreement",
+    "ext": "",
+    "hwd": "agreement",
+    "phonetics": "英\r[əˈgri:mənt]美\r[əˈɡrimənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">意见一致；看法相同</span>",
+    "def_en": "<span class=\"endef\"><b>Agreement</b> with someone means having the same opinion as they have.  \r \r\r\r</span>",
+    "display_hwd": "agreement",
+    "ext": "",
+    "hwd": "agreement",
+    "phonetics": "英\r[əˈgri:mənt]美\r[əˈɡrimənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">赞成；赞同</span>",
+    "def_en": "<span class=\"endef\"><b>Agreement</b> to a course of action means allowing it to happen or giving it your approval.  \r \r\r\r</span>",
+    "display_hwd": "agreement",
+    "ext": "",
+    "hwd": "agreement",
+    "phonetics": "英\r[əˈgri:mənt]美\r[əˈɡrimənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(叙述、数据的)一致，相符</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is <b>agreement</b> between two accounts of an event or two sets of figures, they are the same or are consistent with each other.  \r \r\r\r</span>",
+    "display_hwd": "agreement",
+    "ext": "",
+    "hwd": "agreement",
+    "phonetics": "英\r[əˈgri:mənt]美\r[əˈɡrimənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与搭配名词或代词在数或性上的）一致，呼应</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, <b>agreement</b> refers to the way that a word has a form appropriate to the number or gender of the noun or pronoun it relates to.  \r \r\r\r</span>",
+    "display_hwd": "agreement",
+    "ext": "",
+    "hwd": "agreement",
+    "phonetics": "英\r[əˈgri:mənt]美\r[əˈɡrimənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

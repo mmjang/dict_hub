@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(可供住宿的)舱式游艇</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cabin cruiser\">cabin cruiser</a></b>;\r A <b>cruiser</b> is a motor boat which has an area for people to live or sleep.  \r \r\r\r</span>",
+    "display_hwd": "cruiser",
+    "ext": "",
+    "hwd": "cruiser",
+    "phonetics": "英\r[ˈkru:zə(r)]美\r[ˈkruzɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">巡洋舰</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cruiser</b> is a large fast warship.  \r \r\r\r</span>",
+    "display_hwd": "cruiser",
+    "ext": "",
+    "hwd": "cruiser",
+    "phonetics": "英\r[ˈkru:zə(r)]美\r[ˈkruzɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">巡逻警车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cruiser</b> is a police car.  \r \r\r\r</span>",
+    "display_hwd": "cruiser",
+    "ext": "",
+    "hwd": "cruiser",
+    "phonetics": "英\r[ˈkru:zə(r)]美\r[ˈkruzɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

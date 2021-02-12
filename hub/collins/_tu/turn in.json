@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">上床睡觉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn in</b>, you go to bed.  \r \r\r\r</span>",
+    "display_hwd": "turn in",
+    "ext": "",
+    "hwd": "turn in",
+    "phonetics": "英\r[tə:nin]美\r[tɚnɪn]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把（犯罪嫌疑人）交给警方;告发;检举;自首</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn</b> someone <b>in</b>, you take them to the police or tell the police where they are because they are suspected of committing a crime. If you <b>turn</b> yourself <b>in</b>, you go to the police because you have been involved in a crime.  \r \r\r\r</span>",
+    "display_hwd": "turn in",
+    "ext": "",
+    "hwd": "turn in",
+    "phonetics": "英\r[tə:nin]美\r[tɚnɪn]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">上交;提交;交付</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>turn in</b> a completed piece of work, especially written work, you give it to the person who asked you to do it.  \r \r\r\r</span>",
+    "display_hwd": "turn in",
+    "ext": "",
+    "hwd": "turn in",
+    "phonetics": "英\r[tə:nin]美\r[tɚnɪn]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">交还;返还</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn</b> something <b>in</b>, you return it to the place or person you borrowed it from.  \r \r\r\r</span>",
+    "display_hwd": "turn in",
+    "ext": "",
+    "hwd": "turn in",
+    "phonetics": "英\r[tə:nin]美\r[tɚnɪn]",
+    "phrase": "",
+    "sense": "phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

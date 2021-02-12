@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">谓语</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some systems of grammar, the <b>predicate</b> of a clause is the part of it that is not the subject. For example, in 'I decided what to do', 'decided what to do' is the predicate.  \r \r\r\r</span>",
+    "display_hwd": "predicate",
+    "ext": "",
+    "hwd": "predicate",
+    "phonetics": "英\r[ˈpredɪkət]美\r['predɪkət]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">基于；取决于；以…为基础</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that one situation <b>is predicated on</b> another, you mean that the first situation can be true or real only if the second one is true or real.  \r \r\r\r</span>",
+    "display_hwd": "predicate",
+    "ext": "",
+    "hwd": "predicate",
+    "phonetics": "英\r[ˈpredɪkət]美\r['predɪkət]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

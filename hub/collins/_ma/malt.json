@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（用以酿制威士忌、啤酒和其他酒类的）麦芽</span>",
+    "def_en": "<span class=\"endef\"><b>Malt</b> is a substance made from grain that has been soaked in water and then dried in a hot oven. Malt is used in the production of whisky, beer, and other alcoholic drinks.  \r \r\r\r</span>",
+    "display_hwd": "malt",
+    "ext": "",
+    "hwd": "malt",
+    "phonetics": "英\r[mɔ:lt]美\r[mɔlt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 malt whisky</span>",
+    "def_en": "<span class=\"endef\"><b>Malt</b> is the same as <b>malt whisky</b> .  \r \r\r\r</span>",
+    "display_hwd": "malt",
+    "ext": "",
+    "hwd": "malt",
+    "phonetics": "英\r[mɔ:lt]美\r[mɔlt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用麦乳精与其他调味品制成的)麦乳精饮料</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>malt</b> is a drink made from malted milk and sometimes other flavourings.  \r \r\r\r</span>",
+    "display_hwd": "malt",
+    "ext": "",
+    "hwd": "malt",
+    "phonetics": "英\r[mɔ:lt]美\r[mɔlt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

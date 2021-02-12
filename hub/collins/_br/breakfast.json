@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">早餐；早饭</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bed and breakfast\">bed and breakfast</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://continental breakfast\">continental breakfast</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://English breakfast\">English breakfast</a></b>;\r <b>Breakfast</b> is the first meal of the day. It is usually eaten in the early part of the morning.  \r \r\r\r</span>",
+    "display_hwd": "breakfast",
+    "ext": "",
+    "hwd": "breakfast",
+    "phonetics": "英\r[ˈbrekfəst]美\r[ˈbrekfəst]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（咸肉、蛋类等）熟食早餐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A cooked <b>breakfast</b> or a hot <b>breakfast</b> is a breakfast that consists of cooked food, such as bacon and eggs.  \r \r\r\r</span>",
+    "display_hwd": "breakfast",
+    "ext": "",
+    "hwd": "breakfast",
+    "phonetics": "英\r[ˈbrekfəst]美\r[ˈbrekfəst]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吃早饭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>breakfast</b>, you have breakfast.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://meal\">meal</a></b></span>",
+    "display_hwd": "breakfast",
+    "ext": "",
+    "hwd": "breakfast",
+    "phonetics": "英\r[ˈbrekfəst]美\r[ˈbrekfəst]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

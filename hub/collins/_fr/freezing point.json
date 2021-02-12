@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(常用于谈论天气时)冰点，零(摄氏)度</span>",
+    "def_en": "<span class=\"endef\"><b>Freezing point</b> is 0° Celsius, the temperature at which water freezes. Freezing point is often used when talking about the weather.  \r \r\r\r</span>",
+    "display_hwd": "freezing point",
+    "ext": "",
+    "hwd": "freezing point",
+    "phonetics": "[ˈfri:ziŋpɔint]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">凝固点;冻结点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>freezing point</b> of a particular substance is the temperature at which it freezes.  \r \r\r\r</span>",
+    "display_hwd": "freezing point",
+    "ext": "",
+    "hwd": "freezing point",
+    "phonetics": "[ˈfri:ziŋpɔint]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

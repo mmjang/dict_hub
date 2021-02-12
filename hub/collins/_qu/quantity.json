@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">数量;量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>quantity</b> is an amount that you can measure or count.  \r \r\r\r</span>",
+    "display_hwd": "quantity",
+    "ext": "",
+    "hwd": "quantity",
+    "phonetics": "英\r[ˈkwɒntəti]美\r[ˈkwɑntəti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大量;大宗；大批</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Things that are produced or available in <b>quantity</b> are produced or available in large amounts.  \r \r\r\r</span>",
+    "display_hwd": "quantity",
+    "ext": "",
+    "hwd": "quantity",
+    "phonetics": "英\r[ˈkwɒntəti]美\r[ˈkwɑntəti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指和质量相对的)数量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>quantity</b> to refer to the amount of something that there is, especially when you want to contrast it with its quality.  \r \r\r\r</span>",
+    "display_hwd": "quantity",
+    "ext": "",
+    "hwd": "quantity",
+    "phonetics": "英\r[ˈkwɒntəti]美\r[ˈkwɑntəti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">未知量;未知数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is an <b>unknown quantity</b>, you mean that not much is known about what they are like or how they will behave.  \r \r\r\r</span>",
+    "display_hwd": "quantity",
+    "ext": "",
+    "hwd": "quantity",
+    "phonetics": "英\r[ˈkwɒntəti]美\r[ˈkwɑntəti]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

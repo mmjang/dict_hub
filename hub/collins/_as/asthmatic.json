@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">气喘病患者；哮喘病患者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People who suffer from asthma are sometimes referred to as <b>asthmatics</b> .  \r \r\r\r</span>",
+    "display_hwd": "asthmatic",
+    "ext": "",
+    "hwd": "asthmatic",
+    "phonetics": "英\r[æsˈmætɪk]美\r[æzˈmætɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">哮喘（性）的;气喘引起的</span>",
+    "def_en": "<span class=\"endef\"><b>Asthmatic</b> means relating to asthma.  \r \r\r\r</span>",
+    "display_hwd": "asthmatic",
+    "ext": "",
+    "hwd": "asthmatic",
+    "phonetics": "英\r[æsˈmætɪk]美\r[æzˈmætɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

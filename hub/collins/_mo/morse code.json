@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">莫尔斯电码</span>",
+    "def_en": "<span class=\"endef\"><b>Morse code</b> or <b>morse</b> is a code used for sending messages. It represents each letter of the alphabet using short and long sounds or flashes of light, which can be written down as dots and dashes.  \r \r\r\r</span>",
+    "display_hwd": "Morse code",
+    "ext": "",
+    "hwd": "Morse code",
+    "phonetics": "英\r[ˌmɔ:sˈkəʊd]美\r[ˌmɔrsˈkoʊd]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">莫尔斯电码</span>",
+    "def_en": "<span class=\"endef\"><b>Morse code</b> or <b>morse</b> is a code used for sending messages. It represents each letter of the alphabet using short and long sounds or flashes of light, which can be written down as dots and dashes.  \r \r\r\r</span>",
+    "display_hwd": "morse code",
+    "ext": "",
+    "hwd": "morse code",
+    "phonetics": "[ˌmɔːs'kəʊd]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

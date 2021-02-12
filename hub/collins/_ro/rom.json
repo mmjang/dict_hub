@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">只读存储器</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://CD-ROM\">CD-ROM</a></b>;\r <b>ROM</b> is the permanent part of a computer's memory. The information stored there can be read but not changed. <b>ROM</b> is an abbreviation for (缩略=) 'read-only memory'.  \r \r\r\r</span>",
+    "display_hwd": "ROM",
+    "ext": "",
+    "hwd": "ROM",
+    "phonetics": "英\r[rɒm]美\r[rɑm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

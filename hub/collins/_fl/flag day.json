@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">美国国旗纪念日(6月14日)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, <b>Flag Day</b> is the 14th of June, the anniversary of the day in 1777 when the Stars and Stripes became the official U.S. flag.  \r \r\r\r</span>",
+    "display_hwd": "Flag Day",
+    "ext": "",
+    "hwd": "Flag Day",
+    "phonetics": "英\r[flæg]美\r[flæɡ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(英国的)售旗募捐日，旗日，公益募捐日</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>flag day</b> is a day on which people collect money for a charity from people in the street. People are given a small sticker to wear to show that they have given money.  \r \r\r\r</span>",
+    "display_hwd": "flag day",
+    "ext": "",
+    "hwd": "flag day",
+    "phonetics": "英\r[flæɡdei]美\r[flæɡde]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

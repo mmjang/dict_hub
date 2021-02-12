@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">香水业;香水生产</span>",
+    "def_en": "<span class=\"endef\"><b>Perfumery</b> is the activity or business of producing perfume.  \r \r\r\r</span>",
+    "display_hwd": "perfumery",
+    "ext": "",
+    "hwd": "perfumery",
+    "phonetics": "英\r[pəˈfju:məri]美\r[pərˈfjuməri]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">香水店；香水专柜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>perfumery</b> is a shop or a department in a store where perfume is the main product that is sold.  \r \r\r\r</span>",
+    "display_hwd": "perfumery",
+    "ext": "",
+    "hwd": "perfumery",
+    "phonetics": "英\r[pəˈfju:məri]美\r[pərˈfjuməri]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

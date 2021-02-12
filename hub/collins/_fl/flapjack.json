@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">燕麦甜饼</span>",
+    "def_en": "<span class=\"endef\"><b>Flapjacks</b> are thick biscuits made from oats, butter, and syrup.  \r \r\r\r</span>",
+    "display_hwd": "flapjack",
+    "ext": "",
+    "hwd": "flapjack",
+    "phonetics": "英\r[ˈflæpdʒæk]美\r[ˈflæpˌdʒæk]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">煎饼;烤饼</span>",
+    "def_en": "<span class=\"endef\"><b>Flapjacks</b> are thin, flat, circular pieces of cooked batter made of milk, flour, and eggs. Flapjacks are usually rolled up or folded and eaten hot with a sweet or savoury filling.  \r \r\r\r</span>",
+    "display_hwd": "flapjack",
+    "ext": "",
+    "hwd": "flapjack",
+    "phonetics": "英\r[ˈflæpdʒæk]美\r[ˈflæpˌdʒæk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

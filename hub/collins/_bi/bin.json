@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">垃圾桶；垃圾箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bin</b> is a container that you put rubbish in.  \r \r\r\r</span>",
+    "display_hwd": "bin",
+    "ext": "",
+    "hwd": "bin",
+    "phonetics": "英\r[bɪn]美\r[bɪn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">箱子；储物箱；储藏箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bin</b> is a container that you keep or store things in.  \r \r\r\r</span>",
+    "display_hwd": "bin",
+    "ext": "",
+    "hwd": "bin",
+    "phonetics": "英\r[bɪn]美\r[bɪn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扔掉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>bin</b> something, you throw it away.  \r \r\r\r</span>",
+    "display_hwd": "bin",
+    "ext": "",
+    "hwd": "bin",
+    "phonetics": "英\r[bɪn]美\r[bɪn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">一套房间;套间</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://en suite\">en suite</a></b>;\r A <b>suite</b> is a set of rooms in a hotel or other building.  \r \r\r\r</span>",
+    "display_hwd": "suite",
+    "ext": "",
+    "hwd": "suite",
+    "phonetics": "英\r[swi:t]美\r[swit]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一套家具</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>suite</b> is a set of matching armchairs and a sofa.  \r \r\r\r</span>",
+    "display_hwd": "suite",
+    "ext": "",
+    "hwd": "suite",
+    "phonetics": "英\r[swi:t]美\r[swit]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一套浴室家具</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A bathroom <b>suite</b> is a matching bath, washbasin, and toilet.  \r \r\r\r</span>",
+    "display_hwd": "suite",
+    "ext": "",
+    "hwd": "suite",
+    "phonetics": "英\r[swi:t]美\r[swit]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

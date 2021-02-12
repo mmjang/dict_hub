@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">温度自动调节器;恒温器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>thermostat</b> is a device that switches a system or motor on or off according to the temperature. Thermostats are used, for example, in central heating systems and fridges.  \r \r\r\r</span>",
+    "display_hwd": "thermostat",
+    "ext": "",
+    "hwd": "thermostat",
+    "phonetics": "英\r[ˈθɜ:məstæt]美\r[ˈθɜrməstæt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

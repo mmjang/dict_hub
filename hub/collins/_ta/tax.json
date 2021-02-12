@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">税;税款</span>",
+    "def_en": "<span class=\"endef\"><b>Tax</b> is an amount of money that you have to pay to the government so that it can pay for public services.  \r \r\r\r</span>",
+    "display_hwd": "tax",
+    "ext": "",
+    "hwd": "tax",
+    "phonetics": "英\r[tæks]美\r[tæks]",
+    "phrase": "",
+    "sense": "★★★★★ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对(人、公司或货物)征税</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a person or company <b>is taxed</b>, they have to pay a part of their income or profits to the government. When goods <b>are taxed</b>, a percentage of their price has to be paid to the government.  \r \r\r\r</span>",
+    "display_hwd": "tax",
+    "ext": "",
+    "hwd": "tax",
+    "phonetics": "英\r[tæks]美\r[tæks]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使用尽，耗尽(力气、耐心、资源等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>taxes</b> your strength, your patience, or your resources, it uses nearly all of them, so that you have great difficulty in carrying out what you are trying to do.  \r \r\r\r</span>",
+    "display_hwd": "tax",
+    "ext": "",
+    "hwd": "tax",
+    "phonetics": "英\r[tæks]美\r[tæks]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://taxing\">taxing</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://council tax\">council tax</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://income tax\">income tax</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://poll tax\">poll tax</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://value added tax\">value added tax</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "tax",
+    "ext": "",
+    "hwd": "tax",
+    "phonetics": "英\r[tæks]美\r[tæks]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  }
+]

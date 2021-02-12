@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">心电图</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone has an <b>electrocardiogram</b>, doctors use special equipment to measure the electric currents produced by that person's heart in order to see whether it is working normally.  \r \r\r\r</span>",
+    "display_hwd": "electrocardiogram",
+    "ext": "",
+    "hwd": "electrocardiogram",
+    "phonetics": "英\r[ɪˌlektrəʊˈkɑ:diəʊgræm]美\r[ɪˌlektroʊˈkɑrdioʊgræm]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

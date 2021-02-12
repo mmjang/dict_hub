@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">if poss 同 if possible</span>",
+    "def_en": "<span class=\"endef\">\r\r\r '<b>If poss</b>' means the same as 'if possible'.  \r \r\r\r</span>",
+    "display_hwd": "poss",
+    "ext": "",
+    "hwd": "poss",
+    "phonetics": "英\r[pɒs]美\r[pɑs]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">as poss 同 as possible</span>",
+    "def_en": "<span class=\"endef\">\r\r\r '<b>As poss</b>' means the same as 'as possible'.  \r \r\r\r</span>",
+    "display_hwd": "poss",
+    "ext": "",
+    "hwd": "poss",
+    "phonetics": "英\r[pɒs]美\r[pɑs]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">牛排</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://rump steak\">rump steak</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://T-bone steak\">T-bone steak</a></b>;\r A <b>steak</b> is a large flat piece of beef without much fat on it. You cook it by grilling or frying it.  \r \r\r\r</span>",
+    "display_hwd": "steak",
+    "ext": "",
+    "hwd": "steak",
+    "phonetics": "英\r[steɪk]美\r[stek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(常指切成块出售、供炖焖用的)牛肉</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://stewing steak\">stewing steak</a></b>;\r <b>Steak</b> is beef that is used for making stews. It is often cut into cubes to be sold.  \r \r\r\r</span>",
+    "display_hwd": "steak",
+    "ext": "",
+    "hwd": "steak",
+    "phonetics": "英\r[steɪk]美\r[stek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鱼片;鱼排</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A fish <b>steak</b> is a large piece of fish that contains few bones.  \r \r\r\r</span>",
+    "display_hwd": "steak",
+    "ext": "",
+    "hwd": "steak",
+    "phonetics": "英\r[steɪk]美\r[stek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

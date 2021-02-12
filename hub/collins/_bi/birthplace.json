@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">籍贯；出生地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>birthplace</b> is the place where you were born.  \r \r\r\r</span>",
+    "display_hwd": "birthplace",
+    "ext": "",
+    "hwd": "birthplace",
+    "phonetics": "英\r[ˈbɜ:θpleɪs]美\r[ˈbɜrθpleɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发源地；发祥地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>birthplace of</b> something is the place where it began.  \r \r\r\r</span>",
+    "display_hwd": "birthplace",
+    "ext": "",
+    "hwd": "birthplace",
+    "phonetics": "英\r[ˈbɜ:θpleɪs]美\r[ˈbɜrθpleɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(电影中的)联袂主演明星</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An actor's or actress's <b>co-stars</b> are the other actors or actresses who also have one of the main parts in a particular film.  \r \r\r\r</span>",
+    "display_hwd": "co-star",
+    "ext": "",
+    "hwd": "co-star",
+    "phonetics": "英\r[ˈkəʊstɑ:]美\r[ˈkostɑr]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">联袂主演</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an actor or actress <b>co-stars with</b> another actor or actress, the two of them have the main parts in a particular film.  \r \r\r\r</span>",
+    "display_hwd": "co-star",
+    "ext": "",
+    "hwd": "co-star",
+    "phonetics": "英\r[ˈkəʊstɑ:]美\r[ˈkostɑr]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">由…联袂主演</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a film <b>co-stars</b> particular actors, they have the main parts in it.  \r \r\r\r</span>",
+    "display_hwd": "co-star",
+    "ext": "",
+    "hwd": "co-star",
+    "phonetics": "英\r[ˈkəʊstɑ:]美\r[ˈkostɑr]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

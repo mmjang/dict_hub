@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">虐待；凌辱</span>",
+    "def_en": "<span class=\"endef\"><b>Abuse</b> of someone is cruel and violent treatment of them.  \r \r\r\r</span>",
+    "display_hwd": "abuser",
+    "ext": "",
+    "hwd": "abuser",
+    "phonetics": "[ə'bju:zə]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">辱骂;恶语</span>",
+    "def_en": "<span class=\"endef\"><b>Abuse</b> is extremely rude and insulting things that people say when they are angry.  \r \r\r\r</span>",
+    "display_hwd": "abuser",
+    "ext": "",
+    "hwd": "abuser",
+    "phonetics": "[ə'bju:zə]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">滥用；妄用</span>",
+    "def_en": "<span class=\"endef\"><b>Abuse</b> of something is the use of it in a wrong way or for a bad purpose.  \r \r\r\r</span>",
+    "display_hwd": "abuser",
+    "ext": "",
+    "hwd": "abuser",
+    "phonetics": "[ə'bju:zə]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">虐待;凌辱;伤害</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is abused</b>, they are treated cruelly and violently.  \r \r\r\r</span>",
+    "display_hwd": "abuser",
+    "ext": "",
+    "hwd": "abuser",
+    "phonetics": "[ə'bju:zə]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">辱骂;侮辱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say that someone <b>is abused</b> if extremely rude and insulting things are said to them.  \r \r\r\r</span>",
+    "display_hwd": "abuser",
+    "ext": "",
+    "hwd": "abuser",
+    "phonetics": "[ə'bju:zə]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">滥用；妄用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>abuse</b> something, you use it in a wrong way or for a bad purpose.  \r \r\r\r</span>",
+    "display_hwd": "abuser",
+    "ext": "",
+    "hwd": "abuser",
+    "phonetics": "[ə'bju:zə]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

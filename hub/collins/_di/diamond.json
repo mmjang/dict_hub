@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">金刚石;钻石</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>diamond</b> is a hard, bright, precious stone which is clear and colourless. Diamonds are used in jewellery and for cutting very hard substances.  \r \r\r\r</span>",
+    "display_hwd": "diamond",
+    "ext": "",
+    "hwd": "diamond",
+    "phonetics": "英\r[ˈdaɪəmənd]美\r[ˈdaɪəmənd,ˈdaɪmənd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">钻石首饰;钻石饰物</span>",
+    "def_en": "<span class=\"endef\"><b>Diamonds</b> are jewellery such as necklaces and rings which have diamonds set into them.  \r \r\r\r</span>",
+    "display_hwd": "diamond",
+    "ext": "",
+    "hwd": "diamond",
+    "phonetics": "英\r[ˈdaɪəmənd]美\r[ˈdaɪəmənd,ˈdaɪmənd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">◇. 菱形</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>diamond</b> is a shape with four straight sides of equal length where the opposite angles are the same, but none of the angles is equal to 90˚:  \r \r\r\r</span>",
+    "display_hwd": "diamond",
+    "ext": "",
+    "hwd": "diamond",
+    "phonetics": "英\r[ˈdaɪəmənd]美\r[ˈdaɪəmənd,ˈdaɪmənd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(纸牌中四种花色之一的)方块</span>",
+    "def_en": "<span class=\"endef\"><b>Diamonds</b> is one of the four suits of cards in a pack of playing cards. Each card in the suit is marked with one or more red symbols in the shape of a diamond.  \r \r\r\r</span>",
+    "display_hwd": "diamond",
+    "ext": "",
+    "hwd": "diamond",
+    "phonetics": "英\r[ˈdaɪəmənd]美\r[ˈdaɪəmənd,ˈdaɪmənd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(棒球场的)内场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In baseball, the <b>diamond</b> is the diamond-shaped area of the playing field between the four bases.  \r \r\r\r</span>",
+    "display_hwd": "diamond",
+    "ext": "",
+    "hwd": "diamond",
+    "phonetics": "英\r[ˈdaɪəmənd]美\r[ˈdaɪəmənd,ˈdaɪmənd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

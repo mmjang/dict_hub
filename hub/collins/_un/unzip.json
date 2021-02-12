@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">拉开（拉链）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>unzip</b> something which is fastened by a zip or when it <b>unzips</b>, you open it by pulling open the zip.  \r \r\r\r</span>",
+    "display_hwd": "unzip",
+    "ext": "",
+    "hwd": "unzip",
+    "phonetics": "英\r[ˌʌnˈzɪp]美\r[ˌʌn'zɪp]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">解压缩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>unzip</b> a computer file means to open a file that has been compressed.  \r \r\r\r</span>",
+    "display_hwd": "unzip",
+    "ext": "",
+    "hwd": "unzip",
+    "phonetics": "英\r[ˌʌnˈzɪp]美\r[ˌʌn'zɪp]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(空气等的)吸入</span>",
+    "def_en": "<span class=\"endef\"><b>Inhalation</b> is the process or act of breathing in, taking air and sometimes other substances into your lungs.  \r \r\r\r</span>",
+    "display_hwd": "inhalation",
+    "ext": "",
+    "hwd": "inhalation",
+    "phonetics": "英\r[ˌɪnhə'leɪʃn]美\r[ˌɪnhəˈleʃən]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吸入药;吸入剂;吸入物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>inhalation</b> is a treatment for colds and other illnesses in which you dissolve substances in hot water and breathe in the vapour.  \r \r\r\r</span>",
+    "display_hwd": "inhalation",
+    "ext": "",
+    "hwd": "inhalation",
+    "phonetics": "英\r[ˌɪnhə'leɪʃn]美\r[ˌɪnhəˈleʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

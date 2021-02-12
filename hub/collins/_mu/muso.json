@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">音乐家;乐师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>muso</b> is a musician.  \r \r\r\r</span>",
+    "display_hwd": "muso",
+    "ext": "",
+    "hwd": "muso",
+    "phonetics": "英\r[ˈmju:zəʊ]美\r[ˈmjuzoʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 musical</span>",
+    "def_en": "<span class=\"endef\"><b>Muso</b> means the same as <b>musical</b> .  \r \r\r\r</span>",
+    "display_hwd": "muso",
+    "ext": "",
+    "hwd": "muso",
+    "phonetics": "英\r[ˈmju:zəʊ]美\r[ˈmjuzoʊ]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

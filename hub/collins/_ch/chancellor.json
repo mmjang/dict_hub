@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(德国或奥地利的)总理</span>",
+    "def_en": "<span class=\"endef\"><b>Chancellor</b> is the title of the head of government in Germany and Austria.  \r \r\r\r</span>",
+    "display_hwd": "Chancellor",
+    "ext": "",
+    "hwd": "Chancellor",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★★★★☆ n-title; n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(英国的)财政大臣</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, the <b>Chancellor</b> is the Chancellor of the Exchequer.  \r \r\r\r</span>",
+    "display_hwd": "Chancellor",
+    "ext": "",
+    "hwd": "Chancellor",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(英国大学的)名誉校长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>Chancellor</b> of a British university is the official head of the university. The Chancellor does not take part in running the university.  \r \r\r\r</span>",
+    "display_hwd": "Chancellor",
+    "ext": "",
+    "hwd": "Chancellor",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(美国某些大学的)校长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The head of some American universities is called <b>the Chancellor</b> .  \r \r\r\r</span>",
+    "display_hwd": "Chancellor",
+    "ext": "",
+    "hwd": "Chancellor",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://vice-chancellor\">vice-chancellor</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "Chancellor",
+    "ext": "",
+    "hwd": "Chancellor",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（飞机、飞船等的）商载，有酬载荷</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>payload</b> of an aircraft or spacecraft is the amount or weight of things or people that it is carrying.  \r \r\r\r</span>",
+    "display_hwd": "payload",
+    "ext": "",
+    "hwd": "payload",
+    "phonetics": "英\r[ˈpeɪləʊd]美\r[ˈpeɪloʊd]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（导弹等武器的）有效载荷，炸药量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>payload</b> of a missile or similar weapon is the quantity of explosives it contains.  \r \r\r\r</span>",
+    "display_hwd": "payload",
+    "ext": "",
+    "hwd": "payload",
+    "phonetics": "英\r[ˈpeɪləʊd]美\r[ˈpeɪloʊd]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

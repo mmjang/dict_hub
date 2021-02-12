@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">药剂师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>druggist</b> is someone who is qualified to sell medicines and drugs ordered by a doctor.  \r \r\r\r</span>",
+    "display_hwd": "druggist",
+    "ext": "",
+    "hwd": "druggist",
+    "phonetics": "英\r[ˈdrʌgɪst]美\r[ˈdrʌɡɪst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">药店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>druggist</b> or a <b>druggist's</b> is a store where medicines and drugs ordered by a doctor are sold.  \r \r\r\r</span>",
+    "display_hwd": "druggist",
+    "ext": "",
+    "hwd": "druggist",
+    "phonetics": "英\r[ˈdrʌgɪst]美\r[ˈdrʌɡɪst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

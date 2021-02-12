@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">北的;向北的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>northerly</b> point, area, or direction is to the north or towards the north.  \r \r\r\r</span>",
+    "display_hwd": "northerly",
+    "ext": "",
+    "hwd": "northerly",
+    "phonetics": "英\r[ˈnɔ:ðəli]美\r[ˈnɔrðərli]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(风)从北方吹来的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>northerly</b> wind is a wind that blows from the north.  \r \r\r\r</span>",
+    "display_hwd": "northerly",
+    "ext": "",
+    "hwd": "northerly",
+    "phonetics": "英\r[ˈnɔ:ðəli]美\r[ˈnɔrðərli]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">学士学位</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://BA\">BA</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://BSc\">BSc</a></b>;\r A <b>bachelor's degree</b> is a first degree awarded by universities.  \r \r\r\r</span>",
+    "display_hwd": "bachelor's degree",
+    "ext": "",
+    "hwd": "bachelor's degree",
+    "phonetics": "英\r[ˈbætʃələzdiˈɡri:]美\r[ˈbætʃələzdɪˈɡri]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

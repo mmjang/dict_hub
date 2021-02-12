@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">免疫血清</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>serum</b> is a liquid that is injected into someone's blood to protect them against a poison or disease.  \r \r\r\r</span>",
+    "display_hwd": "serum",
+    "ext": "",
+    "hwd": "serum",
+    "phonetics": "英\r[ˈsɪərəm]美\r[ˈsɪrəm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">血清</span>",
+    "def_en": "<span class=\"endef\"><b>Serum</b> is the watery, pale yellow part of blood.  \r \r\r\r</span>",
+    "display_hwd": "serum",
+    "ext": "",
+    "hwd": "serum",
+    "phonetics": "英\r[ˈsɪərəm]美\r[ˈsɪrəm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

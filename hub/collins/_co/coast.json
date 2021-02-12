@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">海岸;海滨</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>coast</b> is an area of land that is next to the sea.  \r \r\r\r</span>",
+    "display_hwd": "coast",
+    "ext": "",
+    "hwd": "coast",
+    "phonetics": "英\r[kəʊst]美\r[koʊst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(车辆熄火后或不用动力)靠惯性滑行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a vehicle <b>coasts</b> somewhere, it continues to move there with the motor switched off, or without being pushed or pedalled.  \r \r\r\r</span>",
+    "display_hwd": "coast",
+    "ext": "",
+    "hwd": "coast",
+    "phonetics": "英\r[kəʊst]美\r[koʊst]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毫不费力地做;(尤指)轻松获胜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or a team <b>is coasting</b>, they are doing something easily, especially winning a competition.  \r \r\r\r</span>",
+    "display_hwd": "coast",
+    "ext": "",
+    "hwd": "coast",
+    "phonetics": "英\r[kəʊst]美\r[koʊst]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不够努力;应付</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is coasting</b>, you are emphasizing that they are not putting enough effort into what they are doing.  \r \r\r\r</span>",
+    "display_hwd": "coast",
+    "ext": "",
+    "hwd": "coast",
+    "phonetics": "英\r[kəʊst]美\r[koʊst]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">没有被发现(或捉住)的危险;危险已过</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>the coast is clear</b>, you mean that there is nobody around to see you or catch you.  \r \r\r\r</span>",
+    "display_hwd": "coast",
+    "ext": "",
+    "hwd": "coast",
+    "phonetics": "英\r[kəʊst]美\r[koʊst]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

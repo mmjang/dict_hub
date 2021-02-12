@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(线、道路)(与…)相交，(与…)交叉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two or more lines or roads <b>intersect</b>, they meet or cross each other. You can also say that one line or road <b>intersects</b> another.  \r \r\r\r</span>",
+    "display_hwd": "intersect",
+    "ext": "",
+    "hwd": "intersect",
+    "phonetics": "英\r[ˌɪntəˈsekt]美\r[ˌɪntərˈsekt]",
+    "phrase": "",
+    "sense": "v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(与…)交叉;(与…)相关联</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>intersects with</b> another or if two things <b>intersect</b>, the two things have a connection at a particular point.  \r \r\r\r</span>",
+    "display_hwd": "intersect",
+    "ext": "",
+    "hwd": "intersect",
+    "phonetics": "英\r[ˌɪntəˈsekt]美\r[ˌɪntərˈsekt]",
+    "phrase": "",
+    "sense": "v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">横穿;贯穿;横断</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a place, area, or surface <b>is intersected by</b> things such as roads or lines, they cross it.  \r \r\r\r</span>",
+    "display_hwd": "intersect",
+    "ext": "",
+    "hwd": "intersect",
+    "phonetics": "英\r[ˌɪntəˈsekt]美\r[ˌɪntərˈsekt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

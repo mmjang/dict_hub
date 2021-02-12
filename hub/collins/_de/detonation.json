@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（大）爆炸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>detonation</b> is a large or powerful explosion.  \r \r\r\r</span>",
+    "display_hwd": "detonation",
+    "ext": "",
+    "hwd": "detonation",
+    "phonetics": "英\r[ˌdetəˈneɪʃn]美\r[ˌdɛtnˈeʃən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">引爆;起爆</span>",
+    "def_en": "<span class=\"endef\"><b>Detonation</b> is the action of causing a device such as a bomb to explode.  \r \r\r\r</span>",
+    "display_hwd": "detonation",
+    "ext": "",
+    "hwd": "detonation",
+    "phonetics": "英\r[ˌdetəˈneɪʃn]美\r[ˌdɛtnˈeʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

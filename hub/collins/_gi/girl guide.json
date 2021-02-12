@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）女童子军</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, the Guides used to be called <b>the Girl Guides</b>.  \r \r\r\r</span>",
+    "display_hwd": "Girl Guide",
+    "ext": "",
+    "hwd": "Girl Guide",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）女童子军成员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>Girl Guide</b> was a girl who was a member of the Girl Guides.  \r \r\r\r</span>",
+    "display_hwd": "Girl Guide",
+    "ext": "",
+    "hwd": "Girl Guide",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）女童子军</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, the Guides used to be called <b>the Girl Guides</b>.  \r \r\r\r</span>",
+    "display_hwd": "girl guide",
+    "ext": "",
+    "hwd": "girl guide",
+    "phonetics": "英\r[ɡə:lɡaid]美\r[ɡɚlɡaɪd]",
+    "phrase": "",
+    "sense": "n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）女童子军成员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>Girl Guide</b> was a girl who was a member of the Girl Guides.  \r \r\r\r</span>",
+    "display_hwd": "girl guide",
+    "ext": "",
+    "hwd": "girl guide",
+    "phonetics": "英\r[ɡə:lɡaid]美\r[ɡɚlɡaɪd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

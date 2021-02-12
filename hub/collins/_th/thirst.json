@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">渴;口渴</span>",
+    "def_en": "<span class=\"endef\"><b>Thirst</b> is the feeling that you need to drink something.  \r \r\r\r</span>",
+    "display_hwd": "thirst",
+    "ext": "",
+    "hwd": "thirst",
+    "phonetics": "英\r[θɜ:st]美\r[θɜrst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">干渴;缺水</span>",
+    "def_en": "<span class=\"endef\"><b>Thirst</b> is the condition of not having enough to drink.  \r \r\r\r</span>",
+    "display_hwd": "thirst",
+    "ext": "",
+    "hwd": "thirst",
+    "phonetics": "英\r[θɜ:st]美\r[θɜrst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">渴望;渴求</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>thirst for</b> something is a very strong desire for that thing.  \r \r\r\r</span>",
+    "display_hwd": "thirst",
+    "ext": "",
+    "hwd": "thirst",
+    "phonetics": "英\r[θɜ:st]美\r[θɜrst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">渴望;渴求</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>thirsts for</b> something, you mean that they have a strong desire for it.  \r \r\r\r</span>",
+    "display_hwd": "thirst",
+    "ext": "",
+    "hwd": "thirst",
+    "phonetics": "英\r[θɜ:st]美\r[θɜrst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

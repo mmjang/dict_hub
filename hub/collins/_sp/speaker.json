@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">发言人;演讲者;演说家</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>speaker</b> at a meeting, conference, or other gathering is a person who is making a speech or giving a talk.  \r \r\r\r</span>",
+    "display_hwd": "speaker",
+    "ext": "",
+    "hwd": "speaker",
+    "phonetics": "英\r[ˈspi:kə(r)]美\r[ˈspikɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">讲某种语言的人</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://native speaker\">native speaker</a></b>;\r A <b>speaker of</b> a particular language is a person who speaks it, especially one who speaks it as their first language.  \r \r\r\r</span>",
+    "display_hwd": "speaker",
+    "ext": "",
+    "hwd": "speaker",
+    "phonetics": "英\r[ˈspi:kə(r)]美\r[ˈspikɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(议会或立法机构的)议长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the parliament or legislature of many countries, the <b>Speaker</b> is the person who is in charge of meetings.  \r \r\r\r</span>",
+    "display_hwd": "speaker",
+    "ext": "",
+    "hwd": "speaker",
+    "phonetics": "英\r[ˈspi:kə(r)]美\r[ˈspikɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-proper; n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">说话人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>speaker</b> is a person who is speaking.  \r \r\r\r</span>",
+    "display_hwd": "speaker",
+    "ext": "",
+    "hwd": "speaker",
+    "phonetics": "英\r[ˈspi:kə(r)]美\r[ˈspikɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扬声器;喇叭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>speaker</b> is a piece of electrical equipment, for example part of a radio or set of equipment for playing CDs or tapes, through which sound comes out.  \r \r\r\r</span>",
+    "display_hwd": "speaker",
+    "ext": "",
+    "hwd": "speaker",
+    "phonetics": "英\r[ˈspi:kə(r)]美\r[ˈspikɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

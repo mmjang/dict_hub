@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">拨款;补助金</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>grant</b> is an amount of money that a government or other institution gives to an individual or to an organization for a particular purpose such as education or home improvements.  \r \r\r\r</span>",
+    "display_hwd": "grant",
+    "ext": "",
+    "hwd": "grant",
+    "phonetics": "英\r[grɑ:nt]美\r[grænt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">授予；给予</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone in authority <b>grants</b> you something, or if something <b>is granted to</b> you, you are allowed to have it.  \r \r\r\r</span>",
+    "display_hwd": "grant",
+    "ext": "",
+    "hwd": "grant",
+    "phonetics": "英\r[grɑ:nt]美\r[grænt]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">承认</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>grant that</b> something is true, you accept that it is true, even though your opinion about it does not change.  \r \r\r\r</span>",
+    "display_hwd": "grant",
+    "ext": "",
+    "hwd": "grant",
+    "phonetics": "英\r[grɑ:nt]美\r[grænt]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（因视作理所当然而）不把…当回事，对…不予重视（或不知感激）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>takes</b> you <b>for granted</b>, you are complaining that they benefit from your help, efforts, or presence without showing that they are grateful.  \r \r\r\r</span>",
+    "display_hwd": "grant",
+    "ext": "",
+    "hwd": "grant",
+    "phonetics": "英\r[grɑ:nt]美\r[grænt]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">认为…是理所当然的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something <b>for granted</b>, you believe that it is true or accept it as normal without thinking about it.  \r \r\r\r</span>",
+    "display_hwd": "grant",
+    "ext": "",
+    "hwd": "grant",
+    "phonetics": "英\r[grɑ:nt]美\r[grænt]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">理所当然地认为</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take it for granted that</b> something is the case, you believe that it is true or you accept it as normal without thinking about it.  \r \r\r\r</span>",
+    "display_hwd": "grant",
+    "ext": "",
+    "hwd": "grant",
+    "phonetics": "英\r[grɑ:nt]美\r[grænt]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

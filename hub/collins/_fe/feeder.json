@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">汇入主干道的;汇入干流的;(铁路)支线的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>feeder</b> road, railway, or river is a smaller one that leads to a more important one.  \r \r\r\r</span>",
+    "display_hwd": "feeder",
+    "ext": "",
+    "hwd": "feeder",
+    "phonetics": "英\r[ˈfi:də(r)]美\r[ˈfidɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(航空或铁路)支线</span>",
+    "def_en": "<span class=\"endef\"><b>Feeder</b> airline and railway services connect major routes and local destinations.  \r \r\r\r</span>",
+    "display_hwd": "feeder",
+    "ext": "",
+    "hwd": "feeder",
+    "phonetics": "英\r[ˈfi:də(r)]美\r[ˈfidɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(为重点学校或球队输送学生或球员的)生源学校，直属学校，直属球队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>feeder</b> school or team provides students or players for a larger or more important one.  \r \r\r\r</span>",
+    "display_hwd": "feeder",
+    "ext": "",
+    "hwd": "feeder",
+    "phonetics": "英\r[ˈfi:də(r)]美\r[ˈfidɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鸟食罐;喂食器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>feeder</b> is a container that you fill with food for birds or animals.  \r \r\r\r</span>",
+    "display_hwd": "feeder",
+    "ext": "",
+    "hwd": "feeder",
+    "phonetics": "英\r[ˈfi:də(r)]美\r[ˈfidɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">沏（茶）；冲（咖啡）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>brew</b> tea or coffee, you make it by pouring hot water over tea leaves or ground coffee.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某种）茶，咖啡；一壶茶（或咖啡）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>brew</b> is a particular kind of tea or coffee. It can also be a particular pot of tea or coffee.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">酿（啤酒）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or company <b>brews</b> beer, they make it.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某种或某地某一时间生产的）啤酒</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://home-brew\">home-brew</a></b>;\r A <b>brew</b> is a particular kind of beer or beer that is produced in a particular place at a particular time.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（风暴）酝酿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a storm <b>is brewing</b>, large clouds are beginning to form and the sky is becoming dark because there is going to be a storm.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（困境或危机）酝酿，形成</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an unpleasant or difficult situation <b>is brewing</b>, it is starting to develop.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">混合物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>brew of</b> several things is a mixture of those things.  \r \r\r\r</span>",
+    "display_hwd": "brew",
+    "ext": "",
+    "hwd": "brew",
+    "phonetics": "英\r[bru:]美\r[bru]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">潮湿的;微湿的;湿气重的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>damp</b> is slightly wet.  \r \r\r\r</span>",
+    "display_hwd": "damp",
+    "ext": "",
+    "hwd": "damp",
+    "phonetics": "英\r[dæmp]美\r[dæmp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（内墙面上、空气中等处的）湿气，潮气</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://rising damp\">rising damp</a></b>;\r <b>Damp</b> is moisture that is found on the inside walls of a house or in the air.  \r \r\r\r</span>",
+    "display_hwd": "damp",
+    "ext": "",
+    "hwd": "damp",
+    "phonetics": "英\r[dæmp]美\r[dæmp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使潮湿;弄湿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>damp</b> something, you make it slightly wet.  \r \r\r\r</span>",
+    "display_hwd": "damp",
+    "ext": "",
+    "hwd": "damp",
+    "phonetics": "英\r[dæmp]美\r[dæmp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

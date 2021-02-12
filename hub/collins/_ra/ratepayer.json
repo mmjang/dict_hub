@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（英国）地方税纳税人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>ratepayer</b> was a person who owned or rented property and therefore had to pay local taxes called rates. The citizens of a district are sometimes still called the <b>ratepayers</b> when their interests and the use of local taxes are being considered.  \r \r\r\r</span>",
+    "display_hwd": "ratepayer",
+    "ext": "",
+    "hwd": "ratepayer",
+    "phonetics": "英\r[ˈreɪtpeɪə(r)]美\r[ˈretˌpeɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国电力、自来水或电话公司的）消费者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, a <b>ratepayer</b> is a person whose property is served by an electricity, water, or telephone company, and who pays for these services.  \r \r\r\r</span>",
+    "display_hwd": "ratepayer",
+    "ext": "",
+    "hwd": "ratepayer",
+    "phonetics": "英\r[ˈreɪtpeɪə(r)]美\r[ˈretˌpeɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

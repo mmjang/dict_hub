@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">参军;应征入伍</span>",
+    "def_en": "<span class=\"endef\"><b>Enlistment</b> is the act of joining the army, navy, marines, or air force.  \r \r\r\r</span>",
+    "display_hwd": "enlistment",
+    "ext": "",
+    "hwd": "enlistment",
+    "phonetics": "英\r[ɪn'lɪstmənt]美\r[ɪn'lɪstmənt]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">服兵役年限;服役期</span>",
+    "def_en": "<span class=\"endef\"><b>Enlistment</b> is the period of time for which someone is a member of one of the armed forces.  \r \r\r\r</span>",
+    "display_hwd": "enlistment",
+    "ext": "",
+    "hwd": "enlistment",
+    "phonetics": "英\r[ɪn'lɪstmənt]美\r[ɪn'lɪstmənt]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

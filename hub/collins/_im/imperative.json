@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">极重要的;必要的;紧急的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If it is <b>imperative</b> that something is done, that thing is extremely important and must be done.  \r \r\r\r</span>",
+    "display_hwd": "imperative",
+    "ext": "",
+    "hwd": "imperative",
+    "phonetics": "英\r[ɪmˈperətɪv]美\r[ɪmˈpɛrətɪv]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">必要的事;紧急的事;必须履行的责任</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>imperative</b> is something that is extremely important and must be done.  \r \r\r\r</span>",
+    "display_hwd": "imperative",
+    "ext": "",
+    "hwd": "imperative",
+    "phonetics": "英\r[ɪmˈperətɪv]美\r[ɪmˈpɛrətɪv]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">祈使语气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, a clause that is in <b>the imperative</b>, or in <b>the imperative</b> mood, contains the base form of a verb and usually has no subject. Examples are 'Go away' and 'Please be careful'. Clauses of this kind are typically used to tell someone to do something.  \r \r\r\r</span>",
+    "display_hwd": "imperative",
+    "ext": "",
+    "hwd": "imperative",
+    "phonetics": "英\r[ɪmˈperətɪv]美\r[ɪmˈpɛrətɪv]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">祈使语气动词</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>imperative</b> is a verb in the base form that is used, usually without a subject, in an imperative clause.  \r \r\r\r</span>",
+    "display_hwd": "imperative",
+    "ext": "",
+    "hwd": "imperative",
+    "phonetics": "英\r[ɪmˈperətɪv]美\r[ɪmˈpɛrətɪv]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">文件;公文;文献;证件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>document</b> is one or more official pieces of paper with writing on them.  \r \r\r\r</span>",
+    "display_hwd": "document",
+    "ext": "",
+    "hwd": "document",
+    "phonetics": "英\r[ˈdɒkjumənt]美\r[ˈdɑkjumənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机)文件，文档</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>document</b> is a piece of text or graphics, for example a letter, that is stored as a file on a computer and that you can access in order to read it or change it.  \r \r\r\r</span>",
+    "display_hwd": "document",
+    "ext": "",
+    "hwd": "document",
+    "phonetics": "英\r[ˈdɒkjumənt]美\r[ˈdɑkjumənt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">记录，记载(详情)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>document</b> something, you make a detailed record of it in writing or on film or tape.  \r \r\r\r</span>",
+    "display_hwd": "document",
+    "ext": "",
+    "hwd": "document",
+    "phonetics": "英\r[ˈdɒkjumənt]美\r[ˈdɑkjumənt]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">歌词</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>lyrics</b> of a song are its words.  \r \r\r\r</span>",
+    "display_hwd": "lyric",
+    "ext": "",
+    "hwd": "lyric",
+    "phonetics": "英\r[ˈlɪrɪk]美\r[ˈlɪrɪk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">抒情（诗）的</span>",
+    "def_en": "<span class=\"endef\"><b>Lyric</b> poetry is written in a simple and direct style, and usually expresses personal emotions such as love.  \r \r\r\r</span>",
+    "display_hwd": "lyric",
+    "ext": "",
+    "hwd": "lyric",
+    "phonetics": "英\r[ˈlɪrɪk]美\r[ˈlɪrɪk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

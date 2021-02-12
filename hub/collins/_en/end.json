@@ -1,0 +1,382 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">最后部分;末尾</span>",
+    "def_en": "<span class=\"endef\"><b>The end of</b> something such as a period of time, an event, a book, or a film is the last part of it or the final point in it.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（使）结束;（使）终结</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a situation, process, or activity <b>ends</b>, or when something or someone <b>ends</b> it, it reaches its final point and stops.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结束;终止;结果;结局</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>end to</b> something or the <b>end of</b> it is the act or result of stopping it so that it does not continue any longer.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…方式结束;终结</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something <b>ends</b> a period of time in a particular way, you are indicating what the final situation was like. You can also say that a period of time <b>ends</b> in a particular way.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（一段时间）结束,终结</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a period of time <b>ends</b>, it reaches its final point.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(书、演说、表演等)以…为结尾，以…结束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a book, speech, or performance <b>ends with</b> a particular thing or the writer or performer <b>ends</b> it <b>with</b> that thing, its final part consists of the thing mentioned.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">告终;收场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a situation or event <b>ends</b> in a particular way, it has that particular result.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">末端;尽头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The two <b>ends</b> of something long and narrow are the two points or parts of it that are furthest away from each other.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">末端;末梢;尖端</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>end of</b> a long, narrow object such as a finger or a pencil is the tip or smallest edge of it, usually the part that is furthest away from you.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尖端有;最后部分是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an object <b>ends with</b> or <b>in</b> a particular thing, it has that thing on its tip or point, or as its last part.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（河流等）终止，停住</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A journey, road, or river that <b>ends</b> at a particular place stops there and goes no further.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(等级的)一端，一头</span>",
+    "def_en": "<span class=\"endef\"><b>End</b> is used to refer to either of the two extreme points of a scale, or of something that you are considering as a scale.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(联系、旅行等的)一端，一方，一头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>other end</b> is one of two places that are connected because people are communicating with each other by telephone or writing, or are travelling from one place to the other.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(项目、工作的)部分，方面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to a particular <b>end</b> of a project or piece of work, you mean a part or aspect of it, for example a part of it that is done by a particular person or in a particular place.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">目的;意图</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>end</b> is the purpose for which something is done or towards which you are working.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">只存在于，仅限于（某一点）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>ends</b> at a particular point, you mean that it is applied or exists up to that point, and no further.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">辞世；去世</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to someone's death as their <b>end</b>, especially when you are talking about the way that they died or might die.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结果是;最后是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>end by</b> doing something or <b>end</b> in a particular state, you do that thing or get into that state even though you did not originally intend to.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自杀;一了百了</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>ends it all</b>, they kill themselves.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…都比下去</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe something as, for example, the deal <b>to end all</b> deals or the film <b>to end all</b> films, you mean that it is very important or successful, and that compared to it all other deals or films seem second-rate.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结束；终结</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>at an end</b>, it has finished and will not continue.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>comes to an end</b>, it stops.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最终;到头来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>at the end of the day</b> when you are talking about what happens after a long series of events or what appears to be the case after you have considered the relevant facts.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">变得神志不清;变得不正常</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>has gone off the deep end</b>, you mean that their mind has stopped working in a normal way and their behaviour has become very strange as a result.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)落入一无所知的无助境地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are thrown in at the deep end</b>, you are put in a completely new situation without any help or preparation. If you <b>jump in at the deep end</b>, you go into a completely new situation without any help or preparation.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坚持到底</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>to the bitter end</b> or <b>to the very end</b>, you continue to do it for as long as you can, although it may be very unpleasant or dangerous.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最后;终于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>in the end</b> when you are saying what is the final result of a series of events, or what is your final conclusion after considering all the relevant facts.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">本身就值得做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you consider something to be <b>an end in itself</b>, you do it because it seems desirable and not because it is likely to lead to something else.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坚持下去；尽自己的本分;做好自己的本职工作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have to <b>keep</b> your <b>end up</b>, or to <b>keep up</b> your <b>end of</b> something, you have to do something as well as other people, or as well as you are expected to do it.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使收支相抵;勉强维持生计</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you find it difficult to <b>make ends meet</b>, you can only just manage financially because you hardly have enough money for the things you need.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">非常;许多</span>",
+    "def_en": "<span class=\"endef\"><b>No end</b> means a lot.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">连续地;持续地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something happens for hours, days, weeks, or years <b>on end</b>, it happens continuously and without stopping for the amount of time that is mentioned.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">竖着；直立着</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>on end</b> is upright, instead of in its normal or natural position, for example lying down, flat, or on its longest side.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">终止;结束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>put an end to</b> something means to cause it to stop.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尽头;终点;末日</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a process or person has reached <b>the end of the road</b>, they are unable to progress any further.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">永远;一直</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will happen or be true <b>until the end of time</b> or <b>to the end of time</b>, you are emphasizing that it will always happen or always be true.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不是世界末日;没那么可怕</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something bad is <b>not the end of the world</b>, you are trying to stop yourself or someone else being so upset by it, by suggesting that it is not the worst thing that could happen.  \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>the end of</b> your <b>tether</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://tether\">tether</a></b>; \rto burn the candle at both ends<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://candle\">candle</a></b>; \rto make your hair stand on end<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hair\">hair</a></b>; \ra means to an end<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://means\">means</a></b>; \rto be on the receiving end<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://receive\">receive</a></b>; \rto get the wrong end of the stick<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://stick\">stick</a></b>; \rto come to a sticky end<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://sticky\">sticky</a></b>; \rto be at your wits’ end<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wit\">wit</a></b>; \r \r\r\r</span>",
+    "display_hwd": "end",
+    "ext": "",
+    "hwd": "end",
+    "phonetics": "英\r[end]美\r[ɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

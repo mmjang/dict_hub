@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">职务;义务</span>",
+    "def_en": "<span class=\"endef\"><b>Duty</b> is work that you have to do for your job.  \r \r\r\r</span>",
+    "display_hwd": "duty",
+    "ext": "",
+    "hwd": "duty",
+    "phonetics": "英\r[ˈdju:ti]美\r[ˈduti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">职责;任务;本职工作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>duties</b> are tasks which you have to do because they are part of your job.  \r \r\r\r</span>",
+    "display_hwd": "duty",
+    "ext": "",
+    "hwd": "duty",
+    "phonetics": "英\r[ˈdju:ti]美\r[ˈduti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">责任;本分</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is your <b>duty</b>, you believe that you ought to do it because it is your responsibility.  \r \r\r\r</span>",
+    "display_hwd": "duty",
+    "ext": "",
+    "hwd": "duty",
+    "phonetics": "英\r[ˈdju:ti]美\r[ˈduti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">税</span>",
+    "def_en": "<span class=\"endef\"><b>Duties</b> are taxes which you pay to the government on goods that you buy.  \r \r\r\r</span>",
+    "display_hwd": "duty",
+    "ext": "",
+    "hwd": "duty",
+    "phonetics": "英\r[ˈdju:ti]美\r[ˈduti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">下班/上班;不值班/值班</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone such as a policeman or a nurse is <b>off duty</b>, they are not working. If someone is <b>on duty</b>, they are working.  \r \r\r\r</span>",
+    "display_hwd": "duty",
+    "ext": "",
+    "hwd": "duty",
+    "phonetics": "英\r[ˈdju:ti]美\r[ˈduti]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

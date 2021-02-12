@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">录像节目</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>video</b> is a film or television programme recorded on tape for people to watch on a television set.  \r \r\r\r</span>",
+    "display_hwd": "video",
+    "ext": "",
+    "hwd": "video",
+    "phonetics": "英\r[ˈvɪdiəʊ]美\r[ˈvɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">录像;录影</span>",
+    "def_en": "<span class=\"endef\"><b>Video</b> is the system of recording films and events on tape so that people can watch them on a television set.  \r \r\r\r</span>",
+    "display_hwd": "video",
+    "ext": "",
+    "hwd": "video",
+    "phonetics": "英\r[ˈvɪdiəʊ]美\r[ˈvɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">录像机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>video</b> is a machine that you can use to record television programmes and play videotapes on a television set.  \r \r\r\r</span>",
+    "display_hwd": "video",
+    "ext": "",
+    "hwd": "video",
+    "phonetics": "英\r[ˈvɪdiəʊ]美\r[ˈvɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">录制;制作…的录像</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>video</b> a television programme or event, you record it on tape using a video recorder or video camera, so that you can watch it later.  \r \r\r\r</span>",
+    "display_hwd": "video",
+    "ext": "",
+    "hwd": "video",
+    "phonetics": "英\r[ˈvɪdiəʊ]美\r[ˈvɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">视频播放软件</span>",
+    "def_en": "<span class=\"endef\"><b>Video</b> is a system by which you can see television images or films on your computer, rather than on a television set.  \r \r\r\r</span>",
+    "display_hwd": "video",
+    "ext": "",
+    "hwd": "video",
+    "phonetics": "英\r[ˈvɪdiəʊ]美\r[ˈvɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

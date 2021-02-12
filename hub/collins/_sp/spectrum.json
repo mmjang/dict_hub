@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">光谱</span>",
+    "def_en": "<span class=\"endef\"><b>The spectrum</b> is the range of different colours which is produced when light passes through a glass prism or through a drop of water. A rainbow shows the colours in the spectrum.  \r \r\r\r</span>",
+    "display_hwd": "spectrum",
+    "ext": "",
+    "hwd": "spectrum",
+    "phonetics": "英\r[ˈspektrəm]美\r[ˈspɛktrəm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">系列;范围</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>spectrum</b> is a range of a particular type of thing.  \r \r\r\r</span>",
+    "display_hwd": "spectrum",
+    "ext": "",
+    "hwd": "spectrum",
+    "phonetics": "英\r[ˈspektrəm]美\r[ˈspɛktrəm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">波谱(如光波波谱、无线电波波谱等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>spectrum</b> is a range of light waves or radio waves within particular frequencies.  \r \r\r\r</span>",
+    "display_hwd": "spectrum",
+    "ext": "",
+    "hwd": "spectrum",
+    "phonetics": "英\r[ˈspektrəm]美\r[ˈspɛktrəm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

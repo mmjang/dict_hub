@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用于疑问句中)哪个，哪些</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>which</b> in questions when there are two or more possible answers or alternatives.  \r \r\r\r</span>",
+    "display_hwd": "which",
+    "ext": "",
+    "hwd": "which",
+    "phonetics": "英\r[wɪtʃ]美\r[hwɪtʃ,wɪtʃ]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于指明在两个或多个答案或选项中所作出的选择)哪个，哪些</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>which</b> to refer to a choice between two or more possible answers or alternatives.  \r \r\r\r</span>",
+    "display_hwd": "which",
+    "ext": "",
+    "hwd": "which",
+    "phonetics": "英\r[wɪtʃ]美\r[hwɪtʃ,wɪtʃ]",
+    "phrase": "",
+    "sense": "★★★★★ det\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于关系从句句首，具体说明所谈论的事物或提供关于它的更多信息)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>which</b> at the beginning of a relative clause when specifying the thing that you are talking about or when giving more information about it.  \r \r\r\r</span>",
+    "display_hwd": "which",
+    "ext": "",
+    "hwd": "which",
+    "phonetics": "英\r[wɪtʃ]美\r[hwɪtʃ,wɪtʃ]",
+    "phrase": "",
+    "sense": "★★★★★ pron-rel\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用来回指前面句子表达的观点或状况)这，那</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>which</b> to refer back to an idea or situation expressed in a previous sentence or sentences, especially when you want to give your opinion about it.  \r \r\r\r</span>",
+    "display_hwd": "which",
+    "ext": "",
+    "hwd": "which",
+    "phonetics": "英\r[wɪtʃ]美\r[hwɪtʃ,wɪtʃ]",
+    "phrase": "",
+    "sense": "★★★★★ pron-rel\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">哪个是哪个(用于表示无法区分)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you cannot tell the difference between two things, you can say that you do not know <b>which is which</b> .  \r \r\r\r</span>",
+    "display_hwd": "which",
+    "ext": "",
+    "hwd": "which",
+    "phonetics": "英\r[wɪtʃ]美\r[hwɪtʃ,wɪtʃ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>any which way</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://way\">way</a></b>; \revery which way<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://way\">way</a></b>; \r \r\r\r</span>",
+    "display_hwd": "which",
+    "ext": "",
+    "hwd": "which",
+    "phonetics": "英\r[wɪtʃ]美\r[hwɪtʃ,wɪtʃ]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

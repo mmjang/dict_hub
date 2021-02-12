@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">工具;器具;用具</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://machine tool\">machine tool</a></b>;\r A <b>tool</b> is any instrument or simple piece of equipment that you hold in your hands and use to do a particular kind of work. For example, spades, hammers, and knives are all tools.  \r \r\r\r</span>",
+    "display_hwd": "tool",
+    "ext": "",
+    "hwd": "tool",
+    "phonetics": "英\r[tu:l]美\r[tul]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">手段;方法</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to anything that you use for a particular purpose as a particular type of <b>tool</b> .  \r \r\r\r</span>",
+    "display_hwd": "tool",
+    "ext": "",
+    "hwd": "tool",
+    "phonetics": "英\r[tu:l]美\r[tul]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">受人利用的人;工具;傀儡</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe someone as a <b>tool</b> of a particular person, group, or system, you mean that they are controlled and used by that person, group, or system, especially to do unpleasant or dishonest things.  \r \r\r\r</span>",
+    "display_hwd": "tool",
+    "ext": "",
+    "hwd": "tool",
+    "phonetics": "英\r[tu:l]美\r[tul]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(因罢工或抗议而突然)停工，放下工具</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that workers <b>down tools</b>, you mean that they stop working suddenly in order to strike or to make a protest of some kind.  \r \r\r\r</span>",
+    "display_hwd": "tool",
+    "ext": "",
+    "hwd": "tool",
+    "phonetics": "英\r[tu:l]美\r[tul]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(技能、工具和设备等)从事某行当的工具</span>",
+    "def_en": "<span class=\"endef\"><b>The tools of</b> your <b>trade</b> or <b>the tools of the trade</b> are the skills, instruments, and other equipment that you need in order to do your job properly.  \r \r\r\r</span>",
+    "display_hwd": "tool",
+    "ext": "",
+    "hwd": "tool",
+    "phonetics": "英\r[tu:l]美\r[tul]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

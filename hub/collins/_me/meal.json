@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">一餐;一顿饭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>meal</b> is an occasion when people sit down and eat, usually at a regular time.  \r \r\r\r</span>",
+    "display_hwd": "meal",
+    "ext": "",
+    "hwd": "meal",
+    "phonetics": "英\r[mi:l]美\r[mil]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一餐所吃的食物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>meal</b> is the food you eat during a meal.  \r \r\r\r</span>",
+    "display_hwd": "meal",
+    "ext": "",
+    "hwd": "meal",
+    "phonetics": "英\r[mi:l]美\r[mil]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（谷物的）粗磨粉</span>",
+    "def_en": "<span class=\"endef\"><b>Meal</b> is a rough powder made of crushed grain. It is used to make flour or animal food.  \r \r\r\r</span>",
+    "display_hwd": "meal",
+    "ext": "",
+    "hwd": "meal",
+    "phonetics": "英\r[mi:l]美\r[mil]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bone meal\">bone meal</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "meal",
+    "ext": "",
+    "hwd": "meal",
+    "phonetics": "英\r[mi:l]美\r[mil]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">花费过多的时间或精力做…;对…小题大做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you think someone is taking more time and energy to do something than is necessary, you can say that they are <b>making a meal of</b> it.  \r \r\r\r</span>",
+    "display_hwd": "meal",
+    "ext": "",
+    "hwd": "meal",
+    "phonetics": "英\r[mi:l]美\r[mil]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">健康丰盛的一餐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have a <b>square meal</b>, you have a large healthy meal.  \r \r\r\r</span>",
+    "display_hwd": "meal",
+    "ext": "",
+    "hwd": "meal",
+    "phonetics": "英\r[mi:l]美\r[mil]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

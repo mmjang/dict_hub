@@ -1,0 +1,92 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">气体燃料；天然气；煤气</span>",
+    "def_en": "<span class=\"endef\"><b>Gas</b> is a substance like air that is neither liquid nor solid and burns easily. It is used as a fuel for cooking and heating.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">气体</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>gas</b> is any substance that is neither liquid nor solid, for example oxygen or hydrogen.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毒气，瓦斯（可用作武器）</span>",
+    "def_en": "<span class=\"endef\"><b>Gas</b> is a poisonous gas that can be used as a weapon.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（医用）麻醉气</span>",
+    "def_en": "<span class=\"endef\"><b>Gas</b> is a gas used for medical purposes, for example to make patients feel less pain or go to sleep during an operation.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（车辆用的）汽油</span>",
+    "def_en": "<span class=\"endef\"><b>Gas</b> is the fuel which is used to drive motor vehicles.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用毒气杀死</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>gas</b> a person or animal means to kill them by making them breathe poisonous gas.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">活泼有趣的事；令人愉快的场面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can describe a situation or event as <b>a gas</b> when it is very lively, amusing, and enjoyable.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://gas chamber\">gas chamber</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://gas mask\">gas mask</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://greenhouse gas\">greenhouse gas</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://laughing gas\">laughing gas</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://natural gas\">natural gas</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://tear gas\">tear gas</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">加大油门；加速</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>step on the gas</b> when you are driving a vehicle, you go faster.  \r \r\r\r</span>",
+    "display_hwd": "gas",
+    "ext": "",
+    "hwd": "gas",
+    "phonetics": "英\r[gæs]美\r[ɡæs]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

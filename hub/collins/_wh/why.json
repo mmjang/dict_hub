@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（用于提问原因）为什么</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>why</b> in questions when you ask about the reasons for something.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于从句句首)为什么</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>why</b> at the beginning of a clause in which you talk about the reasons for something.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于reason后引导关系从句)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>why</b> to introduce a relative clause after the word 'reason'.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ pron-rel\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(问句中与 not 连用表示建议)为什么(不)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>why</b> with 'not' in questions in order to introduce a suggestion.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(问句中与 not 连用表示恼怒或气愤)为什么(不)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>why</b> with 'not' in questions in order to express your annoyance or anger.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示同意别人的建议)为什么不呢，好，行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>why not</b> in order to agree with what someone has suggested.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于句首表示惊讶、震惊或生气)哎呀，哟，嗨</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People say '<b>Why!</b>' at the beginning of a sentence when they are surprised, shocked, or angry.  \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ exclam\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>the whys and wherefores</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wherefores\">wherefores</a></b>; \r \r\r\r</span>",
+    "display_hwd": "why",
+    "ext": "",
+    "hwd": "why",
+    "phonetics": "英\r[waɪ]美\r[hwaɪ,waɪ]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

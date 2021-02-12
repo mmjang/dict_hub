@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（表示参与某事的人的数量，people 无此用法）</span>",
+    "def_en": "<span class=\"endef\"><b>-person</b> is added to numbers to form adjectives which indicate how many people are involved in something or can use something. <b>People</b> is not used in this way.  \r \r\r\r</span>",
+    "display_hwd": "-person",
+    "ext": "",
+    "hwd": "-person",
+    "phonetics": "['pə:sən]",
+    "phrase": "",
+    "sense": "comb in adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表示从事某工作的人，可避免指明性别，people也有此用法）</span>",
+    "def_en": "<span class=\"endef\"><b>-person</b> is added to nouns to form nouns which refer to someone who does a particular job or is in a particular group. <b>-person</b> is used by people who do not want to use a term which indicates whether someone is a man or a woman. <b>-people</b> can also be used in this way.  \r \r\r\r</span>",
+    "display_hwd": "-person",
+    "ext": "",
+    "hwd": "-person",
+    "phonetics": "['pə:sən]",
+    "phrase": "",
+    "sense": "comb in n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

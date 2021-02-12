@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">织补;缝补</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>darn</b> something knitted or made of cloth, you mend a hole in it by sewing stitches across the hole and then weaving stitches in and out of them.  \r \r\r\r</span>",
+    "display_hwd": "darning",
+    "ext": "",
+    "hwd": "darning",
+    "phonetics": "英\r['dɑ:nɪŋ]美\r['dɑrnɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">织补处;缝补处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>darn</b> is a part of a piece of clothing that has been darned.  \r \r\r\r</span>",
+    "display_hwd": "darning",
+    "ext": "",
+    "hwd": "darning",
+    "phonetics": "英\r['dɑ:nɪŋ]美\r['dɑrnɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于强调，常表示恼怒）该死的，可恶的，十足的，完全的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes use <b>darn</b> or <b>darned</b> to emphasize what they are saying, often when they are annoyed.  \r \r\r\r</span>",
+    "display_hwd": "darning",
+    "ext": "",
+    "hwd": "darning",
+    "phonetics": "英\r['dɑ:nɪŋ]美\r['dɑrnɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">该死;可恶;讨厌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say <b>darn it</b> to show that you are very annoyed about something.  \r \r\r\r</span>",
+    "display_hwd": "darning",
+    "ext": "",
+    "hwd": "darning",
+    "phonetics": "英\r['dɑ:nɪŋ]美\r['dɑrnɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ exclam\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">真没想到;真叫我吃惊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say <b>I'll be darned</b> to show that you are very surprised about something.  \r \r\r\r</span>",
+    "display_hwd": "darning",
+    "ext": "",
+    "hwd": "darning",
+    "phonetics": "英\r['dɑ:nɪŋ]美\r['dɑrnɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

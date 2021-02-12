@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">酒馆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>boozer</b> is a pub.  \r \r\r\r</span>",
+    "display_hwd": "boozer",
+    "ext": "",
+    "hwd": "boozer",
+    "phonetics": "英\r[ˈbu:zə(r)]美\r['buzər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">酒鬼；豪饮者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>boozer</b> is a person who drinks a lot of alcohol.  \r \r\r\r</span>",
+    "display_hwd": "boozer",
+    "ext": "",
+    "hwd": "boozer",
+    "phonetics": "英\r[ˈbu:zə(r)]美\r['buzər]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

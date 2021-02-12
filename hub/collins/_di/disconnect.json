@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">切断;断开</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>disconnect</b> a piece of equipment means to separate it from its source of power or to break a connection that it needs in order to work.  \r \r\r\r</span>",
+    "display_hwd": "disconnect",
+    "ext": "",
+    "hwd": "disconnect",
+    "phonetics": "英\r[ˌdɪskəˈnekt]美\r[ˌdɪskəˈnɛkt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通常指因欠费而)切断(煤气、水、电或者电话)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are disconnected</b> by a gas, electricity, water, or telephone company, they turn off the connection to your house, usually because you have not paid the bill.  \r \r\r\r</span>",
+    "display_hwd": "disconnect",
+    "ext": "",
+    "hwd": "disconnect",
+    "phonetics": "英\r[ˌdɪskəˈnekt]美\r[ˌdɪskəˈnɛkt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使分离;使分开</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>disconnect</b> something <b>from</b> something else, you separate the two things.  \r \r\r\r</span>",
+    "display_hwd": "disconnect",
+    "ext": "",
+    "hwd": "disconnect",
+    "phonetics": "英\r[ˌdɪskəˈnekt]美\r[ˌdɪskəˈnɛkt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(广播、电视或现场演出的)主持人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>compere</b> is the person who introduces the people taking part in a radio or television show or a live show.  \r \r\r\r</span>",
+    "display_hwd": "compere",
+    "ext": "",
+    "hwd": "compere",
+    "phonetics": "英\r[ˈkɒmpeə(r)]美\r[ˈkɑmper]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">主持(节目)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The person who <b>comperes</b> a show introduces the people who take part in it.  \r \r\r\r</span>",
+    "display_hwd": "compere",
+    "ext": "",
+    "hwd": "compere",
+    "phonetics": "英\r[ˈkɒmpeə(r)]美\r[ˈkɑmper]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

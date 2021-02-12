@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用于疑问句，询问人的姓名或身份)谁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>who</b> in questions when you ask about the name or identity of a person or group of people.  \r \r\r\r</span>",
+    "display_hwd": "who",
+    "ext": "",
+    "hwd": "who",
+    "phonetics": "英\r[hu:]美\r[hu]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤用在动词和形容词后引导从句，说明人的身份)谁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>who</b> after certain words, especially verbs and adjectives, to introduce a clause where you talk about the identity of a person or a group of people.  \r \r\r\r</span>",
+    "display_hwd": "who",
+    "ext": "",
+    "hwd": "who",
+    "phonetics": "英\r[hu:]美\r[hu]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于进行限定说明或提供更多信息的关系从句的句首)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>who</b> at the beginning of a relative clause when specifying the person or group of people you are talking about or when giving more information about them.  \r \r\r\r</span>",
+    "display_hwd": "who",
+    "ext": "",
+    "hwd": "who",
+    "phonetics": "英\r[hu:]美\r[hu]",
+    "phrase": "",
+    "sense": "★★★★★ pron-rel\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

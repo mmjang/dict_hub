@@ -1,0 +1,382 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">在…里;在…之内</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone or something that is <b>in</b> something else is enclosed by it or surrounded by it. If you put something <b>in</b> a container, you move it so that it is enclosed by the container.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(某处)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>in</b> a place, it happens there.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在家;在办公室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are in</b>, you are present at your home or place of work.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">进;入</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone comes <b>in</b>, they enter a room or building.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(火车)进站;(轮船、飞机)抵港</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a train, boat, or plane has come <b>in</b> or is <b>in</b>, it has arrived at a station, port, or airport.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(潮)在上涨</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the sea or tide comes <b>in</b>, the sea moves towards the shore rather than away from it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(橱窗)里面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>in</b> a window, especially a shop window, is just behind the window so that you can see it from outside.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(镜子)之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you see something <b>in</b> a mirror, the mirror shows an image of it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">穿着;戴着</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are dressed <b>in</b> a piece of clothing, you are wearing it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(包裹)在…之中;(覆盖)在…之下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is covered or wrapped <b>in</b> something else has that thing over or round its surface.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(裂缝或洞)在…表面上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is something such as a crack or hole <b>in</b> something, there is a crack or hole on its surface.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(书、电影、戏剧、图片)之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>in</b> a book, film, play, or picture, you can read it or see it there.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">参加(演出、比赛等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>in</b> something such as a play or a race, you are one of the people taking part.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(团体、收藏)当中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>in</b> a group or collection is a member of it or part of it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(学科、活动领域)方面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to specify a general subject or field of activity.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(特定年、月等);在…期间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>in</b> a particular year, month, or other period of time, it happens during that time.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(某一情形、形势)之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>in</b> a particular situation, it happens while that situation is going on.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">花费…时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>in</b> a particular period of time, that is how long it takes you to do it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(一段时间)之后</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something will happen <b>in</b> a particular length of time, it will happen after that length of time.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(某一年龄段)之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to indicate roughly how old someone is. For example, if someone is <b>in</b> their fifties, they are between 50 and 59 years old.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以(或按)…的数量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to indicate roughly how many people or things do something.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示比率、比例、概率)在…之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to express a ratio, proportion, or probability.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示目前状态、形势)处于…中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something or someone is <b>in</b> a particular state or situation, that is their present state or situation.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">带着，充满(某种情感或愿望)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to indicate the feeling or desire which someone has when they do something, or which causes them to do it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(性格、能力)在…身上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a particular quality or ability is <b>in</b> you, you naturally have it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(特定品质)在…之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> when saying that someone or something has a particular quality.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…方式(表达)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to indicate how someone is expressing something.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示排列或形状)成一排/呈球形</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> in expressions such as <b>in a row</b> or <b>in a ball</b> to describe the arrangement or shape of something.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以(…颜色)的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>in</b> a particular colour, it has that colour.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在(某一特征、方面)上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> to specify which feature or aspect of something you are talking about.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">时髦的;流行的;受欢迎的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>in</b>, or is the <b>in</b> thing, you mean it is fashionable or popular.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(与现在分词连用)在…过程中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in</b> with a present participle to indicate that when you do something, something else happens as a result.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">肯定会经历;注定遭受</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is in for</b> a shock or a surprise, you mean that they are going to experience it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…怀有仇恨;伺机报复…</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>has it in for</b> you, they dislike you and try to cause problems for you.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">卷入;参与</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>in on</b> something, you are involved in it or know about it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…友好相处;深得…的欢心</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are in with</b> a person or group, they like you and accept you, and are likely to help you.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">因为;原因是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in that</b> to introduce an explanation of a statement you have just made.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phr-conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">复杂详情;底细</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>ins and outs</b> of a situation are all the detailed points and facts about it.  \r \r\r\r</span>",
+    "display_hwd": "in",
+    "ext": "",
+    "hwd": "in",
+    "phonetics": "英\r[ɪn]美\r[ɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

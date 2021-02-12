@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(数字)5</span>",
+    "def_en": "<span class=\"endef\"><b>Five</b> is the number 5.  \r \r\r\r</span>",
+    "display_hwd": "five",
+    "ext": "",
+    "hwd": "five",
+    "phonetics": "英\r[faɪv]美\r[faɪv]",
+    "phrase": "",
+    "sense": "★★★★★ num\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">墙手球(一种英式球类运动，球小而硬，戴手套或用球拍向场地的三面墙上击球)</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://high five\">high five</a></b>;\r <b>Fives</b> is a British ball game in which you hit a small hard ball with a glove or bat against three walls of a court.  \r \r\r\r</span>",
+    "display_hwd": "five",
+    "ext": "",
+    "hwd": "five",
+    "phonetics": "英\r[faɪv]美\r[faɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

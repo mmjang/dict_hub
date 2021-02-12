@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">烤;烘烤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>roast</b> meat or other food, you cook it by dry heat in an oven or over a fire.  \r \r\r\r</span>",
+    "display_hwd": "roast",
+    "ext": "",
+    "hwd": "roast",
+    "phonetics": "英\r[rəʊst]美\r[roʊst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">烤熟的;烤制的</span>",
+    "def_en": "<span class=\"endef\"><b>Roast</b> meat has been cooked by roasting.  \r \r\r\r</span>",
+    "display_hwd": "roast",
+    "ext": "",
+    "hwd": "roast",
+    "phonetics": "英\r[rəʊst]美\r[roʊst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">烤肉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>roast</b> is a piece of meat that is cooked by roasting.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cook\">cook</a></b></span>",
+    "display_hwd": "roast",
+    "ext": "",
+    "hwd": "roast",
+    "phonetics": "英\r[rəʊst]美\r[roʊst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

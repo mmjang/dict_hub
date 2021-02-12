@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">扭;扭伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>sprain</b> a joint such as your ankle or wrist, you accidentally damage it by twisting it or bending it violently.  \r \r\r\r</span>",
+    "display_hwd": "sprain",
+    "ext": "",
+    "hwd": "sprain",
+    "phonetics": "英\r[spreɪn]美\r[spren]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扭伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sprain</b> is the injury caused by spraining a joint.  \r \r\r\r</span>",
+    "display_hwd": "sprain",
+    "ext": "",
+    "hwd": "sprain",
+    "phonetics": "英\r[spreɪn]美\r[spren]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">粗略地看;快读;浏览</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>scan</b> written material, you look through it quickly in order to find important or interesting information.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">细看;察看;审视;端详</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>scan</b> a place or group of people, you look at it carefully, usually because you are looking for something or someone.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用机器)扫描(行李等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people <b>scan</b> something such as luggage, they examine it using a machine that can show or find things inside it that cannot be seen from the outside.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扫描(磁盘以查毒)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a computer disk <b>is scanned</b>, a program on the computer checks the disk to make sure that it does not contain a virus.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扫描(照片或文件)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a picture or document <b>is scanned</b> into a computer, a machine passes a beam of light over it to make a copy of it in the computer.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(雷达、声呐等)扫描，扫掠</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a radar or sonar machine <b>scans</b> an area, it examines or searches it by sending radar or sonar beams over it.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(医疗)扫描检查</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scan</b> is a medical test in which a machine sends a beam of X-rays over a part of your body in order to check that it is healthy.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">胎儿扫描检查</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a pregnant woman has a <b>scan</b>, a machine using sound waves produces an image of her womb on a screen so that a doctor can see if her baby is developing normally.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(诗)符合格律，韵节合拍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a line of a poem does not <b>scan</b>, it is not the right length or does not have emphasis in the right places to match the rest of the poem.  \r \r\r\r</span>",
+    "display_hwd": "scan",
+    "ext": "",
+    "hwd": "scan",
+    "phonetics": "英\r[skæn]美\r[skæn]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

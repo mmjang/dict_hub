@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">重新部署;重新布防</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If forces or troops <b>are redeployed</b> or if they <b>redeploy</b>, they go to new positions so that they are ready for action.  \r \r\r\r</span>",
+    "display_hwd": "redeploy",
+    "ext": "",
+    "hwd": "redeploy",
+    "phonetics": "英\r[ˌri:dɪˈplɔɪ]美\r[ˌridɪˈplɔɪ]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">重新安排；调度（资源或人力）；重新配置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If resources or workers <b>are redeployed</b>, they are used for a different purpose or task.  \r \r\r\r</span>",
+    "display_hwd": "redeploy",
+    "ext": "",
+    "hwd": "redeploy",
+    "phonetics": "英\r[ˌri:dɪˈplɔɪ]美\r[ˌridɪˈplɔɪ]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

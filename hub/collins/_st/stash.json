@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">存放，储藏，藏匿(贵重物品)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stash</b> something valuable in a secret place, you store it there to keep it safe.  \r \r\r\r</span>",
+    "display_hwd": "stash",
+    "ext": "",
+    "hwd": "stash",
+    "phonetics": "英\r[stæʃ]美\r[stæʃ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">藏匿的物品</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stash of</b> something valuable is a secret store of it.  \r \r\r\r</span>",
+    "display_hwd": "stash",
+    "ext": "",
+    "hwd": "stash",
+    "phonetics": "英\r[stæʃ]美\r[stæʃ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

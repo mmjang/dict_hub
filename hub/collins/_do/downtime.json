@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(机器或设备的)停工时间，停止运行时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In industry, <b>downtime</b> is the time during which machinery or equipment is not operating.  \r \r\r\r</span>",
+    "display_hwd": "downtime",
+    "ext": "",
+    "hwd": "downtime",
+    "phonetics": "英\r[ˈdaʊntaɪm]美\r[ˈdaʊnˌtaɪm]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（计算机）停机时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, <b>downtime</b> is time when a computer is not working.  \r \r\r\r</span>",
+    "display_hwd": "downtime",
+    "ext": "",
+    "hwd": "downtime",
+    "phonetics": "英\r[ˈdaʊntaɪm]美\r[ˈdaʊnˌtaɪm]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人的)停工时间</span>",
+    "def_en": "<span class=\"endef\"><b>Downtime</b> is time when people are not working.  \r \r\r\r</span>",
+    "display_hwd": "downtime",
+    "ext": "",
+    "hwd": "downtime",
+    "phonetics": "英\r[ˈdaʊntaɪm]美\r[ˈdaʊnˌtaɪm]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

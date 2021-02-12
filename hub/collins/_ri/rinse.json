@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">清洗;冲洗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>rinse</b> something, you wash it in clean water in order to remove dirt or soap from it.  \r \r\r\r</span>",
+    "display_hwd": "rinse",
+    "ext": "",
+    "hwd": "rinse",
+    "phonetics": "英\r[rɪns]美\r[rɪns]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">漱（口）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>rinse</b> your mouth, you wash it by filling your mouth with water or with a liquid that kills germs, then spitting it out.  \r \r\r\r</span>",
+    "display_hwd": "rinse",
+    "ext": "",
+    "hwd": "rinse",
+    "phonetics": "英\r[rɪns]美\r[rɪns]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">染发剂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A hair <b>rinse</b> is a dye whose colour gradually disappears after you have washed your hair a number of times, rather than being permanent.  \r \r\r\r</span>",
+    "display_hwd": "rinse",
+    "ext": "",
+    "hwd": "rinse",
+    "phonetics": "英\r[rɪns]美\r[rɪns]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

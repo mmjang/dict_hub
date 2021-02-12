@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(毛发)柔软卷曲的</span>",
+    "def_en": "<span class=\"endef\"><b>Fuzzy</b> hair sticks up in a soft, curly mass.  \r \r\r\r</span>",
+    "display_hwd": "fuzzy",
+    "ext": "",
+    "hwd": "fuzzy",
+    "phonetics": "英\r[ˈfʌzi]美\r[ˈfʌzi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">覆有细绒毛的;绒毛状的;毛茸茸的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>fuzzy</b>, it has a covering that feels soft and like fur.  \r \r\r\r</span>",
+    "display_hwd": "fuzzy",
+    "ext": "",
+    "hwd": "fuzzy",
+    "phonetics": "英\r[ˈfʌzi]美\r[ˈfʌzi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(图片、声音等)不清楚的，模糊的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fuzzy</b> picture, image, or sound is unclear and hard to see or hear.  \r \r\r\r</span>",
+    "display_hwd": "fuzzy",
+    "ext": "",
+    "hwd": "fuzzy",
+    "phonetics": "英\r[ˈfʌzi]美\r[ˈfʌzi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人或头脑)稀里糊涂的，迷迷糊糊的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you or your thoughts are <b>fuzzy</b>, you are confused and cannot think clearly.  \r \r\r\r</span>",
+    "display_hwd": "fuzzy",
+    "ext": "",
+    "hwd": "fuzzy",
+    "phonetics": "英\r[ˈfʌzi]美\r[ˈfʌzi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不明确的;含混的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You describe something as <b>fuzzy</b> when it is vague and not clearly defined.  \r \r\r\r</span>",
+    "display_hwd": "fuzzy",
+    "ext": "",
+    "hwd": "fuzzy",
+    "phonetics": "英\r[ˈfʌzi]美\r[ˈfʌzi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机)模糊(逻辑)的</span>",
+    "def_en": "<span class=\"endef\"><b>Fuzzy</b> logic is a type of computer logic that is supposed to imitate the way that humans think, for example by adapting to changing circumstances rather than always following the same procedure.  \r \r\r\r</span>",
+    "display_hwd": "fuzzy",
+    "ext": "",
+    "hwd": "fuzzy",
+    "phonetics": "英\r[ˈfʌzi]美\r[ˈfʌzi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

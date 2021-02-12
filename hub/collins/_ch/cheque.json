@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">支票</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://blank cheque\">blank cheque</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://traveller's cheque\">traveller's cheque</a></b>;\r A <b>cheque</b> is a printed form on which you write an amount of money and who it is to be paid to. Your bank then pays the money to that person from your account.  \r \r\r\r</span>",
+    "display_hwd": "cheque",
+    "ext": "",
+    "hwd": "cheque",
+    "phonetics": "英\r[tʃek]美\r[tʃɛk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

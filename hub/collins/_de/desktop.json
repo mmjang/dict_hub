@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机)台式的</span>",
+    "def_en": "<span class=\"endef\"><b>Desktop</b> computers are a convenient size for using on a desk or table, but are not designed to be portable.  \r \r\r\r</span>",
+    "display_hwd": "desktop",
+    "ext": "",
+    "hwd": "desktop",
+    "phonetics": "英\r[ˈdesktɒp]美\r[ˈdesktɑp]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">台式计算机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>desktop</b> is a desktop computer.  \r \r\r\r</span>",
+    "display_hwd": "desktop",
+    "ext": "",
+    "hwd": "desktop",
+    "phonetics": "英\r[ˈdesktɒp]美\r[ˈdesktɑp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机的)桌面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>desktop</b> of a computer is the display of icons that you see on the screen when the computer is ready to use.  \r \r\r\r</span>",
+    "display_hwd": "desktop",
+    "ext": "",
+    "hwd": "desktop",
+    "phonetics": "英\r[ˈdesktɒp]美\r[ˈdesktɑp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

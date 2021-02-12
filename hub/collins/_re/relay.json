@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">接力比赛(如赛跑或游泳)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>relay</b> or a <b>relay race</b> is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race.  \r \r\r\r</span>",
+    "display_hwd": "relay",
+    "ext": "",
+    "hwd": "relay",
+    "phonetics": "英\r[ˈri:leɪ]美\r['rileɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">转播，传送，传输(电视或收音机信号)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>relay</b> television or radio signals means to send them or broadcast them.  \r \r\r\r</span>",
+    "display_hwd": "relay",
+    "ext": "",
+    "hwd": "relay",
+    "phonetics": "英\r[ˈri:leɪ]美\r['rileɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(接受和发送电视或广播信号的)转播设备，中继设备</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>relay</b> is a piece of equipment that receives television or radio signals from one place and sends them to another place.  \r \r\r\r</span>",
+    "display_hwd": "relay",
+    "ext": "",
+    "hwd": "relay",
+    "phonetics": "英\r[ˈri:leɪ]美\r['rileɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">传（话）；转述</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>relay</b> something that has been said to you, you repeat it to another person.  \r \r\r\r</span>",
+    "display_hwd": "relay",
+    "ext": "",
+    "hwd": "relay",
+    "phonetics": "英\r[ˈri:leɪ]美\r['rileɪ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(缓慢反复地)敲(钟)，鸣(丧钟);(钟)鸣响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a bell <b>tolls</b> or when someone <b>tolls</b> it, it rings slowly and repeatedly, often as a sign that someone has died.  \r \r\r\r</span>",
+    "display_hwd": "toll",
+    "ext": "",
+    "hwd": "toll",
+    "phonetics": "英\r[təʊl]美\r[toʊl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(桥梁、道路的)通行费</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>toll</b> is a small sum of money that you have to pay in order to use a particular bridge or road.  \r \r\r\r</span>",
+    "display_hwd": "toll",
+    "ext": "",
+    "hwd": "toll",
+    "phonetics": "英\r[təʊl]美\r[toʊl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(公路、桥梁的)收费</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>toll</b> road or <b>toll</b> bridge is a road or bridge where you have to pay in order to use it.  \r \r\r\r</span>",
+    "display_hwd": "toll",
+    "ext": "",
+    "hwd": "toll",
+    "phonetics": "英\r[təʊl]美\r[toʊl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(死亡、事故或灾难的)总数</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://death toll\">death toll</a></b>;\r A <b>toll</b> is a total number of deaths, accidents, or disasters that occur in a particular period of time.  \r \r\r\r</span>",
+    "display_hwd": "toll",
+    "ext": "",
+    "hwd": "toll",
+    "phonetics": "英\r[təʊl]美\r[toʊl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">造成恶果(或不利影响、痛苦等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>takes</b> its <b>toll</b> or <b>takes a heavy toll</b>, you mean that it has a bad effect or causes a lot of suffering.  \r \r\r\r</span>",
+    "display_hwd": "toll",
+    "ext": "",
+    "hwd": "toll",
+    "phonetics": "英\r[təʊl]美\r[toʊl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

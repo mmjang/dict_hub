@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">无论哪里;在任何地方</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>wherever</b> to indicate that something happens or is true in any place or situation.  \r \r\r\r</span>",
+    "display_hwd": "wherever",
+    "ext": "",
+    "hwd": "wherever",
+    "phonetics": "英\r[weərˈevə(r)]美\r[werˈevə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不管在哪里</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>wherever</b> when you indicate that you do not know where a person or place is.  \r \r\r\r</span>",
+    "display_hwd": "wherever",
+    "ext": "",
+    "hwd": "wherever",
+    "phonetics": "英\r[weərˈevə(r)]美\r[werˈevə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用在疑问句中作为where的强调形式，通常表示惊讶)究竟在哪里</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>wherever</b> in questions as an emphatic form of 'where', usually when you are surprised about something.  \r \r\r\r</span>",
+    "display_hwd": "wherever",
+    "ext": "",
+    "hwd": "wherever",
+    "phonetics": "英\r[weərˈevə(r)]美\r[werˈevə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">或别的什么地方</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>or wherever</b> to say that something might happen in a place other than the place you have mentioned, but that you are not able to say exactly where.  \r \r\r\r</span>",
+    "display_hwd": "wherever",
+    "ext": "",
+    "hwd": "wherever",
+    "phonetics": "英\r[weərˈevə(r)]美\r[werˈevə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

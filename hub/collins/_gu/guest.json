@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">客人；宾客</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guest</b> is someone who is visiting you or is at an event because you have invited them.  \r \r\r\r</span>",
+    "display_hwd": "guest",
+    "ext": "",
+    "hwd": "guest",
+    "phonetics": "英\r[gest]美\r[ɡɛst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">特邀嘉宾；客串演员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guest</b> is someone who visits a place or organization or appears on a radio or television show because they have been invited to do so.  \r \r\r\r</span>",
+    "display_hwd": "guest",
+    "ext": "",
+    "hwd": "guest",
+    "phonetics": "英\r[gest]美\r[ɡɛst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（旅馆的）客人，房客</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>guest</b> is someone who is staying in a hotel.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://client\">client</a></b></span>",
+    "display_hwd": "guest",
+    "ext": "",
+    "hwd": "guest",
+    "phonetics": "英\r[gest]美\r[ɡɛst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">做特邀嘉宾；做特邀演员；客串</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>guest</b> means to take part in a performance or a match as a guest, rather than as a regular member.  \r \r\r\r</span>",
+    "display_hwd": "guest",
+    "ext": "",
+    "hwd": "guest",
+    "phonetics": "英\r[gest]美\r[ɡɛst]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">请便；随便</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>be my guest</b> to someone, you are giving them permission to do something.  \r \r\r\r</span>",
+    "display_hwd": "guest",
+    "ext": "",
+    "hwd": "guest",
+    "phonetics": "英\r[gest]美\r[ɡɛst]",
+    "phrase": "",
+    "sense": "★★★★☆ convention\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

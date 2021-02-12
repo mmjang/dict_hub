@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">圆柱体;圆筒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cylinder</b> is an object with flat circular ends and long straight sides.  \r \r\r\r</span>",
+    "display_hwd": "cylinder",
+    "ext": "",
+    "hwd": "cylinder",
+    "phonetics": "英\r[ˈsɪlɪndə(r)]美\r[ˈsɪlɪndə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(存放气体的)圆筒状物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A gas <b>cylinder</b> is a cylinder-shaped container in which gas is kept under pressure.  \r \r\r\r</span>",
+    "display_hwd": "cylinder",
+    "ext": "",
+    "hwd": "cylinder",
+    "phonetics": "英\r[ˈsɪlɪndə(r)]美\r[ˈsɪlɪndə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(发动机的)汽缸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In an engine, a <b>cylinder</b> is a cylinder-shaped part in which a piston moves backwards and forwards.  \r \r\r\r</span>",
+    "display_hwd": "cylinder",
+    "ext": "",
+    "hwd": "cylinder",
+    "phonetics": "英\r[ˈsɪlɪndə(r)]美\r[ˈsɪlɪndə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

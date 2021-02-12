@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">附属建筑物;侧楼;配楼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>annexe</b> is a building which is joined to or is next to a larger main building.  \r \r\r\r</span>",
+    "display_hwd": "annexe",
+    "ext": "",
+    "hwd": "annexe",
+    "phonetics": "英\r[ˈæneks]美\r[ˈænɪks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">附件；附录</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>annexe to</b> a document is a section added to it at the end.  \r \r\r\r</span>",
+    "display_hwd": "annexe",
+    "ext": "",
+    "hwd": "annexe",
+    "phonetics": "英\r[ˈæneks]美\r[ˈænɪks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

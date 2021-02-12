@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">即兴演出，临时插入（脚本或讲稿中没有的台词）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>ad-lib</b> something in a play or a speech, you say something which has not been planned or written beforehand.  \r \r\r\r</span>",
+    "display_hwd": "ad-lib",
+    "ext": "",
+    "hwd": "ad-lib",
+    "phonetics": "英\r[ˌædˈlɪb]美\r[ædˈlɪb]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">即兴（或临时插入）的台词</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ad-lib</b> is something which is said without having been planned or written beforehand.  \r \r\r\r</span>",
+    "display_hwd": "ad-lib",
+    "ext": "",
+    "hwd": "ad-lib",
+    "phonetics": "英\r[ˌædˈlɪb]美\r[ædˈlɪb]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">法国的;法国人的;法语的;法国文化的</span>",
+    "def_en": "<span class=\"endef\"><b>French</b> means belonging or relating to France, or its people, language, or culture.  \r \r\r\r</span>",
+    "display_hwd": "French",
+    "ext": "",
+    "hwd": "French",
+    "phonetics": "英\r[frentʃ]美\r[frɛntʃ]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(总称)法国人</span>",
+    "def_en": "<span class=\"endef\"><b>The</b> <b>French</b> are the people who come from France.  \r \r\r\r</span>",
+    "display_hwd": "French",
+    "ext": "",
+    "hwd": "French",
+    "phonetics": "英\r[frentʃ]美\r[frɛntʃ]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">法语</span>",
+    "def_en": "<span class=\"endef\"><b>French</b> is the language spoken by people who live in France and in parts of some other countries, including Belgium, Canada, and Switzerland.  \r \r\r\r</span>",
+    "display_hwd": "French",
+    "ext": "",
+    "hwd": "French",
+    "phonetics": "英\r[frentʃ]美\r[frɛntʃ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

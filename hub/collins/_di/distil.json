@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">蒸馏;用蒸馏法提取</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a liquid such as whisky or water <b>is distilled</b>, it is heated until it changes into steam or vapour and then cooled until it becomes liquid again. This is usually done in order to make it pure.  \r \r\r\r</span>",
+    "display_hwd": "distil",
+    "ext": "",
+    "hwd": "distil",
+    "phonetics": "英\r[dɪˈstɪl]美\r[dɪˈstɪl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提取(植物的)精华;提炼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an oil or liquid <b>is distilled from</b> a plant, it is produced by a process which extracts the most essential part of the plant. To <b>distil</b> a plant means to produce an oil or liquid from it by this process.  \r \r\r\r</span>",
+    "display_hwd": "distil",
+    "ext": "",
+    "hwd": "distil",
+    "phonetics": "英\r[dɪˈstɪl]美\r[dɪˈstɪl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">精炼，浓缩（想法等）;吸收…为一部分</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a thought or idea <b>is distilled from</b> previous thoughts, ideas, or experiences, it comes from them. If it <b>is distilled into</b> something, it becomes part of that thing.  \r \r\r\r</span>",
+    "display_hwd": "distil",
+    "ext": "",
+    "hwd": "distil",
+    "phonetics": "英\r[dɪˈstɪl]美\r[dɪˈstɪl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

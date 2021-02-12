@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">薄雾;雾霭；水汽</span>",
+    "def_en": "<span class=\"endef\"><b>Mist</b> consists of a large number of tiny drops of water in the air, which make it difficult to see very far.  \r \r\r\r</span>",
+    "display_hwd": "mist",
+    "ext": "",
+    "hwd": "mist",
+    "phonetics": "英\r[mɪst]美\r[mɪst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(玻璃)结雾；使蒙上水汽</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a piece of glass <b>mists</b> or <b>is misted</b>, it becomes covered with tiny drops of moisture, so that you cannot see through it easily.  \r \r\r\r</span>",
+    "display_hwd": "mist",
+    "ext": "",
+    "hwd": "mist",
+    "phonetics": "英\r[mɪst]美\r[mɪst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（眼睛因泪水而）变得模糊不清</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone's eyes <b>mist</b>, they cannot see easily because there are tears in their eyes.  \r \r\r\r</span>",
+    "display_hwd": "mist",
+    "ext": "",
+    "hwd": "mist",
+    "phonetics": "英\r[mɪst]美\r[mɪst]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

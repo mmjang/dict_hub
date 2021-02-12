@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（一些法律体系中被告承认有罪以减轻刑罚的）认罪辩诉协议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some legal systems, a <b>plea bargain</b> is an agreement that, if an accused person says they are guilty, they will be charged with a less serious crime or will receive a less severe punishment.  \r \r\r\r</span>",
+    "display_hwd": "plea bargain",
+    "ext": "",
+    "hwd": "plea bargain",
+    "phonetics": "英\r[pli:ˈbɑ:ɡin]美\r[pliˈbɑrɡɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（被告）接受认罪辩诉协议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an accused person <b>plea bargains</b>, they accept a plea bargain.  \r \r\r\r</span>",
+    "display_hwd": "plea bargain",
+    "ext": "",
+    "hwd": "plea bargain",
+    "phonetics": "英\r[pli:ˈbɑ:ɡin]美\r[pliˈbɑrɡɪn]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

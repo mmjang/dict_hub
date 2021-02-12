@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（置于形容词、副词、名词之前表示反义）</span>",
+    "def_en": "<span class=\"endef\"><b>Un-</b> is added to the beginning of adjectives, adverbs, and nouns, in order to form words that have the opposite meaning.  \r \r\r\r</span>",
+    "display_hwd": "un-",
+    "ext": "",
+    "hwd": "un-",
+    "phonetics": "英\r[ʌn]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（置于动词之前表示相反的过程）</span>",
+    "def_en": "<span class=\"endef\"><b>Un-</b> is added to the beginning of a verb that describes a process, in order to form another verb that describes the reverse of that process.  \r \r\r\r</span>",
+    "display_hwd": "un-",
+    "ext": "",
+    "hwd": "un-",
+    "phonetics": "英\r[ʌn]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（置于动词的过去分词之前构成形容词，表示动作尚未发生）</span>",
+    "def_en": "<span class=\"endef\"><b>Un-</b> is added to the beginning of the past participle of a verb, in order to form an adjective that means that the process described by the verb has not happened.  \r \r\r\r</span>",
+    "display_hwd": "un-",
+    "ext": "",
+    "hwd": "un-",
+    "phonetics": "英\r[ʌn]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

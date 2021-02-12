@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">空气流动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>airflow</b> around an object or vehicle is the way that the air flows around it.  \r \r\r\r</span>",
+    "display_hwd": "airflow",
+    "ext": "",
+    "hwd": "airflow",
+    "phonetics": "英\r[ˈeəfləʊ]美\r[ˈerfloʊ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">气流</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>airflow</b> is a wind, especially one that blows very high above the earth.  \r \r\r\r</span>",
+    "display_hwd": "airflow",
+    "ext": "",
+    "hwd": "airflow",
+    "phonetics": "英\r[ˈeəfləʊ]美\r[ˈerfloʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

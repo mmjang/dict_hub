@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">红眼航班;夜航航班</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>red-eye</b> or a <b>red-eye flight</b> is a plane journey during the night.  \r \r\r\r</span>",
+    "display_hwd": "red-eye",
+    "ext": "",
+    "hwd": "red-eye",
+    "phonetics": "英\r[redai]美\r[rɛdaɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（由于拍摄时使用闪光灯等原因而在照片中呈现的）红眼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In photography, <b>redeye</b> is the unwanted effect that you sometimes get in photographs of people or animals where their eyes appear red because of the reflection of a camera flash or other light.  \r \r\r\r</span>",
+    "display_hwd": "red-eye",
+    "ext": "",
+    "hwd": "red-eye",
+    "phonetics": "英\r[redai]美\r[rɛdaɪ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

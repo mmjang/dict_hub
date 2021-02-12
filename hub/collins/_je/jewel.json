@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">宝石</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://crown jewels\">crown jewels</a></b>;\r A <b>jewel</b> is a precious stone used to decorate valuable things that you wear, such as rings or necklaces.  \r \r\r\r</span>",
+    "display_hwd": "jewel",
+    "ext": "",
+    "hwd": "jewel",
+    "phonetics": "英\r[ˈdʒu:əl]美\r[ˈdʒuəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">珍宝；珍贵的东西；出色的人；美貌超群的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe something or someone as a <b>jewel</b>, you mean that they are better, more beautiful, or more special than other similar things or than other people.  \r \r\r\r</span>",
+    "display_hwd": "jewel",
+    "ext": "",
+    "hwd": "jewel",
+    "phonetics": "英\r[ˈdʒu:əl]美\r[ˈdʒuəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">王冠上的宝石；最有成就（或最值得骄傲）之处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to an achievement or thing as the <b>jewel in</b> someone's <b>crown</b>, you mean that it is considered to be their greatest achievement or the thing they can be most proud of.  \r \r\r\r</span>",
+    "display_hwd": "jewel",
+    "ext": "",
+    "hwd": "jewel",
+    "phonetics": "英\r[ˈdʒu:əl]美\r[ˈdʒuəl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

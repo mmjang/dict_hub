@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（在一定时间之前预定即可享受折扣的）优惠机票（或火车票）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>Apex</b> or an <b>Apex ticket</b> is a ticket for a journey by air or rail which costs less than the standard ticket, but which you have to book a specified period in advance.  \r \r\r\r</span>",
+    "display_hwd": "Apex",
+    "ext": "",
+    "hwd": "Apex",
+    "phonetics": "英\r[ˈeɪpeks]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（机构、体系的）最高地位，最高职位</span>",
+    "def_en": "<span class=\"endef\"><b>The apex of</b> an organization or system is the highest and most important position in it.  \r \r\r\r</span>",
+    "display_hwd": "APEX",
+    "ext": "",
+    "hwd": "APEX",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尖端；顶点</span>",
+    "def_en": "<span class=\"endef\"><b>The apex of</b> something is its pointed top or end.  \r \r\r\r</span>",
+    "display_hwd": "APEX",
+    "ext": "",
+    "hwd": "APEX",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（机构、体系的）最高地位，最高职位</span>",
+    "def_en": "<span class=\"endef\"><b>The apex of</b> an organization or system is the highest and most important position in it.  \r \r\r\r</span>",
+    "display_hwd": "apex",
+    "ext": "",
+    "hwd": "apex",
+    "phonetics": "英\r[ˈeɪpeks]美\r[ˈepɛks]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尖端；顶点</span>",
+    "def_en": "<span class=\"endef\"><b>The apex of</b> something is its pointed top or end.  \r \r\r\r</span>",
+    "display_hwd": "apex",
+    "ext": "",
+    "hwd": "apex",
+    "phonetics": "英\r[ˈeɪpeks]美\r[ˈepɛks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

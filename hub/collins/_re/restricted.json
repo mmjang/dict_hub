@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">有限的;很少的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>restricted</b> is quite small or limited.  \r \r\r\r</span>",
+    "display_hwd": "restricted",
+    "ext": "",
+    "hwd": "restricted",
+    "phonetics": "英\r[rɪˈstrɪktɪd]美\r[rɪˈstrɪktɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">仅限…使用的;仅限…所有的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>restricted to</b> a particular group, only members of that group have it. If it is <b>restricted to</b> a particular place, it exists only in that place.  \r \r\r\r</span>",
+    "display_hwd": "restricted",
+    "ext": "",
+    "hwd": "restricted",
+    "phonetics": "英\r[rɪˈstrɪktɪd]美\r[rɪˈstrɪktɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(地区)不对外开放的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>restricted</b> area is one that only people with special permission can enter.  \r \r\r\r</span>",
+    "display_hwd": "restricted",
+    "ext": "",
+    "hwd": "restricted",
+    "phonetics": "英\r[rɪˈstrɪktɪd]美\r[rɪˈstrɪktɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(文件等)保密的，仅限于内部的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>restricted</b> document is one that only people with special permission can read.  \r \r\r\r</span>",
+    "display_hwd": "restricted",
+    "ext": "",
+    "hwd": "restricted",
+    "phonetics": "英\r[rɪˈstrɪktɪd]美\r[rɪˈstrɪktɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

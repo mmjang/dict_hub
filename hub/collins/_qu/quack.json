@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">庸医；江湖郎中；冒牌医生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you call someone a <b>quack</b> or a <b>quack doctor</b>, you mean that they claim to be skilled in medicine but are not.  \r \r\r\r</span>",
+    "display_hwd": "quack",
+    "ext": "",
+    "hwd": "quack",
+    "phonetics": "英\r[kwæk]美\r[kwæk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">江湖医术;骗人的医术</span>",
+    "def_en": "<span class=\"endef\"><b>Quack remedies</b> or <b>quack cures</b> are medical treatments that you think are unlikely to work because they are not scientific.  \r \r\r\r</span>",
+    "display_hwd": "quack",
+    "ext": "",
+    "hwd": "quack",
+    "phonetics": "英\r[kwæk]美\r[kwæk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(鸭子)发出嘎嘎声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a duck <b>quacks</b>, it makes the noise that ducks typically make.  \r \r\r\r</span>",
+    "display_hwd": "quack",
+    "ext": "",
+    "hwd": "quack",
+    "phonetics": "英\r[kwæk]美\r[kwæk]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

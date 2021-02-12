@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(道路维修时暂时采取的)一侧路面双向行驶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>contraflow</b> is a situation in which vehicles travelling on a main road in one direction have to use lanes that are normally used by traffic travelling in the opposite direction, because the road is being repaired.  \r \r\r\r</span>",
+    "display_hwd": "contraflow",
+    "ext": "",
+    "hwd": "contraflow",
+    "phonetics": "英\r[ˈkɒntrəfləʊ]美\r[ˈkɑntrəfloʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

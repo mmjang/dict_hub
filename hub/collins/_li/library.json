@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（公共）图书馆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A public <b>library</b> is a building where things such as books, newspapers, videos, and music are kept for people to read, use, or borrow.  \r \r\r\r</span>",
+    "display_hwd": "library",
+    "ext": "",
+    "hwd": "library",
+    "phonetics": "英\r[ˈlaɪbrəri]美\r[ˈlaɪbreri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（私人）收藏的图书（或唱片等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A private <b>library</b> is a collection of things such as books or music, that is normally only used with the permission of the owner.  \r \r\r\r</span>",
+    "display_hwd": "library",
+    "ext": "",
+    "hwd": "library",
+    "phonetics": "英\r[ˈlaɪbrəri]美\r[ˈlaɪbreri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">书房；书斋</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some large houses <b>the library</b> is the room where most of the books are kept.  \r \r\r\r</span>",
+    "display_hwd": "library",
+    "ext": "",
+    "hwd": "library",
+    "phonetics": "英\r[ˈlaɪbrəri]美\r[ˈlaɪbreri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

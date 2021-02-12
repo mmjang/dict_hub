@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">教堂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>kirk</b> is a church.  \r \r\r\r</span>",
+    "display_hwd": "kirk",
+    "ext": "",
+    "hwd": "kirk",
+    "phonetics": "英\r[kɜ:k]美\r[kɜrk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">苏格兰教会</span>",
+    "def_en": "<span class=\"endef\"><b>The Kirk</b> is the Church of Scotland, the main Protestant church in Scotland.  \r \r\r\r</span>",
+    "display_hwd": "kirk",
+    "ext": "",
+    "hwd": "kirk",
+    "phonetics": "英\r[kɜ:k]美\r[kɜrk]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

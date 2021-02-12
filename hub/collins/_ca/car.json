@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">汽车;轿车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>car</b> is a motor vehicle with room for a small number of passengers.  \r \r\r\r</span>",
+    "display_hwd": "car",
+    "ext": "",
+    "hwd": "car",
+    "phonetics": "英\r[kɑ:(r)]美\r[kɑr]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(火车)车厢</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>car</b> is one of the separate sections of a train.  \r \r\r\r</span>",
+    "display_hwd": "car",
+    "ext": "",
+    "hwd": "car",
+    "phonetics": "英\r[kɑ:(r)]美\r[kɑr]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(火车上作特殊用途的)车厢</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Railway carriages are called <b>cars</b> when they are used for a particular purpose.  \r \r\r\r</span>",
+    "display_hwd": "car",
+    "ext": "",
+    "hwd": "car",
+    "phonetics": "英\r[kɑ:(r)]美\r[kɑr]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cable car\">cable car</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "car",
+    "ext": "",
+    "hwd": "car",
+    "phonetics": "英\r[kɑ:(r)]美\r[kɑr]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">品脱（液量单位，英制中等于0.568升或1/8英国加仑，美制中等于0.473升或1/8美国加仑）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pint</b> is a unit of measurement for liquids. In Britain, it is equal to 568 cubic centimetres or one eighth of an imperial gallon. In America, it is equal to 473 cubic centimetres or one eighth of an American gallon.  \r \r\r\r</span>",
+    "display_hwd": "pint",
+    "ext": "",
+    "hwd": "pint",
+    "phonetics": "英\r[paɪnt]美\r[paɪnt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一品脱啤酒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you go for a <b>pint</b>, you go to the pub to drink a pint of beer or more.  \r \r\r\r</span>",
+    "display_hwd": "pint",
+    "ext": "",
+    "hwd": "pint",
+    "phonetics": "英\r[paɪnt]美\r[paɪnt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

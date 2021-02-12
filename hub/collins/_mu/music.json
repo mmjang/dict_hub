@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">音乐;乐曲</span>",
+    "def_en": "<span class=\"endef\"><b>Music</b> is the pattern of sounds produced by people singing or playing instruments.  \r \r\r\r</span>",
+    "display_hwd": "music",
+    "ext": "",
+    "hwd": "music",
+    "phonetics": "英\r[ˈmju:zɪk]美\r[ˈmjuzɪk]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">音乐(创作或表演)艺术</span>",
+    "def_en": "<span class=\"endef\"><b>Music</b> is the art of creating or performing music.  \r \r\r\r</span>",
+    "display_hwd": "music",
+    "ext": "",
+    "hwd": "music",
+    "phonetics": "英\r[ˈmju:zɪk]美\r[ˈmjuzɪk]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">乐谱</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://sheet music\">sheet music</a></b>;\r <b>Music</b> is the symbols written on paper which represent musical sounds.  \r \r\r\r</span>",
+    "display_hwd": "music",
+    "ext": "",
+    "hwd": "music",
+    "phonetics": "英\r[ˈmju:zɪk]美\r[ˈmjuzɪk]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">悦耳的声音;佳音;中听的话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something that you hear is <b>music to</b> your <b>ears</b>, it makes you feel very happy.  \r \r\r\r</span>",
+    "display_hwd": "music",
+    "ext": "",
+    "hwd": "music",
+    "phonetics": "英\r[ˈmju:zɪk]美\r[ˈmjuzɪk]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">承担自己行为的后果;接受批评（或惩罚）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>face the music</b>, you put yourself in a position where you will be criticized or punished for something you have done.  \r \r\r\r</span>",
+    "display_hwd": "music",
+    "ext": "",
+    "hwd": "music",
+    "phonetics": "英\r[ˈmju:zɪk]美\r[ˈmjuzɪk]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">外科手术</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cosmetic surgery\">cosmetic surgery</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://keyhole surgery\">keyhole surgery</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://plastic surgery\">plastic surgery</a></b>;\r <b>Surgery</b> is medical treatment in which someone's body is cut open so that a doctor can repair, remove, or replace a diseased or damaged part.  \r \r\r\r</span>",
+    "display_hwd": "surgery",
+    "ext": "",
+    "hwd": "surgery",
+    "phonetics": "英\r[ˈsɜ:dʒəri]美\r[ˈsɜrdʒəri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诊疗室;诊所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>surgery</b> is the room or house where a doctor or dentist works.  \r \r\r\r</span>",
+    "display_hwd": "surgery",
+    "ext": "",
+    "hwd": "surgery",
+    "phonetics": "英\r[ˈsɜ:dʒəri]美\r[ˈsɜrdʒəri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">应诊时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A doctor's <b>surgery</b> is the period of time each day when a doctor sees patients at his or her surgery.  \r \r\r\r</span>",
+    "display_hwd": "surgery",
+    "ext": "",
+    "hwd": "surgery",
+    "phonetics": "英\r[ˈsɜ:dʒəri]美\r[ˈsɜrdʒəri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(议员对公众的)接待时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, when someone such as an MP or a local councillor holds a <b>surgery</b>, they go to an office where members of the public can come and talk to them about problems or issues that concern them.  \r \r\r\r</span>",
+    "display_hwd": "surgery",
+    "ext": "",
+    "hwd": "surgery",
+    "phonetics": "英\r[ˈsɜ:dʒəri]美\r[ˈsɜrdʒəri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">手术室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>surgery</b> is the room in a hospital where surgeons operate on their patients.  \r \r\r\r</span>",
+    "display_hwd": "surgery",
+    "ext": "",
+    "hwd": "surgery",
+    "phonetics": "英\r[ˈsɜ:dʒəri]美\r[ˈsɜrdʒəri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

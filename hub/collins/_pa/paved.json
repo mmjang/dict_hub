@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">铺（路或地面）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a road or an area of ground <b>has been paved</b>, it has been covered with flat blocks of stone or concrete, so that it is suitable for walking or driving on.  \r \r\r\r</span>",
+    "display_hwd": "paved",
+    "ext": "",
+    "hwd": "paved",
+    "phonetics": "[peivd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为…铺平道路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>paves the way for</b> another, it creates a situation in which it is possible or more likely that the other thing will happen.  \r \r\r\r</span>",
+    "display_hwd": "paved",
+    "ext": "",
+    "hwd": "paved",
+    "phonetics": "[peivd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">收回;重新占有</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>repossession</b> of someone's house is the act of repossessing it.  \r \r\r\r</span>",
+    "display_hwd": "repossession",
+    "ext": "",
+    "hwd": "repossession",
+    "phonetics": "英\r[ˌri:pəˈzeʃn]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">被收回之物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a house or car that has been repossessed as a <b>repossession</b> .  \r \r\r\r</span>",
+    "display_hwd": "repossession",
+    "ext": "",
+    "hwd": "repossession",
+    "phonetics": "英\r[ˌri:pəˈzeʃn]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

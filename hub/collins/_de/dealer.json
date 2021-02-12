@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">商人;交易商</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wheeler-dealer\">wheeler-dealer</a></b>;\r A <b>dealer</b> is a person whose business involves buying and selling things.  \r \r\r\r</span>",
+    "display_hwd": "dealer",
+    "ext": "",
+    "hwd": "dealer",
+    "phonetics": "英\r[ˈdi:lə(r)]美\r[ˈdilɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毒品贩子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dealer</b> is someone who buys and sells illegal drugs.  \r \r\r\r</span>",
+    "display_hwd": "dealer",
+    "ext": "",
+    "hwd": "dealer",
+    "phonetics": "英\r[ˈdi:lə(r)]美\r[ˈdilɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

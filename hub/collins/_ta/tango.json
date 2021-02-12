@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">探戈(舞)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>tango</b> is a South American dance in which two people hold each other closely, walk quickly in one direction, then walk quickly back again.  \r \r\r\r</span>",
+    "display_hwd": "tango",
+    "ext": "",
+    "hwd": "tango",
+    "phonetics": "英\r[ˈtæŋgəʊ]美\r[ˈtæŋgoʊ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">探戈舞曲</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tango</b> is a piece of music intended for tango dancing.  \r \r\r\r</span>",
+    "display_hwd": "tango",
+    "ext": "",
+    "hwd": "tango",
+    "phonetics": "英\r[ˈtæŋgəʊ]美\r[ˈtæŋgoʊ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">跳探戈舞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tango</b>, you dance the tango.  \r<b>it takes two to tango</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://two\">two</a></b>; \r \r\r\r</span>",
+    "display_hwd": "tango",
+    "ext": "",
+    "hwd": "tango",
+    "phonetics": "英\r[ˈtæŋgəʊ]美\r[ˈtæŋgoʊ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

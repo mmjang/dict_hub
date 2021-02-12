@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">发货单;发票</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>invoice</b> is a document that lists goods that have been supplied or services that have been done, and says how much money you owe for them.  \r \r\r\r</span>",
+    "display_hwd": "invoice",
+    "ext": "",
+    "hwd": "invoice",
+    "phonetics": "英\r[ˈɪnvɔɪs]美\r[ˈɪnˌvɔɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">开发票给…</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>invoice</b> someone, you send them a bill for goods or services you have provided them with.  \r \r\r\r</span>",
+    "display_hwd": "invoice",
+    "ext": "",
+    "hwd": "invoice",
+    "phonetics": "英\r[ˈɪnvɔɪs]美\r[ˈɪnˌvɔɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

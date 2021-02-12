@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">出租车;计程车;的士</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>taxi</b> is a car driven by a person whose job is to take people where they want to go in return for money.  \r \r\r\r</span>",
+    "display_hwd": "taxi",
+    "ext": "",
+    "hwd": "taxi",
+    "phonetics": "英\r[ˈtæksi]美\r[ˈtæksi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(飞机)缓慢滑行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When an aircraft <b>taxis</b> along the ground, or when a pilot <b>taxis</b> a plane somewhere, it moves slowly along the ground.  \r \r\r\r</span>",
+    "display_hwd": "taxi",
+    "ext": "",
+    "hwd": "taxi",
+    "phonetics": "英\r[ˈtæksi]美\r[ˈtæksi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

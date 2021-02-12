@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（银行授权另一家银行付款的）信用证，信用状</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>letter of credit</b> is a letter written by a bank authorizing another bank to pay someone a sum of money. Letters of credit are often used by importers and exporters.  \r \r\r\r</span>",
+    "display_hwd": "letter of credit",
+    "ext": "",
+    "hwd": "letter of credit",
+    "phonetics": "英\r[ˈletəɔvˈkredit]美\r[ˈlɛtɚʌvˈkrɛdɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（银行为债券担保的）信用证，信用状</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>letter of credit</b> is a written promise from a bank stating that they will repay bonds to lenders if the borrowers are unable to pay them.  \r \r\r\r</span>",
+    "display_hwd": "letter of credit",
+    "ext": "",
+    "hwd": "letter of credit",
+    "phonetics": "英\r[ˈletəɔvˈkredit]美\r[ˈlɛtɚʌvˈkrɛdɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">因特网</span>",
+    "def_en": "<span class=\"endef\"><b>The Internet</b> is the computer network which allows computer users to connect with computers all over the world, and which carries e-mail.  \r \r\r\r</span>",
+    "display_hwd": "Internet",
+    "ext": "",
+    "hwd": "Internet",
+    "phonetics": "英\r[ˈɪntənet]美\r[ˈɪntərnet]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">因特网</span>",
+    "def_en": "<span class=\"endef\"><b>The Internet</b> is the computer network which allows computer users to connect with computers all over the world, and which carries e-mail.  \r \r\r\r</span>",
+    "display_hwd": "internet",
+    "ext": "",
+    "hwd": "internet",
+    "phonetics": "['intənet]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

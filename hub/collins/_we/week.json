@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">星期;周;礼拜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>week</b> is a period of seven days. Some people consider that a week starts on Monday and ends on Sunday.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一周时间;七天左右的时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>week</b> is a period of about seven days.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">工作周(指一周的工作时间)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your working <b>week</b> is the hours that you spend at work during a week.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(除去星期六和星期日的)星期，周，礼拜</span>",
+    "def_en": "<span class=\"endef\"><b>The week</b> is the part of the week that does not include Saturday and Sunday.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于表述一周后的某天)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>week</b> in expressions such as 'a week on Monday', 'a week next Tuesday', and 'tomorrow week' to mean exactly one week after the day that you mention.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于表述一周前的某天)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>week</b> in expressions such as 'a week last Monday', 'a week ago this Tuesday', and 'a week ago yesterday' to mean exactly one week before the day that you mention.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一周又一周；接连好几个星期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something happens <b>week in week out</b>, you do not like it because it happens all the time, and never seems to change.  \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>weeks on end</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://end\">end</a></b>; \r \r\r\r</span>",
+    "display_hwd": "week",
+    "ext": "",
+    "hwd": "week",
+    "phonetics": "英\r[wi:k]美\r[wik]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

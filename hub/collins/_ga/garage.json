@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">车库；停车房</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>garage</b> is a building in which you keep a car. A garage is often built next to or as part of a house.  \r \r\r\r</span>",
+    "display_hwd": "garage",
+    "ext": "",
+    "hwd": "garage",
+    "phonetics": "英\r[ˈgærɑ:ʒ]美\r[gəˈrɑʒ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">汽车修理厂（在英国兼营加油或汽车销售）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>garage</b> is a place where you can get your car repaired. In Britain, you can also buy fuel for your car, or buy cars.  \r \r\r\r</span>",
+    "display_hwd": "garage",
+    "ext": "",
+    "hwd": "garage",
+    "phonetics": "英\r[ˈgærɑ:ʒ]美\r[gəˈrɑʒ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

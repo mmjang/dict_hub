@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(每一套公寓归居住者所有的)公寓楼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>condominium</b> is an apartment building in which each apartment is owned by the person who lives there.  \r \r\r\r</span>",
+    "display_hwd": "condominium",
+    "ext": "",
+    "hwd": "condominium",
+    "phonetics": "英\r[ˌkɒndəˈmɪniəm]美\r[ˌkɑndəˈmɪniəm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一套公寓住房</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>condominium</b> is one of the privately owned apartments in a condominium.  \r \r\r\r</span>",
+    "display_hwd": "condominium",
+    "ext": "",
+    "hwd": "condominium",
+    "phonetics": "英\r[ˌkɒndəˈmɪniəm]美\r[ˌkɑndəˈmɪniəm]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

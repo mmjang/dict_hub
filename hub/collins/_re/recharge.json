@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">给（电池）充电</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>recharge</b> a battery, you put an electrical charge back into the battery by connecting it to a machine that draws power from another source of electricity such as the mains.  \r \r\r\r</span>",
+    "display_hwd": "recharge",
+    "ext": "",
+    "hwd": "recharge",
+    "phonetics": "英\r[ˌri:ˈtʃɑ:dʒ]美\r[ˌriˈtʃɑrdʒ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">放松；休息；补充精力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>recharge</b> your <b>batteries</b>, you take a break from activities which are tiring or difficult in order to relax and feel better when you return to these activities.  \r \r\r\r</span>",
+    "display_hwd": "recharge",
+    "ext": "",
+    "hwd": "recharge",
+    "phonetics": "英\r[ˌri:ˈtʃɑ:dʒ]美\r[ˌriˈtʃɑrdʒ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

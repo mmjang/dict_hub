@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">咳嗽</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>cough</b>, you force air out of your throat with a sudden, harsh noise. You often cough when you are ill, or when you are nervous or want to attract someone's attention.  \r \r\r\r</span>",
+    "display_hwd": "cough",
+    "ext": "",
+    "hwd": "cough",
+    "phonetics": "英\r[kɒf]美\r[kɔf]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">咳嗽(病)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cough</b> is an illness in which you cough often and your chest or throat hurts.  \r \r\r\r</span>",
+    "display_hwd": "cough",
+    "ext": "",
+    "hwd": "cough",
+    "phonetics": "英\r[kɒf]美\r[kɔf]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">咯出(血等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>cough</b> blood or mucus, it comes up out of your throat or mouth when you cough.  \r \r\r\r</span>",
+    "display_hwd": "cough",
+    "ext": "",
+    "hwd": "cough",
+    "phonetics": "英\r[kɒf]美\r[kɔf]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(发动机等)突然发出刺耳的噪声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an engine or other machine <b>coughs</b>, it makes a sudden, harsh noise.  \r \r\r\r</span>",
+    "display_hwd": "cough",
+    "ext": "",
+    "hwd": "cough",
+    "phonetics": "英\r[kɒf]美\r[kɔf]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

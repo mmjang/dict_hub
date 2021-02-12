@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">燃烧弹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>firebomb</b> is a type of bomb which is designed to cause fires.  \r \r\r\r</span>",
+    "display_hwd": "firebombing",
+    "ext": "",
+    "hwd": "firebombing",
+    "phonetics": "[ˈfaiəbɔmɪŋ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用燃烧弹焚烧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>firebomb</b> a building, vehicle, or place means to set fire to it using a firebomb.  \r \r\r\r</span>",
+    "display_hwd": "firebombing",
+    "ext": "",
+    "hwd": "firebombing",
+    "phonetics": "[ˈfaiəbɔmɪŋ]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">物理疗法专家；理疗师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>physio</b> is a <b>physiotherapist</b> .  \r \r\r\r</span>",
+    "display_hwd": "physio",
+    "ext": "",
+    "hwd": "physio",
+    "phonetics": "英\r[ˈfɪziəʊ]美\r[ˈfɪzioʊ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同physiotherapy</span>",
+    "def_en": "<span class=\"endef\"><b>Physio</b> is <b>physiotherapy</b> .  \r \r\r\r</span>",
+    "display_hwd": "physio",
+    "ext": "",
+    "hwd": "physio",
+    "phonetics": "英\r[ˈfɪziəʊ]美\r[ˈfɪzioʊ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

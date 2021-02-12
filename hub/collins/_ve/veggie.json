@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">同vegetarian</span>",
+    "def_en": "<span class=\"endef\"><b>Veggie</b> means the same as <b>vegetarian</b> .  \r \r\r\r</span>",
+    "display_hwd": "veggie",
+    "ext": "",
+    "hwd": "veggie",
+    "phonetics": "英\r[ˈvedʒi]美\r[ˈvɛdʒi]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">蔬菜</span>",
+    "def_en": "<span class=\"endef\"><b>Veggies</b> are plants such as cabbages, potatoes, and onions which you can cook and eat.  \r \r\r\r</span>",
+    "display_hwd": "veggie",
+    "ext": "",
+    "hwd": "veggie",
+    "phonetics": "英\r[ˈvedʒi]美\r[ˈvɛdʒi]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

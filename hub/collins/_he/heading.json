@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">标题;题目</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://head\">head</a></b>;\r A <b>heading</b> is the title of a piece of writing, which is written or printed at the top of the page.  \r \r\r\r</span>",
+    "display_hwd": "heading",
+    "ext": "",
+    "hwd": "heading",
+    "phonetics": "英\r[ˈhedɪŋ]美\r[ˈhɛdɪŋ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

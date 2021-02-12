@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">指纹;指印</span>",
+    "def_en": "<span class=\"endef\"><b>Fingerprints</b> are marks made by a person's fingers which show the lines on the skin. Everyone's fingerprints are different, so they can be used to identify criminals.  \r \r\r\r</span>",
+    "display_hwd": "fingerprint",
+    "ext": "",
+    "hwd": "fingerprint",
+    "phonetics": "英\r[ˈfɪŋgəprɪnt]美\r[ˈfɪŋgərprɪnt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提取…的指纹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is fingerprinted</b>, the police take their fingerprints.  \r \r\r\r</span>",
+    "display_hwd": "fingerprint",
+    "ext": "",
+    "hwd": "fingerprint",
+    "phonetics": "英\r[ˈfɪŋgəprɪnt]美\r[ˈfɪŋgərprɪnt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提取在…上的指纹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If the police <b>fingerprint</b> an object, they put a layer of special dust on it so that any fingerprints that are on it can be seen.  \r \r\r\r</span>",
+    "display_hwd": "fingerprint",
+    "ext": "",
+    "hwd": "fingerprint",
+    "phonetics": "英\r[ˈfɪŋgəprɪnt]美\r[ˈfɪŋgərprɪnt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

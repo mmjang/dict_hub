@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">无线电广播</span>",
+    "def_en": "<span class=\"endef\"><b>Radio</b> is the broadcasting of programmes for the public to listen to, by sending out signals from a transmitter.  \r \r\r\r</span>",
+    "display_hwd": "radio",
+    "ext": "",
+    "hwd": "radio",
+    "phonetics": "英\r[ˈreɪdiəʊ]美\r[ˈreɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">无线电广播节目</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the programmes broadcast by radio stations as <b>the radio</b> .  \r \r\r\r</span>",
+    "display_hwd": "radio",
+    "ext": "",
+    "hwd": "radio",
+    "phonetics": "英\r[ˈreɪdiəʊ]美\r[ˈreɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">收音机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>radio</b> is the piece of equipment that you use in order to listen to radio programmes.  \r \r\r\r</span>",
+    "display_hwd": "radio",
+    "ext": "",
+    "hwd": "radio",
+    "phonetics": "英\r[ˈreɪdiəʊ]美\r[ˈreɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">无线电；无线电通讯</span>",
+    "def_en": "<span class=\"endef\"><b>Radio</b> is a system of sending sound over a distance by transmitting electrical signals.  \r \r\r\r</span>",
+    "display_hwd": "radio",
+    "ext": "",
+    "hwd": "radio",
+    "phonetics": "英\r[ˈreɪdiəʊ]美\r[ˈreɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">无线电收发设备</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>radio</b> is a piece of equipment that is used for sending and receiving messages.  \r \r\r\r</span>",
+    "display_hwd": "radio",
+    "ext": "",
+    "hwd": "radio",
+    "phonetics": "英\r[ˈreɪdiəʊ]美\r[ˈreɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用无线电向…发送信息</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>radio</b> someone, you send a message to them by radio.  \r \r\r\r</span>",
+    "display_hwd": "radio",
+    "ext": "",
+    "hwd": "radio",
+    "phonetics": "英\r[ˈreɪdiəʊ]美\r[ˈreɪdioʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

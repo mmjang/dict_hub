@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">填实(空隙等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>infill</b> a hollow place or gap means to fill it.  \r \r\r\r</span>",
+    "display_hwd": "infill",
+    "ext": "",
+    "hwd": "infill",
+    "phonetics": "英\r[ˈɪnfɪl]美\r[ˈɪnˌfɪl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">填充物</span>",
+    "def_en": "<span class=\"endef\"><b>Infill</b> is something which fills a hollow place or gap.  \r \r\r\r</span>",
+    "display_hwd": "infill",
+    "ext": "",
+    "hwd": "infill",
+    "phonetics": "英\r[ˈɪnfɪl]美\r[ˈɪnˌfɪl]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

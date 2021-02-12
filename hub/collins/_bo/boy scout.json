@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">童子军</span>",
+    "def_en": "<span class=\"endef\"><b>The Boy Scouts</b> is an organization for boys which teaches them discipline and practical skills.  \r \r\r\r</span>",
+    "display_hwd": "Boy Scout",
+    "ext": "",
+    "hwd": "Boy Scout",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">童子军成员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Boy Scout</b> is a boy who is a member of the Boy Scouts.  \r \r\r\r</span>",
+    "display_hwd": "Boy Scout",
+    "ext": "",
+    "hwd": "Boy Scout",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">童子军</span>",
+    "def_en": "<span class=\"endef\"><b>The Boy Scouts</b> is an organization for boys which teaches them discipline and practical skills.  \r \r\r\r</span>",
+    "display_hwd": "boy scout",
+    "ext": "",
+    "hwd": "boy scout",
+    "phonetics": "英\r[bɔiskaut]美\r[bɔɪskaʊt]",
+    "phrase": "",
+    "sense": "n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">童子军成员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Boy Scout</b> is a boy who is a member of the Boy Scouts.  \r \r\r\r</span>",
+    "display_hwd": "boy scout",
+    "ext": "",
+    "hwd": "boy scout",
+    "phonetics": "英\r[bɔiskaut]美\r[bɔɪskaʊt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

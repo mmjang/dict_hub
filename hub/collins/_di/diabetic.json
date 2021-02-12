@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">糖尿病患者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>diabetic</b> is a person who suffers from diabetes.  \r \r\r\r</span>",
+    "display_hwd": "diabetic",
+    "ext": "",
+    "hwd": "diabetic",
+    "phonetics": "英\r[ˌdaɪəˈbetɪk]美\r[ˌdaɪəˈbɛtɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">糖尿病的</span>",
+    "def_en": "<span class=\"endef\"><b>Diabetic</b> means relating to diabetes.  \r \r\r\r</span>",
+    "display_hwd": "diabetic",
+    "ext": "",
+    "hwd": "diabetic",
+    "phonetics": "英\r[ˌdaɪəˈbetɪk]美\r[ˌdaɪəˈbɛtɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(食物)适合糖尿病患者吃的</span>",
+    "def_en": "<span class=\"endef\"><b>Diabetic</b> foods are suitable for diabetics.  \r \r\r\r</span>",
+    "display_hwd": "diabetic",
+    "ext": "",
+    "hwd": "diabetic",
+    "phonetics": "英\r[ˌdaɪəˈbetɪk]美\r[ˌdaɪəˈbɛtɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

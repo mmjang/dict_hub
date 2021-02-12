@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">礼仪；社交礼节</span>",
+    "def_en": "<span class=\"endef\"><b>Protocol</b> is a system of rules about the correct way to act in formal situations.  \r \r\r\r</span>",
+    "display_hwd": "protocol",
+    "ext": "",
+    "hwd": "protocol",
+    "phonetics": "英\r[ˈprəʊtəkɒl]美\r[ˈproʊtəkɔl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（信息交换）协议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>protocol</b> is a set of rules for exchanging information between computers.  \r \r\r\r</span>",
+    "display_hwd": "protocol",
+    "ext": "",
+    "hwd": "protocol",
+    "phonetics": "英\r[ˈprəʊtəkɒl]美\r[ˈproʊtəkɔl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">议定书；协议</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>protocol</b> is a written record of a treaty or agreement that has been made by two or more countries.  \r \r\r\r</span>",
+    "display_hwd": "protocol",
+    "ext": "",
+    "hwd": "protocol",
+    "phonetics": "英\r[ˈprəʊtəkɒl]美\r[ˈproʊtəkɔl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">治疗方案；科学实验计划</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>protocol</b> is a plan for a course of medical treatment, or a plan for a scientific experiment.  \r \r\r\r</span>",
+    "display_hwd": "protocol",
+    "ext": "",
+    "hwd": "protocol",
+    "phonetics": "英\r[ˈprəʊtəkɒl]美\r[ˈproʊtəkɔl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">和弦;和音</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://vocal cords\">vocal cords</a></b>;\r A <b>chord</b> is a number of musical notes played or sung at the same time with a pleasing effect.  \r \r\r\r</span>",
+    "display_hwd": "chord",
+    "ext": "",
+    "hwd": "chord",
+    "phonetics": "英\r[kɔ:d]美\r[kɔrd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">激起共鸣;触动心弦</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>strikes a chord with</b> you, it makes you feel sympathy or enthusiasm.  \r \r\r\r</span>",
+    "display_hwd": "chord",
+    "ext": "",
+    "hwd": "chord",
+    "phonetics": "英\r[kɔ:d]美\r[kɔrd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

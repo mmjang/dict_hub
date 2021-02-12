@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">小肉饼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>patty</b> is a small, round meat pie.  \r \r\r\r</span>",
+    "display_hwd": "patty",
+    "ext": "",
+    "hwd": "patty",
+    "phonetics": "英\r[ˈpæti]美\r[ˈpæti]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">牛肉饼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>patty</b> is an amount of minced beef formed into a flat, round shape.  \r \r\r\r</span>",
+    "display_hwd": "patty",
+    "ext": "",
+    "hwd": "patty",
+    "phonetics": "英\r[ˈpæti]美\r[ˈpæti]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

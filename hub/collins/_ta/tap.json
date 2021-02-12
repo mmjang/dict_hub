@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">龙头;阀门;旋塞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tap</b> is a device that controls the flow of a liquid or gas from a pipe or container, for example on a sink.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">轻打;轻拍;轻叩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tap</b> something, you hit it with a quick light blow or a series of quick light blows.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指听音乐时，用手指或脚)敲节拍，打拍子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tap</b> your fingers or feet, you make a regular pattern of sound by hitting a surface lightly and repeatedly with them, especially while you are listening to music.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">开发，发掘，利用(资源、形势)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tap</b> a resource or situation, you make use of it by getting from it something that you need or want.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">偷听，窃听，监听(电话)</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://phone-tapping\">phone-tapping</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://wiretap\">wiretap</a></b>;\r If someone <b>taps</b> your telephone, they attach a special device to the line so that they can secretly listen to your conversations.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(饮料)散装的，可随时(打开旋塞)取饮的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If drinks are <b>on tap</b>, they come from a tap rather than from a bottle.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可轻松获取;可随时使用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>on tap</b>, you can have as much of it as you want whenever you want.  \r \r\r\r</span>",
+    "display_hwd": "tap",
+    "ext": "",
+    "hwd": "tap",
+    "phonetics": "英\r[tæp]美\r[tæp]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

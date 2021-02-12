@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">呕；吐；呕吐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone <b>pukes</b>, they vomit.  \r \r\r\r</span>",
+    "display_hwd": "puke",
+    "ext": "",
+    "hwd": "puke",
+    "phonetics": "英\r[pju:k]美\r[pjuk]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同vomit</span>",
+    "def_en": "<span class=\"endef\"><b>Puke</b> is the same as <b>vomit</b> .  \r \r\r\r</span>",
+    "display_hwd": "puke",
+    "ext": "",
+    "hwd": "puke",
+    "phonetics": "英\r[pju:k]美\r[pjuk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

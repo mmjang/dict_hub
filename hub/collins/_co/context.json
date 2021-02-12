@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(想法、事件等的)背景，环境</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>context of</b> an idea or event is the general situation that relates to it, and which helps it to be understood.  \r \r\r\r</span>",
+    "display_hwd": "context",
+    "ext": "",
+    "hwd": "context",
+    "phonetics": "英\r[ˈkɒntekst]美\r[ˈkɑntekst]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">上下文;语境</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>context</b> of a word, sentence, or text consists of the words, sentences, or text before and after it which help to make its meaning clear.  \r \r\r\r</span>",
+    "display_hwd": "context",
+    "ext": "",
+    "hwd": "context",
+    "phonetics": "英\r[ˈkɒntekst]美\r[ˈkɑntekst]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在上下文中;置于背景之下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is seen <b>in context</b> or if it is put <b>into context</b>, it is considered together with all the factors that relate to it.  \r \r\r\r</span>",
+    "display_hwd": "context",
+    "ext": "",
+    "hwd": "context",
+    "phonetics": "英\r[ˈkɒntekst]美\r[ˈkɑntekst]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">脱离上下文;断章取义地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a statement or remark is quoted <b>out of context</b>, the circumstances in which it was said are not correctly reported, so that it seems to mean something different from the meaning that was intended.  \r \r\r\r</span>",
+    "display_hwd": "context",
+    "ext": "",
+    "hwd": "context",
+    "phonetics": "英\r[ˈkɒntekst]美\r[ˈkɑntekst]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

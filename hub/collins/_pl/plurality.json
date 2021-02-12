@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">多数状态；诸多；众多</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is a <b>plurality of</b> things, a number of them exist.  \r \r\r\r</span>",
+    "display_hwd": "plurality",
+    "ext": "",
+    "hwd": "plurality",
+    "phonetics": "英\r[plʊəˈræləti]美\r[plʊˈræləti]",
+    "phrase": "",
+    "sense": "quant-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（超过其他任何一方的）多数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a candidate, political party, or idea has the support of a <b>plurality of</b> people, they have more support than any other candidate, party, or idea.  \r \r\r\r</span>",
+    "display_hwd": "plurality",
+    "ext": "",
+    "hwd": "plurality",
+    "phonetics": "英\r[plʊəˈræləti]美\r[plʊˈræləti]",
+    "phrase": "",
+    "sense": "quant-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（指选举中获胜者得到的不及其他所有候选人得票总和的）相对多数（票）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>plurality</b> in an election is the number of votes that the winner gets, when this is less than the total number of votes for all the other candidates.  \r \r\r\r</span>",
+    "display_hwd": "plurality",
+    "ext": "",
+    "hwd": "plurality",
+    "phonetics": "英\r[plʊəˈræləti]美\r[plʊˈræləti]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（指选举中获得最多票数的候选人与得票数第二的候选人之间的）票数差额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>plurality</b> in an election is the difference in the number of votes between the candidate who gets the most votes and the candidate who comes second.  \r \r\r\r</span>",
+    "display_hwd": "plurality",
+    "ext": "",
+    "hwd": "plurality",
+    "phonetics": "英\r[plʊəˈræləti]美\r[plʊˈræləti]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

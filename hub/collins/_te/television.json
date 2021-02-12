@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电视(机)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>television</b> or <b>television set</b> is a piece of electrical equipment consisting of a box with a glass screen on it on which you can watch programmes with pictures and sounds.  \r \r\r\r</span>",
+    "display_hwd": "television",
+    "ext": "",
+    "hwd": "television",
+    "phonetics": "英\r[ˈtelɪvɪʒn]美\r[ˈtɛləˌvɪʒən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电视</span>",
+    "def_en": "<span class=\"endef\"><b>Television</b> is the system of sending pictures and sounds by electrical signals over a distance so that people can receive them on a television in their home.  \r \r\r\r</span>",
+    "display_hwd": "television",
+    "ext": "",
+    "hwd": "television",
+    "phonetics": "英\r[ˈtelɪvɪʒn]美\r[ˈtɛləˌvɪʒən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电视节目</span>",
+    "def_en": "<span class=\"endef\"><b>Television</b> refers to all the programmes that you can watch.  \r \r\r\r</span>",
+    "display_hwd": "television",
+    "ext": "",
+    "hwd": "television",
+    "phonetics": "英\r[ˈtelɪvɪʒn]美\r[ˈtɛləˌvɪʒən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电视广播业;电视行业</span>",
+    "def_en": "<span class=\"endef\"><b>Television</b> is the business or industry concerned with making programmes and broadcasting them on television.  \r \r\r\r</span>",
+    "display_hwd": "television",
+    "ext": "",
+    "hwd": "television",
+    "phonetics": "英\r[ˈtelɪvɪʒn]美\r[ˈtɛləˌvɪʒən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

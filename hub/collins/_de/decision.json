@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">决定;抉择</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you make a <b>decision</b>, you choose what should be done or which is the best of various possible actions.  \r \r\r\r</span>",
+    "display_hwd": "decision",
+    "ext": "",
+    "hwd": "decision",
+    "phonetics": "英\r[dɪˈsɪʒn]美\r[dɪˈsɪʒən]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">作决定;作抉择</span>",
+    "def_en": "<span class=\"endef\"><b>Decision</b> is the act of deciding something or the need to decide something.  \r \r\r\r</span>",
+    "display_hwd": "decision",
+    "ext": "",
+    "hwd": "decision",
+    "phonetics": "英\r[dɪˈsɪʒn]美\r[dɪˈsɪʒən]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">果断;决断（力）</span>",
+    "def_en": "<span class=\"endef\"><b>Decision</b> is the ability to decide quickly and definitely what to do.  \r \r\r\r</span>",
+    "display_hwd": "decision",
+    "ext": "",
+    "hwd": "decision",
+    "phonetics": "英\r[dɪˈsɪʒn]美\r[dɪˈsɪʒən]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

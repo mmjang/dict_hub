@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">酸橙</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>lime</b> is a green fruit that tastes like a lemon. Limes grow on trees in tropical countries.  \r \r\r\r</span>",
+    "display_hwd": "lime",
+    "ext": "",
+    "hwd": "lime",
+    "phonetics": "英\r[laɪm]美\r[laɪm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">酸橙味饮料</span>",
+    "def_en": "<span class=\"endef\"><b>Lime</b> is a drink that tastes of limes.  \r \r\r\r</span>",
+    "display_hwd": "lime",
+    "ext": "",
+    "hwd": "lime",
+    "phonetics": "英\r[laɪm]美\r[laɪm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">欧椴树</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>lime</b> is a large tree with pale green leaves. It is often planted in parks in towns and cities.  \r \r\r\r</span>",
+    "display_hwd": "lime",
+    "ext": "",
+    "hwd": "lime",
+    "phonetics": "英\r[laɪm]美\r[laɪm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">石灰</span>",
+    "def_en": "<span class=\"endef\"><b>Lime</b> is a substance containing calcium. It is found in soil and water.  \r \r\r\r</span>",
+    "display_hwd": "lime",
+    "ext": "",
+    "hwd": "lime",
+    "phonetics": "英\r[laɪm]美\r[laɪm]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（英国）上（议）院，贵族院</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, <b>the Upper House</b> is <b>the House of Lords</b>.  \r \r\r\r</span>",
+    "display_hwd": "Upper House",
+    "ext": "",
+    "hwd": "Upper House",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国）参议院</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, <b>the Upper House</b> is <b>the Senate</b>.  \r \r\r\r</span>",
+    "display_hwd": "Upper House",
+    "ext": "",
+    "hwd": "Upper House",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（其他国家的两院制议会中资历较深而实权较小的）上议院</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In other countries where the parliament is divided into two groups of members, <b>the Upper House</b> is the more senior of these groups, although it may not be more powerful.  \r \r\r\r</span>",
+    "display_hwd": "Upper House",
+    "ext": "",
+    "hwd": "Upper House",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

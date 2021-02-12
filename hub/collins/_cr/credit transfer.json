@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">银行转账</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>credit transfer</b> is a direct payment of money from one bank account into another.  \r \r\r\r</span>",
+    "display_hwd": "credit transfer",
+    "ext": "",
+    "hwd": "credit transfer",
+    "phonetics": "英\r[ˈkredittrænsˈfə:]美\r[ˈkrɛdɪttrænsˈfɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">学分转入</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a student has a <b>credit transfer</b> when they change from one school or college to another, their credits are transferred from their old school or college to their new one.  \r \r\r\r</span>",
+    "display_hwd": "credit transfer",
+    "ext": "",
+    "hwd": "credit transfer",
+    "phonetics": "英\r[ˈkredittrænsˈfə:]美\r[ˈkrɛdɪttrænsˈfɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

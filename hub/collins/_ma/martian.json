@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(假想的)火星人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Martian</b> is an imaginary creature from the planet Mars.  \r \r\r\r</span>",
+    "display_hwd": "Martian",
+    "ext": "",
+    "hwd": "Martian",
+    "phonetics": "英\r[ˈmɑ:ʃn]美\r[ˈmɑrʃn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">火星的；与火星有关的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>Martian</b> exists on or relates to the planet Mars.  \r \r\r\r</span>",
+    "display_hwd": "Martian",
+    "ext": "",
+    "hwd": "Martian",
+    "phonetics": "英\r[ˈmɑ:ʃn]美\r[ˈmɑrʃn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

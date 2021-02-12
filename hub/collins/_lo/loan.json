@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">贷款；借款</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bridging loan\">bridging loan</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://soft loan\">soft loan</a></b>;\r A <b>loan</b> is a sum of money that you borrow.  \r \r\r\r</span>",
+    "display_hwd": "loan",
+    "ext": "",
+    "hwd": "loan",
+    "phonetics": "英\r[ləʊn]美\r[loʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">暂借</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone gives you a <b>loan of</b> something, you borrow it from them.  \r \r\r\r</span>",
+    "display_hwd": "loan",
+    "ext": "",
+    "hwd": "loan",
+    "phonetics": "英\r[ləʊn]美\r[loʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">借出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>loan</b> something to someone, you lend it to them.  \r \r\r\r</span>",
+    "display_hwd": "loan",
+    "ext": "",
+    "hwd": "loan",
+    "phonetics": "英\r[ləʊn]美\r[loʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">借用中；借出中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>on loan</b>, it has been borrowed.  \r \r\r\r</span>",
+    "display_hwd": "loan",
+    "ext": "",
+    "hwd": "loan",
+    "phonetics": "英\r[ləʊn]美\r[loʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">借调；商借</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person is <b>on loan</b> from one organization to another, they are temporarily working for the second organization while still employed by the first.  \r \r\r\r</span>",
+    "display_hwd": "loan",
+    "ext": "",
+    "hwd": "loan",
+    "phonetics": "英\r[ləʊn]美\r[loʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

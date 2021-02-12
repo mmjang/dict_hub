@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（足球、曲棍球等比赛中）越位的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In games such as football or hockey, when an attacking player is <b>offside</b>, they have broken the rules by being nearer to the goal than a defending player when the ball is passed to them.  \r \r\r\r</span>",
+    "display_hwd": "offside",
+    "ext": "",
+    "hwd": "offside",
+    "phonetics": "英\r[ˌɒfˈsaɪd]美\r[ˌɔfˈsaɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美式橄榄球中）越位的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In American football, a player is <b>offside</b> if they cross the line of scrimmage before a play begins.  \r \r\r\r</span>",
+    "display_hwd": "offside",
+    "ext": "",
+    "hwd": "offside",
+    "phonetics": "英\r[ˌɒfˈsaɪd]美\r[ˌɔfˈsaɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（车辆在靠左交通中的）右侧，外侧，远离路边的一侧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>offside</b> of a vehicle is the side that is farthest from the edge of the road when the vehicle is being driven normally.  \r \r\r\r</span>",
+    "display_hwd": "offside",
+    "ext": "",
+    "hwd": "offside",
+    "phonetics": "英\r[ˌɒfˈsaɪd]美\r[ˌɔfˈsaɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

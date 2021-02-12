@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">楼梯平台</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a house or other building, the <b>landing</b> is the area at the top of the staircase which has rooms leading off it.  \r \r\r\r</span>",
+    "display_hwd": "landing",
+    "ext": "",
+    "hwd": "landing",
+    "phonetics": "英\r[ˈlændɪŋ]美\r[ˈlændɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">着陆；降落</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>landing</b> is an act of bringing an aircraft or spacecraft down to the ground.  \r \r\r\r</span>",
+    "display_hwd": "landing",
+    "ext": "",
+    "hwd": "landing",
+    "phonetics": "英\r[ˈlændɪŋ]美\r[ˈlændɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（军队的）登陆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a <b>landing</b> takes place, troops are unloaded from boats or aircraft at the beginning of a military invasion or other operation.  \r \r\r\r</span>",
+    "display_hwd": "landing",
+    "ext": "",
+    "hwd": "landing",
+    "phonetics": "英\r[ˈlændɪŋ]美\r[ˈlændɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同landing stage</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>landing</b> is the same as a <b>landing stage</b> .  \r \r\r\r</span>",
+    "display_hwd": "landing",
+    "ext": "",
+    "hwd": "landing",
+    "phonetics": "英\r[ˈlændɪŋ]美\r[ˈlændɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

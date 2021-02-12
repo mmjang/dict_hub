@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">唱片；录音带；录像带</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>recording of</b> something is a record, CD, tape, or video of it.  \r \r\r\r</span>",
+    "display_hwd": "recording",
+    "ext": "",
+    "hwd": "recording",
+    "phonetics": "英\r[rɪˈkɔ:dɪŋ]美\r[rɪˈkɔrdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">录制</span>",
+    "def_en": "<span class=\"endef\"><b>Recording</b> is the process of making records, CDs, tapes, or videos.  \r \r\r\r</span>",
+    "display_hwd": "recording",
+    "ext": "",
+    "hwd": "recording",
+    "phonetics": "英\r[rɪˈkɔ:dɪŋ]美\r[rɪˈkɔrdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

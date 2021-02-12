@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">副标题;小标题</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>subtitle</b> of a piece of writing is a second title which is often longer and explains more than the main title.  \r \r\r\r</span>",
+    "display_hwd": "subtitle",
+    "ext": "",
+    "hwd": "subtitle",
+    "phonetics": "英\r[ˈsʌbtaɪtl]美\r[ˈsʌbˌtaɪtl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(外国电影的)字幕，对白译文</span>",
+    "def_en": "<span class=\"endef\"><b>Subtitles</b> are a printed translation of the words of a foreign film that are shown at the bottom of the picture.  \r \r\r\r</span>",
+    "display_hwd": "subtitle",
+    "ext": "",
+    "hwd": "subtitle",
+    "phonetics": "英\r[ˈsʌbtaɪtl]美\r[ˈsʌbˌtaɪtl]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

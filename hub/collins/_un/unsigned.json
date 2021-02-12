@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">没签名的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>unsigned</b> document does not have anyone's signature on it.  \r \r\r\r</span>",
+    "display_hwd": "unsigned",
+    "ext": "",
+    "hwd": "unsigned",
+    "phonetics": "英\r['ʌn'saɪnd]美\r[ʌn'saɪnd]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">没签约的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>unsigned</b> band has not signed a contract with a company to produce CDs.  \r \r\r\r</span>",
+    "display_hwd": "unsigned",
+    "ext": "",
+    "hwd": "unsigned",
+    "phonetics": "英\r['ʌn'saɪnd]美\r[ʌn'saɪnd]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

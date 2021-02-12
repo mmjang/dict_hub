@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">斜体;斜体字</span>",
+    "def_en": "<span class=\"endef\"><b>Italics</b> are letters which slope to the right. Italics are often used to emphasize a particular word or sentence. The examples in this dictionary are printed in italics.  \r \r\r\r</span>",
+    "display_hwd": "italic",
+    "ext": "",
+    "hwd": "italic",
+    "phonetics": "英\r[ɪˈtælɪk]美\r[ɪˈtælɪk,aɪˈtæl-]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">斜体的</span>",
+    "def_en": "<span class=\"endef\"><b>Italic</b> letters slope to the right.  \r \r\r\r</span>",
+    "display_hwd": "italic",
+    "ext": "",
+    "hwd": "italic",
+    "phonetics": "英\r[ɪˈtælɪk]美\r[ɪˈtælɪk,aɪˈtæl-]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

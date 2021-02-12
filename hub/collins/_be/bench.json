@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">长凳；长椅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bench</b> is a long seat of wood or metal that two or more people can sit on.  \r \r\r\r</span>",
+    "display_hwd": "bench",
+    "ext": "",
+    "hwd": "bench",
+    "phonetics": "英\r[bentʃ]美\r[bɛntʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（长方形）工作台，实验台</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bench</b> is a long, narrow table in a factory or laboratory.  \r \r\r\r</span>",
+    "display_hwd": "bench",
+    "ext": "",
+    "hwd": "bench",
+    "phonetics": "英\r[bentʃ]美\r[bɛntʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">议员席；议席</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://backbench\">backbench</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://backbencher\">backbencher</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://backbenches\">backbenches</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://front bench\">front bench</a></b>;\r In parliament, different groups sit on different <b>benches</b>. For example, the government sits on the government <b>benches</b> .  \r \r\r\r</span>",
+    "display_hwd": "bench",
+    "ext": "",
+    "hwd": "bench",
+    "phonetics": "英\r[bentʃ]美\r[bɛntʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">法官；地方执法官</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a court of law, <b>the bench</b> is the judge or magistrates.  \r \r\r\r</span>",
+    "display_hwd": "bench",
+    "ext": "",
+    "hwd": "bench",
+    "phonetics": "英\r[bentʃ]美\r[bɛntʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">法官职位；地方执法官职位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone serves on <b>the bench</b>, they work as a judge or magistrate.  \r \r\r\r</span>",
+    "display_hwd": "bench",
+    "ext": "",
+    "hwd": "bench",
+    "phonetics": "英\r[bentʃ]美\r[bɛntʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（体育比赛的）替补席</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a member of a sports team is on <b>the bench</b> for a particular match, he or she waits at the side of the field until the manager tells them to play.  \r \r\r\r</span>",
+    "display_hwd": "bench",
+    "ext": "",
+    "hwd": "bench",
+    "phonetics": "英\r[bentʃ]美\r[bɛntʃ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

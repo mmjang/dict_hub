@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">推论;推断</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>deduction</b> is a conclusion that you have reached about something because of other things that you know to be true.  \r \r\r\r</span>",
+    "display_hwd": "deduction",
+    "ext": "",
+    "hwd": "deduction",
+    "phonetics": "英\r[dɪˈdʌkʃn]美\r[dɪˈdʌkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">推论（过程）；演绎</span>",
+    "def_en": "<span class=\"endef\"><b>Deduction</b> is the process of reaching a conclusion about something because of other things that you know to be true.  \r \r\r\r</span>",
+    "display_hwd": "deduction",
+    "ext": "",
+    "hwd": "deduction",
+    "phonetics": "英\r[dɪˈdʌkʃn]美\r[dɪˈdʌkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扣除额;减除数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>deduction</b> is an amount that has been subtracted from a total.  \r \r\r\r</span>",
+    "display_hwd": "deduction",
+    "ext": "",
+    "hwd": "deduction",
+    "phonetics": "英\r[dɪˈdʌkʃn]美\r[dɪˈdʌkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扣除;减除</span>",
+    "def_en": "<span class=\"endef\"><b>Deduction</b> is the act or process of subtracting an amount of money from a total amount.  \r \r\r\r</span>",
+    "display_hwd": "deduction",
+    "ext": "",
+    "hwd": "deduction",
+    "phonetics": "英\r[dɪˈdʌkʃn]美\r[dɪˈdʌkʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

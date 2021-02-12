@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（药物等的）过量；致死（或中毒）剂量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone takes an <b>overdose</b> of a drug, they take more of it than is safe.  \r \r\r\r</span>",
+    "display_hwd": "overdose",
+    "ext": "",
+    "hwd": "overdose",
+    "phonetics": "英\r[ˈəʊvədəʊs]美\r[ˈoʊvərdoʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">过量服用（药物）；过量吸食（毒品）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>overdoses on</b> a drug, they take more of it than is safe.  \r \r\r\r</span>",
+    "display_hwd": "overdose",
+    "ext": "",
+    "hwd": "overdose",
+    "phonetics": "英\r[ˈəʊvədəʊs]美\r[ˈoʊvərdoʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指有害物的）过量，过多</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to too much of something, especially something harmful, as an <b>overdose</b>.  \r \r\r\r</span>",
+    "display_hwd": "overdose",
+    "ext": "",
+    "hwd": "overdose",
+    "phonetics": "英\r[ˈəʊvədəʊs]美\r[ˈoʊvərdoʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">过多拥有；沉溺</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say that someone <b>overdoses on</b> something if they have or do too much of it.  \r \r\r\r</span>",
+    "display_hwd": "overdose",
+    "ext": "",
+    "hwd": "overdose",
+    "phonetics": "英\r[ˈəʊvədəʊs]美\r[ˈoʊvərdoʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

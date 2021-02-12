@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">比较;对照</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you make a <b>comparison</b>, you consider two or more things and discover the differences between them.  \r \r\r\r</span>",
+    "display_hwd": "comparison",
+    "ext": "",
+    "hwd": "comparison",
+    "phonetics": "英\r[kəmˈpærɪsn]美\r[kəmˈpærɪsən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">比拟;比喻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you make a <b>comparison</b>, you say that one thing is like another in some way.  \r \r\r\r</span>",
+    "display_hwd": "comparison",
+    "ext": "",
+    "hwd": "comparison",
+    "phonetics": "英\r[kəmˈpærɪsn]美\r[kəmˈpærɪsən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…相比;与…比较而言</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say, for example, that something is large or small <b>in comparison with</b> ,<b>in comparison to</b>, or <b>by comparison with</b> something else, you mean that it is larger or smaller than the other thing.  \r \r\r\r</span>",
+    "display_hwd": "comparison",
+    "ext": "",
+    "hwd": "comparison",
+    "phonetics": "英\r[kəmˈpærɪsn]美\r[kəmˈpærɪsən]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不能相提并论;不能相比</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>there is no comparison between</b> one thing and another, you mean that you think the first thing is much better than the second, or very different from it.  \r \r\r\r</span>",
+    "display_hwd": "comparison",
+    "ext": "",
+    "hwd": "comparison",
+    "phonetics": "英\r[kəmˈpærɪsn]美\r[kəmˈpærɪsən]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">比得上;可(与…)相媲美</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something <b>stands</b> or <b>bears comparison with</b> another person or thing, they are as good, or almost as good.  \r \r\r\r</span>",
+    "display_hwd": "comparison",
+    "ext": "",
+    "hwd": "comparison",
+    "phonetics": "英\r[kəmˈpærɪsn]美\r[kəmˈpærɪsən]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">囊地鼠，囊鼠(见于加拿大和美国)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>gopher</b> is a small animal which looks a bit like a rat and lives in holes in the ground. Gophers are found in Canada and the USA.  \r \r\r\r</span>",
+    "display_hwd": "gopher",
+    "ext": "",
+    "hwd": "gopher",
+    "phonetics": "英\r[ˈgəʊfə(r)]美\r[ˈgoʊfə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">Gopher 程序，地鼠程序（用于在因特网上查询资料）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, <b>Gopher</b> is a program that collects information for you from many databases across the Internet.  \r \r\r\r</span>",
+    "display_hwd": "gopher",
+    "ext": "",
+    "hwd": "gopher",
+    "phonetics": "英\r[ˈgəʊfə(r)]美\r[ˈgoʊfə(r)]",
+    "phrase": "",
+    "sense": "n-proper; also n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

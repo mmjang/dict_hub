@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用于疑问句)什么时候，何时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> to ask questions about the time at which things happen.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ quest\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示两事同时发生)在…时，当…时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>when</b> something else is happening, the two things are happening at the same time.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(引导从句，表示某事发生于另一活动、事件或情形期间)在…的过程中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> to introduce a clause in which you mention something which happens at some point during an activity, event, or situation.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(引导从句，说明主句动作已经发生或将要发生时的情况)其时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> to introduce a clause where you mention the circumstances under which the event in the main clause happened or will happen.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤用于动词和形容词后引导从句，表示某事发生的时间)什么时候,何时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> after certain words, especially verbs and adjectives, to introduce a clause where you mention the time at which something happens.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于引导从句，限定或指示某事发生的时间)…的时候</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> to introduce a clause which specifies or refers to the time at which something happens.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ pron-rel\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于引出某个观点、评论或问题的原因)既然，考虑到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> to introduce the reason for an opinion, comment, or question.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于引出使句子的其他部分显得让人吃惊或不大可能的事实或评论)虽然，然而,可是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>when</b> in order to introduce a fact or comment which makes the other part of the sentence rather surprising or unlikely.  \r \r\r\r</span>",
+    "display_hwd": "when",
+    "ext": "",
+    "hwd": "when",
+    "phonetics": "英\r[wen]美\r[wɛn]",
+    "phrase": "",
+    "sense": "★★★★★ conj-subord\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

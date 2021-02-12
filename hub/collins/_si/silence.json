@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">沉默;缄默;不作声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is <b>silence</b>, nobody is speaking.  \r \r\r\r</span>",
+    "display_hwd": "silence",
+    "ext": "",
+    "hwd": "silence",
+    "phonetics": "英\r[ˈsaɪləns]美\r[ˈsaɪləns]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">寂静;无声</span>",
+    "def_en": "<span class=\"endef\"><b>The silence of</b> a place is the extreme quietness there.  \r \r\r\r</span>",
+    "display_hwd": "silence",
+    "ext": "",
+    "hwd": "silence",
+    "phonetics": "英\r[ˈsaɪləns]美\r[ˈsaɪləns]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">缄默;绝口不提;闭口不谈</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>silence</b> about something is their failure or refusal to speak to other people about it.  \r \r\r\r</span>",
+    "display_hwd": "silence",
+    "ext": "",
+    "hwd": "silence",
+    "phonetics": "英\r[ˈsaɪləns]美\r[ˈsaɪləns]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使安静;使无声;使不说话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>silence</b> someone or something means to stop them speaking or making a noise.  \r \r\r\r</span>",
+    "display_hwd": "silence",
+    "ext": "",
+    "hwd": "silence",
+    "phonetics": "英\r[ˈsaɪləns]美\r[ˈsaɪləns]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">制止，使不再发表(反对意见)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>silences</b> you, they stop you expressing opinions that they do not agree with.  \r \r\r\r</span>",
+    "display_hwd": "silence",
+    "ext": "",
+    "hwd": "silence",
+    "phonetics": "英\r[ˈsaɪləns]美\r[ˈsaɪləns]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">杀…灭口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>silence</b> someone means to kill them in order to stop them revealing something secret.  \r \r\r\r</span>",
+    "display_hwd": "silence",
+    "ext": "",
+    "hwd": "silence",
+    "phonetics": "英\r[ˈsaɪləns]美\r[ˈsaɪləns]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

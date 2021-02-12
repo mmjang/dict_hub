@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">闪电</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://forked lightning\">forked lightning</a></b>;\r <b>Lightning</b> is the very bright flashes of light in the sky that happen during thunderstorms.  \r \r\r\r</span>",
+    "display_hwd": "lightning",
+    "ext": "",
+    "hwd": "lightning",
+    "phonetics": "英\r[ˈlaɪtnɪŋ]美\r[ˈlaɪtnɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">闪电似的；极快的</span>",
+    "def_en": "<span class=\"endef\"><b>Lightning</b> describes things that  happen very quickly or last for only a short time.  \r \r\r\r</span>",
+    "display_hwd": "lightning",
+    "ext": "",
+    "hwd": "lightning",
+    "phonetics": "英\r[ˈlaɪtnɪŋ]美\r[ˈlaɪtnɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

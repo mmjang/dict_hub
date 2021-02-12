@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">咖啡</span>",
+    "def_en": "<span class=\"endef\"><b>Coffee</b> is a hot drink made with water and ground or powdered coffee beans.  \r \r\r\r</span>",
+    "display_hwd": "coffee",
+    "ext": "",
+    "hwd": "coffee",
+    "phonetics": "英\r[ˈkɒfi]美\r[ˈkɔfi]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">咖啡豆;咖啡粉</span>",
+    "def_en": "<span class=\"endef\"><b>Coffee</b> is the roasted beans or powder from which the drink is made.  \r \r\r\r</span>",
+    "display_hwd": "coffee",
+    "ext": "",
+    "hwd": "coffee",
+    "phonetics": "英\r[ˈkɒfi]美\r[ˈkɔfi]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

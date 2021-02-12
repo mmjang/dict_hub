@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">收割机</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://combine harvester\">combine harvester</a></b>;\r A <b>harvester</b> is a machine which cuts and often collects crops such as wheat, maize, or vegetables.  \r \r\r\r</span>",
+    "display_hwd": "harvester",
+    "ext": "",
+    "hwd": "harvester",
+    "phonetics": "英\r[ˈhɑ:vɪstə(r)]美\r[ˈhɑrvɪstə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">收割庄稼的人;收割者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a person who cuts, picks, or gathers crops as a <b>harvester</b> .  \r \r\r\r</span>",
+    "display_hwd": "harvester",
+    "ext": "",
+    "hwd": "harvester",
+    "phonetics": "英\r[ˈhɑ:vɪstə(r)]美\r[ˈhɑrvɪstə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

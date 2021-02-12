@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">室友;合租一套公寓（或一幢房子）的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>roommate</b> is the person you share a rented room, apartment, or house with, for example when you are at university.  \r \r\r\r</span>",
+    "display_hwd": "roommate",
+    "ext": "",
+    "hwd": "roommate",
+    "phonetics": "英\r['rʊmmeɪt]美\r[ˈrumˌmet,ˈrʊm-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">室友;同屋者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>roommate</b> is the person you share a rented room with, for example when you are at university.  \r \r\r\r</span>",
+    "display_hwd": "roommate",
+    "ext": "",
+    "hwd": "roommate",
+    "phonetics": "英\r['rʊmmeɪt]美\r[ˈrumˌmet,ˈrʊm-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

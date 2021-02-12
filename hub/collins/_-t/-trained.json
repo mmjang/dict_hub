@@ -1,0 +1,132 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">火车;列车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>train</b> is a number of carriages, cars, or trucks which are all connected together and which are pulled by an engine along a railway. Trains carry people and goods from one place to another.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(缓慢行进中的)行列，队列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>train of</b> vehicles, people, or animals is a long line of them travelling slowly in the same direction.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(想法、事件等的)(一)连串，(一)系列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>train of</b> thought or a <b>train of</b> events is a connected sequence, in which each thought or event seems to occur naturally or logically as a result of the previous one.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">裙裾;拖裾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>train</b> of a woman's formal dress or wedding dress is the long part at the back of it which flows along the floor behind her.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在进行中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a process or event is <b>in train</b> or has been set <b>in train</b>, it is happening or starting to happen.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(问题、困难等)随之而来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something brings problems or difficulties <b>in</b> its <b>train</b>, the problems or difficulties occur as a natural or logical result of it.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(受)训练;(被)培训</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>trains</b> you <b>to</b> do something, they teach you the skills that you need in order to do it. If you <b>train to</b> do something, you learn the skills that you need in order to do it.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">锻炼，培养(某一素质或能力)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>train</b> a natural quality or talent that someone has, for example their voice or musical ability, means to help them to develop it.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(为体育活动)(使)进行训练(或锻炼)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>train for</b> a physical activity such as a race or if someone <b>trains</b> you <b>for</b> it, you prepare for it by doing particular physical exercises.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">训练(兽或鸟)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an animal or bird <b>is trained to</b> do particular things, it is taught to do them, for example in order to be able to work for someone or to be a good pet.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…对准(或瞄准)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>train</b> something such as a gun, a camera, or a light <b>on</b> a person or thing, you aim it at them and keep it towards them.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(经整枝)使(植物)朝特定方向生长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>train</b> a tree, bush, or plant in a particular direction, you tie it and cut it so that it grows in that direction.  \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://training\">training</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "-trained",
+    "ext": "",
+    "hwd": "-trained",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "see also:"
+  }
+]

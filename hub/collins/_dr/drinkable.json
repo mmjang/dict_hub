@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">可饮用的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Water that is <b>drinkable</b> is clean and safe for drinking.  \r \r\r\r</span>",
+    "display_hwd": "drinkable",
+    "ext": "",
+    "hwd": "drinkable",
+    "phonetics": "英\r[ˈdrɪŋkəbl]美\r[ˈdrɪŋkəbəl]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">好喝的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a particular wine, beer, or other drink is <b>drinkable</b>, you mean that it tastes quite pleasant.  \r \r\r\r</span>",
+    "display_hwd": "drinkable",
+    "ext": "",
+    "hwd": "drinkable",
+    "phonetics": "英\r[ˈdrɪŋkəbl]美\r[ˈdrɪŋkəbəl]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

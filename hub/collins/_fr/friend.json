@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">朋友;友人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>friend</b> is someone who you know well and like, but who is not related to you.  \r \r\r\r</span>",
+    "display_hwd": "friend",
+    "ext": "",
+    "hwd": "friend",
+    "phonetics": "英\r[frend]美\r[frɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(与…互为)朋友</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>friends</b> <b>with</b> someone, you are their friend and they are yours.  \r \r\r\r</span>",
+    "display_hwd": "friend",
+    "ext": "",
+    "hwd": "friend",
+    "phonetics": "英\r[frend]美\r[frɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">支持者;拥护者;赞助者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>friends</b> <b>of</b> a country, cause, organization, or a famous politician are the people and organizations who help and support them.  \r \r\r\r</span>",
+    "display_hwd": "friend",
+    "ext": "",
+    "hwd": "friend",
+    "phonetics": "英\r[frend]美\r[frɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">盟友;友国;友邦</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one country refers to another as a <b>friend</b>, they mean that the other country is not an enemy of theirs.  \r \r\r\r</span>",
+    "display_hwd": "friend",
+    "ext": "",
+    "hwd": "friend",
+    "phonetics": "英\r[frend]美\r[frɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(与…)交朋友;(和…)建立友谊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>make friends</b> <b>with</b> someone, you begin a friendship with them. You can also say that two people <b>make friends</b> .  \r \r\r\r</span>",
+    "display_hwd": "friend",
+    "ext": "",
+    "hwd": "friend",
+    "phonetics": "英\r[frend]美\r[frɛnd]",
+    "phrase": "",
+    "sense": "★★★★★ phr-recip\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

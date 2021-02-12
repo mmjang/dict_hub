@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">声呐(一种利用声波测量水深或水下物体位置的船载装置)</span>",
+    "def_en": "<span class=\"endef\"><b>Sonar</b> is equipment on a ship which can calculate the depth of the sea or the position of an underwater object using sound waves.  \r \r\r\r</span>",
+    "display_hwd": "sonar",
+    "ext": "",
+    "hwd": "sonar",
+    "phonetics": "英\r[ˈsəʊnɑ:(r)]美\r[ˈsoʊnɑ(r)]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

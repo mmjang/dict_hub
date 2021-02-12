@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">羽毛笔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>quill</b> is a pen made from a bird's feather.  \r \r\r\r</span>",
+    "display_hwd": "quill",
+    "ext": "",
+    "hwd": "quill",
+    "phonetics": "英\r[kwɪl]美\r[kwɪl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(鸟翼或鸟尾的)大羽毛;翎</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A bird's <b>quills</b> are large, stiff feathers on its wings and tail.  \r \r\r\r</span>",
+    "display_hwd": "quill",
+    "ext": "",
+    "hwd": "quill",
+    "phonetics": "英\r[kwɪl]美\r[kwɪl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(豪猪的)棘刺</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>quills</b> of a porcupine are the long sharp points on its body.  \r \r\r\r</span>",
+    "display_hwd": "quill",
+    "ext": "",
+    "hwd": "quill",
+    "phonetics": "英\r[kwɪl]美\r[kwɪl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

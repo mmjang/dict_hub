@@ -1,0 +1,352 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">一侧;一边;一旁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>side of</b> something is a position to the left or right of it, rather than in front of it, behind it, or on it.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">侧面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>side</b> of an object, building, or vehicle is any of its flat surfaces which is not considered to be its front, its back, its top, or its bottom.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(洞或容器垂直的)内侧面，内壁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sides</b> of a hollow or a container are its inside vertical surfaces.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">边;边缘</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sides of</b> an area or surface are its edges.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某地区、表面或物体一分为二的)一边，一侧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The two <b>sides of</b> an area, surface, or object are its two halves.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(有车流来往的道路的)方向，侧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The two <b>sides</b> of a road are its two halves on which traffic travels in opposite directions.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(城镇或世界的)另一端，遥远的地方</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about the other <b>side</b> of a town or of the world, you mean a part of the town or of the world that is very far from where you are.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人体自腋下至臀部的)体侧,肋部</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>sides</b> are the parts of your body between your front and your back, from under your arms to your hips.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(在…)身边，(在…)旁边(给予支持或安慰)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>by</b> your <b>side</b> or <b>at</b> your <b>side</b>, they stay near you and give you comfort or support.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(纸张等的)一面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The two <b>sides</b> of something flat, for example a piece of paper, are its two flat surfaces. You can also refer to one side of a piece of paper filled with writing as one <b>side</b> of writing.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(磁带或唱片的)一面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r One <b>side</b> of a tape or record is what you can hear or record if you play the tape or record from beginning to end without turning it over.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(牛肉、猪肉等沿脊骨劈开的)一边，半只，一扇</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>side of</b> beef, bacon, or other meat consists of the meat from half the animal cut along its backbone.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">枝节的;次要的;附带的</span>",
+    "def_en": "<span class=\"endef\"><b>Side</b> is used to describe things that are not the main or most important ones of their kind.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(战争、争论、谈判的)一方，一派</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The different <b>sides</b> in a war, argument, or negotiation are the groups of people who are opposing each other.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(争论或交易中)一方的观点(或立场)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The different <b>sides of</b> an argument or deal are the different points of view or positions involved in it.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">支持/共同反对</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one person or country <b>sides with</b> another, they support them in an argument or a war. If people or countries <b>side against</b> another person or country, they support each other against them.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">运动队;球队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In sport, a <b>side</b> is a team.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(情况、性格等的)方面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A particular <b>side</b> of something such as a situation or someone's character is one aspect of it.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(亲属)母系，父系，血统</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>mother's side</b> and the <b>father's side</b> of your family are your mother's relatives and your father's relatives.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://-sided\">-sided</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://siding\">siding</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">并排;并肩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two people or things are <b>side by side</b>, they are next to each other.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">密切(合作);和睦（相处）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people work or live <b>side by side</b>, they work or live closely together in a friendly way.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">令(家人或朋友)失望(或难堪)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>has let the side down</b>, you mean that they have embarrassed their family or friends by behaving badly or not doing well at something.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">左右,来回(移动)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something moves <b>from side to side</b>, it moves repeatedly to the left and to the right.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(战争、争论中)支持，站在…一边</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on</b> someone's <b>side</b>, you are supporting them in an argument or a war.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…有利;有…的优势</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>on</b> your <b>side</b> or if you have it <b>on</b> your <b>side</b>, it helps you when you are trying to achieve something.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…惹恼/讨…欢心</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you get <b>on the wrong side of</b> someone, you do something to annoy them and make them dislike you. If you stay <b>on the right side of</b> someone, you try to please them and avoid annoying them.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">稍嫌，稍偏（小或年轻)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>on the</b> small <b>side</b>, you are saying politely that you think it is slightly too small. If you say that someone is <b>on the</b> young <b>side</b>, you are saying politely that you think they are slightly too young.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">兼职;在正事之外;作为副业</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone does something <b>on the side</b>, they do it in addition to their main work.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">作为配菜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have one type of food with another food <b>on the side</b>, you have an amount of the second food served with the first.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">暂且不管;把…暂搁置一边</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>put</b> something <b>to one side</b> or <b>put</b> it <b>on one side</b>, you temporarily ignore it in order to concentrate on something else.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…拉到一边去(私下交谈)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone <b>to one side</b> or <b>draw</b> them <b>to one side</b>, you speak to them privately, usually in order to give them advice or a warning.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(在争论或战争中)支持一方，站在…一边</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take sides</b> or <b>take</b> someone's <b>side</b> in an argument or war, you support one of the sides against the other.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在（某一日期或事件）之前</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will not happen <b>this side of</b> a date or event, you mean that it will not happen before that date or event.  \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>on the side of the angels</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://angel\">angel</a></b>; \rto look on the bright side<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bright\">bright</a></b>; \rthe other side of the coin<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://coin\">coin</a></b>; \rtwo sides of the same coin<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://coin\">coin</a></b>; \rto err on the side of something<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://err\">err</a></b>; \rto be on the safe side<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://safe\">safe</a></b>; \rsomeone's side of the story<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://story\">story</a></b>; \r \r\r\r</span>",
+    "display_hwd": "side",
+    "ext": "",
+    "hwd": "side",
+    "phonetics": "英\r[saɪd]美\r[saɪd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

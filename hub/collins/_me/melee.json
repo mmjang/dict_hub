@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">混战</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>melee</b> is a noisy confusing fight between the people in a crowd.  \r \r\r\r</span>",
+    "display_hwd": "melee",
+    "ext": "",
+    "hwd": "melee",
+    "phonetics": "英\r[ˈmeleɪ]美\r[ˈmeɪleɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">混乱的情况;无序的局面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>melee</b> of things is a large, confusing, disorganized group of them.  \r \r\r\r</span>",
+    "display_hwd": "melee",
+    "ext": "",
+    "hwd": "melee",
+    "phonetics": "英\r[ˈmeleɪ]美\r[ˈmeɪleɪ]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

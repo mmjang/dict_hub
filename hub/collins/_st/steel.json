@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">钢;钢铁</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://stainless steel\">stainless steel</a></b>;\r <b>Steel</b> is a very strong metal which is made mainly from iron. Steel is used for making many things, for example bridges, buildings, vehicles, and cutlery.  \r \r\r\r</span>",
+    "display_hwd": "steel",
+    "ext": "",
+    "hwd": "steel",
+    "phonetics": "英\r[sti:l]美\r[stil]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">钢铁工业;钢铁生产</span>",
+    "def_en": "<span class=\"endef\"><b>Steel</b> is used to refer to the industry that produces steel and items made of steel.  \r \r\r\r</span>",
+    "display_hwd": "steel",
+    "ext": "",
+    "hwd": "steel",
+    "phonetics": "英\r[sti:l]美\r[stil]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">准备应付(不愉快的事)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>steel yourself</b>, you prepare to deal with something unpleasant.  \r \r\r\r</span>",
+    "display_hwd": "steel",
+    "ext": "",
+    "hwd": "steel",
+    "phonetics": "英\r[sti:l]美\r[stil]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">内脏</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>innards</b> of a person or animal are the organs inside their body.  \r \r\r\r</span>",
+    "display_hwd": "innards",
+    "ext": "",
+    "hwd": "innards",
+    "phonetics": "英\r[ˈɪnədz]美\r[ˈɪnərdz]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(机器的)内部构造</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A machine's <b>innards</b> are the parts inside it.  \r \r\r\r</span>",
+    "display_hwd": "innards",
+    "ext": "",
+    "hwd": "innards",
+    "phonetics": "英\r[ˈɪnədz]美\r[ˈɪnərdz]",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

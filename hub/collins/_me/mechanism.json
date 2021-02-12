@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">机械装置;机件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a machine or piece of equipment, a <b>mechanism</b> is a part, often consisting of a set of smaller parts, which performs a particular  function.  \r \r\r\r</span>",
+    "display_hwd": "mechanism",
+    "ext": "",
+    "hwd": "mechanism",
+    "phonetics": "英\r[ˈmekənɪzəm]美\r[ˈmɛkəˌnɪzəm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">方法;途径;程序;机制</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mechanism</b> is a special way of getting something done within a particular system.  \r \r\r\r</span>",
+    "display_hwd": "mechanism",
+    "ext": "",
+    "hwd": "mechanism",
+    "phonetics": "英\r[ˈmekənɪzəm]美\r[ˈmɛkəˌnɪzəm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人为生存、对付困境的)机制，行为方式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mechanism</b> is a part of your behaviour that is automatic and that helps you to survive or to cope with a difficult situation.  \r \r\r\r</span>",
+    "display_hwd": "mechanism",
+    "ext": "",
+    "hwd": "mechanism",
+    "phonetics": "英\r[ˈmekənɪzəm]美\r[ˈmɛkəˌnɪzəm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://defence mechanism\">defence mechanism</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "mechanism",
+    "ext": "",
+    "hwd": "mechanism",
+    "phonetics": "英\r[ˈmekənɪzəm]美\r[ˈmɛkəˌnɪzəm]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

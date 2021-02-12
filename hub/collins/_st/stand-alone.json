@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(企业、组织等)独立的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stand-alone</b> business or organization is independent and does not receive financial support from another organization.  \r \r\r\r</span>",
+    "display_hwd": "stand-alone",
+    "ext": "",
+    "hwd": "stand-alone",
+    "phonetics": "英\r[stændə'ləʊn]美\r[stændə'loʊn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机)独立的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stand-alone</b> computer is one that can operate on its own and does not have to be part of a network.  \r \r\r\r</span>",
+    "display_hwd": "stand-alone",
+    "ext": "",
+    "hwd": "stand-alone",
+    "phonetics": "英\r[stændə'ləʊn]美\r[stændə'loʊn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

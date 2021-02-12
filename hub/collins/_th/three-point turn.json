@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">三点转向(指司机先向前转向，再向后转向，然后向前开的转向方法)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the driver of a vehicle does a <b>three-point turn</b>, he or she turns the vehicle by driving forwards in a curve, then backwards in a curve, and then forwards in a curve.  \r \r\r\r</span>",
+    "display_hwd": "three-point turn",
+    "ext": "",
+    "hwd": "three-point turn",
+    "phonetics": "英\r[θri:pɔinttə:n]美\r[θripɔɪnttɚn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

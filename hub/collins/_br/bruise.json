@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">淤伤；青肿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bruise</b> is an injury which appears as a purple mark on your body, although the skin is not broken.  \r \r\r\r</span>",
+    "display_hwd": "bruise",
+    "ext": "",
+    "hwd": "bruise",
+    "phonetics": "英\r[bru:z]美\r[bruz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">碰伤；擦伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>bruise</b> a part of your body, a bruise appears on it, for example because something hits you. If you <b>bruise</b> easily, bruises appear when something hits you only slightly.  \r \r\r\r</span>",
+    "display_hwd": "bruise",
+    "ext": "",
+    "hwd": "bruise",
+    "phonetics": "英\r[bru:z]美\r[bruz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(将)(蔬菜、水果或植物）碰伤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a fruit, vegetable, or plant <b>bruises</b> or <b>is bruised</b>, it is damaged by being handled roughly, making a mark on the skin.  \r \r\r\r</span>",
+    "display_hwd": "bruise",
+    "ext": "",
+    "hwd": "bruise",
+    "phonetics": "英\r[bru:z]美\r[bruz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">挫伤；伤害</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are bruised</b> by an unpleasant experience, it makes you feel unhappy or upset.  \r \r\r\r</span>",
+    "display_hwd": "bruise",
+    "ext": "",
+    "hwd": "bruise",
+    "phonetics": "英\r[bru:z]美\r[bruz]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

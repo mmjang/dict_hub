@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">禁止;不准</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>forbid</b> someone <b>to</b> do something, or if you <b>forbid</b> an activity, you order that it must not be done.  \r \r\r\r</span>",
+    "display_hwd": "forbid",
+    "ext": "",
+    "hwd": "forbid",
+    "phonetics": "英\r[fəˈbɪd]美\r[fərˈbɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阻止;妨碍;阻碍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>forbids</b> a particular course of action or state of affairs, it makes it impossible for the course of action or state of affairs to happen.  \r \r\r\r</span>",
+    "display_hwd": "forbid",
+    "ext": "",
+    "hwd": "forbid",
+    "phonetics": "英\r[fəˈbɪd]美\r[fərˈbɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>God forbid</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://god\">god</a></b>; \r \r\r\r</span>",
+    "display_hwd": "forbid",
+    "ext": "",
+    "hwd": "forbid",
+    "phonetics": "英\r[fəˈbɪd]美\r[fərˈbɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>heaven forbid</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://heaven\">heaven</a></b>; \r \r\r\r</span>",
+    "display_hwd": "forbid",
+    "ext": "",
+    "hwd": "forbid",
+    "phonetics": "英\r[fəˈbɪd]美\r[fərˈbɪd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ "
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(大而旧的)公寓大楼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tenement</b> is a large, old building which is divided into a number of individual flats.  \r \r\r\r</span>",
+    "display_hwd": "tenement",
+    "ext": "",
+    "hwd": "tenement",
+    "phonetics": "英\r[ˈtenəmənt]美\r[ˈtɛnəmənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(公寓大楼里的)公寓，房间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tenement</b> is one of the flats in a tenement.  \r \r\r\r</span>",
+    "display_hwd": "tenement",
+    "ext": "",
+    "hwd": "tenement",
+    "phonetics": "英\r[ˈtenəmənt]美\r[ˈtɛnəmənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

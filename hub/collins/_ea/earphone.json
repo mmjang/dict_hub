@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">耳机</span>",
+    "def_en": "<span class=\"endef\"><b>Earphones</b> are a small piece of equipment which you wear over or inside your ears so that you can listen to a radio or cassette recorder without anyone else hearing.  \r \r\r\r</span>",
+    "display_hwd": "earphone",
+    "ext": "",
+    "hwd": "earphone",
+    "phonetics": "英\r['ɪəfəʊn]美\r[ˈɪrˌfon]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电话)听筒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>earphone</b> is the part of a telephone receiver or other device that you hold up to your ear or put into your ear.  \r \r\r\r</span>",
+    "display_hwd": "earphone",
+    "ext": "",
+    "hwd": "earphone",
+    "phonetics": "英\r['ɪəfəʊn]美\r[ˈɪrˌfon]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

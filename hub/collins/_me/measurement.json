@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（通常以数字形式呈现的）测量结果</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>measurement</b> is a result, usually expressed in numbers, that you obtain by measuring something.  \r \r\r\r</span>",
+    "display_hwd": "measurement",
+    "ext": "",
+    "hwd": "measurement",
+    "phonetics": "英\r[ˈmeʒəmənt]美\r[ˈmeʒərmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">测量;计量</span>",
+    "def_en": "<span class=\"endef\"><b>Measurement</b> of something is the process of measuring it in order to obtain a result expressed in numbers.  \r \r\r\r</span>",
+    "display_hwd": "measurement",
+    "ext": "",
+    "hwd": "measurement",
+    "phonetics": "英\r[ˈmeʒəmənt]美\r[ˈmeʒərmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（质量、价值或影响的）衡量，评估，估量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>measurement</b> of the quality, value, or effect of something is the activity of deciding how great it is.  \r \r\r\r</span>",
+    "display_hwd": "measurement",
+    "ext": "",
+    "hwd": "measurement",
+    "phonetics": "英\r[ˈmeʒəmənt]美\r[ˈmeʒərmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">三围；(身材)尺寸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>measurements</b> are the size of your waist, chest, hips, and other parts of your body, which you need to know when you are buying clothes.  \r \r\r\r</span>",
+    "display_hwd": "measurement",
+    "ext": "",
+    "hwd": "measurement",
+    "phonetics": "英\r[ˈmeʒəmənt]美\r[ˈmeʒərmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

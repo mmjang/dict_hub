@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">人工呼吸器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ventilator</b> is a machine that helps people breathe when they cannot breathe naturally, for example because they are very ill or have been seriously injured.  \r \r\r\r</span>",
+    "display_hwd": "ventilator",
+    "ext": "",
+    "hwd": "ventilator",
+    "phonetics": "英\r[ˈventɪleɪtə(r)]美\r[ˈvɛntlˌetɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">通风设备</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ventilator</b> is a device that lets fresh air into a room or building and lets old or dirty air out.  \r \r\r\r</span>",
+    "display_hwd": "ventilator",
+    "ext": "",
+    "hwd": "ventilator",
+    "phonetics": "英\r[ˈventɪleɪtə(r)]美\r[ˈvɛntlˌetɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

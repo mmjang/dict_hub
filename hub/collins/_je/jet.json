@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">喷气式飞机</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://jump jet\">jump jet</a></b>;\r A <b>jet</b> is an aircraft that is powered by jet engines.  \r \r\r\r</span>",
+    "display_hwd": "jet",
+    "ext": "",
+    "hwd": "jet",
+    "phonetics": "英\r[dʒet]美\r[dʒɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">乘坐喷气式飞机飞行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>jet</b> somewhere, you travel there in a fast plane.  \r \r\r\r</span>",
+    "display_hwd": "jet",
+    "ext": "",
+    "hwd": "jet",
+    "phonetics": "英\r[dʒet]美\r[dʒɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（液体或气体的）喷射流</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>jet</b> of liquid or gas is a strong, fast, thin stream of it.  \r \r\r\r</span>",
+    "display_hwd": "jet",
+    "ext": "",
+    "hwd": "jet",
+    "phonetics": "英\r[dʒet]美\r[dʒɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">煤玉；黑玉；黑色大理石</span>",
+    "def_en": "<span class=\"endef\"><b>Jet</b> is a hard black stone that is used in jewellery.  \r \r\r\r</span>",
+    "display_hwd": "jet",
+    "ext": "",
+    "hwd": "jet",
+    "phonetics": "英\r[dʒet]美\r[dʒɛt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

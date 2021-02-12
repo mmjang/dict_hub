@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">提醒;警告</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>warn</b> someone about something such as a possible danger or problem, you tell them about it so that they are aware of it.  \r \r\r\r</span>",
+    "display_hwd": "warn",
+    "ext": "",
+    "hwd": "warn",
+    "phonetics": "英\r[wɔ:n]美\r[wɔrn]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">警告，告诫(不要做…)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>warn</b> someone not <b>to</b> do something, you advise them not to do it so that they can avoid possible danger or punishment.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://avoid\">avoid</a></b></span>",
+    "display_hwd": "warn",
+    "ext": "",
+    "hwd": "warn",
+    "phonetics": "英\r[wɔ:n]美\r[wɔrn]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">小心;提防</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone says to you '<b>be warned</b>', they are advising you to be cautious, because there are risks that you may not have thought about.  \r \r\r\r</span>",
+    "display_hwd": "warn",
+    "ext": "",
+    "hwd": "warn",
+    "phonetics": "英\r[wɔ:n]美\r[wɔrn]",
+    "phrase": "",
+    "sense": "★★★★☆ convention\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

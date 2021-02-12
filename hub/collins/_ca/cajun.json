@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">卡津人的;卡津语的;卡津文化的</span>",
+    "def_en": "<span class=\"endef\"><b>Cajun</b> means belonging or relating to a group of people who live mainly in Louisiana in the United States, and are descended from French people. Cajun is also used to refer to the language and culture of these people.  \r \r\r\r</span>",
+    "display_hwd": "Cajun",
+    "ext": "",
+    "hwd": "Cajun",
+    "phonetics": "英\r[ˈkeɪdʒn]美\r[ˈkedʒən]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">卡津人（居住在美国路易斯安那州的法国人后裔）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Cajun</b> is a person of Cajun origin.  \r \r\r\r</span>",
+    "display_hwd": "Cajun",
+    "ext": "",
+    "hwd": "Cajun",
+    "phonetics": "英\r[ˈkeɪdʒn]美\r[ˈkedʒən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">卡津方言（一种法语方言）</span>",
+    "def_en": "<span class=\"endef\"><b>Cajun</b> is a dialect of French spoken by Cajun people.  \r \r\r\r</span>",
+    "display_hwd": "Cajun",
+    "ext": "",
+    "hwd": "Cajun",
+    "phonetics": "英\r[ˈkeɪdʒn]美\r[ˈkedʒən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

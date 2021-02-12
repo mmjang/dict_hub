@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">防火墙(自动防止未经授权者通过网络侵入计算机的系统或程序)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>firewall</b> is a computer system or program that automatically prevents an unauthorized person from gaining access to a computer when it is connected to a network such as the Internet.  \r \r\r\r</span>",
+    "display_hwd": "firewall",
+    "ext": "",
+    "hwd": "firewall",
+    "phonetics": "英\r[ˈfaɪəwɔ:l]美\r[ˈfaɪərwɔl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

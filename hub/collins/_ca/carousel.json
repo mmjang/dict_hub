@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(机场的)行李传送带</span>",
+    "def_en": "<span class=\"endef\">\r\r\r At an airport, a <b>carousel</b> is a moving surface from which passengers can collect their luggage.  \r \r\r\r</span>",
+    "display_hwd": "carousel",
+    "ext": "",
+    "hwd": "carousel",
+    "phonetics": "英\r[ˌkærəˈsel]美\r[ˌkærəˈsɛl,-ˈzɛl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">旋转木马</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>carousel</b> is a large circular machine with seats, often in the shape of animals or cars. People can sit on it and go round and round for fun.  \r \r\r\r</span>",
+    "display_hwd": "carousel",
+    "ext": "",
+    "hwd": "carousel",
+    "phonetics": "英\r[ˌkærəˈsel]美\r[ˌkærəˈsɛl,-ˈzɛl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

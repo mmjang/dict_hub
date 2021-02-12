@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(专门处理某类犯罪的)警察分队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>squad</b> is a section of a police force that is responsible for dealing with a particular type of crime.  \r \r\r\r</span>",
+    "display_hwd": "squad",
+    "ext": "",
+    "hwd": "squad",
+    "phonetics": "英\r[skwɒd]美\r[skwɑd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(将从中挑选运动员组队参赛的)运动队，大名单</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>squad</b> is a group of players from which a sports team will be chosen.  \r \r\r\r</span>",
+    "display_hwd": "squad",
+    "ext": "",
+    "hwd": "squad",
+    "phonetics": "英\r[skwɒd]美\r[skwɑd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">班;小队</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://death squad\">death squad</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://firing squad\">firing squad</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://Flying Squad\">Flying Squad</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://vice squad\">vice squad</a></b>;\r A <b>squad of</b> soldiers is a small group of them.  \r \r\r\r</span>",
+    "display_hwd": "squad",
+    "ext": "",
+    "hwd": "squad",
+    "phonetics": "英\r[skwɒd]美\r[skwɑd]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

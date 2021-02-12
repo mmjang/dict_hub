@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">裹尸布;寿衣</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>shroud</b> is a cloth which is used for wrapping a dead body.  \r \r\r\r</span>",
+    "display_hwd": "shroud",
+    "ext": "",
+    "hwd": "shroud",
+    "phonetics": "英\r[ʃraʊd]美\r[ʃraʊd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">遮蔽物;覆盖物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to something that surrounds an object or situation as a <b>shroud of</b> something.  \r \r\r\r</span>",
+    "display_hwd": "shroud",
+    "ext": "",
+    "hwd": "shroud",
+    "phonetics": "英\r[ʃraʊd]美\r[ʃraʊd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">隐瞒;保密;掩饰;掩盖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>has been shrouded in</b> mystery or secrecy, very little information about it has been made available.  \r \r\r\r</span>",
+    "display_hwd": "shroud",
+    "ext": "",
+    "hwd": "shroud",
+    "phonetics": "英\r[ʃraʊd]美\r[ʃraʊd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(黑暗、烟雾等)遮蔽，笼罩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If darkness, fog, or smoke <b>shrouds</b> an area, it covers it so that it is difficult to see.  \r \r\r\r</span>",
+    "display_hwd": "shroud",
+    "ext": "",
+    "hwd": "shroud",
+    "phonetics": "英\r[ʃraʊd]美\r[ʃraʊd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

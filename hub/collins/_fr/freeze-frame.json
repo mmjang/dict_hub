@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(影片的)定格，定帧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>freeze-frame</b> from a film is an individual picture from it, produced by stopping the film or video tape at that point.  \r \r\r\r</span>",
+    "display_hwd": "freeze-frame",
+    "ext": "",
+    "hwd": "freeze-frame",
+    "phonetics": "英\r[ˈfri:zˌfreɪm]美\r[ˈfrizˌfrem]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(放映的)定格方式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you watch a film in <b>freeze-frame</b>, you watch it using a facility that allows you to stop the film to look at an individual picture.  \r \r\r\r</span>",
+    "display_hwd": "freeze-frame",
+    "ext": "",
+    "hwd": "freeze-frame",
+    "phonetics": "英\r[ˈfri:zˌfreɪm]美\r[ˈfrizˌfrem]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

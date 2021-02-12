@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">后缀;词尾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>suffix</b> is a letter or group of letters, for example '-ly' or '-ness', which is added to the end of a word in order to form a different word, often of a different word class. For example, the suffix '-ly' is added to 'quick' to form 'quickly'.  \r \r\r\r</span>",
+    "display_hwd": "suffix",
+    "ext": "",
+    "hwd": "suffix",
+    "phonetics": "英\r[ˈsʌfɪks]美\r[ˈsʌfɪks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(注于代码末尾的)尾标</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>suffix</b> is one or more numbers or letters added to the end of a code number to indicate, for example, what area something belongs to.  \r \r\r\r</span>",
+    "display_hwd": "suffix",
+    "ext": "",
+    "hwd": "suffix",
+    "phonetics": "英\r[ˈsʌfɪks]美\r[ˈsʌfɪks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

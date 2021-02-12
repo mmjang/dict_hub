@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(飞机的)起飞，升空</span>",
+    "def_en": "<span class=\"endef\"><b>Takeoff</b> is the beginning of a flight, when an aircraft leaves the ground.  \r \r\r\r</span>",
+    "display_hwd": "takeoff",
+    "ext": "",
+    "hwd": "takeoff",
+    "phonetics": "英\r['teɪkɔ:f]美\r[ˈtekˌɔf,-ˌɑf]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(对某人动作的滑稽)模仿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>takeoff of</b> someone is a humorous imitation of the way in which they behave.  \r \r\r\r</span>",
+    "display_hwd": "takeoff",
+    "ext": "",
+    "hwd": "takeoff",
+    "phonetics": "英\r['teɪkɔ:f]美\r[ˈtekˌɔf,-ˌɑf]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(经济、生意等的)开始腾飞，迅速发展</span>",
+    "def_en": "<span class=\"endef\"><b>Takeoff</b> is the point in the development of something, such as an economy or a business, when it begins to be successful.  \r \r\r\r</span>",
+    "display_hwd": "takeoff",
+    "ext": "",
+    "hwd": "takeoff",
+    "phonetics": "英\r['teɪkɔ:f]美\r[ˈtekˌɔf,-ˌɑf]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

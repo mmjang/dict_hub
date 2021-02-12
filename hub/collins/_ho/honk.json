@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">按（汽车喇叭）;（汽车喇叭）鸣响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>honk</b> the horn of a vehicle or if the horn <b>honks</b>, you make the horn produce a short loud sound.  \r \r\r\r</span>",
+    "display_hwd": "honk",
+    "ext": "",
+    "hwd": "honk",
+    "phonetics": "英\r[hɒŋk]美\r[hɑŋk]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发出短促刺耳的声音</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a bird, person, or musical instrument <b>honks</b>, they make a short, loud, harsh noise.  \r \r\r\r</span>",
+    "display_hwd": "honk",
+    "ext": "",
+    "hwd": "honk",
+    "phonetics": "英\r[hɒŋk]美\r[hɑŋk]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

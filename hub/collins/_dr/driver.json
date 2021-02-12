@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">驾驶员;司机;驾车者</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://back-seat driver\">back-seat driver</a></b>;\r The <b>driver</b> of a vehicle is the person who is driving it.  \r \r\r\r</span>",
+    "display_hwd": "driver",
+    "ext": "",
+    "hwd": "driver",
+    "phonetics": "英\r[ˈdraɪvə(r)]美\r[ˈdraɪvɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驱动程序</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>driver</b> is a computer program that controls a device such as a printer.  \r \r\r\r</span>",
+    "display_hwd": "driver",
+    "ext": "",
+    "hwd": "driver",
+    "phonetics": "英\r[ˈdraɪvə(r)]美\r[ˈdraɪvɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

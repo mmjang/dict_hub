@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">过剩;剩余;过剩量;剩余额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is a <b>surplus of</b> something, there is more than is needed.  \r \r\r\r</span>",
+    "display_hwd": "surplus",
+    "ext": "",
+    "hwd": "surplus",
+    "phonetics": "英\r[ˈsɜ:pləs]美\r[ˈsɜrpləs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">过剩的;剩余的;多余的</span>",
+    "def_en": "<span class=\"endef\"><b>Surplus</b> is used to describe something that is extra or that is more than is needed.  \r \r\r\r</span>",
+    "display_hwd": "surplus",
+    "ext": "",
+    "hwd": "surplus",
+    "phonetics": "英\r[ˈsɜ:pləs]美\r[ˈsɜrpləs]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(贸易)顺差</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a country has a trade <b>surplus</b>, it exports more than it imports.  \r \r\r\r</span>",
+    "display_hwd": "surplus",
+    "ext": "",
+    "hwd": "surplus",
+    "phonetics": "英\r[ˈsɜ:pləs]美\r[ˈsɜrpləs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(预算)盈余</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a government has a budget <b>surplus</b>, it has spent less than it received in taxes.  \r \r\r\r</span>",
+    "display_hwd": "surplus",
+    "ext": "",
+    "hwd": "surplus",
+    "phonetics": "英\r[ˈsɜ:pləs]美\r[ˈsɜrpləs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

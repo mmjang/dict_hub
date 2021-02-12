@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">资产净值</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://negative equity\">negative equity</a></b>;\r In finance, your <b>equity</b> is the sum of your assets, for example the value of your house, once your debts have been subtracted from it.  \r \r\r\r</span>",
+    "display_hwd": "equity",
+    "ext": "",
+    "hwd": "equity",
+    "phonetics": "英\r[ˈekwəti]美\r[ˈɛkwɪti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">公平;公正;合理</span>",
+    "def_en": "<span class=\"endef\"><b>Equity</b> is the quality of being fair and reasonable in a way that gives equal treatment to everyone.  \r \r\r\r</span>",
+    "display_hwd": "equity",
+    "ext": "",
+    "hwd": "equity",
+    "phonetics": "英\r[ˈekwəti]美\r[ˈɛkwɪti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

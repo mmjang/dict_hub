@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">西里尔字母的(指书写俄语、保加利亚语等斯拉夫语言时所用的字母)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>Cyrillic</b> alphabet is the alphabet that is used to write some Slavonic languages, such as Russian and Bulgarian.  \r \r\r\r</span>",
+    "display_hwd": "Cyrillic",
+    "ext": "",
+    "hwd": "Cyrillic",
+    "phonetics": "英\r[səˈrɪlɪk]美\r[sə'rɪlɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">西里尔字母</span>",
+    "def_en": "<span class=\"endef\"><b>Cyrillic</b> is the Cyrillic alphabet.  \r \r\r\r</span>",
+    "display_hwd": "Cyrillic",
+    "ext": "",
+    "hwd": "Cyrillic",
+    "phonetics": "英\r[səˈrɪlɪk]美\r[sə'rɪlɪk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">西里尔字母的(指书写俄语、保加利亚语等斯拉夫语言时所用的字母)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>Cyrillic</b> alphabet is the alphabet that is used to write some Slavonic languages, such as Russian and Bulgarian.  \r \r\r\r</span>",
+    "display_hwd": "cyrillic",
+    "ext": "",
+    "hwd": "cyrillic",
+    "phonetics": "英\r[siˈrilik]美\r[səˈrɪlɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">西里尔字母</span>",
+    "def_en": "<span class=\"endef\"><b>Cyrillic</b> is the Cyrillic alphabet.  \r \r\r\r</span>",
+    "display_hwd": "cyrillic",
+    "ext": "",
+    "hwd": "cyrillic",
+    "phonetics": "英\r[siˈrilik]美\r[səˈrɪlɪk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

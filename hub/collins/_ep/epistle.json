@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">书信</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>epistle</b> is a letter.  \r \r\r\r</span>",
+    "display_hwd": "epistle",
+    "ext": "",
+    "hwd": "epistle",
+    "phonetics": "英\r[ɪˈpɪsl]美\r[ɪˈpɪsəl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使徒书信（《圣经·新约》中使徒们早期的书信）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the Bible, the <b>Epistles</b> are a series of books in the New Testament which were originally written as letters to the early Christians.  \r \r\r\r</span>",
+    "display_hwd": "epistle",
+    "ext": "",
+    "hwd": "epistle",
+    "phonetics": "英\r[ɪˈpɪsl]美\r[ɪˈpɪsəl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

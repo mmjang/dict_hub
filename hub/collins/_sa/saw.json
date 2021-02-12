@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Saw</b> is the past tense of <b>see</b> .  \r \r\r\r</span>",
+    "display_hwd": "saw",
+    "ext": "",
+    "hwd": "saw",
+    "phonetics": "英\r[sɔ:]美\r[sɔ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">锯</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://chain saw\">chain saw</a></b>;\r A <b>saw</b> is a tool for cutting wood, which has a blade with sharp teeth along one edge. Some saws are pushed backwards and forwards by hand, and others are powered by electricity.  \r \r\r\r</span>",
+    "display_hwd": "saw",
+    "ext": "",
+    "hwd": "saw",
+    "phonetics": "英\r[sɔ:]美\r[sɔ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">锯;用锯割开</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>saw</b> something, you cut it with a saw.  \r \r\r\r</span>",
+    "display_hwd": "saw",
+    "ext": "",
+    "hwd": "saw",
+    "phonetics": "英\r[sɔ:]美\r[sɔ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

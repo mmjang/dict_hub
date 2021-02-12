@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">维多利亚十字勋章（授予英国或英联邦军人以表彰其作战中的英勇行为）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>VC</b> is a medal awarded to soldiers, sailors, and airmen in Britain and the Commonwealth for acts of great bravery in battle. <b>VC</b> is an abbreviation for (缩略=)  'Victoria Cross'.  \r \r\r\r</span>",
+    "display_hwd": "VC",
+    "ext": "",
+    "hwd": "VC",
+    "phonetics": "英\r[ˌvi:ˈsi:]美\r[ˌvi'si]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>VC</b> is a written abbreviation for (书面缩略=) <b>vice-chancellor</b> .  \r \r\r\r</span>",
+    "display_hwd": "VC",
+    "ext": "",
+    "hwd": "VC",
+    "phonetics": "英\r[ˌvi:ˈsi:]美\r[ˌvi'si]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>VC</b> is an abbreviation for (缩略=) 'vice-chairman'.  \r \r\r\r</span>",
+    "display_hwd": "VC",
+    "ext": "",
+    "hwd": "VC",
+    "phonetics": "英\r[ˌvi:ˈsi:]美\r[ˌvi'si]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

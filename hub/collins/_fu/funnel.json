@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">漏斗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>funnel</b> is an object with a wide, circular top and a narrow short tube at the bottom. Funnels are used to pour liquids into containers which have a small opening, for example bottles.  \r \r\r\r</span>",
+    "display_hwd": "funnel",
+    "ext": "",
+    "hwd": "funnel",
+    "phonetics": "英\r[ˈfʌnl]美\r[ˈfʌnəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(蒸汽轮船或机车的)烟囱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>funnel</b> is a metal chimney on a ship or railway engine powered by steam.  \r \r\r\r</span>",
+    "display_hwd": "funnel",
+    "ext": "",
+    "hwd": "funnel",
+    "phonetics": "英\r[ˈfʌnl]美\r[ˈfʌnəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">漏斗状物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can describe as a <b>funnel</b> something that is narrow, or narrow at one end, through which a substance flows and is directed.  \r \r\r\r</span>",
+    "display_hwd": "funnel",
+    "ext": "",
+    "hwd": "funnel",
+    "phonetics": "英\r[ˈfʌnl]美\r[ˈfʌnəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)通过狭窄空间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>funnels</b> somewhere or <b>is funnelled</b> there, it is directed through a narrow space.  \r \r\r\r</span>",
+    "display_hwd": "funnel",
+    "ext": "",
+    "hwd": "funnel",
+    "phonetics": "英\r[ˈfʌnl]美\r[ˈfʌnəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">输送，传送(金钱、货物或信息)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>funnel</b> money, goods, or information from one place or group to another, you cause it to be sent there as it becomes available.  \r \r\r\r</span>",
+    "display_hwd": "funnel",
+    "ext": "",
+    "hwd": "funnel",
+    "phonetics": "英\r[ˈfʌnl]美\r[ˈfʌnəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

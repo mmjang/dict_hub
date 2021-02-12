@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">正餐;主餐;晚餐</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://TV dinner\">TV dinner</a></b>;\r <b>Dinner</b> is the main meal of the day, usually served in the early part of the evening.  \r \r\r\r</span>",
+    "display_hwd": "dinner",
+    "ext": "",
+    "hwd": "dinner",
+    "phonetics": "英\r[ˈdɪnə(r)]美\r[ˈdɪnɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">午餐;午饭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Any meal you eat in the middle of the day can be referred to as <b>dinner</b> .  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://meal\">meal</a></b></span>",
+    "display_hwd": "dinner",
+    "ext": "",
+    "hwd": "dinner",
+    "phonetics": "英\r[ˈdɪnə(r)]美\r[ˈdɪnɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">晚宴;宴会</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dinner</b> is a formal social event at which a meal is served. It is held in the evening.  \r \r\r\r</span>",
+    "display_hwd": "dinner",
+    "ext": "",
+    "hwd": "dinner",
+    "phonetics": "英\r[ˈdɪnə(r)]美\r[ˈdɪnɚ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

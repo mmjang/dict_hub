@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">家庭;一家人;同住一幢房子的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>household</b> is all the people in a family or group who live together in a house.  \r \r\r\r</span>",
+    "display_hwd": "household",
+    "ext": "",
+    "hwd": "household",
+    "phonetics": "英\r[ˈhaʊshəʊld]美\r[ˈhaʊshoʊld]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">家;家务</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>household</b> is your home and everything that is connected with looking after it.  \r \r\r\r</span>",
+    "display_hwd": "household",
+    "ext": "",
+    "hwd": "household",
+    "phonetics": "英\r[ˈhaʊshəʊld]美\r[ˈhaʊshoʊld]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">家喻户晓的;众人皆知的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone or something that is a <b>household</b> name or word is very well known.  \r \r\r\r</span>",
+    "display_hwd": "household",
+    "ext": "",
+    "hwd": "household",
+    "phonetics": "英\r[ˈhaʊshəʊld]美\r[ˈhaʊshoʊld]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于王室警卫队名称中）皇家的</span>",
+    "def_en": "<span class=\"endef\"><b>Household</b> is used in the names of groups of soldiers who have the job of protecting a king or queen and their family.  \r \r\r\r</span>",
+    "display_hwd": "household",
+    "ext": "",
+    "hwd": "household",
+    "phonetics": "英\r[ˈhaʊshəʊld]美\r[ˈhaʊshoʊld]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

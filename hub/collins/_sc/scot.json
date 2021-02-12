@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">苏格兰人;苏格兰裔人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Scot</b> is a person of Scottish origin.  \r \r\r\r</span>",
+    "display_hwd": "Scot",
+    "ext": "",
+    "hwd": "Scot",
+    "phonetics": "英\r[skɒt]美\r[skɑt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">苏格兰英语</span>",
+    "def_en": "<span class=\"endef\"><b>Scots</b> is a dialect of the English language that is spoken in Scotland.  \r \r\r\r</span>",
+    "display_hwd": "Scot",
+    "ext": "",
+    "hwd": "Scot",
+    "phonetics": "英\r[skɒt]美\r[skɑt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">Scots 同 Scottish</span>",
+    "def_en": "<span class=\"endef\"><b>Scots</b> means the same as <b>Scottish</b> .  \r \r\r\r</span>",
+    "display_hwd": "Scot",
+    "ext": "",
+    "hwd": "Scot",
+    "phonetics": "英\r[skɒt]美\r[skɑt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

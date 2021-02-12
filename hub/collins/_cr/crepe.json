@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用棉、丝或羊毛织的)绉布，绉绸</span>",
+    "def_en": "<span class=\"endef\"><b>Crepe</b> is a thin fabric with an uneven surface and is made of cotton, silk, or wool.  \r \r\r\r</span>",
+    "display_hwd": "crepe",
+    "ext": "",
+    "hwd": "crepe",
+    "phonetics": "英\r[kreɪp]美\r[krep]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">薄煎饼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>crepe</b> is a thin <b>pancake</b> .  \r \r\r\r</span>",
+    "display_hwd": "crepe",
+    "ext": "",
+    "hwd": "crepe",
+    "phonetics": "英\r[kreɪp]美\r[krep]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">绉胶</span>",
+    "def_en": "<span class=\"endef\"><b>Crepe</b> is a type of rubber with a rough surface.  \r \r\r\r</span>",
+    "display_hwd": "crepe",
+    "ext": "",
+    "hwd": "crepe",
+    "phonetics": "英\r[kreɪp]美\r[krep]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

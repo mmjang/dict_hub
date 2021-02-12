@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">排房;连栋房屋</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>town house</b> is a tall narrow house in a town, usually in a row of similar houses.  \r \r\r\r</span>",
+    "display_hwd": "town house",
+    "ext": "",
+    "hwd": "town house",
+    "phonetics": "英\r[taunhaus]美\r[taʊnhaʊs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(富人除乡村住宅外的)城市住宅，城镇住房</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>town house</b> of a wealthy person is the house that they own in a town or city, rather than another house that they own in the country.  \r \r\r\r</span>",
+    "display_hwd": "town house",
+    "ext": "",
+    "hwd": "town house",
+    "phonetics": "英\r[taunhaus]美\r[taʊnhaʊs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

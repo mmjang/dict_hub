@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(在特殊跑道上举行的)摩托车赛</span>",
+    "def_en": "<span class=\"endef\"><b>Speedway</b> is the sport of racing motorcycles on special tracks.  \r \r\r\r</span>",
+    "display_hwd": "speedway",
+    "ext": "",
+    "hwd": "speedway",
+    "phonetics": "英\r[ˈspi:dweɪ]美\r[ˈspidˌwe]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(汽车或摩托车的)赛车跑道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>speedway</b> is a special track for car or motorcycle racing.  \r \r\r\r</span>",
+    "display_hwd": "speedway",
+    "ext": "",
+    "hwd": "speedway",
+    "phonetics": "英\r[ˈspi:dweɪ]美\r[ˈspidˌwe]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

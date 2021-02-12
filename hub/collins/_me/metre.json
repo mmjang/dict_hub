@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">米</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>metre</b> is a metric unit of length equal to 100 centimetres.  \r \r\r\r</span>",
+    "display_hwd": "metre",
+    "ext": "",
+    "hwd": "metre",
+    "phonetics": "英\r['mi:tə(r)]美\r[ˈmitɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(诗歌的)韵律，格律</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the study of poetry, <b>metre</b> is the regular and rhythmic arrangement of syllables according to particular patterns.  \r \r\r\r</span>",
+    "display_hwd": "metre",
+    "ext": "",
+    "hwd": "metre",
+    "phonetics": "英\r['mi:tə(r)]美\r[ˈmitɚ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

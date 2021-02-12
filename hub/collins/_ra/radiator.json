@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">散热器;暖气装置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>radiator</b> is a hollow metal device, usually connected by pipes to a central heating system, that is used to heat a room.  \r \r\r\r</span>",
+    "display_hwd": "radiator",
+    "ext": "",
+    "hwd": "radiator",
+    "phonetics": "英\r[ˈreɪdieɪtə(r)]美\r[ˈrediˌeɪtɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（汽车等的）水箱，冷却器，散热器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>radiator</b> in a car is the part of the engine which is filled with water in order to cool the engine.  \r \r\r\r</span>",
+    "display_hwd": "radiator",
+    "ext": "",
+    "hwd": "radiator",
+    "phonetics": "英\r[ˈreɪdieɪtə(r)]美\r[ˈrediˌeɪtɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

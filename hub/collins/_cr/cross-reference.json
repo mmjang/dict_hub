@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(书中的)参见项，互见条，相互参照</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cross-reference</b> is a note in a book which tells you that there is relevant or more detailed information in another part of the book.  \r \r\r\r</span>",
+    "display_hwd": "cross-reference",
+    "ext": "",
+    "hwd": "cross-reference",
+    "phonetics": "英\r['krɔ:s'refərəns]美\r[ˈkrɔsˈrɛfərəns,-ˈrɛfrəns,ˈkrɑs-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(书等)加注使相互参照</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a book <b>is cross-referenced</b>, cross-references are put in it.  \r \r\r\r</span>",
+    "display_hwd": "cross-reference",
+    "ext": "",
+    "hwd": "cross-reference",
+    "phonetics": "英\r['krɔ:s'refərəns]美\r[ˈkrɔsˈrɛfərəns,-ˈrɛfrəns,ˈkrɑs-]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">微波炉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>microwave</b> or a <b>microwave oven</b> is an oven which cooks food very quickly by electromagnetic radiation rather than by heat.  \r \r\r\r</span>",
+    "display_hwd": "microwave",
+    "ext": "",
+    "hwd": "microwave",
+    "phonetics": "英\r[ˈmaɪkrəweɪv]美\r[ˈmaɪkrəˌwev]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用微波炉烹调(或加热)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>microwave</b> food or drink means to cook or heat it in a microwave oven.  \r \r\r\r</span>",
+    "display_hwd": "microwave",
+    "ext": "",
+    "hwd": "microwave",
+    "phonetics": "英\r[ˈmaɪkrəweɪv]美\r[ˈmaɪkrəˌwev]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

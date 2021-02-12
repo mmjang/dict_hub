@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">给…加副标题</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say how a book or play <b>is subtitled</b>, you say what its subtitle is.  \r \r\r\r</span>",
+    "display_hwd": "subtitled",
+    "ext": "",
+    "hwd": "subtitled",
+    "phonetics": "[ˈsʌbˌtaitld]",
+    "phrase": "",
+    "sense": "v-passive\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(外国电影)配字幕的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a foreign film is <b>subtitled</b>, a printed translation of the words is shown at the bottom of the picture.  \r \r\r\r</span>",
+    "display_hwd": "subtitled",
+    "ext": "",
+    "hwd": "subtitled",
+    "phonetics": "[ˈsʌbˌtaitld]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

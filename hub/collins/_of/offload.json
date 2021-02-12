@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">出手，转手，清理（不需要之物）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>offload</b> something that you do not want, you get rid of it by giving it or selling it to someone else.  \r \r\r\r</span>",
+    "display_hwd": "offload",
+    "ext": "",
+    "hwd": "offload",
+    "phonetics": "英\r[ˌɒfˈləʊd]美\r[ˌɔfˈloʊd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">卸（货）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When goods <b>are offloaded</b>, they are removed from a container or vehicle and put somewhere else.  \r \r\r\r</span>",
+    "display_hwd": "offload",
+    "ext": "",
+    "hwd": "offload",
+    "phonetics": "英\r[ˌɒfˈləʊd]美\r[ˌɔfˈloʊd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

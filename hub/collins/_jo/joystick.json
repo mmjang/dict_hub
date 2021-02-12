@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（计算机游戏的）控制杆，游戏杆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some computer games, the <b>joystick</b> is the lever which the player uses in order to control the direction of the things on the screen.  \r \r\r\r</span>",
+    "display_hwd": "joystick",
+    "ext": "",
+    "hwd": "joystick",
+    "phonetics": "英\r[ˈdʒɔɪstɪk]美\r[ˈdʒɔɪˌstɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（飞机的）操纵杆，驾驶杆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In an aircraft, <b>the joystick</b> is the lever which the pilot uses to control the direction and height of the aeroplane.  \r \r\r\r</span>",
+    "display_hwd": "joystick",
+    "ext": "",
+    "hwd": "joystick",
+    "phonetics": "英\r[ˈdʒɔɪstɪk]美\r[ˈdʒɔɪˌstɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

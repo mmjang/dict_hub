@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">同 sledge</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sled</b> is the same as a <b>sledge</b> .  \r \r\r\r</span>",
+    "display_hwd": "sled",
+    "ext": "",
+    "hwd": "sled",
+    "phonetics": "英\r[sled]美\r[slɛd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坐雪橇</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you go <b>sledding</b>, you ride on a sled.  \r \r\r\r</span>",
+    "display_hwd": "sled",
+    "ext": "",
+    "hwd": "sled",
+    "phonetics": "英\r[sled]美\r[slɛd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

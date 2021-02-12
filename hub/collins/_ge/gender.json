@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">性；性别</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person's  <b>gender</b> is the fact that they are male or female.  \r \r\r\r</span>",
+    "display_hwd": "gender",
+    "ext": "",
+    "hwd": "gender",
+    "phonetics": "英\r[ˈdʒendə(r)]美\r[ˈdʒɛndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（统称）男性，女性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to all male people or all female people as a particular <b>gender</b>.  \r \r\r\r</span>",
+    "display_hwd": "gender",
+    "ext": "",
+    "hwd": "gender",
+    "phonetics": "英\r[ˈdʒendə(r)]美\r[ˈdʒɛndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（语法中名词、代词或形容词的）性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, the <b>gender</b> of a noun, pronoun, or adjective is whether it is masculine, feminine, or neuter. A word's  gender can affect its form and behaviour. In English, only personal pronouns such as 'she', reflexive pronouns such as 'itself', and possessive determiners such as 'his' have gender.  \r \r\r\r</span>",
+    "display_hwd": "gender",
+    "ext": "",
+    "hwd": "gender",
+    "phonetics": "英\r[ˈdʒendə(r)]美\r[ˈdʒɛndɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

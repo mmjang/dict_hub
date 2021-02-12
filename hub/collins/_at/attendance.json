@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">出席;参加;出勤</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>attendance</b> at an event or an institution is the fact that they are present at the event or go regularly to the institution.  \r \r\r\r</span>",
+    "display_hwd": "attendance",
+    "ext": "",
+    "hwd": "attendance",
+    "phonetics": "英\r[əˈtendəns]美\r[əˈtɛndəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出席的人数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>attendance</b> at an event is the number of people who are present at it.  \r \r\r\r</span>",
+    "display_hwd": "attendance",
+    "ext": "",
+    "hwd": "attendance",
+    "phonetics": "英\r[əˈtendəns]美\r[əˈtɛndəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">到（某地）；出席（某活动）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>in attendance</b> at a place or an event, they are there.  \r \r\r\r</span>",
+    "display_hwd": "attendance",
+    "ext": "",
+    "hwd": "attendance",
+    "phonetics": "英\r[əˈtendəns]美\r[əˈtɛndəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">陪同；陪伴</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>in attendance</b> on an important person, they are accompanying that person as a servant or assistant.  \r \r\r\r</span>",
+    "display_hwd": "attendance",
+    "ext": "",
+    "hwd": "attendance",
+    "phonetics": "英\r[əˈtendəns]美\r[əˈtɛndəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

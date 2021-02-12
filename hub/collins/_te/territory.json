@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">领土;领地</span>",
+    "def_en": "<span class=\"endef\"><b>Territory</b> is land which is controlled by a particular country or ruler.  \r \r\r\r</span>",
+    "display_hwd": "territory",
+    "ext": "",
+    "hwd": "territory",
+    "phonetics": "英\r[ˈterətri]美\r[ˈterətɔri]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">属地，地区，托管地(指被别国控制的国家或地区)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>territory</b> is a country or region that is controlled by another country.  \r \r\r\r</span>",
+    "display_hwd": "territory",
+    "ext": "",
+    "hwd": "territory",
+    "phonetics": "英\r[ˈterətri]美\r[ˈterətɔri]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(知识)领域;(经验)范围</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>territory</b> to refer to an area of knowledge or experience.  \r<b>virgin territory</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://virgin\">virgin</a></b>; \r \r\r\r</span>",
+    "display_hwd": "territory",
+    "ext": "",
+    "hwd": "territory",
+    "phonetics": "英\r[ˈterətri]美\r[ˈterətɔri]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(动物的)领地，地盘</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An animal's <b>territory</b> is an area which it regards as its own and which it defends when other animals try to enter it.  \r \r\r\r</span>",
+    "display_hwd": "territory",
+    "ext": "",
+    "hwd": "territory",
+    "phonetics": "英\r[ˈterətri]美\r[ˈterətɔri]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(具有一定特点的)地带，地区</span>",
+    "def_en": "<span class=\"endef\"><b>Territory</b> is land with a particular character.  \r \r\r\r</span>",
+    "display_hwd": "territory",
+    "ext": "",
+    "hwd": "territory",
+    "phonetics": "英\r[ˈterətri]美\r[ˈterətɔri]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">是难免的事;是必然的事</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>comes with the territory</b>, you mean that you accept it as a natural result of the situation you are in.  \r \r\r\r</span>",
+    "display_hwd": "territory",
+    "ext": "",
+    "hwd": "territory",
+    "phonetics": "英\r[ˈterətri]美\r[ˈterətɔri]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

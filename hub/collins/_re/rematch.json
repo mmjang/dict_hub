@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(因为平局或有争议而进行的)复赛，再赛，重赛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rematch</b> is a second game that is played between two people or teams, for example because their first match was a draw or because there was a dispute about some aspect of it.  \r \r\r\r</span>",
+    "display_hwd": "rematch",
+    "ext": "",
+    "hwd": "rematch",
+    "phonetics": "英\r[ˈri:mætʃ]美\r[riˈmætʃ,ˈriˌmætʃ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(比赛或竞赛对手之间的)复赛，二次交手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rematch</b> is a second game or contest between two people or teams who have already faced each other.  \r \r\r\r</span>",
+    "display_hwd": "rematch",
+    "ext": "",
+    "hwd": "rematch",
+    "phonetics": "英\r[ˈri:mætʃ]美\r[riˈmætʃ,ˈriˌmætʃ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">爱笑的;微笑的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>smiley</b> person smiles a lot or is smiling.  \r \r\r\r</span>",
+    "display_hwd": "smiley",
+    "ext": "",
+    "hwd": "smiley",
+    "phonetics": "英\r[ˈsmaɪli]美\r[ˈsmaɪli]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电子邮件中用来表示心情的)表情符</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>smiley</b> is a symbol used in e-mail to show how someone is feeling. :-) is a smiley showing happiness.  \r \r\r\r</span>",
+    "display_hwd": "smiley",
+    "ext": "",
+    "hwd": "smiley",
+    "phonetics": "英\r[ˈsmaɪli]美\r[ˈsmaɪli]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

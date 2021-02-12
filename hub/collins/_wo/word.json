@@ -1,0 +1,392 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">单词;字</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>word</b> is a single unit of language that can be represented in writing or speech. In English, a word has a space on either side of it when it is written.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">话;话语;所写的文字</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>words</b> are what they say or write.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">歌词;唱词</span>",
+    "def_en": "<span class=\"endef\"><b>The words</b> of a song consist of the text that is sung, in contrast to the music that is played.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">短时间的谈话;短暂的聊天</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have <b>a word</b> with someone, you have a short conversation with them.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(警告、建议、赞扬的)话，话语</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you offer someone <b>a word of</b> something such as warning, advice, or praise, you warn, advise, or praise them.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一句话，一个字(也没有听到、明白或说)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone does <b>not</b> hear, understand, or say <b>a word</b>, you are emphasizing that they hear, understand, or say nothing at all.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">消息;信息</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is <b>word</b> of something, people receive news or information about it.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">誓言;诺言</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you give your <b>word</b>, you make a sincere promise to someone.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">命令;指示</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone gives <b>the word</b> to do something, they give an order to do it.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">措辞表达;用词表达</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>word</b> something in a particular way means to choose or use particular words to express it.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wording\">wording</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://code word\">code word</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://four-letter word\">four-letter word</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://play on words\">play on words</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://printed word\">printed word</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://spoken word\">spoken word</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://written word\">written word</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">脏字；粗鄙的字眼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that people consider something to be a <b>dirty word</b>, you mean that they disapprove of it.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">收回前言，承认说错了话(尤指此举令说话人显得愚蠢时)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone has to <b>eat</b> their <b>words</b>, you mean that they have to admit that they were wrong about something they said in the past, especially when this makes them look foolish.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">沉默寡言的，少言寡语的，话不多的(尤指不谈及自己的意见和感情)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person <b>of few words</b> says very little, especially about their opinions or feelings.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从一开始</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>from the word go</b>, you do it from the very beginning of a period of time or situation.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(因为仰慕或尊敬而)仔细倾听，一字不落地认真听</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>hang on</b> someone's <b>every word</b>, you listen very carefully to what they are saying, because you admire or respect them.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从来没一句好话／从来没一句坏话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use expressions such as <b>never have a good word to say</b> or <b>never have a bad word to say</b> to emphasize that a person always criticizes someone or something, or that they never criticize them.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指因为一方抱怨了另一方的行为)与…争论,与…严肃讨论</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one person <b>has words with</b> another, or if two or more people <b>have words</b>, they have a serious discussion or argument, especially because one has complained about the other's behaviour.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phr-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用…的话说;引用…的原话说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>in</b> their <b>words</b> or <b>in</b> their <b>own words</b> to indicate that you are reporting what someone said using the exact words that they used.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">总而言之;简言之;一句话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>in a word</b> to indicate that you are giving a summary of what you have just been saying, or are giving a reply, in as brief a way as possible.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(讨论、争论、分歧中的)最终决定权</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone has <b>the last word</b> or <b>the final word</b> in a discussion, argument, or disagreement, they are the one who wins it or who makes the final decision.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(在奢侈、舒适等方面的)极致</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>the last word in</b> luxury, comfort, or some other quality, you are emphasizing that it has a great deal of this quality.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指因非常吃惊而)说不出话来，无以言表</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>lost for words</b>, they cannot think of anything to say, especially because they are very surprised by something.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">没有直接说;拐弯抹角地说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone has said something, but <b>not in so many words</b>, you mean that they said it or expressed it, but in a very indirect way.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于强调刚刚警告对方的话很可能成真，尤其是认为对方应改变态度或行为予以避免时)你听着，记住我的话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say '<b>mark my words</b>' to someone, you are emphasizing that something you have just warned them about is very likely to happen, especially when you think they should change their attitude or behaviour to prevent it.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(由)口头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If news or information passes by <b>word of mouth</b>, people tell it to each other rather than it being printed in written form.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">硬说…说过某些话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is putting words into</b> your <b>mouth</b> or <b>is putting words in</b> your <b>mouth</b>, you mean that they are suggesting that you mean one thing when you really mean something different.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">说话算数的人;一诺千金的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone as <b>a man of his word</b> or <b>a woman of her word</b>, you mean that they always keep their promises and can be relied on.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">换言之;换句话说;也就是说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>in other words</b> in order to introduce a different, and usually simpler, explanation or interpretation of something that has just been said.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用…自己的话说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say something <b>in</b> your <b>own words</b>, you express it in your own way, without copying or repeating someone else's description.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">传话;递话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>pass the word</b>, you tell someone something that another person has told you.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发话，下令(示意某事应该开始)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>says the word</b>, they give their approval as a sign that something should start to happen.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">散布消息;传播消息</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>spread the word</b>, you tell people about something.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…说的话信以为真</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone <b>at their word</b>, you believe what they say, when they did not really mean it or when they meant something slightly different.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相信…的话;…说的是真话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say to someone '<b>take</b> my <b>word for it</b>', you mean that they should believe you because you are telling the truth.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">极其愚蠢/荒唐得让人无语</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use expressions such as <b>too silly for words</b> and <b>too ridiculous for words</b> to emphasize that someone or something is extremely silly or ridiculous.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">信守诺言;说话算话;说到做到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>true to</b> your <b>word</b> or <b>as good as</b> your <b>word</b>, you do what you say you will do.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">逐字;一字不差地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you repeat something <b>word for word</b>, you repeat it exactly as it was originally said or written.  \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>not get a word in edgeways</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://edgeways\">edgeways</a></b>; \rnot mince your words<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mince\">mince</a></b>; \rthe operative word<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://operative\">operative</a></b>; \ractions speak louder than words<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://speak\">speak</a></b>; \rwar of words<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://war\">war</a></b>; \r \r\r\r</span>",
+    "display_hwd": "word",
+    "ext": "",
+    "hwd": "word",
+    "phonetics": "英\r[wɜ:d]美\r[wɜrd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

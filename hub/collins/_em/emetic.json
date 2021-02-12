@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">催吐剂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>emetic</b> is something that is given to someone to swallow, in order to make them vomit.  \r \r\r\r</span>",
+    "display_hwd": "emetic",
+    "ext": "",
+    "hwd": "emetic",
+    "phonetics": "英\r[iˈmetɪk]美\r[ɪˈmɛtɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">催吐的;令人作呕的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>emetic</b> makes you vomit.  \r \r\r\r</span>",
+    "display_hwd": "emetic",
+    "ext": "",
+    "hwd": "emetic",
+    "phonetics": "英\r[iˈmetɪk]美\r[ɪˈmɛtɪk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

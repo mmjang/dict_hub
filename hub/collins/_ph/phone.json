@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电话</span>",
+    "def_en": "<span class=\"endef\"><b>The phone</b> is an electrical system that you use to talk to someone else in another place, by dialling a number on a piece of equipment and speaking into it.  \r \r\r\r</span>",
+    "display_hwd": "phone",
+    "ext": "",
+    "hwd": "phone",
+    "phonetics": "英\r[fəʊn]美\r[foʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电话机</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://cellular phone\">cellular phone</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://mobile phone\">mobile phone</a></b>;\r <b>The phone</b> is the piece of equipment that you use when you dial someone's phone number and talk to them.  \r \r\r\r</span>",
+    "display_hwd": "phone",
+    "ext": "",
+    "hwd": "phone",
+    "phonetics": "英\r[fəʊn]美\r[foʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电话听筒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone picks up or puts down <b>the phone</b>, you mean that they lift or replace the receiver.  \r \r\r\r</span>",
+    "display_hwd": "phone",
+    "ext": "",
+    "hwd": "phone",
+    "phonetics": "英\r[fəʊn]美\r[foʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…打电话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>phone</b> someone, you dial their phone number and speak to them by phone.  \r \r\r\r</span>",
+    "display_hwd": "phone",
+    "ext": "",
+    "hwd": "phone",
+    "phonetics": "英\r[fəʊn]美\r[foʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在通话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>on the phone</b>, you mean that they are speaking to someone else by phone.  \r \r\r\r</span>",
+    "display_hwd": "phone",
+    "ext": "",
+    "hwd": "phone",
+    "phonetics": "英\r[fəʊn]美\r[foʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">装了电话的；可用电话联系的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on the phone</b>, you have a phone in your home or place of work, so that you can be contacted by phone.  \r \r\r\r</span>",
+    "display_hwd": "phone",
+    "ext": "",
+    "hwd": "phone",
+    "phonetics": "英\r[fəʊn]美\r[foʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">心搏;心跳</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>heartbeat</b> is the regular movement of your heart as it pumps blood around your body.  \r \r\r\r</span>",
+    "display_hwd": "heartbeat",
+    "ext": "",
+    "hwd": "heartbeat",
+    "phonetics": "英\r[ˈhɑ:tbi:t]美\r[ˈhɑrtbit]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（一次）心搏，心跳</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>heartbeat</b> is one of the movements of your heart.  \r \r\r\r</span>",
+    "display_hwd": "heartbeat",
+    "ext": "",
+    "hwd": "heartbeat",
+    "phonetics": "英\r[ˈhɑ:tbi:t]美\r[ˈhɑrtbit]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

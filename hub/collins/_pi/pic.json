@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">影片；电影</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pic</b> is a cinema film.  \r \r\r\r</span>",
+    "display_hwd": "pic",
+    "ext": "",
+    "hwd": "pic",
+    "phonetics": "英\r[pɪk]美\r[pɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">照片；图片</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pic</b> is a photograph.  \r \r\r\r</span>",
+    "display_hwd": "pic",
+    "ext": "",
+    "hwd": "pic",
+    "phonetics": "英\r[pɪk]美\r[pɪk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

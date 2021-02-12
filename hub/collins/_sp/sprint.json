@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">短跑</span>",
+    "def_en": "<span class=\"endef\"><b>The sprint</b> is a short, fast running race.  \r \r\r\r</span>",
+    "display_hwd": "sprint",
+    "ext": "",
+    "hwd": "sprint",
+    "phonetics": "英\r[sprɪnt]美\r[sprɪnt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">短程竞速赛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sprint</b> is a short race in which the competitors run, drive, ride, or swim very fast.  \r \r\r\r</span>",
+    "display_hwd": "sprint",
+    "ext": "",
+    "hwd": "sprint",
+    "phonetics": "英\r[sprɪnt]美\r[sprɪnt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冲刺;快跑</span>",
+    "def_en": "<span class=\"endef\"><b>A sprint</b> is a fast run that someone does, either at the end of a race or because they are in a hurry.  \r \r\r\r</span>",
+    "display_hwd": "sprint",
+    "ext": "",
+    "hwd": "sprint",
+    "phonetics": "英\r[sprɪnt]美\r[sprɪnt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">全速奔跑;(短距离)冲刺</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>sprint</b>, you run or ride as fast as you can over a short distance.  \r \r\r\r</span>",
+    "display_hwd": "sprint",
+    "ext": "",
+    "hwd": "sprint",
+    "phonetics": "英\r[sprɪnt]美\r[sprɪnt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

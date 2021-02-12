@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">车流;交通</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://traffic jam\">traffic jam</a></b>;\r <b>Traffic</b> refers to all the vehicles that are moving along the roads in a particular area.  \r \r\r\r</span>",
+    "display_hwd": "traffic",
+    "ext": "",
+    "hwd": "traffic",
+    "phonetics": "英\r[ˈtræfɪk]美\r[ˈtræfɪk]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(海上、铁路或空中的)交通，通行;(客、货)运输量</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://air traffic control\">air traffic control</a></b>;\r <b>Traffic</b> refers to the movement of ships, trains, or aircraft between one place and another. <b>Traffic</b> also refers to the people and goods that are being transported.  \r \r\r\r</span>",
+    "display_hwd": "traffic",
+    "ext": "",
+    "hwd": "traffic",
+    "phonetics": "英\r[ˈtræfɪk]美\r[ˈtræfɪk]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(毒品、赃物等的)非法买卖，非法交易</span>",
+    "def_en": "<span class=\"endef\"><b>Traffic in</b> something such as drugs or stolen goods is an illegal trade in them.  \r \r\r\r</span>",
+    "display_hwd": "traffic",
+    "ext": "",
+    "hwd": "traffic",
+    "phonetics": "英\r[ˈtræfɪk]美\r[ˈtræfɪk]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">非法买卖(毒品、赃物等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who <b>traffics in</b> something such as drugs or stolen goods buys and sells them even though it is illegal to do so.  \r \r\r\r</span>",
+    "display_hwd": "traffic",
+    "ext": "",
+    "hwd": "traffic",
+    "phonetics": "英\r[ˈtræfɪk]美\r[ˈtræfɪk]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

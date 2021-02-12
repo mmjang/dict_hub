@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">无重量的;轻的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>weightless</b> weighs nothing or seems to weigh nothing.  \r \r\r\r</span>",
+    "display_hwd": "weightless",
+    "ext": "",
+    "hwd": "weightless",
+    "phonetics": "英\r[ˈweɪtləs]美\r[ˈwetlɪs]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">失重的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person or object is <b>weightless</b> when they are in space and the earth's gravity does not affect them, so that they float around.  \r \r\r\r</span>",
+    "display_hwd": "weightless",
+    "ext": "",
+    "hwd": "weightless",
+    "phonetics": "英\r[ˈweɪtləs]美\r[ˈwetlɪs]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">表意文字(如汉字)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ideogram</b> is a sign or symbol that represents a particular idea or thing rather than a word. The writing systems of Japan and China, for example, use ideograms.  \r \r\r\r</span>",
+    "display_hwd": "ideogram",
+    "ext": "",
+    "hwd": "ideogram",
+    "phonetics": "英\r[ˈɪdiəgræm]美\r[ˈɪdiəˌɡræm,ˈaɪdi-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">表意符号(如 %, @ 和 &amp;)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In languages such as English which are written using letters and words, an <b>ideogram</b> is a sign or symbol that can be used to represent a particular word. %, @, and &amp; are examples of ideograms.  \r \r\r\r</span>",
+    "display_hwd": "ideogram",
+    "ext": "",
+    "hwd": "ideogram",
+    "phonetics": "英\r[ˈɪdiəgræm]美\r[ˈɪdiəˌɡræm,ˈaɪdi-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

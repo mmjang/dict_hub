@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">复印件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>photocopy</b> is a copy of a document made using a photocopier.  \r \r\r\r</span>",
+    "display_hwd": "photocopy",
+    "ext": "",
+    "hwd": "photocopy",
+    "phonetics": "英\r[ˈfəʊtəʊkɒpi]美\r[ˈfoʊtoʊkɑpi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">复印</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>photocopy</b> a document, you make a copy of it using a photocopier.  \r \r\r\r</span>",
+    "display_hwd": "photocopy",
+    "ext": "",
+    "hwd": "photocopy",
+    "phonetics": "英\r[ˈfəʊtəʊkɒpi]美\r[ˈfoʊtoʊkɑpi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

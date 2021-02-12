@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">分画面的，分屏的(指屏幕左右两半同时放映两套不同电影或电视节目的技术)</span>",
+    "def_en": "<span class=\"endef\"><b>Split-screen</b> is used to describe the technique in making films and television programmes in which two different pieces of film are shown at the same time.  \r \r\r\r</span>",
+    "display_hwd": "split-screen",
+    "ext": "",
+    "hwd": "split-screen",
+    "phonetics": "英\r[splitskri:n]美\r[splɪtskrin]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机上的)分屏，拆分窗口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a computer screen, a <b>split-screen</b> is a display of two different things in separate parts of the screen.  \r \r\r\r</span>",
+    "display_hwd": "split-screen",
+    "ext": "",
+    "hwd": "split-screen",
+    "phonetics": "英\r[splitskri:n]美\r[splɪtskrin]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

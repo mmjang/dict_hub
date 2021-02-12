@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">住处;居所;住宅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>residence</b> is a house where people live.  \r \r\r\r</span>",
+    "display_hwd": "residence",
+    "ext": "",
+    "hwd": "residence",
+    "phonetics": "英\r[ˈrezɪdəns]美\r[ˈrɛzɪdəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">住处;居住地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your place of <b>residence</b> is the place where you live.  \r \r\r\r</span>",
+    "display_hwd": "residence",
+    "ext": "",
+    "hwd": "residence",
+    "phonetics": "英\r[ˈrezɪdəns]美\r[ˈrɛzɪdəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">居住（权）；居留（权）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>residence</b> in a particular place is the fact that they live there or that they are officially allowed to live there.  \r \r\r\r</span>",
+    "display_hwd": "residence",
+    "ext": "",
+    "hwd": "residence",
+    "phonetics": "英\r[ˈrezɪdəns]美\r[ˈrɛzɪdəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hall of residence\">hall of residence</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "residence",
+    "ext": "",
+    "hwd": "residence",
+    "phonetics": "英\r[ˈrezɪdəns]美\r[ˈrɛzɪdəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">住在;居住</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>in residence</b> in a particular place, they are living there.  \r \r\r\r</span>",
+    "display_hwd": "residence",
+    "ext": "",
+    "hwd": "residence",
+    "phonetics": "英\r[ˈrezɪdəns]美\r[ˈrɛzɪdəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（作家、艺术家等）常驻的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An artist or writer <b>in residence</b> is one who teaches in an institution such as a university or theatre company.  \r \r\r\r</span>",
+    "display_hwd": "residence",
+    "ext": "",
+    "hwd": "residence",
+    "phonetics": "英\r[ˈrezɪdəns]美\r[ˈrɛzɪdəns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用于词头)表示“在…之下”，“在…下面”</span>",
+    "def_en": "<span class=\"endef\"><b>Sub-</b> is used at the beginning of words that have 'under' as part of their meaning.  \r \r\r\r</span>",
+    "display_hwd": "sub-",
+    "ext": "",
+    "hwd": "sub-",
+    "phonetics": "英\r[sʌb]美\r[sʌb]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于名词前构成新名词)表示“次”，“分支”，“部分”</span>",
+    "def_en": "<span class=\"endef\"><b>Sub-</b> is added to the beginning of nouns in order to form other nouns that refer to things that are part of a larger thing.  \r \r\r\r</span>",
+    "display_hwd": "sub-",
+    "ext": "",
+    "hwd": "sub-",
+    "phonetics": "英\r[sʌb]美\r[sʌb]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于形容词前构成新形容词)表示“低于”，“亚于”，“次于”</span>",
+    "def_en": "<span class=\"endef\"><b>Sub-</b> is added to the beginning of adjectives in order to form other adjectives that describe someone or something as inferior, for example inferior to normal people or to normal things.  \r \r\r\r</span>",
+    "display_hwd": "sub-",
+    "ext": "",
+    "hwd": "sub-",
+    "phonetics": "英\r[sʌb]美\r[sʌb]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">余震</span>",
+    "def_en": "<span class=\"endef\"><b>Aftershocks</b> are smaller earthquakes which occur after a large earthquake.  \r \r\r\r</span>",
+    "display_hwd": "aftershock",
+    "ext": "",
+    "hwd": "aftershock",
+    "phonetics": "英\r[ˈɑ:ftəʃɒk]美\r[ˈæftərʃɑk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">余悸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes refer to the effects of an important event, especially a bad one, as the <b>aftershock</b> .  \r \r\r\r</span>",
+    "display_hwd": "aftershock",
+    "ext": "",
+    "hwd": "aftershock",
+    "phonetics": "英\r[ˈɑ:ftəʃɒk]美\r[ˈæftərʃɑk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

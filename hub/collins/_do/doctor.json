@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">医生;大夫</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>doctor</b> is someone who is qualified in medicine and treats people who are ill.  \r \r\r\r</span>",
+    "display_hwd": "doctor",
+    "ext": "",
+    "hwd": "doctor",
+    "phonetics": "英\r[ˈdɒktə(r)]美\r[ˈdɑktə(r)]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-title; n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">牙医;兽医</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dentist</b> or <b>veterinarian</b> can also be called <b>doctor</b> .  \r \r\r\r</span>",
+    "display_hwd": "doctor",
+    "ext": "",
+    "hwd": "doctor",
+    "phonetics": "英\r[ˈdɒktə(r)]美\r[ˈdɑktə(r)]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-title; n-voc\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诊所</span>",
+    "def_en": "<span class=\"endef\"><b>The doctor's</b> is used to refer to the surgery or office where a doctor works.  \r \r\r\r</span>",
+    "display_hwd": "doctor",
+    "ext": "",
+    "hwd": "doctor",
+    "phonetics": "英\r[ˈdɒktə(r)]美\r[ˈdɑktə(r)]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">博士</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>doctor</b> is someone who has been awarded the highest academic or honorary degree by a university.  \r \r\r\r</span>",
+    "display_hwd": "doctor",
+    "ext": "",
+    "hwd": "doctor",
+    "phonetics": "英\r[ˈdɒktə(r)]美\r[ˈdɑktə(r)]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count; n-title\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">篡改;伪造</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>doctors</b> something, they change it in order to deceive people.  \r \r\r\r</span>",
+    "display_hwd": "doctor",
+    "ext": "",
+    "hwd": "doctor",
+    "phonetics": "英\r[ˈdɒktə(r)]美\r[ˈdɑktə(r)]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(将毒药、麻药等)掺入(食物或饮料中)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>doctors</b> food or drink, they add a poison or drug to it.  \r \r\r\r</span>",
+    "display_hwd": "doctor",
+    "ext": "",
+    "hwd": "doctor",
+    "phonetics": "英\r[ˈdɒktə(r)]美\r[ˈdɑktə(r)]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

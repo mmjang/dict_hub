@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">一系列;一连串</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sequence of</b> events or things is a number of events or things that come one after another in a particular order.  \r \r\r\r</span>",
+    "display_hwd": "sequence",
+    "ext": "",
+    "hwd": "sequence",
+    "phonetics": "英\r[ˈsi:kwəns]美\r[ˈsikwəns,-ˌkwɛns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">顺序;次序;序列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A particular <b>sequence</b> is a particular order in which things happen or are arranged.  \r \r\r\r</span>",
+    "display_hwd": "sequence",
+    "ext": "",
+    "hwd": "sequence",
+    "phonetics": "英\r[ˈsi:kwəns]美\r[ˈsikwəns,-ˌkwɛns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(电影中描述某一组动作的)连续镜头,片段</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A film <b>sequence</b> is a part of a film that shows a single set of actions.  \r \r\r\r</span>",
+    "display_hwd": "sequence",
+    "ext": "",
+    "hwd": "sequence",
+    "phonetics": "英\r[ˈsi:kwəns]美\r[ˈsikwəns,-ˌkwɛns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(基因)排列顺序，序列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A gene <b>sequence</b> or a DNA <b>sequence</b> is the order in which the elements making up a particular gene are combined.  \r \r\r\r</span>",
+    "display_hwd": "sequence",
+    "ext": "",
+    "hwd": "sequence",
+    "phonetics": "英\r[ˈsi:kwəns]美\r[ˈsikwəns,-ˌkwɛns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

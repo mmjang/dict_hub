@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">未修剪的；未割的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>uncut</b> has not been cut.  \r \r\r\r</span>",
+    "display_hwd": "uncut",
+    "ext": "",
+    "hwd": "uncut",
+    "phonetics": "英\r[ˌʌnˈkʌt]美\r[ʌnˈkʌt]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（书、剧本或电影）未删节的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>uncut</b> book, play, or film has not had parts removed.  \r \r\r\r</span>",
+    "display_hwd": "uncut",
+    "ext": "",
+    "hwd": "uncut",
+    "phonetics": "英\r[ˌʌnˈkʌt]美\r[ʌnˈkʌt]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（钻石等宝石）未雕琢的，未加工的</span>",
+    "def_en": "<span class=\"endef\"><b>Uncut</b> diamonds and other precious stones have not been cut into a regular shape.  \r \r\r\r</span>",
+    "display_hwd": "uncut",
+    "ext": "",
+    "hwd": "uncut",
+    "phonetics": "英\r[ˌʌnˈkʌt]美\r[ʌnˈkʌt]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

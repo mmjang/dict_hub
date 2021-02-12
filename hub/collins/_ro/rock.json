@@ -1,0 +1,122 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">岩石;石头</span>",
+    "def_en": "<span class=\"endef\"><b>Rock</b> is the hard substance which the Earth is made of.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">巨石;岩石;礁石</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rock</b> is a large piece of rock that sticks up out of the ground or the sea, or that has broken away from a mountain or a cliff.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">石块;小石头;石子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rock</b> is a piece of rock that is small enough for you to pick up.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)来回摆动;(使)左右摇晃</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something <b>rocks</b> or when you <b>rock</b> it, it moves slowly and regularly backwards and forwards or from side to side.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（使）震动;（使）摇晃</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an explosion or an earthquake <b>rocks</b> a building or an area, it causes the building or area to shake. You can also say that the building or area <b>rocks</b>.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使震惊;使震动;使不安</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an event or a piece of news <b>rocks</b> a group or society, it shocks them or makes them feel less secure.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">摇滚乐</span>",
+    "def_en": "<span class=\"endef\"><b>Rock</b> is loud music with a strong beat that is usually played and sung by a small group of people using instruments such as electric guitars and drums.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（常在英国海滨城镇销售的）棒形硬糖</span>",
+    "def_en": "<span class=\"endef\"><b>Rock</b> is a sweet that is made in long, hard sticks and is often sold in towns by the sea in Britain.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">左右为难;进退维谷</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are caught <b>between a rock and a hard place</b>, you are in a difficult situation where you have to choose between two equally unpleasant courses of action.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">加冰块的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have an alcoholic drink such as whisky <b>on the rocks</b>, you have it with ice cubes in it.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（婚姻）濒临破裂;（企业等）濒临失败;岌岌可危</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a marriage or a business is <b>on the rocks</b>, it is experiencing very severe difficulties and looks likely to end very soon.  \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>rock the boat</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://boat\">boat</a></b>; \r \r\r\r</span>",
+    "display_hwd": "rock",
+    "ext": "",
+    "hwd": "rock",
+    "phonetics": "英\r[rɒk]美\r[rɑk]",
+    "phrase": "",
+    "sense": "★★★★☆ "
+  }
+]

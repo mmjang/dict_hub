@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">评价;评级</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://credit rating\">credit rating</a></b>;\r A <b>rating</b> of something is a score or measurement of how good or popular it is.  \r \r\r\r</span>",
+    "display_hwd": "rating",
+    "ext": "",
+    "hwd": "rating",
+    "phonetics": "英\r[ˈreɪtɪŋ]美\r[ˈretɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电视节目的）收视率</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>ratings</b> are the statistics published each week which show how popular each television programme is.  \r \r\r\r</span>",
+    "display_hwd": "rating",
+    "ext": "",
+    "hwd": "rating",
+    "phonetics": "英\r[ˈreɪtɪŋ]美\r[ˈretɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">水手;普通船员</span>",
+    "def_en": "<span class=\"endef\"><b>Ratings</b> are the sailors in some national navies who are not officers or who have no rank.  \r \r\r\r</span>",
+    "display_hwd": "rating",
+    "ext": "",
+    "hwd": "rating",
+    "phonetics": "英\r[ˈreɪtɪŋ]美\r[ˈretɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（军队的）军阶，级别</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>rating</b> of a member of the armed forces is the level they have achieved, according to their job or the skills they have.  \r \r\r\r</span>",
+    "display_hwd": "rating",
+    "ext": "",
+    "hwd": "rating",
+    "phonetics": "英\r[ˈreɪtɪŋ]美\r[ˈretɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

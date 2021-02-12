@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">燧石;火石</span>",
+    "def_en": "<span class=\"endef\"><b>Flint</b> is a very hard greyish-black stone that was used in former times for making tools.  \r \r\r\r</span>",
+    "display_hwd": "flint",
+    "ext": "",
+    "hwd": "flint",
+    "phonetics": "英\r[flɪnt]美\r[flɪnt]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">打火石</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>flint</b> is a small piece of flint which can be struck with a piece of steel to produce sparks.  \r \r\r\r</span>",
+    "display_hwd": "flint",
+    "ext": "",
+    "hwd": "flint",
+    "phonetics": "英\r[flɪnt]美\r[flɪnt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

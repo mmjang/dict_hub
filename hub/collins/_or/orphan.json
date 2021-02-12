@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">孤儿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>orphan</b> is a child whose parents are dead.  \r \r\r\r</span>",
+    "display_hwd": "orphan",
+    "ext": "",
+    "hwd": "orphan",
+    "phonetics": "英\r[ˈɔ:fn]美\r[ˈɔrfn]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使成为孤儿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a child <b>is orphaned</b>, their parents die, or their remaining parent dies.  \r \r\r\r</span>",
+    "display_hwd": "orphan",
+    "ext": "",
+    "hwd": "orphan",
+    "phonetics": "英\r[ˈɔ:fn]美\r[ˈɔrfn]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ v-passive\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">快餐;便餐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>snack</b> is a simple meal that is quick to cook and to eat.  \r \r\r\r</span>",
+    "display_hwd": "snack",
+    "ext": "",
+    "hwd": "snack",
+    "phonetics": "英\r[snæk]美\r[snæk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">小吃;零嘴</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>snack</b> is something such as a chocolate bar that you eat between meals.  \r \r\r\r</span>",
+    "display_hwd": "snack",
+    "ext": "",
+    "hwd": "snack",
+    "phonetics": "英\r[snæk]美\r[snæk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吃小吃;吃点心</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>snack</b>, you eat snacks between meals.  \r \r\r\r</span>",
+    "display_hwd": "snack",
+    "ext": "",
+    "hwd": "snack",
+    "phonetics": "英\r[snæk]美\r[snæk]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（后接名词，用于描述动作或事件）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use take followed by a noun to talk about an action or event, when it would also be possible to use the verb that is related to that noun. For example, you can say '<b>she took a shower</b>' instead of 'she showered'.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与一系列名词连用，代替意义更为具体的动词）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In ordinary spoken or written English, people use <b>take</b> with a range of nouns instead of using a more specific verb. For example people often say '<b>he took control</b>' or '<b>she took a positive attitude</b>' instead of 'he assumed control' or 'she adopted a positive attitude'.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拿;取</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something, you reach out for it and hold it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">随身带;携带</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something with you when you go somewhere, you carry it or have it with you.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">运送;带领;通向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person, vehicle, or path <b>takes</b> someone somewhere, they transport or lead them there.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(工作、兴趣等)使…去，使…前往</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a job or interest <b>takes</b> you to a place, it is the reason for you going there.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">请教（问题等）；洽谈(生意等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something such as your problems or your business to someone, you go to that person when you have problems you want to discuss or things you want to buy.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使…达到(一定水平、程度或状态)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>takes</b> another <b>to</b> a particular level, condition, or state, it causes it to reach that level or condition.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拿掉;去掉;拿开</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something from a place, you remove it from there.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">偷走;(擅自)拿走</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something from someone who owns it, you steal it or go away with it without their permission.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(军队、政党)攻占，夺取，赢得，俘虏</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an army or political party <b>takes</b> something or someone, they win them from their enemy or opponent.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">减去;减</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> one number or amount from another, you subtract it or deduct it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">忍受;忍耐;接受;经受</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you cannot <b>take</b> something difficult, painful, or annoying, you cannot tolerate it without becoming upset, ill, or angry.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指在战争中)蒙受，遭受(损害、损失)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something such as damage or loss, you suffer it, especially in war or in a battle.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">花费，占用(时间)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>takes</b> a certain amount of time, that amount of time is needed in order to do it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">需要，要求(某种素质或某物)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>takes</b> a particular quality or thing, that quality or thing is needed in order to do it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">接受;采纳</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something that is given or offered to you, you agree to accept it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(从…中)获取，感到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a feeling such as pleasure, pride, or delight in a particular thing or activity, the thing or activity gives you that feeling.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(商店、饭店、剧院等)收入，赚取</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a shop, restaurant, theatre, or other business <b>takes</b> a certain amount of money, they get that amount from people buying goods or services.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(商业机构的)收入，获利</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>take</b> to refer to the amount of money that a business such as a store or theatre gets from selling its goods or tickets during a particular period.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">赢得，摘得(奖项或奖牌)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a prize or medal, you win it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">承担，承受，接受(责备、责任或功劳)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> the blame, responsibility, or credit for something, you agree to accept it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">接受，接纳(病人或顾客)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> patients or clients, you accept them as your patients or clients.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">接听(电话)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a telephone call, you speak to someone who is telephoning you.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(以特定方式)看待，对待</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something in a particular way, you react in the way mentioned to a situation or to someone's beliefs or behaviour.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…(为例);拿…(来说)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>take</b> when you are discussing or explaining a particular question, in order to introduce an example or to say how the question is being considered.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">理解;明白;同意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone's meaning or point, you understand and accept what they are saying.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…错当成;误以为</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone <b>for</b> something, you believe wrongly that they are that thing.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">选择要;选择购买</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something from among a number of things, you choose to have or buy it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">走，沿着(道路或路线)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a road or route, you choose to travel along it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(短期)租赁，租住</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a house or flat, you rent it, usually for only a short time.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">购买,订阅(报纸等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something such as a newspaper, you buy it or have it delivered to your home on a regular basis.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">乘坐;搭乘</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a car, train, bus, or plane, you use it to go from one place to another.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">学习，选修(课程)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a subject or course at school or university, you choose to study it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">参加(考试)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a test or examination, you do it in order to obtain a qualification.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">教…(课程);给…讲授(课程)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone <b>for</b> a subject, you give them lessons in that subject.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">服用，使用(毒品、药物)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>takes</b> drugs, pills, or other medicines, they take them into their body, for example by swallowing them.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吃;喝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> food or drink, you eat or drink it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">记(笔记);写(书信)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a note or a letter, you write down something you want to remember or the words that someone says.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">测量;度量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a particular measurement, you use special equipment to find out what something measures.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">能容纳;装得下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a place or container <b>takes</b> a particular amount or number, there is enough space for that amount or number.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">穿(特定尺码的鞋或衣物)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> a particular size in shoes or clothes, that size fits you.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(药物)起作用，生效;(染料)着色</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a drug or a dye <b>takes</b>, it has the effect or result that is intended.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(一次拍摄的)场景，镜头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>take</b> is a short piece of action which is filmed in one continuous process for a cinema or television film.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">态度;理解;看法</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>take on</b> a particular situation or fact is their attitude to it or their interpretation of it.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">我自认为;我以为;我猜测</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say '<b>I take it</b>' to check with someone that what you believe to be the case or what you understand them to mean is in fact the case, or is in fact what they mean.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相信我;我敢保证</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can say '<b>take it from me</b>' to tell someone that you are absolutely sure that what you are saying is correct, and that they should believe you.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">接不接受随你，要就要不要拉倒(不容讨价还价)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say to someone '<b>take it or leave it</b>', you are telling them that they can accept something or not accept it, but that you are not prepared to discuss any other alternatives.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">忍受，甘受，屈从于(侮辱或攻击)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>takes</b> an insult or attack <b>lying down</b>, they accept it without protesting.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使费尽力气;使精疲力竭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>takes a lot out of</b> you or <b>takes it out of</b> you, it requires a lot of energy or effort and makes you feel very tired and weak afterwards.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使忘却烦恼;使心情好</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>takes you out of</b> yourself, it makes you feel better and so you forget all your worries and unhappiness.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">休息 5 分钟/休息 10 分钟</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone tells you to <b>take five</b> or to <b>take ten</b>, they are telling you to have a five or ten minute break from what you are doing.  \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>be taken aback</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://aback\">aback</a></b>; \rto take up arms<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://arm\">arm</a></b>; \rto take the biscuit<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://biscuit\">biscuit</a></b>; \rto take the bull by the horns<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bull\">bull</a></b>; \rto take your hat off to someone<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hat\">hat</a></b>; \rto take the mickey<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mickey\">mickey</a></b>; \rto take the piss out of someone<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://piss\">piss</a></b>; \rto take something as read<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://read\">read</a></b>; \rto be taken for a ride<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://ride\">ride</a></b>; \rto take someone by surprise<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://surprise\">surprise</a></b>; \rtake my word for it<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://word\">word</a></b>; \r \r\r\r</span>",
+    "display_hwd": "take",
+    "ext": "",
+    "hwd": "take",
+    "phonetics": "英\r[teɪk]美\r[tek]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

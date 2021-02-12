@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">银行卡，借记卡，取款机提款卡（美国英语中亦称ATM card）；（英国的）支票保付卡</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bank card</b> is a plastic card which your bank gives you so you can get money from your bank account using a cash machine. It is also called an <b>ATM</b> card in American English. In Britain, you also use bank cards to prove who you are when you pay for something by cheque.  \r \r\r\r</span>",
+    "display_hwd": "bank card",
+    "ext": "",
+    "hwd": "bank card",
+    "phonetics": "英\r[bæŋkkɑ:d]美\r[bæŋkkɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">信用卡</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bank card</b> is a credit card that is supplied by a bank.  \r \r\r\r</span>",
+    "display_hwd": "bank card",
+    "ext": "",
+    "hwd": "bank card",
+    "phonetics": "英\r[bæŋkkɑ:d]美\r[bæŋkkɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

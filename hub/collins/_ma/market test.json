@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">市场测试;销售实验</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a company carries out a <b>market test</b>, it asks a group of people to try a new product or service and give their opinions on it.  \r \r\r\r</span>",
+    "display_hwd": "market test",
+    "ext": "",
+    "hwd": "market test",
+    "phonetics": "[ˈmɑ:kittest]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…进行市场测试</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a new product or service <b>is market tested</b>, a group of people are asked to try it and then asked for their opinions on it.  \r \r\r\r</span>",
+    "display_hwd": "market test",
+    "ext": "",
+    "hwd": "market test",
+    "phonetics": "[ˈmɑ:kittest]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

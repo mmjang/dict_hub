@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">点火装置;点火器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a car engine, the <b>ignition</b> is the part where the fuel is ignited.  \r \r\r\r</span>",
+    "display_hwd": "ignition",
+    "ext": "",
+    "hwd": "ignition",
+    "phonetics": "英\r[ɪgˈnɪʃn]美\r[ɪɡˈnɪʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(汽车里的)点火开关</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Inside a car, <b>the ignition</b> is the part where you turn the key so that the engine starts.  \r \r\r\r</span>",
+    "display_hwd": "ignition",
+    "ext": "",
+    "hwd": "ignition",
+    "phonetics": "英\r[ɪgˈnɪʃn]美\r[ɪɡˈnɪʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">着火;起火</span>",
+    "def_en": "<span class=\"endef\"><b>Ignition</b> is the process of something starting to burn.  \r \r\r\r</span>",
+    "display_hwd": "ignition",
+    "ext": "",
+    "hwd": "ignition",
+    "phonetics": "英\r[ɪgˈnɪʃn]美\r[ɪɡˈnɪʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">汇编者;编纂者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>compiler</b> is someone who compiles books, reports, or lists of information.  \r \r\r\r</span>",
+    "display_hwd": "compiler",
+    "ext": "",
+    "hwd": "compiler",
+    "phonetics": "英\r[kəmˈpaɪlə(r)]美\r[kəmˈpaɪlɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">编译程序</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>compiler</b> is a computer program which converts language that people can use into a code that the computer can understand.  \r \r\r\r</span>",
+    "display_hwd": "compiler",
+    "ext": "",
+    "hwd": "compiler",
+    "phonetics": "英\r[kəmˈpaɪlə(r)]美\r[kəmˈpaɪlɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

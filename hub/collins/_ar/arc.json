@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">弧形；弧线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>arc</b> is a smoothly curving line or movement.  \r \r\r\r</span>",
+    "display_hwd": "arc",
+    "ext": "",
+    "hwd": "arc",
+    "phonetics": "英\r[ɑ:k]美\r[ɑrk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">弧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In geometry, an <b>arc</b> is a part of the line that forms the outside of a circle.  \r \r\r\r</span>",
+    "display_hwd": "arc",
+    "ext": "",
+    "hwd": "arc",
+    "phonetics": "英\r[ɑ:k]美\r[ɑrk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">成弧线；呈弧形</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>arcs</b> in a particular direction, it makes a smoothly curving line or movement.  \r \r\r\r</span>",
+    "display_hwd": "arc",
+    "ext": "",
+    "hwd": "arc",
+    "phonetics": "英\r[ɑ:k]美\r[ɑrk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

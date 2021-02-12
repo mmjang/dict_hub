@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（声音或图像的）数字录制</span>",
+    "def_en": "<span class=\"endef\"><b>Digital recording</b> is the process of converting sound or images into numbers.  \r \r\r\r</span>",
+    "display_hwd": "digital recording",
+    "ext": "",
+    "hwd": "digital recording",
+    "phonetics": "英\r[ˈdidʒitəlrɪˈkɔ:dɪŋ]美\r[ˈdɪdʒɪtlrɪˈkɔrdɪŋ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">数字录制品</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>digital recording</b> is a recording made by converting sound or images into numbers.  \r \r\r\r</span>",
+    "display_hwd": "digital recording",
+    "ext": "",
+    "hwd": "digital recording",
+    "phonetics": "英\r[ˈdidʒitəlrɪˈkɔ:dɪŋ]美\r[ˈdɪdʒɪtlrɪˈkɔrdɪŋ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

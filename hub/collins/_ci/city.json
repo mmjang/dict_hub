@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">伦敦商业区;伦敦城</span>",
+    "def_en": "<span class=\"endef\"><b>The City</b> is the part of London where many important financial institutions have their main offices. People often refer to these financial institutions as <b>the City</b> .  \r \r\r\r</span>",
+    "display_hwd": "City",
+    "ext": "",
+    "hwd": "City",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">城市</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>city</b> is a large town.  \r \r\r\r</span>",
+    "display_hwd": "city",
+    "ext": "",
+    "hwd": "city",
+    "phonetics": "英\r[ˈsɪti]美\r[ˈsɪti]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

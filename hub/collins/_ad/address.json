@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">住址；地址</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>address</b> is the number of the house, flat, or apartment and the name of the street and the town where you live or work.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">寄往;寄给</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a letter, envelope, or parcel <b>is addressed to</b> you, your name and address have been written on it.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">网址</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>address</b> of a website is its location on the Internet, for example http://www.cobuild.collins.co.uk.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电子表格中某个单元格的）位置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>address</b> of a cell on a computer spreadsheet refers to the particular row and column number where it is located, for example 'C2' or 'N63'.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向…作正式讲话;对…发表演说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>address</b> a group of people, you give a speech to them.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向…说话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>address</b> someone or <b>address</b> a remark <b>to</b> them, you say something to them.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">称呼（某人）；给…冠以（某种称呼）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>address</b> someone by a name or a title such as 'sir', you call them that name or title when you talk or write to them.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对付；处理；设法了解并解决</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>address</b> a problem or task or if you <b>address yourself to</b> it, you try to understand it or deal with it.  \r \r\r\r</span>",
+    "display_hwd": "address",
+    "ext": "",
+    "hwd": "address",
+    "phonetics": "英\r[əˈdres]美\r[ˈædres]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

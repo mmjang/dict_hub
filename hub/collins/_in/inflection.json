@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">变音;转调;语调的抑扬变化</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>inflection</b> in someone's voice is a change in its tone or pitch as they are speaking.  \r \r\r\r</span>",
+    "display_hwd": "inflection",
+    "ext": "",
+    "hwd": "inflection",
+    "phonetics": "英\r[ɪnˈflekʃn]美\r[ɪnˈflɛkʃən]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(词形的)屈折变化;屈折形式</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, an <b>inflection</b> is a change in the form of a word that shows its grammatical function, for example a change that makes a noun plural or makes a verb into the past tense.  \r \r\r\r</span>",
+    "display_hwd": "inflection",
+    "ext": "",
+    "hwd": "inflection",
+    "phonetics": "英\r[ɪnˈflekʃn]美\r[ɪnˈflɛkʃən]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

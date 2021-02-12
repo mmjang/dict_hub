@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（会场或街市上摆的）书报摊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bookstall</b> is a long table from which books and magazines are sold, for example at a conference or in a street market.  \r \r\r\r</span>",
+    "display_hwd": "bookstall",
+    "ext": "",
+    "hwd": "bookstall",
+    "phonetics": "英\r[ˈbʊkstɔ:l]美\r[ˈbʊkˌstɔl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常见于火车站或机场的）书报屋，小书店，书亭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bookstall</b> is a small shop with an open front where books and magazines are sold. Bookstalls are usually found in railway stations and airports.  \r \r\r\r</span>",
+    "display_hwd": "bookstall",
+    "ext": "",
+    "hwd": "bookstall",
+    "phonetics": "英\r[ˈbʊkstɔ:l]美\r[ˈbʊkˌstɔl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

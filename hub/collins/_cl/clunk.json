@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(重物相撞的)哐的一声，哐啷声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>clunk</b> is a sound made by a heavy object hitting something hard.  \r \r\r\r</span>",
+    "display_hwd": "clunk",
+    "ext": "",
+    "hwd": "clunk",
+    "phonetics": "英\r[klʌŋk]美\r[klʌŋk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">哐啷一声撞上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a heavy object <b>clunks</b> on or against something, it hits it and makes a dull sound.  \r \r\r\r</span>",
+    "display_hwd": "clunk",
+    "ext": "",
+    "hwd": "clunk",
+    "phonetics": "英\r[klʌŋk]美\r[klʌŋk]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

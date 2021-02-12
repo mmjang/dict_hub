@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(数字) 1,000</span>",
+    "def_en": "<span class=\"endef\"><b>A thousand</b> or <b>one thousand</b> is the number 1,000.  \r \r\r\r</span>",
+    "display_hwd": "thousand",
+    "ext": "",
+    "hwd": "thousand",
+    "phonetics": "英\r[ˈθaʊznd]美\r[ˈθaʊzənd]",
+    "phrase": "",
+    "sense": "★★★★★ num\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">数千;成千上万</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to <b>thousands of</b> things or people, you are emphasizing that there are very many of them.  \r \r\r\r</span>",
+    "display_hwd": "thousand",
+    "ext": "",
+    "hwd": "thousand",
+    "phonetics": "英\r[ˈθaʊznd]美\r[ˈθaʊzənd]",
+    "phrase": "",
+    "sense": "★★★★★ quant\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>a thousand and one</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://one\">one</a></b>; \r \r\r\r</span>",
+    "display_hwd": "thousand",
+    "ext": "",
+    "hwd": "thousand",
+    "phonetics": "英\r[ˈθaʊznd]美\r[ˈθaʊzənd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

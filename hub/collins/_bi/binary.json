@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">二进制的，二进位的(尤用于计算机领域)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>binary</b> system expresses numbers using only the two digits 0 and 1. It is used especially in computing.  \r \r\r\r</span>",
+    "display_hwd": "binary",
+    "ext": "",
+    "hwd": "binary",
+    "phonetics": "英\r[ˈbaɪnəri]美\r[ˈbaɪnəri]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">二进制</span>",
+    "def_en": "<span class=\"endef\"><b>Binary</b> is the binary system of expressing numbers.  \r \r\r\r</span>",
+    "display_hwd": "binary",
+    "ext": "",
+    "hwd": "binary",
+    "phonetics": "英\r[ˈbaɪnəri]美\r[ˈbaɪnəri]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">二元的；有两个不同部分的</span>",
+    "def_en": "<span class=\"endef\"><b>Binary</b> describes something that has two different parts.  \r \r\r\r</span>",
+    "display_hwd": "binary",
+    "ext": "",
+    "hwd": "binary",
+    "phonetics": "英\r[ˈbaɪnəri]美\r[ˈbaɪnəri]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

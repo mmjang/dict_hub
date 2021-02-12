@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（数字）0</span>",
+    "def_en": "<span class=\"endef\"><b>Zero</b> is the number 0.  \r \r\r\r</span>",
+    "display_hwd": "zero",
+    "ext": "",
+    "hwd": "zero",
+    "phonetics": "英\r[ˈzɪərəʊ]美\r[ˈzɪroʊ]",
+    "phrase": "",
+    "sense": "★★★★★ num\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（气温的）零度</span>",
+    "def_en": "<span class=\"endef\"><b>Zero</b> is a temperature of 0˚. It is freezing point on the Centigrade and Celsius scales, and 32˚  below freezing point on the Fahrenheit scale.  \r \r\r\r</span>",
+    "display_hwd": "zero",
+    "ext": "",
+    "hwd": "zero",
+    "phonetics": "英\r[ˈzɪərəʊ]美\r[ˈzɪroʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毫无;没有</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>zero</b> to say that there is none at all of the thing mentioned.  \r \r\r\r</span>",
+    "display_hwd": "zero",
+    "ext": "",
+    "hwd": "zero",
+    "phonetics": "英\r[ˈzɪərəʊ]美\r[ˈzɪroʊ]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

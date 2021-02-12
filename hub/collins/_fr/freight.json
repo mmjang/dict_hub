@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">货运</span>",
+    "def_en": "<span class=\"endef\"><b>Freight</b> is the movement of goods by lorries, trains, ships, or aeroplanes.  \r \r\r\r</span>",
+    "display_hwd": "freight",
+    "ext": "",
+    "hwd": "freight",
+    "phonetics": "英\r[freɪt]美\r[fret]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(货运)货物</span>",
+    "def_en": "<span class=\"endef\"><b>Freight</b> is goods that are transported by lorries, trains, ships, or aeroplanes.  \r \r\r\r</span>",
+    "display_hwd": "freight",
+    "ext": "",
+    "hwd": "freight",
+    "phonetics": "英\r[freɪt]美\r[fret]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以货运运输</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When goods <b>are freighted</b>, they are transported in large quantities over a long distance.  \r \r\r\r</span>",
+    "display_hwd": "freight",
+    "ext": "",
+    "hwd": "freight",
+    "phonetics": "英\r[freɪt]美\r[fret]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

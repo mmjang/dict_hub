@@ -1,0 +1,392 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">眼睛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>eyes</b> are the parts of your body with which you see.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">打量；端详</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>eye</b> someone or something in a particular way, you look at them carefully in that way.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">眼光;眼力;鉴赏力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>eye</b> when you are talking about a person's ability to judge things or about the way in which they are considering or dealing with things.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电）眼;（红外）眼;眼状探测装置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An electric <b>eye</b> or infrared <b>eye</b> is a device which can recognize the presence of people or objects by detecting the light or heat coming from them.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拍摄对象；镜头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes talk about the <b>eye</b> of the camera when they are talking about something being filmed or photographed, or the way something appears in a photograph or film.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（马铃薯的）芽眼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>eye</b> on a potato is one of the dark spots from which new stems grow.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">扣眼;钩眼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>eye</b> is a small metal loop which a hook fits into, as a fastening on a piece of clothing.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">针眼；针鼻儿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>eye</b> of a needle is the small hole at one end which the thread passes through.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">风眼;气旋中心</span>",
+    "def_en": "<span class=\"endef\"><b>The eye of</b> a storm, tornado, or hurricane is the centre of it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://black eye\">black eye</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://private eye\">private eye</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://shut-eye\">shut-eye</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…眼皮底下；就在…眼前</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something happens <b>before</b> your <b>eyes</b> ,<b>in front of</b> your <b>eyes</b>, or <b>under</b> your <b>eyes</b>, you are emphasizing that it happens where you can see it clearly and often implying that it is surprising or unpleasant.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">瞟一眼;匆匆查看；浏览</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>cast</b> your <b>eye</b> or <b>run</b> your <b>eye</b> over something, you look at it or read it quickly.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">闯入眼帘；突然引起…的注意</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://eye-catching\">eye-catching</a></b>;\r If something <b>catches</b> your <b>eye</b>, you suddenly notice it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">吸引…的注意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>catch</b> someone's <b>eye</b>, you do something to attract their attention, so that you can speak to them.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">看见;瞧见</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>clap eyes on</b> someone or something, or <b>set</b> or <b>lay eyes on</b> them, means to see them.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…目光交流/躲避…的目光</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>make eye contact with</b> someone, you look at them at the same time as they look at you, so that you are both aware that you are looking at each other. If you <b>avoid eye contact with</b> someone, you deliberately do not look straight at them because you feel awkward or embarrassed.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…视而不见;不理会</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>close</b> your <b>eyes to</b> something bad or if you <b>shut</b> your <b>eyes to</b> it, you ignore it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">痛哭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>cry</b> your <b>eyes out</b>, you cry very hard.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以眼还眼;以牙还牙;一报还一报</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>an eye for an eye</b>' or '<b>an eye for an eye and a tooth for a tooth</b>' to refer to the idea that people should be punished according to the way in which they offended, for example if they hurt someone, they should be hurt equally badly in return.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">望不到边;一望无垠</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is something <b>as far as the eye can see</b>, there is a lot of it and you cannot see anything else beyond it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…有眼力；对…有鉴别力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>has an eye for</b> something, you mean that they are good at noticing it or making judgments about it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…眼里;在…看来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use expressions such as <b>in</b> his <b>eyes</b> or <b>to</b> her <b>eyes</b> to indicate that you are reporting someone's opinion and that other people might think differently.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">留意;瞪大眼睛;密切注意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep</b> your <b>eyes open</b> or <b>keep an eye out for</b> someone or something, you watch for them carefully.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">密切留意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you tell someone to <b>keep</b> their <b>eyes peeled for</b> something, you are telling them to watch very carefully for it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">留意；密切注意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep an eye on</b> something or someone, you watch them carefully, for example to make sure that they are satisfactory or safe, or not causing trouble.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">含情脉脉地看着；向…抛媚眼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>make eyes at</b> someone, you look at them in a way which shows that you find them attractive and which is intended to get their attention.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（事情）比看起来复杂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>there's more to</b> this <b>than meets the eye</b>' when you think a situation is not as simple as it seems to be.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指令人吃惊的或印象深刻的事情）映入…的眼帘，呈现在…眼前</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something, especially something surprising or impressive, <b>meets</b> your <b>eyes</b>, you see it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">所有目光都聚集在…上；所有人都在关注</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>all eyes are on</b> something or that the <b>eyes of the world are on</b> something, you mean that everyone is paying careful attention to it and what will happen.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">注视；密切注意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>has</b> their <b>eye on</b> you, they are watching you carefully to see what you do.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">看上;相中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>have</b> your <b>eye on</b> something, you want to have it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">心中有数；心知肚明</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you did something <b>with</b> your <b>eyes open</b> or <b>with</b> your <b>eyes wide open</b>, you mean that you knew about the problems and difficulties that you were likely to have.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使…看清楚；使…恍然大悟</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>opens</b> your <b>eyes</b>, it makes you aware that something is different from the way that you thought it was.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…看法一致</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>see eye to eye with</b> someone, you agree with them and have the same opinions and views.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phr-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">争议的中心；风口浪尖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is at <b>the eye of the storm</b>, you mean they are the main subject of a public disagreement.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">将…的视线从…上移开</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>take</b> your <b>eyes off</b> the thing you have been watching or looking at, you stop looking at it.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…的视角</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone sees or considers something <b>through</b> your <b>eyes</b>, they consider it in the way that you do, from your point of view.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">深陷于…中；（常指）忙得不可开交</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you are <b>up to</b> your <b>eyes in</b> something, you are emphasizing that you have a lot of it to deal with, and often that you are very busy.  \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>the apple of</b> your <b>eye</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://apple\">apple</a></b>; \rto turn a blind eye<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://blind\">blind</a></b>; \rto feast your eyes<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://feast\">feast</a></b>; \rto look someone in the eye<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://look\">look</a></b>; \rin your mind's eye<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mind\">mind</a></b>; \rthe naked eye<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://naked\">naked</a></b>; \rto pull the wool over someone's eyes<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wool\">wool</a></b>; \r \r\r\r</span>",
+    "display_hwd": "eye",
+    "ext": "",
+    "hwd": "eye",
+    "phonetics": "英\r[aɪ]美\r[aɪ]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

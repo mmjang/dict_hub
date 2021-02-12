@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">将…分包；将…转包</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one firm <b>subcontracts</b> part of its work <b>to</b> another firm, it pays the other firm to do part of the work that it has been employed to do.  \r \r\r\r</span>",
+    "display_hwd": "subcontract",
+    "ext": "",
+    "hwd": "subcontract",
+    "phonetics": "英\r[ˌsʌbkənˈtrækt]美\r[ˌsʌbˈkɑntrækt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">分包合同;转包契约</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>subcontract</b> is a contract between a firm which is being employed to do a job and another firm which agrees to do part of that job.  \r \r\r\r</span>",
+    "display_hwd": "subcontract",
+    "ext": "",
+    "hwd": "subcontract",
+    "phonetics": "英\r[ˌsʌbkənˈtrækt]美\r[ˌsʌbˈkɑntrækt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

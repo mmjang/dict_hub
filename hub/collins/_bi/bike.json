@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">自行车；摩托车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bike</b> is a bicycle or a motorcycle.  \r \r\r\r</span>",
+    "display_hwd": "bike",
+    "ext": "",
+    "hwd": "bike",
+    "phonetics": "英\r[baɪk]美\r[baɪk]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">骑自行车（或摩托车）去（某处）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>bike</b> somewhere means to go there on a bicycle.  \r \r\r\r</span>",
+    "display_hwd": "bike",
+    "ext": "",
+    "hwd": "bike",
+    "phonetics": "英\r[baɪk]美\r[baɪk]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">装载；装满</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>load</b> a vehicle or a container, you put a large quantity of things into it.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">负载；重荷</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>load</b> is something, usually a large quantity or heavy object, which is being carried.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一批待洗的衣物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>load</b> is a quantity of clothes or sheets which need washing and which are washed together in a washing machine.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">很多；大量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to <b>a load of</b> people or things or <b>loads of</b> them, you are emphasizing that there are a lot of them.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ quant\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给（枪、炮等）装填弹药</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone <b>loads</b> a weapon such as a gun, they put a bullet or missile in it so that it is ready to use.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把（胶卷、磁带等）装入；将（数据）载入</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>load</b> a camera or other piece of equipment means to put film, tape, or data into it so that it is ready to use.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">工作量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the amount of work you have to do as a <b>load</b> .  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指电网或计算机的）负荷</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>load</b> of a system or piece of equipment, especially a system supplying electricity or a computer, is the extent to which it is being used at a particular time.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">荷载；压力；负担</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>load on</b> something is the amount of weight that is pressing down on it or the amount of strain that it is under.  \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://loaded\">loaded</a></b>;\r   \ra load off your mind<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mind\">mind</a></b>; \r \r\r\r</span>",
+    "display_hwd": "loading",
+    "ext": "",
+    "hwd": "loading",
+    "phonetics": "英\r[ˈləʊdɪŋ]美\r[ˈloʊdɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

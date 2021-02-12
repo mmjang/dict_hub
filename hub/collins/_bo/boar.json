@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">野猪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>boar</b> or a <b>wild boar</b> is a wild pig.  \r \r\r\r</span>",
+    "display_hwd": "boar",
+    "ext": "",
+    "hwd": "boar",
+    "phonetics": "英\r[bɔ:(r)]美\r[bɔr,bor]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">公猪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>boar</b> is a male pig.  \r \r\r\r</span>",
+    "display_hwd": "boar",
+    "ext": "",
+    "hwd": "boar",
+    "phonetics": "英\r[bɔ:(r)]美\r[bɔr,bor]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

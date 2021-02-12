@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">马驹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>foal</b> is a very young horse.  \r \r\r\r</span>",
+    "display_hwd": "foal",
+    "ext": "",
+    "hwd": "foal",
+    "phonetics": "英\r[fəʊl]美\r[foʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">下驹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a female horse <b>foals</b>, it gives birth.  \r \r\r\r</span>",
+    "display_hwd": "foal",
+    "ext": "",
+    "hwd": "foal",
+    "phonetics": "英\r[fəʊl]美\r[foʊl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

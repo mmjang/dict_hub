@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">睡觉</span>",
+    "def_en": "<span class=\"endef\"><b>Kip</b> is sleep.  \r \r\r\r</span>",
+    "display_hwd": "kip",
+    "ext": "",
+    "hwd": "kip",
+    "phonetics": "英\r[kɪp]美\r[kɪp]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常指不是在自己家或床上）睡觉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>kip</b> somewhere, usually somewhere that is not your own home or bed, you sleep there.  \r \r\r\r</span>",
+    "display_hwd": "kip",
+    "ext": "",
+    "hwd": "kip",
+    "phonetics": "英\r[kɪp]美\r[kɪp]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

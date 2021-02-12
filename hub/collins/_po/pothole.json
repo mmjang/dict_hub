@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（因来往车辆和恶劣天气而造成的）路面坑洼，路面坑洞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pothole</b> is a large hole in the surface of a road, caused by traffic and bad weather.  \r \r\r\r</span>",
+    "display_hwd": "pothole",
+    "ext": "",
+    "hwd": "pothole",
+    "phonetics": "英\r[ˈpɒthəʊl]美\r[ˈpɑthoʊl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常指通往地下洞穴和地道的）锅穴， 壶穴</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pothole</b> is a deep hole in the ground. Potholes often lead to underground caves and tunnels.  \r \r\r\r</span>",
+    "display_hwd": "pothole",
+    "ext": "",
+    "hwd": "pothole",
+    "phonetics": "英\r[ˈpɒthəʊl]美\r[ˈpɑthoʊl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

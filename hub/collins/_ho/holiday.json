@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（外出度过的）假期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>holiday</b> is a period of time during which you relax and enjoy yourself away from home. People sometimes refer to their holiday as their <b>holidays</b>.  \r \r\r\r</span>",
+    "display_hwd": "holiday",
+    "ext": "",
+    "hwd": "holiday",
+    "phonetics": "英\r[ˈhɒlədeɪ]美\r[ˈhɑlədeɪ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">公众假日;节日</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bank holiday\">bank holiday</a></b>;\r A <b>holiday</b> is a day when people do not go to work or school because of a religious or national festival.  \r \r\r\r</span>",
+    "display_hwd": "holiday",
+    "ext": "",
+    "hwd": "holiday",
+    "phonetics": "英\r[ˈhɒlədeɪ]美\r[ˈhɑlədeɪ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（学校的）假期</span>",
+    "def_en": "<span class=\"endef\"><b>The holidays</b> are the time when children do not have to go to school.  \r \r\r\r</span>",
+    "display_hwd": "holiday",
+    "ext": "",
+    "hwd": "holiday",
+    "phonetics": "英\r[ˈhɒlədeɪ]美\r[ˈhɑlədeɪ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（不上班的）休假期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have a particular number of days' or weeks' <b>holiday</b>, you do not have to go to work for that number of days or weeks.  \r \r\r\r</span>",
+    "display_hwd": "holiday",
+    "ext": "",
+    "hwd": "holiday",
+    "phonetics": "英\r[ˈhɒlədeɪ]美\r[ˈhɑlədeɪ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（外出）度假</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are holidaying</b> in a place away from home, you are on holiday there.  \r \r\r\r</span>",
+    "display_hwd": "holiday",
+    "ext": "",
+    "hwd": "holiday",
+    "phonetics": "英\r[ˈhɒlədeɪ]美\r[ˈhɑlədeɪ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

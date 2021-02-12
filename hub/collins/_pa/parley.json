@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（对立双方的）和谈，会谈，谈判</span>",
+    "def_en": "<span class=\"endef\"><b>A parley</b> is a discussion between two opposing people or groups in which both sides try to come to an agreement.  \r \r\r\r</span>",
+    "display_hwd": "parley",
+    "ext": "",
+    "hwd": "parley",
+    "phonetics": "英\r[ˈpɑ:li]美\r[ˈpɑrli]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（对立双方）和谈，会谈，谈判</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When two opposing people or groups <b>parley</b>, they meet to discuss something in order to come to an agreement.  \r \r\r\r</span>",
+    "display_hwd": "parley",
+    "ext": "",
+    "hwd": "parley",
+    "phonetics": "英\r[ˈpɑ:li]美\r[ˈpɑrli]",
+    "phrase": "",
+    "sense": "v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

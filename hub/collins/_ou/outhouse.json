@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">附属建筑；外围建筑；外屋</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>outhouse</b> is a small building attached to a house or very close to the house, used, for example, for storing things in.  \r \r\r\r</span>",
+    "display_hwd": "outhouse",
+    "ext": "",
+    "hwd": "outhouse",
+    "phonetics": "英\r[ˈaʊthaʊs]美\r[ˈaʊtˌhaʊs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">户外厕所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>outhouse</b> is an outside toilet.  \r \r\r\r</span>",
+    "display_hwd": "outhouse",
+    "ext": "",
+    "hwd": "outhouse",
+    "phonetics": "英\r[ˈaʊthaʊs]美\r[ˈaʊtˌhaʊs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

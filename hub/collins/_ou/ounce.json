@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">盎司（英国和美国的重量单位，1磅合16盎司，1盎司等于28.35克）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ounce</b> is a unit of weight used in Britain and the USA. There are sixteen ounces in a pound and one ounce is equal to 28.35 grams.  \r \r\r\r</span>",
+    "display_hwd": "ounce",
+    "ext": "",
+    "hwd": "ounce",
+    "phonetics": "英\r[aʊns]美\r[aʊns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">少许；少量；一点点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a very small amount of something, such as a quality or characteristic, as an <b>ounce</b> .  \r \r\r\r</span>",
+    "display_hwd": "ounce",
+    "ext": "",
+    "hwd": "ounce",
+    "phonetics": "英\r[aʊns]美\r[aʊns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fluid ounce\">fluid ounce</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "ounce",
+    "ext": "",
+    "hwd": "ounce",
+    "phonetics": "英\r[aʊns]美\r[aʊns]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">总数；总额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>amount of</b> something is how much there is, or how much you have, need, or get.  \r \r\r\r</span>",
+    "display_hwd": "amount",
+    "ext": "",
+    "hwd": "amount",
+    "phonetics": "英\r[əˈmaʊnt]美\r[əˈmaʊnt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">合计；共计</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>amounts to</b> a particular total, all the parts of it add up to that total.  \r \r\r\r</span>",
+    "display_hwd": "amount",
+    "ext": "",
+    "hwd": "amount",
+    "phonetics": "英\r[əˈmaʊnt]美\r[əˈmaʊnt]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that there is <b>any amount of</b> something, there is a lot of it. If you say that there are <b>any amount of</b> people or things, there are many people or things.  \r \r\r\r</span>",
+    "display_hwd": "amount",
+    "ext": "",
+    "hwd": "amount",
+    "phonetics": "英\r[əˈmaʊnt]美\r[əˈmaʊnt]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

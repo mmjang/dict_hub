@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">数字无线电</span>",
+    "def_en": "<span class=\"endef\"><b>Digital radio</b> is radio in which the signals are transmitted in digital form and decoded by the radio receiver.  \r \r\r\r</span>",
+    "display_hwd": "digital radio",
+    "ext": "",
+    "hwd": "digital radio",
+    "phonetics": "英\r[ˈdidʒitəlˈreidiəu]美\r[ˈdɪdʒɪtlˈredio]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">数字收音机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>digital radio</b> is a radio that can receive digital signals.  \r \r\r\r</span>",
+    "display_hwd": "digital radio",
+    "ext": "",
+    "hwd": "digital radio",
+    "phonetics": "英\r[ˈdidʒitəlˈreidiəu]美\r[ˈdɪdʒɪtlˈredio]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

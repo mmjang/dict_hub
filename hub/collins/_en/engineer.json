@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">工程师；设计师</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://chemical engineer\">chemical engineer</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://civil engineer\">civil engineer</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://electrical engineer\">electrical engineer</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://sound engineer\">sound engineer</a></b>;\r An <b>engineer</b> is a person who uses scientific knowledge to design, construct, and maintain engines and machines or structures such as roads, railways, and bridges.  \r \r\r\r</span>",
+    "display_hwd": "engineer",
+    "ext": "",
+    "hwd": "engineer",
+    "phonetics": "英\r[ˌendʒɪˈnɪə(r)]美\r[ˌendʒɪˈnɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">机械修理工;电气修理工；技师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>engineer</b> is a person who repairs mechanical or electrical devices.  \r \r\r\r</span>",
+    "display_hwd": "engineer",
+    "ext": "",
+    "hwd": "engineer",
+    "phonetics": "英\r[ˌendʒɪˈnɪə(r)]美\r[ˌendʒɪˈnɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（船上的）轮机手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>engineer</b> is a person who is responsible for maintaining the engine of a ship while it is at sea.  \r \r\r\r</span>",
+    "display_hwd": "engineer",
+    "ext": "",
+    "hwd": "engineer",
+    "phonetics": "英\r[ˌendʒɪˈnɪə(r)]美\r[ˌendʒɪˈnɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">设计制造（车辆、桥梁、建筑物等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a vehicle, bridge, or building <b>is engineered</b>, it is planned and constructed using scientific methods.  \r \r\r\r</span>",
+    "display_hwd": "engineer",
+    "ext": "",
+    "hwd": "engineer",
+    "phonetics": "英\r[ˌendʒɪˈnɪə(r)]美\r[ˌendʒɪˈnɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（巧妙或间接地）安排，筹划</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>engineer</b> an event or situation, you arrange for it to happen, in a clever or indirect way.  \r \r\r\r</span>",
+    "display_hwd": "engineer",
+    "ext": "",
+    "hwd": "engineer",
+    "phonetics": "英\r[ˌendʒɪˈnɪə(r)]美\r[ˌendʒɪˈnɪr]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

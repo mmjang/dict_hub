@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">曲线;弧线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>curve</b> is a smooth, gradually bending line, for example part of the edge of a circle.  \r \r\r\r</span>",
+    "display_hwd": "curve",
+    "ext": "",
+    "hwd": "curve",
+    "phonetics": "英\r[kɜ:v]美\r[kɜrv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)弯曲;(使)呈曲线形</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>curves</b>, or if someone or something <b>curves</b> it, it has the shape of a curve.  \r \r\r\r</span>",
+    "display_hwd": "curve",
+    "ext": "",
+    "hwd": "curve",
+    "phonetics": "英\r[kɜ:v]美\r[kɜrv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">沿曲线运动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>curves</b>, it moves in a curve, for example through the air.  \r \r\r\r</span>",
+    "display_hwd": "curve",
+    "ext": "",
+    "hwd": "curve",
+    "phonetics": "英\r[kɜ:v]美\r[kɜrv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指用图表表示的)曲线变化</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://learning curve\">learning curve</a></b>;\r You can refer to a change in something as a particular <b>curve</b>, especially when it is represented on a graph.  \r \r\r\r</span>",
+    "display_hwd": "curve",
+    "ext": "",
+    "hwd": "curve",
+    "phonetics": "英\r[kɜ:v]美\r[kɜrv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使惊奇;使感到意外;给…出难题</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>throws</b> you <b>a curve</b> or if they <b>throw</b> you <b>a curve ball</b>, they surprise you by doing something you do not expect.  \r \r\r\r</span>",
+    "display_hwd": "curve",
+    "ext": "",
+    "hwd": "curve",
+    "phonetics": "英\r[kɜ:v]美\r[kɜrv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(等候的)一列人，一队车辆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>queue</b> is a line of people or vehicles that are waiting for something.  \r \r\r\r</span>",
+    "display_hwd": "queue",
+    "ext": "",
+    "hwd": "queue",
+    "phonetics": "英\r[kju:]美\r[kju]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(为得到某机会而等待的)长列，长队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say there is a <b>queue of</b> people who want to do or have something, you mean that a lot of people are waiting for an opportunity to do it or have it.  \r \r\r\r</span>",
+    "display_hwd": "queue",
+    "ext": "",
+    "hwd": "queue",
+    "phonetics": "英\r[kju:]美\r[kju]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">排队(等候)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people <b>queue</b>, they stand in a line waiting for something.  \r \r\r\r</span>",
+    "display_hwd": "queue",
+    "ext": "",
+    "hwd": "queue",
+    "phonetics": "英\r[kju:]美\r[kju]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">队列(指等待计算机处理的任务列表)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>queue</b> is a list of computer tasks which will be done in order.  \r \r\r\r</span>",
+    "display_hwd": "queue",
+    "ext": "",
+    "hwd": "queue",
+    "phonetics": "英\r[kju:]美\r[kju]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使(待处理任务)成队列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>queue</b> a number of computer tasks means to arrange them to be done in order.  \r \r\r\r</span>",
+    "display_hwd": "queue",
+    "ext": "",
+    "hwd": "queue",
+    "phonetics": "英\r[kju:]美\r[kju]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

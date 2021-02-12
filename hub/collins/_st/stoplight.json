@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">交通信号灯;红绿灯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stoplight</b> is a set of coloured lights which controls the flow of traffic on a road.  \r \r\r\r</span>",
+    "display_hwd": "stoplight",
+    "ext": "",
+    "hwd": "stoplight",
+    "phonetics": "英\r['stɒpˌlɑɪt]美\r[ˈstɑpˌlaɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(车辆的)后灯，尾灯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>stoplights</b> on a car or other vehicle are the two red lights at the back.  \r \r\r\r</span>",
+    "display_hwd": "stoplight",
+    "ext": "",
+    "hwd": "stoplight",
+    "phonetics": "英\r['stɒpˌlɑɪt]美\r[ˈstɑpˌlaɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">交通事故；车祸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>accident</b> happens when a vehicle hits a person, an object, or another vehicle, causing injury or damage.  \r \r\r\r</span>",
+    "display_hwd": "accident",
+    "ext": "",
+    "hwd": "accident",
+    "phonetics": "英\r[ˈæksɪdənt]美\r[ˈæksɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（不幸的）意外遭遇，不测事件;事故</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone has an <b>accident</b>, something unpleasant happens to them that was not intended, sometimes causing injury or death.  \r \r\r\r</span>",
+    "display_hwd": "accident",
+    "ext": "",
+    "hwd": "accident",
+    "phonetics": "英\r[ˈæksɪdənt]美\r[ˈæksɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">意外；偶然</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>by accident</b>, it happens completely by chance.  \r \r\r\r</span>",
+    "display_hwd": "accident",
+    "ext": "",
+    "hwd": "accident",
+    "phonetics": "英\r[ˈæksɪdənt]美\r[ˈæksɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可能发生意外的事物（或人）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe something or someone as <b>an accident waiting to happen</b>, you mean that they are likely to be a cause of danger in the future, for example because they are in poor condition or behave in an unpredictable way.  \r \r\r\r</span>",
+    "display_hwd": "accident",
+    "ext": "",
+    "hwd": "accident",
+    "phonetics": "英\r[ˈæksɪdənt]美\r[ˈæksɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">并非偶然;事出有因</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You begin a sentence with '<b>it's no accident</b>' if you want to suggest that something was done deliberately or has a logical explanation, although it might give the impression of having happened by chance.  \r \r\r\r</span>",
+    "display_hwd": "accident",
+    "ext": "",
+    "hwd": "accident",
+    "phonetics": "英\r[ˈæksɪdənt]美\r[ˈæksɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

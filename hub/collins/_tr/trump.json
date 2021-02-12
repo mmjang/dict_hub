@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(牌戏中的)王牌，主牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a game of cards, <b>trumps</b> is the suit which is chosen to have the highest value in one particular game.  \r \r\r\r</span>",
+    "display_hwd": "trump",
+    "ext": "",
+    "hwd": "trump",
+    "phonetics": "英\r[trʌmp]美\r[trʌmp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(一张)王牌，主牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a game of cards, a <b>trump</b> is a playing card which belongs to the suit which has been chosen as trumps.  \r \r\r\r</span>",
+    "display_hwd": "trump",
+    "ext": "",
+    "hwd": "trump",
+    "phonetics": "英\r[trʌmp]美\r[trʌmp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">胜过;压过</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>trump</b> what someone has said or done, you beat it by saying or doing something else that seems better.  \r \r\r\r</span>",
+    "display_hwd": "trump",
+    "ext": "",
+    "hwd": "trump",
+    "phonetics": "英\r[trʌmp]美\r[trʌmp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">王牌;绝招;杀手锏</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>trump card</b> is something powerful that you can use or do, which gives you an advantage over someone.  \r \r\r\r</span>",
+    "display_hwd": "trump",
+    "ext": "",
+    "hwd": "trump",
+    "phonetics": "英\r[trʌmp]美\r[trʌmp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">意外地胜利;意外地成功</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>came up trumps</b>, you mean that they did something successfully, often when they were not expected to.  \r \r\r\r</span>",
+    "display_hwd": "trump",
+    "ext": "",
+    "hwd": "trump",
+    "phonetics": "英\r[trʌmp]美\r[trʌmp]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（飞机的）黑匣子，飞行数据记录仪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>black box</b> is an electronic device in an aircraft which records information about its flights. Black boxes are often used to provide evidence about accidents.  \r \r\r\r</span>",
+    "display_hwd": "black box",
+    "ext": "",
+    "hwd": "black box",
+    "phonetics": "英\r[blækbɔks]美\r[blækbɑks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">黑箱（知道结果但不知道其工作原理的系统或仪器）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a system or device as a <b>black box</b> when you know that it produces a particular result but you have no understanding of how it works.  \r \r\r\r</span>",
+    "display_hwd": "black box",
+    "ext": "",
+    "hwd": "black box",
+    "phonetics": "英\r[blækbɔks]美\r[blækbɑks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

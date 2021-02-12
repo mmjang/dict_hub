@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">诗;诗体;韵文</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://blank verse\">blank verse</a></b>;\r <b>Verse</b> is writing arranged in lines which have rhythm and which often rhyme at the end.  \r \r\r\r</span>",
+    "display_hwd": "verse",
+    "ext": "",
+    "hwd": "verse",
+    "phonetics": "英\r[vɜ:s]美\r[vɜrs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诗节;诗行；（歌曲的）段落;（《圣经》、《古兰经》等中的）节</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>verse</b> is one of the parts into which a poem, a song, or a chapter of the Bible or the Koran is divided.  \r \r\r\r</span>",
+    "display_hwd": "verse",
+    "ext": "",
+    "hwd": "verse",
+    "phonetics": "英\r[vɜ:s]美\r[vɜrs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>chapter and verse</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://chapter\">chapter</a></b>; \r \r\r\r</span>",
+    "display_hwd": "verse",
+    "ext": "",
+    "hwd": "verse",
+    "phonetics": "英\r[vɜ:s]美\r[vɜrs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ "
+  }
+]

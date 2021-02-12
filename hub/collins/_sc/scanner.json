@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">扫描设备;扫描仪;扫描器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scanner</b> is a machine which is used to examine, identify, or record things, for example by using a beam of light, sound, or X-rays.  \r \r\r\r</span>",
+    "display_hwd": "scanner",
+    "ext": "",
+    "hwd": "scanner",
+    "phonetics": "英\r[ˈskænə(r)]美\r[ˈskænɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用来将图片或文件复制到电脑上的)扫描仪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scanner</b> is a piece of computer equipment that you use for copying a picture or document onto a computer.  \r \r\r\r</span>",
+    "display_hwd": "scanner",
+    "ext": "",
+    "hwd": "scanner",
+    "phonetics": "英\r[ˈskænə(r)]美\r[ˈskænɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

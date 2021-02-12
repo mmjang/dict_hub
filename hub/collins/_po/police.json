@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">警察部门；警察机关；警方</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>police</b> are the official organization that is responsible for making sure that people obey the law.  \r \r\r\r</span>",
+    "display_hwd": "police",
+    "ext": "",
+    "hwd": "police",
+    "phonetics": "英\r[pəˈli:s]美\r[pəˈlis]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">警察</span>",
+    "def_en": "<span class=\"endef\"><b>Police</b> are men and women who are members of the official organization that is responsible for making sure that people obey the law.  \r \r\r\r</span>",
+    "display_hwd": "police",
+    "ext": "",
+    "hwd": "police",
+    "phonetics": "英\r[pəˈli:s]美\r[pəˈlis]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">维持…的治安；守卫；保卫</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://secret police\">secret police</a></b>;\r If the police or military forces <b>police</b> an area or event, they make sure that law and order is preserved in that area or at that event.  \r \r\r\r</span>",
+    "display_hwd": "police",
+    "ext": "",
+    "hwd": "police",
+    "phonetics": "英\r[pəˈli:s]美\r[pəˈlis]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">管理；监督</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or group in authority <b>polices</b> a law or an area of public life, they make sure that what is done is fair and legal.  \r \r\r\r</span>",
+    "display_hwd": "police",
+    "ext": "",
+    "hwd": "police",
+    "phonetics": "英\r[pəˈli:s]美\r[pəˈlis]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

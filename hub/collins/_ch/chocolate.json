@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">巧克力</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://milk chocolate\">milk chocolate</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://plain chocolate\">plain chocolate</a></b>;\r <b>Chocolate</b> is a sweet hard food made from cocoa beans. It is usually brown in colour and is eaten as a sweet.  \r \r\r\r</span>",
+    "display_hwd": "chocolate",
+    "ext": "",
+    "hwd": "chocolate",
+    "phonetics": "英\r[ˈtʃɒklət]美\r[ˈtʃɑklət]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通常用热牛奶调制的)巧克力热饮</span>",
+    "def_en": "<span class=\"endef\"><b>Chocolate</b> or <b>hot chocolate</b> is a drink made from a powder containing chocolate. It is usually made with hot milk.  \r \r\r\r</span>",
+    "display_hwd": "chocolate",
+    "ext": "",
+    "hwd": "chocolate",
+    "phonetics": "英\r[ˈtʃɒklət]美\r[ˈtʃɑklət]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常为盒装的）巧克力糖</span>",
+    "def_en": "<span class=\"endef\"><b>Chocolates</b> are small sweets or nuts covered with a layer of chocolate. They are usually sold in a box.  \r \r\r\r</span>",
+    "display_hwd": "chocolate",
+    "ext": "",
+    "hwd": "chocolate",
+    "phonetics": "英\r[ˈtʃɒklət]美\r[ˈtʃɑklət]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">深棕色;深褐色</span>",
+    "def_en": "<span class=\"endef\"><b>Chocolate</b> is used to describe things that are dark brown in colour.  \r \r\r\r</span>",
+    "display_hwd": "chocolate",
+    "ext": "",
+    "hwd": "chocolate",
+    "phonetics": "英\r[ˈtʃɒklət]美\r[ˈtʃɑklət]",
+    "phrase": "",
+    "sense": "★★★☆☆ colour\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

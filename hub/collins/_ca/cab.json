@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">出租车;的士;计程车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cab</b> is a taxi.  \r \r\r\r</span>",
+    "display_hwd": "cab",
+    "ext": "",
+    "hwd": "cab",
+    "phonetics": "英\r[kæb]美\r[kæb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(卡车、火车的)驾驶室，司机室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>cab</b> of a truck or train is the front part in which the driver sits.  \r \r\r\r</span>",
+    "display_hwd": "cab",
+    "ext": "",
+    "hwd": "cab",
+    "phonetics": "英\r[kæb]美\r[kæb]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

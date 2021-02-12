@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">防御（性）的;防卫（用）的;保护的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>defensive</b> to describe things that are intended to protect someone or something.  \r \r\r\r</span>",
+    "display_hwd": "defensively",
+    "ext": "",
+    "hwd": "defensively",
+    "phonetics": "英\r[dɪˈfensɪv]美\r[dɪˈfɛnsɪv]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表现在行为上）防御的，戒备的，卫护的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>defensive</b> is behaving in a way that shows they feel unsure or threatened.  \r \r\r\r</span>",
+    "display_hwd": "defensively",
+    "ext": "",
+    "hwd": "defensively",
+    "phonetics": "英\r[dɪˈfensɪv]美\r[dɪˈfɛnsɪv]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">处于防御姿态;处于守势</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>on the defensive</b>, they are trying to protect themselves or their interests because they feel unsure or threatened.  \r \r\r\r</span>",
+    "display_hwd": "defensively",
+    "ext": "",
+    "hwd": "defensively",
+    "phonetics": "英\r[dɪˈfensɪv]美\r[dɪˈfɛnsɪv]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(体育运动中的打法)防守（型）的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In sports, <b>defensive</b> play is play that is intended to prevent your opponent from scoring goals or points against you.  \r \r\r\r</span>",
+    "display_hwd": "defensively",
+    "ext": "",
+    "hwd": "defensively",
+    "phonetics": "英\r[dɪˈfensɪv]美\r[dɪˈfɛnsɪv]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

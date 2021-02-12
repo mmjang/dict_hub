@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">合伙用车;拼车;(美国英语中)拼车的人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>car pool</b> is an arrangement where a group of people take turns driving each other to work, or driving each other's children to school. In American English, <b>car pool</b> is sometimes used to refer simply to people travelling together in a car.  \r \r\r\r</span>",
+    "display_hwd": "car pool",
+    "ext": "",
+    "hwd": "car pool",
+    "phonetics": "英\r[kɑ:pu:l]美\r[kɑrpul]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">合伙用车;拼车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a group of people <b>car pool</b>, they take turns driving each other to work, or driving each other's children to school.  \r \r\r\r</span>",
+    "display_hwd": "car pool",
+    "ext": "",
+    "hwd": "car pool",
+    "phonetics": "英\r[kɑ:pu:l]美\r[kɑrpul]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(公司或组织的)公用车队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>car pool</b> is a number of cars that are owned by a company or organization for the use of its employees or members.  \r \r\r\r</span>",
+    "display_hwd": "car pool",
+    "ext": "",
+    "hwd": "car pool",
+    "phonetics": "英\r[kɑ:pu:l]美\r[kɑrpul]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

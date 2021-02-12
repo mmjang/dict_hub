@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">雾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When there is <b>fog</b>, there are tiny drops of water in the air which form a thick cloud and make it difficult to see things.  \r \r\r\r</span>",
+    "display_hwd": "fog",
+    "ext": "",
+    "hwd": "fog",
+    "phonetics": "英\r[fɒg]美\r[fɔg]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">烟雾;尘雾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fog</b> is an unpleasant cloud of something such as smoke inside a building or room.  \r \r\r\r</span>",
+    "display_hwd": "fog",
+    "ext": "",
+    "hwd": "fog",
+    "phonetics": "英\r[fɒg]美\r[fɔg]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">迷惑;迷雾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>fog</b> to refer to a situation which stops people from being able to notice things, understand things, or think clearly.  \r \r\r\r</span>",
+    "display_hwd": "fog",
+    "ext": "",
+    "hwd": "fog",
+    "phonetics": "英\r[fɒg]美\r[fɔg]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(窗户、镜子等)起雾;(使)变模糊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a window, mirror, or other glass surface <b>fogs</b> or <b>is fogged</b>, it becomes covered with very small drops of water so that you cannot see things clearly through it or in it.  \r \r\r\r</span>",
+    "display_hwd": "fog",
+    "ext": "",
+    "hwd": "fog",
+    "phonetics": "英\r[fɒg]美\r[fɔg]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

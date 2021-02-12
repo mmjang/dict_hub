@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">登记;注册</span>",
+    "def_en": "<span class=\"endef\"><b>Enrolment</b> is the act of enrolling at an institution or on a course.  \r \r\r\r</span>",
+    "display_hwd": "enrolment",
+    "ext": "",
+    "hwd": "enrolment",
+    "phonetics": "英\r[ɪnˈrəʊlmənt]美\r[ɪnˈroʊlmənt]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">登记人数;注册人数;入学人数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>enrolment</b> is the number of people who are enrolled at an institution or on a course.  \r \r\r\r</span>",
+    "display_hwd": "enrolment",
+    "ext": "",
+    "hwd": "enrolment",
+    "phonetics": "英\r[ɪnˈrəʊlmənt]美\r[ɪnˈroʊlmənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

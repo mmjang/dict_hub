@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（船舶上用的）吊杆式起货设备</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>derrick</b> is a machine that is used to move cargo on a ship by lifting it in the air.  \r \r\r\r</span>",
+    "display_hwd": "derrick",
+    "ext": "",
+    "hwd": "derrick",
+    "phonetics": "英\r[ˈderɪk]美\r[ˈdɛrɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(油井上方的)井架，钻塔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>derrick</b> is a tower built over an oil well which is used to raise and lower the drill.  \r \r\r\r</span>",
+    "display_hwd": "derrick",
+    "ext": "",
+    "hwd": "derrick",
+    "phonetics": "英\r[ˈderɪk]美\r[ˈdɛrɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

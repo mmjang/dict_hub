@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">男低音歌手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bass</b> is a man with a very deep singing voice.  \r \r\r\r</span>",
+    "display_hwd": "bass",
+    "ext": "",
+    "hwd": "bass",
+    "phonetics": "英\r[beɪs]美\r[beɪs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（鼓、吉他等乐器）低音的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bass</b> drum, guitar, or other musical instrument is one that produces a very deep sound.  \r \r\r\r</span>",
+    "display_hwd": "bass",
+    "ext": "",
+    "hwd": "bass",
+    "phonetics": "英\r[beɪs]美\r[beɪs]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">低音吉他；低音提琴</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In popular music, a <b>bass</b> is a bass guitar or a <b>double bass</b> .  \r \r\r\r</span>",
+    "display_hwd": "bass",
+    "ext": "",
+    "hwd": "bass",
+    "phonetics": "英\r[beɪs]美\r[beɪs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（立体声音响或收音机等的）低音部，低音部旋钮</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a stereo system or radio, the <b>bass</b> is the ability to reproduce the lower musical notes. The <b>bass</b> is also the knob which controls this.  \r \r\r\r</span>",
+    "display_hwd": "bass",
+    "ext": "",
+    "hwd": "bass",
+    "phonetics": "英\r[beɪs]美\r[beɪs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">鲈鱼</span>",
+    "def_en": "<span class=\"endef\"><b>Bass</b> are edible fish that are found in rivers and the sea. There are several types of bass.  \r \r\r\r</span>",
+    "display_hwd": "bass",
+    "ext": "",
+    "hwd": "bass",
+    "phonetics": "英\r[beɪs]美\r[beɪs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">官能;能力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>faculties</b> are your physical and mental abilities.  \r \r\r\r</span>",
+    "display_hwd": "faculty",
+    "ext": "",
+    "hwd": "faculty",
+    "phonetics": "英\r[ˈfæklti]美\r[ˈfækəlti]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(大学的)院系;(大学院系的)教职工</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>faculty</b> is a group of related departments in some universities, or the people who work in them.  \r \r\r\r</span>",
+    "display_hwd": "faculty",
+    "ext": "",
+    "hwd": "faculty",
+    "phonetics": "英\r[ˈfæklti]美\r[ˈfækəlti]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(大学、学院或院系的)全体教员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>faculty</b> is all the teaching staff of a university or college, or of one department.  \r \r\r\r</span>",
+    "display_hwd": "faculty",
+    "ext": "",
+    "hwd": "faculty",
+    "phonetics": "英\r[ˈfæklti]美\r[ˈfækəlti]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

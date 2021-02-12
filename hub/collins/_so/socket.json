@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">插座;灯座</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>socket</b> is a device on a piece of electrical equipment into which you can put a bulb or plug.  \r \r\r\r</span>",
+    "display_hwd": "socket",
+    "ext": "",
+    "hwd": "socket",
+    "phonetics": "英\r[ˈsɒkɪt]美\r[ˈsɑkɪt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(墙上的)电源插座</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>socket</b> is a device or point in a wall where you can connect electrical equipment to the power supply.  \r \r\r\r</span>",
+    "display_hwd": "socket",
+    "ext": "",
+    "hwd": "socket",
+    "phonetics": "英\r[ˈsɒkɪt]美\r[ˈsɑkɪt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">窝;孔;承窝;承槽</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to any hollow part or opening in a structure which another part fits into as a <b>socket</b> .  \r \r\r\r</span>",
+    "display_hwd": "socket",
+    "ext": "",
+    "hwd": "socket",
+    "phonetics": "英\r[ˈsɒkɪt]美\r[ˈsɑkɪt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

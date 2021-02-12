@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">低级酒吧（或夜总会）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>honky-tonk</b> is a cheap bar or nightclub.  \r \r\r\r</span>",
+    "display_hwd": "honky-tonk",
+    "ext": "",
+    "hwd": "honky-tonk",
+    "phonetics": "英\r[ˈhɒŋkitɒŋk]美\r[ˈhɑŋkitɑŋk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（旧时在低级酒吧或夜总会里演奏的）钢琴乐曲，杭基汤克乐曲</span>",
+    "def_en": "<span class=\"endef\"><b>Honky-tonk</b> is the kind of piano music that was formerly played in honky-tonks.  \r \r\r\r</span>",
+    "display_hwd": "honky-tonk",
+    "ext": "",
+    "hwd": "honky-tonk",
+    "phonetics": "英\r[ˈhɒŋkitɒŋk]美\r[ˈhɑŋkitɑŋk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">出口；通道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>exit</b> is the door through which you can leave a public building.  \r \r\r\r</span>",
+    "display_hwd": "exit",
+    "ext": "",
+    "hwd": "exit",
+    "phonetics": "英\r[ˈeksɪt]美\r[ˈɛɡzɪt,ˈɛksɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（高速路、公路等的）出口，换道口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>exit</b> on a motorway or highway is a place where traffic can leave it.  \r \r\r\r</span>",
+    "display_hwd": "exit",
+    "ext": "",
+    "hwd": "exit",
+    "phonetics": "英\r[ˈeksɪt]美\r[ˈɛɡzɪt,ˈɛksɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">离开;离去</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone's <b>exit</b>, you are referring to the way that they left a room or building, or the fact that they left it.  \r \r\r\r</span>",
+    "display_hwd": "exit",
+    "ext": "",
+    "hwd": "exit",
+    "phonetics": "英\r[ˈeksɪt]美\r[ˈɛɡzɪt,ˈɛksɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">离开;退出;退场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone's <b>exit</b>, you are referring to the way that they left a situation or activity, or the fact that they left it.  \r \r\r\r</span>",
+    "display_hwd": "exit",
+    "ext": "",
+    "hwd": "exit",
+    "phonetics": "英\r[ˈeksɪt]美\r[ˈɛɡzɪt,ˈɛksɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出去;离去;退出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>exit</b> from a room or building, you leave it.  \r \r\r\r</span>",
+    "display_hwd": "exit",
+    "ext": "",
+    "hwd": "exit",
+    "phonetics": "英\r[ˈeksɪt]美\r[ˈɛɡzɪt,ˈɛksɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">退出，停止运行（计算机程序、系统等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>exit</b> a computer program or system, you stop running it.  \r \r\r\r</span>",
+    "display_hwd": "exit",
+    "ext": "",
+    "hwd": "exit",
+    "phonetics": "英\r[ˈeksɪt]美\r[ˈɛɡzɪt,ˈɛksɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

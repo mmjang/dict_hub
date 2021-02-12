@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(核反应堆的)堆芯熔毁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is <b>meltdown</b> in a nuclear reactor, the fuel rods start melting because of a failure in the system, and radiation starts to escape.  \r \r\r\r</span>",
+    "display_hwd": "meltdown",
+    "ext": "",
+    "hwd": "meltdown",
+    "phonetics": "英\r[ˈmeltdaʊn]美\r[ˈmɛltˌdaʊn]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(公司、机构或系统的)崩溃，彻底失败</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>meltdown</b> of a company, organization, or system is its sudden and complete failure.  \r \r\r\r</span>",
+    "display_hwd": "meltdown",
+    "ext": "",
+    "hwd": "meltdown",
+    "phonetics": "英\r[ˈmeltdaʊn]美\r[ˈmɛltˌdaʊn]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">童子军</span>",
+    "def_en": "<span class=\"endef\"><b>The Scouts</b> is an organization for children and young people which teaches them to be practical, sensible, and helpful.  \r \r\r\r</span>",
+    "display_hwd": "Scout",
+    "ext": "",
+    "hwd": "Scout",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-proper-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">童子军队员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Scout</b> is a member of the Scouts.  \r \r\r\r</span>",
+    "display_hwd": "Scout",
+    "ext": "",
+    "hwd": "Scout",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">侦察员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scout</b> is someone who is sent to an area of countryside to find out the position of an enemy army.  \r \r\r\r</span>",
+    "display_hwd": "scout",
+    "ext": "",
+    "hwd": "scout",
+    "phonetics": "英\r[skaʊt]美\r[skaʊt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 talent scout</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>scout</b> is the same as a <b>talent scout</b> .  \r \r\r\r</span>",
+    "display_hwd": "scout",
+    "ext": "",
+    "hwd": "scout",
+    "phonetics": "英\r[skaʊt]美\r[skaʊt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(在某地)搜索,寻找</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>scout</b> somewhere <b>for</b> something, you go through that area searching for it.  \r \r\r\r</span>",
+    "display_hwd": "scout",
+    "ext": "",
+    "hwd": "scout",
+    "phonetics": "英\r[skaʊt]美\r[skaʊt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

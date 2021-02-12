@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">档案;史料;记录;档案馆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>archive</b> or <b>archives</b> are a collection of documents and records that contain historical information. You can also use <b>archives</b> to refer to the place where archives are stored.  \r \r\r\r</span>",
+    "display_hwd": "archive",
+    "ext": "",
+    "hwd": "archive",
+    "phonetics": "英\r[ˈɑ:kaɪv]美\r[ˈɑrkaɪv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">档案中的；档案的</span>",
+    "def_en": "<span class=\"endef\"><b>Archive</b> material is information that comes from archives.  \r \r\r\r</span>",
+    "display_hwd": "archive",
+    "ext": "",
+    "hwd": "archive",
+    "phonetics": "英\r[ˈɑ:kaɪv]美\r[ˈɑrkaɪv]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">男女同校的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>co-ed</b> school or college is the same as a co-educational school or college.  \r \r\r\r</span>",
+    "display_hwd": "co-ed",
+    "ext": "",
+    "hwd": "co-ed",
+    "phonetics": "英\r[ˌkəʊ'ed]美\r[ˌkoʊ'ed]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(男女同校的大学里的)女生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>co-ed</b> is a female student at a co-educational college or university.  \r \r\r\r</span>",
+    "display_hwd": "co-ed",
+    "ext": "",
+    "hwd": "co-ed",
+    "phonetics": "英\r[ˌkəʊ'ed]美\r[ˌkoʊ'ed]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(体育设施或体育活动)对男女都开放的，男女都可参加的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>co-ed</b> sports facility or sporting activity is one that both males and females use or take part in at the same time.  \r \r\r\r</span>",
+    "display_hwd": "co-ed",
+    "ext": "",
+    "hwd": "co-ed",
+    "phonetics": "英\r[ˌkəʊ'ed]美\r[ˌkoʊ'ed]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">父亲;爸爸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>father</b> is your male parent. You can also call someone your <b>father</b> if he brings you up as if he was this man.  \r \r\r\r</span>",
+    "display_hwd": "father",
+    "ext": "",
+    "hwd": "father",
+    "phonetics": "英\r[ˈfɑ:ðə(r)]美\r[ˈfɑðɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-family\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">成为…的父亲;是…的父亲</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a man <b>fathers</b> a child, he makes a woman pregnant and their child is born.  \r \r\r\r</span>",
+    "display_hwd": "father",
+    "ext": "",
+    "hwd": "father",
+    "phonetics": "英\r[ˈfɑ:ðə(r)]美\r[ˈfɑðɚ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发明者;鼻祖;创始人;奠基人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The man who invented or started something is sometimes referred to as the <b>father of</b> that thing.  \r \r\r\r</span>",
+    "display_hwd": "father",
+    "ext": "",
+    "hwd": "father",
+    "phonetics": "英\r[ˈfɑ:ðə(r)]美\r[ˈfɑðɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">神父</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some Christian churches, priests are addressed or referred to as <b>Father</b> .  \r \r\r\r</span>",
+    "display_hwd": "father",
+    "ext": "",
+    "hwd": "father",
+    "phonetics": "英\r[ˈfɑ:ðə(r)]美\r[ˈfɑðɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-voc; n-title; n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(基督教)天父，上帝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Christians often refer to God as <b>our Father</b> or address him as <b>Father</b> .  \r \r\r\r</span>",
+    "display_hwd": "father",
+    "ext": "",
+    "hwd": "father",
+    "phonetics": "英\r[ˈfɑ:ðə(r)]美\r[ˈfɑðɚ]",
+    "phrase": "",
+    "sense": "★★★★★ n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

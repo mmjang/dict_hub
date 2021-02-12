@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">降低速度;减速行驶（或动转）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a vehicle or machine <b>decelerates</b> or when someone in a vehicle <b>decelerates</b>, the speed of the vehicle or machine is reduced.  \r \r\r\r</span>",
+    "display_hwd": "decelerate",
+    "ext": "",
+    "hwd": "decelerate",
+    "phonetics": "英\r[ˌdi:ˈseləreɪt]美\r[diˈsɛləˌret]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通货膨胀、经济增长等的速度)减缓，放慢</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the rate of something such as inflation or economic growth <b>decelerates</b>, it slows down.  \r \r\r\r</span>",
+    "display_hwd": "decelerate",
+    "ext": "",
+    "hwd": "decelerate",
+    "phonetics": "英\r[ˌdi:ˈseləreɪt]美\r[diˈsɛləˌret]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">音质;音色;音调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>tone</b> of a sound is its particular quality.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">语气；口气；腔调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>tone</b> is a quality in their voice which shows what they are feeling or thinking.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(演讲、文章的)语气，调子，基调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>tone</b> of a speech or piece of writing is its style and the opinions or ideas expressed in it.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">气氛;氛围;格调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>tone</b> of a place or an event is its general atmosphere.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（身体的）强健状况；(尤指肌肉的)紧实度，结实度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>tone</b> of someone's body, especially their muscles, is its degree of firmness and strength.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使结实；使强健</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that <b>tones</b> your body makes it firm and strong.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">色调;明暗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tone</b> is one of the lighter, darker, or brighter shades of the same colour.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(与…)协调(或相配)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>tones with</b> another, the two things look nice together because their colours are similar in quality or brightness.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电话提示音</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tone</b> is one of the sounds that you hear when you are using a telephone, for example the sound that tells you that a number is engaged or busy, or no longer exists.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">音;全音</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tone</b> is a difference in pitch between two musical notes equal to two semitones.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://dialling tone\">dialling tone</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://ring tone\">ring tone</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">降低格调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>lowers the tone of</b> a place or event, you mean that it is not appropriate and makes the place or event seem less respectable.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使(颜色)柔和；使(味道)变淡;调和</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>tone down</b> a colour or a flavour, you make it less bright or strong.  \r \r\r\r</span>",
+    "display_hwd": "tone",
+    "ext": "",
+    "hwd": "tone",
+    "phonetics": "英\r[təʊn]美\r[toʊn]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrasal verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

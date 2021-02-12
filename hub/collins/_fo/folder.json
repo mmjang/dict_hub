@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">活页夹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>folder</b> is a thin piece of cardboard in which you can keep loose papers.  \r \r\r\r</span>",
+    "display_hwd": "folder",
+    "ext": "",
+    "hwd": "folder",
+    "phonetics": "英\r[ˈfəʊldə(r)]美\r[ˈfoʊldə(r)]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机系统中的)文件夹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>folder</b> is a group of files that are stored together on a computer.  \r \r\r\r</span>",
+    "display_hwd": "folder",
+    "ext": "",
+    "hwd": "folder",
+    "phonetics": "英\r[ˈfəʊldə(r)]美\r[ˈfoʊldə(r)]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

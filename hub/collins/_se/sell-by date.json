@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(食品的)最迟销售日期，保质期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sell-by date</b> on a food container is the date by which the food should be sold or eaten before it starts to decay.  \r \r\r\r</span>",
+    "display_hwd": "sell-by date",
+    "ext": "",
+    "hwd": "sell-by date",
+    "phonetics": "英\r[selbaideit]美\r[sɛlbaɪdet]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不再有效的;不再吸引人的;无用的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is <b>past</b> their <b>sell-by date</b>, you mean they are no longer effective, interesting, or useful.  \r \r\r\r</span>",
+    "display_hwd": "sell-by date",
+    "ext": "",
+    "hwd": "sell-by date",
+    "phonetics": "英\r[selbaideit]美\r[sɛlbaɪdet]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

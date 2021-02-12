@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（足球赛的）开赛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In football, the <b>kick-off</b> is the time at which a particular game starts.  \r \r\r\r</span>",
+    "display_hwd": "kick-off",
+    "ext": "",
+    "hwd": "kick-off",
+    "phonetics": "英\r[kikɔf]美\r[kɪkɔf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（橄榄球赛的）开球</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In American football, a <b>kickoff</b> is the kick that begins a play, for example at the beginning of a half or after a touchdown or field goal.  \r \r\r\r</span>",
+    "display_hwd": "kick-off",
+    "ext": "",
+    "hwd": "kick-off",
+    "phonetics": "英\r[kikɔf]美\r[kɪkɔf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（事件或活动的）开始，开幕</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>kick-off</b> of an event or activity is its beginning.  \r \r\r\r</span>",
+    "display_hwd": "kick-off",
+    "ext": "",
+    "hwd": "kick-off",
+    "phonetics": "英\r[kikɔf]美\r[kɪkɔf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（为男性理发的）男理发师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>barber</b> is a man whose job is cutting men's hair.  \r \r\r\r</span>",
+    "display_hwd": "barber",
+    "ext": "",
+    "hwd": "barber",
+    "phonetics": "英\r[ˈbɑ:bə(r)]美\r[ˈbɑrbə(r)]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">理发店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>barber's</b> is a shop where a barber works.  \r \r\r\r</span>",
+    "display_hwd": "barber",
+    "ext": "",
+    "hwd": "barber",
+    "phonetics": "英\r[ˈbɑ:bə(r)]美\r[ˈbɑrbə(r)]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

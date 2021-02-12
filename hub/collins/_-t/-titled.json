@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">题目;标题;名称</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>title</b> of a book, play, film, or piece of music is its name.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为…加上题目(或标题)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a writer, composer, or artist <b>titles</b> a work, they give it a title.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(书刊等的)一种，一本</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Publishers and booksellers often refer to books or magazines as <b>titles</b> .  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">头衔;称谓</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person's <b>title</b> is a word such as 'Sir', 'Lord', or 'Lady' that is used in front of their name, or a phrase that is used instead of their name, and indicates that they have a high rank in society.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">称呼;职称</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>title</b> is a word such as 'Mr', 'Mrs', or 'Doctor', that is used before their own name in order to show their status or profession.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">职务名称</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>title</b> is a name that describes their job or status in an organization.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冠军</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or team wins a particular <b>title</b>, they win a sports competition that is held regularly. Usually a person keeps a title until someone else defeats them.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指土地或财产的)所有权</span>",
+    "def_en": "<span class=\"endef\"><b>Title</b> is the legal ownership of something, especially land or property.  \r \r\r\r</span>",
+    "display_hwd": "-titled",
+    "ext": "",
+    "hwd": "-titled",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

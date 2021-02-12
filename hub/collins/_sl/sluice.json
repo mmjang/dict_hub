@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(设有可开启和关闭的水闸的)泄洪道，泄水道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sluice</b> is a passage that carries a current of water and has a barrier, called a sluice gate, which can be opened and closed to control the flow of water.  \r \r\r\r</span>",
+    "display_hwd": "sluice",
+    "ext": "",
+    "hwd": "sluice",
+    "phonetics": "英\r[slu:s]美\r[slus]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冲洗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>sluice</b> something or <b>sluice</b> it down or out, you wash it with a stream of water.  \r \r\r\r</span>",
+    "display_hwd": "sluice",
+    "ext": "",
+    "hwd": "sluice",
+    "phonetics": "英\r[slu:s]美\r[slus]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">家谱学；系谱学；宗谱学</span>",
+    "def_en": "<span class=\"endef\"><b>Genealogy</b> is the study of the history of families, especially through studying historical documents to discover the relationships between particular people and their families.  \r \r\r\r</span>",
+    "display_hwd": "genealogical",
+    "ext": "",
+    "hwd": "genealogical",
+    "phonetics": "英\r[ˌdʒi:nɪə'lɒdʒɪkl]美\r[ˌdʒinɪr'lɒdʒɪkl]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">家谱；宗谱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>genealogy</b> is the history of a family over several generations, for example describing who each person married and who their children were.  \r \r\r\r</span>",
+    "display_hwd": "genealogical",
+    "ext": "",
+    "hwd": "genealogical",
+    "phonetics": "英\r[ˌdʒi:nɪə'lɒdʒɪkl]美\r[ˌdʒinɪr'lɒdʒɪkl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

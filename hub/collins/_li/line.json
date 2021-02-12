@@ -1,0 +1,552 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">线（条）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> is a long thin mark which is drawn or painted on a surface.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指脸部的）皱纹，纹路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>lines</b> on some-one's skin, especially on their face, are long thin marks that appear there as they grow older.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（排成的）行，列</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> of people or things is a number of them arranged one behind the other or side by side.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（人、车辆等在等候时排成的）队，队伍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> of people or vehicles is a number of them that are waiting one behind another, for example in order to buy something or to go in a particular direction.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">字行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> of a piece of writing is one of the rows of words, numbers, or other symbols in it.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（老师对学生的）罚抄</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In school, if a child is given <b>lines</b>, he or she is punished by being made to write out a sentence many times or to write out a passage from a book.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诗行；歌词；台词；对白</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> of a poem, song, or play is a group of words that are spoken or sung together. If an actor <b>learns</b> his or her <b>lines</b> for a play or film, they learn what they have to say.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（旨在取得某种效果的）话语</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A particular type of <b>line</b> in a conversation is a remark that is intended to have a particular effect.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">线；绳；索</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a long piece of wire, string, or cable as a <b>line</b> when it is used for a particular purpose.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电话线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> is a connection which makes it possible for two people to speak to each other on the telephone.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">热线（电话）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>line</b> to refer to a telephone number which you can ring in order to get information or advice.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指危险或秘密的）路线，线路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> is a route, especially a dangerous or secret one, along which people move or send messages or supplies.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指径直向前行进的）路线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>line</b> in which something or someone moves is the particular route that they take, especially when they keep moving straight ahead.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（铁道或公交）线路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> is a particular route, involving the same stations, roads, or stops along which a train or bus service regularly operates.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">铁轨；轨道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A railway <b>line</b> consists of the pieces of metal and wood which form the track that the trains travel along.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">运输公司；航运公司</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A shipping, air, or bus <b>line</b> is a company which provides services for transporting people or goods by sea, air, or bus.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">轮廓（线）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>line</b> to refer to the edge, outline, or shape of an object or a person's body.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">界线；边界</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A state or county <b>line</b> is a boundary between two states or counties.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">防线；前线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>lines</b> to refer to the set of physical defences or the soldiers that have been established along the boundary of an area occupied by an army.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">立场；方针</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The particular <b>line</b> that a person has towards a problem is the attitude that they have towards it. For example, if someone takes a <b>hard line</b> on something, they have a firm strict policy which they refuse to change.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（思想或行动的）步骤，方式，方法</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>line</b> to refer to the way in which someone's thoughts or activities develop, particularly if it is logical.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">概况；大致情形</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something happens <b>along</b> particular <b>lines</b>, or <b>on</b> particular <b>lines</b>, you are giving a general summary or approximate account of what happens, which may not be correct in every detail.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（组织的）方式，原则</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is organized <b>on</b> particular <b>lines</b>, or <b>along</b> particular <b>lines</b>, it is organized according to that method or principle.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">行业；行当</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>line of</b> business or work is the kind of work that you do.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">专长；特长；兴趣范围</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone says that something is <b>your line</b>, or that it is <b>in your line</b>, they mean that it is the sort of thing that you often do because you enjoy doing it.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（产品的）种，类</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>line</b> is a particular type of product that a company makes or sells.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">方面；领域</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>line</b> to refer to something connected with a particular activity. For example, something <b>in the sports line</b> is connected with sports.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">流水线；生产线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a factory, a <b>line</b> is an arrangement of workers or machines where a product passes from one worker to another until it is finished.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">家系；家族；血统</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>line</b> to refer to all the generations of a family, especially when you are considering the social status or the physical characteristics that the various members inherit.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（按身份高低确定的）排序</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>line</b> when you are referring to a number of people who are ranked according to status.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（按时间顺序排的）一系列，一连串</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A particular <b>line of</b> people or things is a series of them that has existed over a period of time, when they have all been similar in some way, or done similar things.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">沿…排列成行；遍布…的边沿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people or things <b>line</b> a road, room, or other place, they are present in large numbers along its edges or sides.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…安衬里；使有内衬</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>line</b> a wall, container, or other object, you put a layer of something such as leaves or paper on the inside surface of it in order to make it stronger, warmer, or cleaner.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在（容器或器官）的内壁形成一层</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>lines</b> a container or area, especially an area inside a person, animal, or plant, it forms a layer on the inside surface.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://lined\">lined</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://lining\">lining</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://bottom line\">bottom line</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://branch line\">branch line</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://dividing line\">dividing line</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://front line\">front line</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://party line\">party line</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://picket line\">picket line</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://yellow line\">yellow line</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">其间某时；在某一时刻；在某一环节</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens somewhere <b>along the line</b> or <b>down the line</b>, it happens during the course of a situation or activity, often at a point that cannot be exactly identified.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">全线地；全部地；处处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something happens <b>all down the line</b>, or <b>right down the line</b>, you mean that it happens in every case.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">划定底线；不能容忍；反对</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>draw the line at</b> a particular activity, you refuse to do it, because you disapprove of it or because it is more extreme than what you normally do.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">划界线；区别</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>draw a line between</b> two things, you make a distinction between them.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">写信给（某人）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>drop</b> someone <b>a line</b>, you write to them.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在执行公务中；在履行职责时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something or if it happens to you <b>in the line of duty</b>, you do it or it happens as part of your regular work or as a result of it.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">第一项举措；最重要的方法</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to a method as <b>the first line of</b>, for example, defence or treatment, you mean that it is the first or most important method to be used in dealing with a problem.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">将轮到…的；很有可能获得…的；…很有可能（发生）的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>in line for</b> something, it is likely to happen to you or you are likely to obtain it. If something is <b>in line to</b> happen, it is likely to happen.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与…）成一直线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one object is <b>in line with</b> others, or moves <b>into line with</b> others, they are arranged in a line. You can also say that a number of objects are <b>in line</b> or move <b>into line</b>.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与…）一致；（与…）相符</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing is <b>in line with</b> another, or is brought <b>into line with</b> it, the first thing is, or becomes, similar to the second, especially in a way that has been planned or expected.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">排队</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people <b>stand in line</b> or <b>wait in line</b>, they stand one behind the other in a line, waiting their turn for something.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使（某人）就范；使（某人）听从吩咐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep</b> someone <b>in line</b> or <b>bring</b> them <b>into line</b>, you make them obey you, or you make them behave in the way you want them to.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在运行中/不在运行；在工作中/不在工作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a machine or piece of equipment comes <b>on line</b>, it starts operating. If it is <b>off line</b>, it is not operating.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在计算机上；在网上；在线</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>on line</b>, you do it using a computer or a computer network.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">岌岌可危；冒极大的险</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as your job, career, or reputation is <b>on the line</b>, you may lose or harm it as a result of what you are doing or of the situation you are in.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不在队列中；不在一条直线上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a row or group of objects, if one of them is <b>out of line</b>, it is not in its correct position.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不一致；不符合</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing is <b>out of line</b> with another, the first thing is different from the second in a way that was not agreed, planned, or expected.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不服从；出格；举止不当</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone steps <b>out of line</b>, they disobey someone or behave in an unacceptable way.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">体会隐含之意；领会言外之意</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>read between the lines</b>, you understand what someone really means, or what is really happening in a situation, even though it is not said openly.  \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>the battle lines are drawn</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://battle\">battle</a></b>; \rto sign on the dotted line<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://dotted\">dotted</a></b>; \rto line your pockets<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://pocket\">pocket</a></b>; \rthe line of least resistance<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://resistance\">resistance</a></b>; \rto toe the line<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://toe\">toe</a></b>; \r \r\r\r</span>",
+    "display_hwd": "line",
+    "ext": "",
+    "hwd": "line",
+    "phonetics": "英\r[laɪn]美\r[laɪn]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

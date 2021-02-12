@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(枪支的)消音器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>silencer</b> is a device that is fitted onto a gun to make it very quiet when it is fired.  \r \r\r\r</span>",
+    "display_hwd": "silencer",
+    "ext": "",
+    "hwd": "silencer",
+    "phonetics": "英\r[ˈsaɪlənsə(r)]美\r[ˈsaɪlənsɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(汽车排气管上的)消音器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>silencer</b> is a device on a car exhaust that makes it quieter.  \r \r\r\r</span>",
+    "display_hwd": "silencer",
+    "ext": "",
+    "hwd": "silencer",
+    "phonetics": "英\r[ˈsaɪlənsə(r)]美\r[ˈsaɪlənsɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">客户关系</span>",
+    "def_en": "<span class=\"endef\"><b>Customer relations</b> are the relationships that a business has with its customers and the way in which it treats them.  \r \r\r\r</span>",
+    "display_hwd": "customer relations",
+    "ext": "",
+    "hwd": "customer relations",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">客户关系部</span>",
+    "def_en": "<span class=\"endef\"><b>Customer relations</b> is the department within a company that deals with complaints from customers.  \r \r\r\r</span>",
+    "display_hwd": "customer relations",
+    "ext": "",
+    "hwd": "customer relations",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

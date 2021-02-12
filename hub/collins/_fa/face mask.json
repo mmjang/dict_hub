@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">口罩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>face mask</b> is a device that you wear over your face, for example to prevent yourself from breathing bad air or from spreading germs, or to protect your face when you are in a dangerous situation.  \r \r\r\r</span>",
+    "display_hwd": "face mask",
+    "ext": "",
+    "hwd": "face mask",
+    "phonetics": "英\r[feismɑ:sk]美\r[fesmæsk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 face pack</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>face mask</b> is the same as a <b>face pack</b> .  \r \r\r\r</span>",
+    "display_hwd": "face mask",
+    "ext": "",
+    "hwd": "face mask",
+    "phonetics": "英\r[feismɑ:sk]美\r[fesmæsk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

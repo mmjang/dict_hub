@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">家;家庭;家族</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>family</b> is a group of people who are related to each other, especially parents and their children.  \r \r\r\r</span>",
+    "display_hwd": "family",
+    "ext": "",
+    "hwd": "family",
+    "phonetics": "英\r[ˈfæməli]美\r[ˈfæmli]",
+    "phrase": "",
+    "sense": "★★★★★ n-count-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">子女;孩子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people talk about a <b>family</b>, they sometimes mean children.  \r \r\r\r</span>",
+    "display_hwd": "family",
+    "ext": "",
+    "hwd": "family",
+    "phonetics": "英\r[ˈfæməli]美\r[ˈfæmli]",
+    "phrase": "",
+    "sense": "★★★★★ n-count-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">祖先;祖辈</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people talk about their <b>family</b>, they sometimes mean their ancestors.  \r \r\r\r</span>",
+    "display_hwd": "family",
+    "ext": "",
+    "hwd": "family",
+    "phonetics": "英\r[ˈfæməli]美\r[ˈfæmli]",
+    "phrase": "",
+    "sense": "★★★★★ n-count-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">家族的;家庭的;家里的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>family</b> to describe things that belong to a particular family.  \r \r\r\r</span>",
+    "display_hwd": "family",
+    "ext": "",
+    "hwd": "family",
+    "phonetics": "英\r[ˈfæməli]美\r[ˈfæmli]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">全家共用的;全家共享的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>family</b> to describe things that are designed to be used or enjoyed by both parents and children.  \r \r\r\r</span>",
+    "display_hwd": "family",
+    "ext": "",
+    "hwd": "family",
+    "phonetics": "英\r[ˈfæməli]美\r[ˈfæmli]",
+    "phrase": "",
+    "sense": "★★★★★ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(动植物的)科</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>family</b> of animals or plants is a group of related species.  \r \r\r\r</span>",
+    "display_hwd": "family",
+    "ext": "",
+    "hwd": "family",
+    "phonetics": "英\r[ˈfæməli]美\r[ˈfæmli]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

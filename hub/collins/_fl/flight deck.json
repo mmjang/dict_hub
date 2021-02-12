@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(航空母舰上的)飞行甲板</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On an aircraft carrier, <b>the</b> <b>flight deck</b> is the flat open surface on the deck where aircraft take off and land.  \r \r\r\r</span>",
+    "display_hwd": "flight deck",
+    "ext": "",
+    "hwd": "flight deck",
+    "phonetics": "英\r[flaitdek]美\r[flaɪtdɛk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(飞机的)驾驶舱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a large aeroplane, <b>the</b> <b>flight deck</b> is the area at the front where the pilot works and where all the controls are.  \r \r\r\r</span>",
+    "display_hwd": "flight deck",
+    "ext": "",
+    "hwd": "flight deck",
+    "phonetics": "英\r[flaitdek]美\r[flaɪtdɛk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

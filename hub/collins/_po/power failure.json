@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（由于电缆损坏等造成的）电路中断，断电</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>power failure</b> is a period of time when the electricity supply to a particular building or area is interrupted, for example because of damage to the cables.  \r \r\r\r</span>",
+    "display_hwd": "power failure",
+    "ext": "",
+    "hwd": "power failure",
+    "phonetics": "英\r[ˈpauəˈfeiljə]美\r[ˈpaʊɚˈfeljɚ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

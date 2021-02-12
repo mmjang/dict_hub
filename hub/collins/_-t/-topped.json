@@ -1,0 +1,372 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">顶;顶端;顶部</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>top</b> of something is its highest point or part.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最高的;最上面的;最上层的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>top</b> thing or layer in a series of things or layers is the highest one.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(瓶、罐、管等的)盖，帽，塞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>top</b> of something such as a bottle, jar, or tube is a cap, lid, or other device that fits or screws onto one end of it.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">另一端;另一头</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>top</b> of a street, garden, bed, or table is the end of it that is farthest away from where you usually enter it or from where you are.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">上衣</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>top</b> is a piece of clothing that you wear on the upper half of your body, for example a blouse or shirt.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最高(级别或量度)的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>top</b> to indicate that something or someone is at the highest level of a scale or measurement.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最优良的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>top</b> to say that you think something is excellent.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最高层;最高地位(或职位)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>top</b> of an organization or career structure is the highest level in it.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最重要的;最著名的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>top</b> to describe the most important or famous people or things in a particular area of work or activity.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（排名）首位;（位居）第一</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>at the top of</b> a table or league or is <b>the top of</b> the table or league, their performance is better than that of all the other people involved.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最要紧的;最优先的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>top</b> to indicate that something is the first thing you are going to do, because you consider it to be the most important.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">次数最多的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>top</b> to indicate that someone does a particular thing more times than anyone else or that something is chosen more times than anything else.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为…之首;居…之冠</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>top</b> a list means to be mentioned or chosen more times than anyone or anything else.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">高过；超过；多于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>tops</b> a particular amount, it is larger than that amount.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">覆盖;放在…的上面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>is topped with</b> something, it has that thing as its highest part.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">胜过;压倒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>top</b> a story, remark, or action, you follow it with a better or more impressive one.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">至多;最多</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>tops</b> after mentioning a quantity, to say that it is the maximum possible.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://topping\">topping</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">绝好;最出色;无可匹敌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>is tops</b> or <b>is the tops</b>, you mean that it is better or more successful than anything else.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大发脾气;勃然大怒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>blows</b> their <b>top</b>, they become very angry about something.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出人头地;拔得头筹;占得上风</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person, organization, or country <b>comes out on top</b>, they are more successful than the others that they have been competing with.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最高价格</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone pays <b>top dollar</b> for something, they pay the highest possible price for it.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从上到下;彻底地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you clean, tidy, or examine something <b>from top to bottom</b>, you are emphasizing that you do it completely and thoroughly.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从头到脚;全身;完全</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>from top to toe</b> to emphasize that the whole of someone's body is covered or dressed in a particular thing or type of clothing.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使愁苦；使沮丧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something <b>gets on top of</b> you, it makes you feel unhappy or depressed because it is very difficult or worrying, or because it involves more work than you can manage.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不加思索地;来不及思索地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say something <b>off the top of</b> your <b>head</b>, you say it without thinking about it much before you speak, especially because you do not have enough time.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在上面;在顶上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing is <b>on top</b> of another, it is placed over it or on its highest part.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">另外;加之;除…之外(还)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>on top</b> or <b>on top of</b> to indicate that a particular problem exists in addition to a number of other problems.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">处于最高职位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say that someone is <b>on top</b> when they have reached the most important position in an organization or business.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">完全控制;完全掌握</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are on top of</b> or <b>get on top of</b> something that you are doing, you are dealing with it successfully.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">非常幸福;心满意足</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you feel <b>on top of the world</b>, you are emphasizing that you feel extremely happy and healthy.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">盖上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing is <b>over the top</b> of another, it is placed over it so that it is completely covering it.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">夸张的;言过其实的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You describe something as <b>over the top</b> when you think that it is exaggerated, and therefore unacceptable.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">除去…的两端</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>top and tail</b> fruit or vegetables such as French beans, you cut off the tops and the bottoms of them when you are preparing them to be eaten.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某行业中的)最高地位;事业的最高峰</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is at <b>the top of the tree</b>, you mean that they have reached the highest level in their career or profession.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">声嘶力竭地;极大声地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say something <b>at the top of</b> your <b>voice</b>, you say it very loudly.  \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>at the top of the heap</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://heap\">heap</a></b>; \r \r\r\r</span>",
+    "display_hwd": "-topped",
+    "ext": "",
+    "hwd": "-topped",
+    "phonetics": "",
+    "phrase": "",
+    "sense": ""
+  }
+]

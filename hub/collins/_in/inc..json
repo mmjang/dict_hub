@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(用于公司名称后)</span>",
+    "def_en": "<span class=\"endef\"><b>Inc</b> .is an abbreviation for (缩略=) <b>Incorporated</b> when it is used after a company's name.  \r \r\r\r</span>",
+    "display_hwd": "Inc.",
+    "ext": "",
+    "hwd": "Inc.",
+    "phonetics": "英\r[ɪŋk]",
+    "phrase": "",
+    "sense": "★★★☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于书面广告中)</span>",
+    "def_en": "<span class=\"endef\">\r\r In written advertisements, <b>inc</b> .is an abbreviation for (缩略=) <b>including</b> .  \r \r\r\r</span>",
+    "display_hwd": "inc.",
+    "ext": "",
+    "hwd": "inc.",
+    "phonetics": "",
+    "phrase": "",
+    "sense": ""
+  }
+]

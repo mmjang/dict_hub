@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">在（摩托车或自行车的）后座上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone rides <b>pillion</b> on a motorcycle or bicycle, they sit behind the person who is controlling it.  \r \r\r\r</span>",
+    "display_hwd": "pillion",
+    "ext": "",
+    "hwd": "pillion",
+    "phonetics": "英\r[ˈpɪliən]美\r[ˈpɪljən]",
+    "phrase": "",
+    "sense": "adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（摩托车的）后座</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a motorcycle, the <b>pillion</b> is the seat or part behind the rider.  \r \r\r\r</span>",
+    "display_hwd": "pillion",
+    "ext": "",
+    "hwd": "pillion",
+    "phonetics": "英\r[ˈpɪliən]美\r[ˈpɪljən]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

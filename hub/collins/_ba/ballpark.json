@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">棒球场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ballpark</b> is a park or stadium where baseball is played.  \r \r\r\r</span>",
+    "display_hwd": "ballpark",
+    "ext": "",
+    "hwd": "ballpark",
+    "phonetics": "英\r[ˈbɔ:lpɑ:k]美\r[ˈbɔlpɑrk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大致的；大概的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>ballpark</b> figure or <b>ballpark</b> estimate is an approximate figure or estimate.  \r \r\r\r</span>",
+    "display_hwd": "ballpark",
+    "ext": "",
+    "hwd": "ballpark",
+    "phonetics": "英\r[ˈbɔ:lpɑ:k]美\r[ˈbɔlpɑrk]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">差不多；大致相当</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as an amount or claim is <b>in the ballpark</b>, it is approximately right, but not exact.  \r \r\r\r</span>",
+    "display_hwd": "ballpark",
+    "ext": "",
+    "hwd": "ballpark",
+    "phonetics": "英\r[ˈbɔ:lpɑ:k]美\r[ˈbɔlpɑrk]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指被认为不亚于其他参加者而）能够参加，获得资格参与</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is <b>in the ballpark</b>, you mean that they are able to take part in a particular area of activity, especially because they are considered as good as others taking part.  \r \r\r\r</span>",
+    "display_hwd": "ballpark",
+    "ext": "",
+    "hwd": "ballpark",
+    "phonetics": "英\r[ˈbɔ:lpɑ:k]美\r[ˈbɔlpɑrk]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

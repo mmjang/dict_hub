@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">仰泳</span>",
+    "def_en": "<span class=\"endef\"><b>Backstroke</b> is a swimming stroke that you do lying on your back.  \r \r\r\r</span>",
+    "display_hwd": "backstroke",
+    "ext": "",
+    "hwd": "backstroke",
+    "phonetics": "英\r[ˈbækstrəʊk]美\r[ˈbækstroʊk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">仰泳比赛</span>",
+    "def_en": "<span class=\"endef\"><b>The backstroke</b> is a swimming race in which the competitors swim backstroke.  \r \r\r\r</span>",
+    "display_hwd": "backstroke",
+    "ext": "",
+    "hwd": "backstroke",
+    "phonetics": "英\r[ˈbækstrəʊk]美\r[ˈbækstroʊk]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

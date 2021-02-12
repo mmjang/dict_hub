@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">翌日;次日</span>",
+    "def_en": "<span class=\"endef\"><b>The morrow</b> means the next day or tomorrow.  \r \r\r\r</span>",
+    "display_hwd": "morrow",
+    "ext": "",
+    "hwd": "morrow",
+    "phonetics": "英\r[ˈmɒrəʊ]美\r[ˈmɑroʊ]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">good morrow 同 good morning</span>",
+    "def_en": "<span class=\"endef\"><b>Good morrow</b> means the same as 'good morning'.  \r \r\r\r</span>",
+    "display_hwd": "morrow",
+    "ext": "",
+    "hwd": "morrow",
+    "phonetics": "英\r[ˈmɒrəʊ]美\r[ˈmɑroʊ]",
+    "phrase": "",
+    "sense": "convention\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

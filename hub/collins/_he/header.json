@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（足球）头球</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In football, a <b>header</b> is the act of hitting the ball in a particular direction with your head.  \r \r\r\r</span>",
+    "display_hwd": "header",
+    "ext": "",
+    "hwd": "header",
+    "phonetics": "英\r[ˈhedə(r)]美\r[ˈhɛdɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（文件的）页眉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>header</b> is text such as a name or a page number that can be automatically displayed at the top of each page of a printed document.  \r \r\r\r</span>",
+    "display_hwd": "header",
+    "ext": "",
+    "hwd": "header",
+    "phonetics": "英\r[ˈhedə(r)]美\r[ˈhɛdɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

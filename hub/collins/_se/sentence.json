@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">句子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sentence</b> is a group of words which, when they are written down, begin with a capital letter and end with a full stop, question mark, or exclamation mark. Most sentences contain a subject and a verb.  \r \r\r\r</span>",
+    "display_hwd": "sentence",
+    "ext": "",
+    "hwd": "sentence",
+    "phonetics": "英\r[ˈsentəns]美\r[ˈsɛntəns]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">判决;宣判;判刑</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://death sentence\">death sentence</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://life sentence\">life sentence</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://suspended sentence\">suspended sentence</a></b>;\r In a law court, a <b>sentence</b> is the punishment that a person receives after they have been found guilty of a crime.  \r \r\r\r</span>",
+    "display_hwd": "sentence",
+    "ext": "",
+    "hwd": "sentence",
+    "phonetics": "英\r[ˈsentəns]美\r[ˈsɛntəns]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">判决;宣判;判刑</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a judge <b>sentences</b> someone, he or she states in court what their punishment will be.  \r \r\r\r</span>",
+    "display_hwd": "sentence",
+    "ext": "",
+    "hwd": "sentence",
+    "phonetics": "英\r[ˈsentəns]美\r[ˈsɛntəns]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

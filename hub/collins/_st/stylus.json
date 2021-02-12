@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(唱机的)唱针</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>stylus</b> on a record player is the small needle that picks up the sound signals on the records.  \r \r\r\r</span>",
+    "display_hwd": "stylus",
+    "ext": "",
+    "hwd": "stylus",
+    "phonetics": "英\r[ˈstaɪləs]美\r[ˈstaɪləs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算机的)手写笔，触笔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stylus</b> is a device like a pen with which you can input written text or drawing directly into a computer.  \r \r\r\r</span>",
+    "display_hwd": "stylus",
+    "ext": "",
+    "hwd": "stylus",
+    "phonetics": "英\r[ˈstaɪləs]美\r[ˈstaɪləs]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

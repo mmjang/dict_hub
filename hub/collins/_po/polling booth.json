@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">投票站</span>",
+    "def_en": "<span class=\"endef\"><b>Polling booths</b> are the places where people go to vote in an election.  \r \r\r\r</span>",
+    "display_hwd": "polling booth",
+    "ext": "",
+    "hwd": "polling booth",
+    "phonetics": "[ˈpəʊlɪŋbu:ð]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（投票站里的）投票间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>polling booth</b> is one of the partly enclosed areas in a polling station, where people can vote in private.  \r \r\r\r</span>",
+    "display_hwd": "polling booth",
+    "ext": "",
+    "hwd": "polling booth",
+    "phonetics": "[ˈpəʊlɪŋbu:ð]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

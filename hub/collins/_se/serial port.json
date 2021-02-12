@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">串行接口(连接调制解调器、鼠标等的端口)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>serial port</b> on a computer is a place where you can connect the computer to a device such as a modem or a mouse.  \r \r\r\r</span>",
+    "display_hwd": "serial port",
+    "ext": "",
+    "hwd": "serial port",
+    "phonetics": "英\r[ˈsiəriəlpɔ:t]美\r[ˈsɪriəlpɔrt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

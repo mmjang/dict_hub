@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">真空吸尘器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Hoover</b> is a vacuum cleaner.  \r \r\r\r</span>",
+    "display_hwd": "hoover",
+    "ext": "",
+    "hwd": "hoover",
+    "phonetics": "英\r[ˈhu:və(r)]美\r[ˈhuːvər]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用真空吸尘器打扫</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>hoover</b> a room or a carpet, you clean it using a vacuum cleaner.  \r \r\r\r</span>",
+    "display_hwd": "hoover",
+    "ext": "",
+    "hwd": "hoover",
+    "phonetics": "英\r[ˈhu:və(r)]美\r[ˈhuːvər]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

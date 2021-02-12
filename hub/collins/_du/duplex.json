@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">联式房屋;双拼式房屋;并联房屋</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>duplex</b> is a house which has been divided into two separate units for two different families or groups of people.  \r \r\r\r</span>",
+    "display_hwd": "duplex",
+    "ext": "",
+    "hwd": "duplex",
+    "phonetics": "英\r[ˈdju:pleks]美\r[ˈdupleks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">复式住宅;跃层公寓;占两层楼的公寓套房</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>duplex</b> or a <b>duplex apartment</b> is a flat or apartment which has rooms on two floors.  \r \r\r\r</span>",
+    "display_hwd": "duplex",
+    "ext": "",
+    "hwd": "duplex",
+    "phonetics": "英\r[ˈdju:pleks]美\r[ˈdupleks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

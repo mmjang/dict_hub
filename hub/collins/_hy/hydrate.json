@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">水合物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hydrate</b> is a chemical compound that contains water.  \r \r\r\r</span>",
+    "display_hwd": "hydrate",
+    "ext": "",
+    "hwd": "hydrate",
+    "phonetics": "英\r[ˈhaɪdreɪt]美\r[ˈhaɪˌdret]",
+    "phrase": "",
+    "sense": "n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为（皮肤）补水</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a substance <b>hydrates</b> your skin, it makes it softer and less dry.  \r \r\r\r</span>",
+    "display_hwd": "hydrate",
+    "ext": "",
+    "hwd": "hydrate",
+    "phonetics": "英\r[ˈhaɪdreɪt]美\r[ˈhaɪˌdret]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

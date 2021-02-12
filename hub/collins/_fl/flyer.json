@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">飞行员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>flyer</b> is a pilot of an aircraft.  \r \r\r\r</span>",
+    "display_hwd": "flyer",
+    "ext": "",
+    "hwd": "flyer",
+    "phonetics": "英\r[ˈflaɪə(r)]美\r[ˈflaɪɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">飞机乘客</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to someone who travels by aeroplane as a <b>flyer</b> .  \r \r\r\r</span>",
+    "display_hwd": "flyer",
+    "ext": "",
+    "hwd": "flyer",
+    "phonetics": "英\r[ˈflaɪə(r)]美\r[ˈflaɪɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(广告)传单</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://high-flyer\">high-flyer</a></b>;\r A <b>flyer</b> is a small printed notice which is used to advertise a particular company, service, or event.  \r \r\r\r</span>",
+    "display_hwd": "flyer",
+    "ext": "",
+    "hwd": "flyer",
+    "phonetics": "英\r[ˈflaɪə(r)]美\r[ˈflaɪɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

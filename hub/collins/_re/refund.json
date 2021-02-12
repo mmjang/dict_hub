@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">退款;返还金额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>refund</b> is a sum of money which is returned to you, for example because you have paid too much or because you have returned goods to a shop.  \r \r\r\r</span>",
+    "display_hwd": "refund",
+    "ext": "",
+    "hwd": "refund",
+    "phonetics": "英\r[ˈri:fʌnd]美\r['rifʌnd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">退还（钱款）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>refunds</b> your money, they return it to you, for example because you have paid too much or because you have returned goods to a shop.  \r \r\r\r</span>",
+    "display_hwd": "refund",
+    "ext": "",
+    "hwd": "refund",
+    "phonetics": "英\r[ˈri:fʌnd]美\r['rifʌnd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

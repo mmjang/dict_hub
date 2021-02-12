@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">波兰人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Pole</b> is a Polish citizen, or a person of Polish origin.  \r \r\r\r</span>",
+    "display_hwd": "Pole",
+    "ext": "",
+    "hwd": "Pole",
+    "phonetics": "[pəul]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤用于支撑的）杆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pole</b> is a long thin piece of wood or metal, used especially for supporting things.  \r \r\r\r</span>",
+    "display_hwd": "pole",
+    "ext": "",
+    "hwd": "pole",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（地）极</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://North Pole\">North Pole</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://South Pole\">South Pole</a></b>;\r The earth's <b>poles</b> are the two opposite ends of its axis, its most northern and southern points.  \r \r\r\r</span>",
+    "display_hwd": "pole",
+    "ext": "",
+    "hwd": "pole",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（特质、意见或信仰）截然相反的两极之一；极端</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The two <b>poles</b> of a range of qualities, opinions, or beliefs are the completely opposite qualities, opinions, or beliefs at either end of the range.  \r \r\r\r</span>",
+    "display_hwd": "pole",
+    "ext": "",
+    "hwd": "pole",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（信仰、意见或性质）截然相反，南辕北辙</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that two people or  things are <b>poles apart</b>, you mean that they have completely different beliefs, opinions, or qualities.  \r \r\r\r</span>",
+    "display_hwd": "pole",
+    "ext": "",
+    "hwd": "pole",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

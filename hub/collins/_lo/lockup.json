@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">同jail</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>lock-up</b> is the same as a <b>jail</b> .  \r \r\r\r</span>",
+    "display_hwd": "lockup",
+    "ext": "",
+    "hwd": "lockup",
+    "phonetics": "英\r['lɒkʌp]美\r[ˈlɑkˌʌp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（不与车主房子相连的）车库</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>lock-up</b> is a garage that is used by someone, but is not next to their house.  \r \r\r\r</span>",
+    "display_hwd": "lockup",
+    "ext": "",
+    "hwd": "lockup",
+    "phonetics": "英\r['lɒkʌp]美\r[ˈlɑkˌʌp]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

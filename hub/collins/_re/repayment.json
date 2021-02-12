@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">分期偿付款</span>",
+    "def_en": "<span class=\"endef\"><b>Repayments</b> are amounts of money which you pay at regular intervals to a person or organization in order to repay a debt.  \r \r\r\r</span>",
+    "display_hwd": "repayment",
+    "ext": "",
+    "hwd": "repayment",
+    "phonetics": "英\r[rɪˈpeɪmənt]美\r[rɪˈpeɪmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">偿还;偿付</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>repayment of</b> money is the act or process of paying it back to the person you owe it to.  \r \r\r\r</span>",
+    "display_hwd": "repayment",
+    "ext": "",
+    "hwd": "repayment",
+    "phonetics": "英\r[rɪˈpeɪmənt]美\r[rɪˈpeɪmənt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

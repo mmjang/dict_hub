@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">运输;运送;载运</span>",
+    "def_en": "<span class=\"endef\"><b>Transit</b> is the carrying of goods or people by vehicle from one place to another.  \r \r\r\r</span>",
+    "display_hwd": "transit",
+    "ext": "",
+    "hwd": "transit",
+    "phonetics": "英\r[ˈtrænzɪt]美\r[ˈtrænsɪt,-zɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">中转的;过境的;临时的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>transit</b> area is an area where people wait or where goods are kept between different stages of a journey.  \r \r\r\r</span>",
+    "display_hwd": "transit",
+    "ext": "",
+    "hwd": "transit",
+    "phonetics": "英\r[ˈtrænzɪt]美\r[ˈtrænsɪt,-zɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">交通运输系统</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>transit system</b> is a system for moving people or goods from one place to another, for example using buses or trains.  \r \r\r\r</span>",
+    "display_hwd": "transit",
+    "ext": "",
+    "hwd": "transit",
+    "phonetics": "英\r[ˈtrænzɪt]美\r[ˈtrænsɪt,-zɪt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

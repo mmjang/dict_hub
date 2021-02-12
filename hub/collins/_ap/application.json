@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">申请；请求；申请书；申请表</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>application for</b> something such as a job or membership of an organization is a formal written request for it.  \r \r\r\r</span>",
+    "display_hwd": "application",
+    "ext": "",
+    "hwd": "application",
+    "phonetics": "英\r[ˌæplɪˈkeɪʃn]美\r[ˌæplɪˈkeʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">应用；运用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>application of</b> a rule or piece of knowledge is the use of it in a particular situation.  \r \r\r\r</span>",
+    "display_hwd": "application",
+    "ext": "",
+    "hwd": "application",
+    "phonetics": "英\r[ˌæplɪˈkeɪʃn]美\r[ˌæplɪˈkeʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（计算机的）应用软件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computing, an <b>application</b> is a piece of software designed to carry out a particular task.  \r \r\r\r</span>",
+    "display_hwd": "application",
+    "ext": "",
+    "hwd": "application",
+    "phonetics": "英\r[ˌæplɪˈkeɪʃn]美\r[ˌæplɪˈkeʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">勤奋;专心;努力</span>",
+    "def_en": "<span class=\"endef\"><b>Application</b> is hard work and concentration on what you are doing over a period of time.  \r \r\r\r</span>",
+    "display_hwd": "application",
+    "ext": "",
+    "hwd": "application",
+    "phonetics": "英\r[ˌæplɪˈkeɪʃn]美\r[ˌæplɪˈkeʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">涂抹；敷用；施用</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>application of</b> something to a surface is the act or process of putting it on or rubbing it into the surface.  \r \r\r\r</span>",
+    "display_hwd": "application",
+    "ext": "",
+    "hwd": "application",
+    "phonetics": "英\r[ˌæplɪˈkeɪʃn]美\r[ˌæplɪˈkeʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

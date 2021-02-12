@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">静脉</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://varicose vein\">varicose vein</a></b>;\r Your <b>veins</b> are the thin tubes in your body through which your blood flows towards your heart.  \r \r\r\r</span>",
+    "display_hwd": "vein",
+    "ext": "",
+    "hwd": "vein",
+    "phonetics": "英\r[veɪn]美\r[ven]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（行文的）风格;（说话的）语气，情绪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is written or spoken <b>in</b> a particular <b>vein</b> is written or spoken in that style or mood.  \r \r\r\r</span>",
+    "display_hwd": "vein",
+    "ext": "",
+    "hwd": "vein",
+    "phonetics": "英\r[veɪn]美\r[ven]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">几分，若干（指在某人的行为或工作中常表现出的某种品质）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>vein of</b> a particular quality is evidence of that quality which someone often shows in their behaviour or work.  \r \r\r\r</span>",
+    "display_hwd": "vein",
+    "ext": "",
+    "hwd": "vein",
+    "phonetics": "英\r[veɪn]美\r[ven]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">矿脉;矿层;岩脉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>vein of</b> a particular metal or mineral is a layer of it lying in rock.  \r \r\r\r</span>",
+    "display_hwd": "vein",
+    "ext": "",
+    "hwd": "vein",
+    "phonetics": "英\r[veɪn]美\r[ven]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（叶子的）纹路，纹理;叶脉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>veins</b> on a leaf are the thin lines on it.  \r \r\r\r</span>",
+    "display_hwd": "vein",
+    "ext": "",
+    "hwd": "vein",
+    "phonetics": "英\r[veɪn]美\r[ven]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

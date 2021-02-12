@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(道路)有车辙的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rutted</b> road or track is very uneven because it has long, deep, narrow marks in it made by the wheels of vehicles.  \r \r\r\r</span>",
+    "display_hwd": "rutted",
+    "ext": "",
+    "hwd": "rutted",
+    "phonetics": "英\r[ˈrʌtɪd]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://rut\">rut</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "rutted",
+    "ext": "",
+    "hwd": "rutted",
+    "phonetics": "英\r[ˈrʌtɪd]",
+    "phrase": "",
+    "sense": "see also:"
+  }
+]

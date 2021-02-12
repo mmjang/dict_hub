@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(使)倾向;(使)趋向</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>incline to</b> think or act in a particular way, or if something <b>inclines</b> you <b>to</b> it, you are likely to think or act in that way.  \r \r\r\r</span>",
+    "display_hwd": "incline",
+    "ext": "",
+    "hwd": "incline",
+    "phonetics": "英\r[ɪnˈklaɪn]美\r[ɪnˈklaɪn]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">点(头)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>incline</b> your head, you bend your neck so that your head is leaning forward.  \r \r\r\r</span>",
+    "display_hwd": "incline",
+    "ext": "",
+    "hwd": "incline",
+    "phonetics": "英\r[ɪnˈklaɪn]美\r[ɪnˈklaɪn]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">斜坡;斜面</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>incline</b> is land that slopes at an angle.  \r \r\r\r</span>",
+    "display_hwd": "incline",
+    "ext": "",
+    "hwd": "incline",
+    "phonetics": "英\r[ɪnˈklaɪn]美\r[ɪnˈklaɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

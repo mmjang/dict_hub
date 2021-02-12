@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（门上的）信件投递孔；（建筑物入口处的）信箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>letterbox</b> is a rectangular hole in a door or a small box at the entrance to a building into which letters and small parcels are delivered.  \r \r\r\r</span>",
+    "display_hwd": "letterbox",
+    "ext": "",
+    "hwd": "letterbox",
+    "phonetics": "英\r[ˈletəbɒks]美\r[ˈletərbɒks]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电视或计算机显示）信箱格式的，上下黑边的，宽屏的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is displayed on a television or computer screen in <b>letterbox</b> format, it is displayed across the middle of the screen with dark bands at the top and bottom of the screen.  \r \r\r\r</span>",
+    "display_hwd": "letterbox",
+    "ext": "",
+    "hwd": "letterbox",
+    "phonetics": "英\r[ˈletəbɒks]美\r[ˈletərbɒks]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

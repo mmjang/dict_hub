@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">用拼写检查程序检查</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>spellcheck</b> something you have written on a computer, you use a special program to check whether you have made any spelling mistakes.  \r \r\r\r</span>",
+    "display_hwd": "spellcheck",
+    "ext": "",
+    "hwd": "spellcheck",
+    "phonetics": "英\r[ˈspeltʃek]美\r[ˈspeltʃek]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拼写检查</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you run a <b>spellcheck</b> over something you have written on a computer, you use a special program to check whether you have made any spelling mistakes.  \r \r\r\r</span>",
+    "display_hwd": "spellcheck",
+    "ext": "",
+    "hwd": "spellcheck",
+    "phonetics": "英\r[ˈspeltʃek]美\r[ˈspeltʃek]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">病人;病弱者;伤残者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>invalid</b> is someone who needs to be cared for because they have an illness or disability.  \r \r\r\r</span>",
+    "display_hwd": "invalid",
+    "ext": "",
+    "hwd": "invalid",
+    "phonetics": "英\r[ɪnˈvælɪd]美\r[ˈɪnvəlɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">无效的;作废的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an action, procedure, or document is <b>invalid</b>, it cannot be accepted, because it breaks the law or some official rule.  \r \r\r\r</span>",
+    "display_hwd": "invalid",
+    "ext": "",
+    "hwd": "invalid",
+    "phonetics": "英\r[ɪnˈvælɪd]美\r[ˈɪnvəlɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(论据、结论)站不住脚的,错误的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>invalid</b> argument or conclusion is wrong because it is based on a mistake.  \r \r\r\r</span>",
+    "display_hwd": "invalid",
+    "ext": "",
+    "hwd": "invalid",
+    "phonetics": "英\r[ɪnˈvælɪd]美\r[ˈɪnvəlɪd]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

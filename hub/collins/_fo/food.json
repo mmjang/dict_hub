@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">食物;食品</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://convenience food\">convenience food</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://fast food\">fast food</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://health food\">health food</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://junk food\">junk food</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://wholefood\">wholefood</a></b>;\r <b>Food</b> is what people and animals eat.  \r \r\r\r</span>",
+    "display_hwd": "food",
+    "ext": "",
+    "hwd": "food",
+    "phonetics": "英\r[fu:d]美\r[fud]",
+    "phrase": "",
+    "sense": "★★★★★ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(常指因生病)不想吃东西，厌食</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>off</b> your <b>food</b>, you do not want to eat, usually because you are ill.  \r \r\r\r</span>",
+    "display_hwd": "food",
+    "ext": "",
+    "hwd": "food",
+    "phonetics": "英\r[fu:d]美\r[fud]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">引人深思;发人深省</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you give someone <b>food for thought</b>, you make them think carefully about something.  \r \r\r\r</span>",
+    "display_hwd": "food",
+    "ext": "",
+    "hwd": "food",
+    "phonetics": "英\r[fu:d]美\r[fud]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

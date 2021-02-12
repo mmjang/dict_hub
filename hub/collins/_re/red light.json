@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（交通信号中的）红灯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>red light</b> is a traffic signal which shines red to indicate that drivers must stop.  \r \r\r\r</span>",
+    "display_hwd": "red light",
+    "ext": "",
+    "hwd": "red light",
+    "phonetics": "英\r[redlait]美\r[rɛdlaɪt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">红灯区的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>red-light</b> district of a city is the area where prostitutes work.  \r \r\r\r</span>",
+    "display_hwd": "red light",
+    "ext": "",
+    "hwd": "red light",
+    "phonetics": "英\r[redlait]美\r[rɛdlaɪt]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">自行车；脚踏车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bicycle</b> is a vehicle with two wheels  which you ride by sitting on it and pushing two pedals with your feet. You steer it by turning a bar that is connected to the front wheel.  \r \r\r\r</span>",
+    "display_hwd": "bicycle",
+    "ext": "",
+    "hwd": "bicycle",
+    "phonetics": "英\r[ˈbaɪsɪkl]美\r[ˈbaɪsɪkl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">骑自行车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>bicycle</b> somewhere, you cycle there.  \r \r\r\r</span>",
+    "display_hwd": "bicycle",
+    "ext": "",
+    "hwd": "bicycle",
+    "phonetics": "英\r[ˈbaɪsɪkl]美\r[ˈbaɪsɪkl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

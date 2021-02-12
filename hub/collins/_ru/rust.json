@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">锈;铁锈</span>",
+    "def_en": "<span class=\"endef\"><b>Rust</b> is a brown substance that forms on iron or steel, for example when it comes into contact with water.  \r \r\r\r</span>",
+    "display_hwd": "rust",
+    "ext": "",
+    "hwd": "rust",
+    "phonetics": "英\r[rʌst]美\r[rʌst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">生锈</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a metal object <b>rusts</b>, it becomes covered in rust and often loses its strength.  \r \r\r\r</span>",
+    "display_hwd": "rust",
+    "ext": "",
+    "hwd": "rust",
+    "phonetics": "英\r[rʌst]美\r[rʌst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">铁锈色;赭色;深褐色</span>",
+    "def_en": "<span class=\"endef\"><b>Rust</b> is sometimes used to describe things that are reddish-brown in colour.  \r \r\r\r</span>",
+    "display_hwd": "rust",
+    "ext": "",
+    "hwd": "rust",
+    "phonetics": "英\r[rʌst]美\r[rʌst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ colour\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(植物的)锈病，锈菌</span>",
+    "def_en": "<span class=\"endef\"><b>Rust</b> is a disease which affects plants. It is caused by a fungus.  \r \r\r\r</span>",
+    "display_hwd": "rust",
+    "ext": "",
+    "hwd": "rust",
+    "phonetics": "英\r[rʌst]美\r[rʌst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

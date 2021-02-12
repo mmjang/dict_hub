@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">民意测验；民意调查</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://opinion poll\">opinion poll</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://straw poll\">straw poll</a></b>;\r A <b>poll</b> is a survey in which people are asked their opinions about something, usually in order to find out how popular something is or what people intend to do in the future.  \r \r\r\r</span>",
+    "display_hwd": "poll",
+    "ext": "",
+    "hwd": "poll",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…进行民意测验（或调查）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are polled on</b> something, you are asked what you think about it as part of a survey.  \r \r\r\r</span>",
+    "display_hwd": "poll",
+    "ext": "",
+    "hwd": "poll",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">政治选举；大选；投票地点</span>",
+    "def_en": "<span class=\"endef\"><b>The polls</b> means an election for a country's government, or the place where people go to vote in an election.  \r \r\r\r</span>",
+    "display_hwd": "poll",
+    "ext": "",
+    "hwd": "poll",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★★☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">获得（…票数）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a political party or a candidate <b>polls</b> a particular number or percentage of votes, they get that number or percentage of votes in an election.  \r \r\r\r</span>",
+    "display_hwd": "poll",
+    "ext": "",
+    "hwd": "poll",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://polling\">polling</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://deed poll\">deed poll</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "poll",
+    "ext": "",
+    "hwd": "poll",
+    "phonetics": "英\r[pəʊl]美\r[poʊl]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">秃鼻乌鸦</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>rook</b> is a large black bird. Rooks are members of the crow family.  \r \r\r\r</span>",
+    "display_hwd": "rook",
+    "ext": "",
+    "hwd": "rook",
+    "phonetics": "英\r[rʊk]美\r[rʊk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(国际象棋中的)车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In chess, a <b>rook</b> is one of the chess pieces which stand in the corners of the board at the beginning of a game. Rooks can move forwards, backwards, or sideways, but not diagonally.  \r \r\r\r</span>",
+    "display_hwd": "rook",
+    "ext": "",
+    "hwd": "rook",
+    "phonetics": "英\r[rʊk]美\r[rʊk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

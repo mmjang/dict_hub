@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>ADD</b> is an abbreviation for (缩略 =) <b>attention deficit disorder</b>.  \r \r\r\r</span>",
+    "display_hwd": "ADD",
+    "ext": "",
+    "hwd": "ADD",
+    "phonetics": "英\r[ˌeɪdi:ˈdi:]",
+    "phrase": "",
+    "sense": ""
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">添加；增加；掺加</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>add</b> one thing <b>to</b> another, you put it in or on the other thing, to increase, complete, or improve it.  \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">加</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>add</b> numbers or amounts <b>together</b>, you calculate their total.  \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">增添；增加</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>adds to</b> another, it makes the other thing greater in degree or amount.  \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">增加，增添（特色）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>add</b> a particular quality <b>to</b> something means to cause it to have that quality.  \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">补充说;进一步说</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>add</b> something when you are speaking, you say something more.  \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">另外；再者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>added to this</b> or <b>added to that</b> to introduce a fact that supports or widens what you are saying.  \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>to add insult to injury</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://insult\">insult</a></b>; \r \r\r\r</span>",
+    "display_hwd": "add",
+    "ext": "",
+    "hwd": "add",
+    "phonetics": "英\r[æd]美\r[æd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(加在动词之前）表示“否定”，“相反”</span>",
+    "def_en": "<span class=\"endef\"><b>De-</b> is added to a verb in order to change the meaning of the verb to its opposite.  \r \r\r\r</span>",
+    "display_hwd": "de-",
+    "ext": "",
+    "hwd": "de-",
+    "phonetics": "英\r[di:]美\r[diː]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(加在名词之前构成动词)表示“除去”，“除掉”</span>",
+    "def_en": "<span class=\"endef\"><b>De-</b> is added to a noun in order to make it a verb referring to the removal of the thing described by the noun.  \r \r\r\r</span>",
+    "display_hwd": "de-",
+    "ext": "",
+    "hwd": "de-",
+    "phonetics": "英\r[di:]美\r[diː]",
+    "phrase": "",
+    "sense": "prefix\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

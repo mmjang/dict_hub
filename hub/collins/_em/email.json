@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电子邮件</span>",
+    "def_en": "<span class=\"endef\"><b>E-mail</b> is a system of sending written messages electronically from one computer to another. <b>E-mail</b> is an abbreviation of (缩略=) 'electronic mail'.  \r \r\r\r</span>",
+    "display_hwd": "email",
+    "ext": "",
+    "hwd": "email",
+    "phonetics": "英\r['i:meɪl]美\r['imeɪl]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…发电子邮件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>e-mail</b> someone, you send them an e-mail.  \r \r\r\r</span>",
+    "display_hwd": "email",
+    "ext": "",
+    "hwd": "email",
+    "phonetics": "英\r['i:meɪl]美\r['imeɪl]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

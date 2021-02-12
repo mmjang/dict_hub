@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">逃学者;旷课者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>truant</b> is a pupil who stays away from school without permission.  \r \r\r\r</span>",
+    "display_hwd": "truant",
+    "ext": "",
+    "hwd": "truant",
+    "phonetics": "英\r[ˈtru:ənt]美\r[ˈtruənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">逃学;旷课</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a pupil <b>truants</b>, he or she stays away from school without permission.  \r \r\r\r</span>",
+    "display_hwd": "truant",
+    "ext": "",
+    "hwd": "truant",
+    "phonetics": "英\r[ˈtru:ənt]美\r[ˈtruənt]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">逃学;旷课</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a pupil <b>plays truant</b>, he or she stays away from school without permission.  \r \r\r\r</span>",
+    "display_hwd": "truant",
+    "ext": "",
+    "hwd": "truant",
+    "phonetics": "英\r[ˈtru:ənt]美\r[ˈtruənt]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

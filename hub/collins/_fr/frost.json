@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">霜;霜冻;严寒天气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When there is <b>frost</b> or a <b>frost</b>, the temperature outside falls below freezing point and the ground becomes covered in ice crystals.  \r \r\r\r</span>",
+    "display_hwd": "frost",
+    "ext": "",
+    "hwd": "frost",
+    "phonetics": "英\r[frɒst]美\r[frɔst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">冰点以下…度;零下…度</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone says that there are a particular number of <b>degrees of frost</b> they mean that the temperature is that number of degrees below freezing point.  \r \r\r\r</span>",
+    "display_hwd": "frost",
+    "ext": "",
+    "hwd": "frost",
+    "phonetics": "英\r[frɒst]美\r[frɔst]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

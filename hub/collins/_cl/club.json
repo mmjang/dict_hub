@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">俱乐部;会;社团</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>club</b> is an organization of people interested in a particular activity or subject who usually meet on a regular basis.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">俱乐部会所；俱乐部活动场所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>club</b> is a place where the members of a club meet.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">职业运动俱乐部</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>club</b> is a team which competes in sporting competitions.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 nightclub</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>club</b> is the same as a <b>nightclub</b> .  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(高尔夫球)球杆</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>club</b> is a long, thin, metal stick with a piece of wood or metal at one end that you use to hit the ball in golf.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大棒;棍棒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>club</b> is a thick heavy stick that can be used as a weapon.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用大棒等)狠狠地打,猛击</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>club</b> a person or animal means to hit them hard with a thick heavy stick or a similar weapon.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(纸牌中的)梅花</span>",
+    "def_en": "<span class=\"endef\"><b>Clubs</b> is one of the four suits in a pack of playing cards. Each card in the suit is marked with one or more black symbols: ♣.  \r \r\r\r</span>",
+    "display_hwd": "club",
+    "ext": "",
+    "hwd": "club",
+    "phonetics": "英\r[klʌb]美\r[klʌb]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount-coll\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

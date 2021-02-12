@@ -1,0 +1,102 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">组织;发起;开展</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>mount</b> a campaign or event, you organize it and make it take place.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">增强;加剧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>mounts</b>, it increases in intensity.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">增多;增加</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>mounts</b>, it increases in quantity.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">爬上，登上(台阶、梯级)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>mount</b> the stairs or a platform, you go up the stairs or go up onto the platform.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">骑上(马、自行车等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>mount</b> a horse or cycle, you climb on to it so that you can ride it.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坐骑;马</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mount</b> is a horse.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">安装;安置;裱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>mount</b> an object <b>on</b> something, you fix it there firmly.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">组织，举办(展览或展示)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>mount</b> an exhibition or display, you organize and present it.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于山的名称中)山</span>",
+    "def_en": "<span class=\"endef\"><b>Mount</b> is used as part of the name of a mountain.  \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mounted\">mounted</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "-mounted",
+    "ext": "",
+    "hwd": "-mounted",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "see also:"
+  }
+]

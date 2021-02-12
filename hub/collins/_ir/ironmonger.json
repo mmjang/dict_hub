@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">五金经销商;五金店店主</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ironmonger</b> is a shopkeeper who sells articles for the house and garden such as tools, nails, and pans.  \r \r\r\r</span>",
+    "display_hwd": "ironmonger",
+    "ext": "",
+    "hwd": "ironmonger",
+    "phonetics": "英\r[ˈaɪənmʌŋgə(r)]美\r[ˈaɪərnmʌŋgə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">五金商店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>ironmonger</b> or an <b>ironmonger's</b> is a shop where articles for the house and garden such as tools, nails, and pans are sold.  \r \r\r\r</span>",
+    "display_hwd": "ironmonger",
+    "ext": "",
+    "hwd": "ironmonger",
+    "phonetics": "英\r[ˈaɪənmʌŋgə(r)]美\r[ˈaɪərnmʌŋgə(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

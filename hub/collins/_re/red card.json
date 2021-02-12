@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（足球或橄榄球比赛中裁判出示的）红牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In football or rugby, if a player is shown the <b>red card</b>, the referee holds up a red card to indicate that the player must leave the pitch for breaking the rules.  \r \r\r\r</span>",
+    "display_hwd": "red card",
+    "ext": "",
+    "hwd": "red card",
+    "phonetics": "英\r[redkɑ:d]美\r[rɛdkɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（足球或橄榄球比赛中）将…红牌罚下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In football or rugby, if a player <b>is red carded</b>, the referee holds up a red card to indicate that the player must leave the pitch for breaking the rules.  \r \r\r\r</span>",
+    "display_hwd": "red card",
+    "ext": "",
+    "hwd": "red card",
+    "phonetics": "英\r[redkɑ:d]美\r[rɛdkɑrd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

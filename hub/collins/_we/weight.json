@@ -1,0 +1,202 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">重量;分量;体重</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>weight</b> of a person or thing is how heavy they are, measured in units such as kilograms, pounds, or tons.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">过重;分量重</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A person's or thing's <b>weight</b> is the fact that they are very heavy.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">重心</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you move your <b>weight</b>, you change position so that most of the pressure of your body is on a particular part of your body.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">哑铃;杠铃片</span>",
+    "def_en": "<span class=\"endef\"><b>Weights</b> are objects which weigh a known amount and which people lift as a form of exercise.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">砝码;秤砣;秤锤</span>",
+    "def_en": "<span class=\"endef\"><b>Weights</b> are metal objects which weigh a known amount and which are used on a set of scales to weigh other things.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指需举起的)重物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a heavy object as a <b>weight</b>, especially when you have to lift it.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">加重量于;使负重</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>weight</b> something, you make it heavier by adding something to it, for example in order to stop it from moving easily.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">权衡…的价值;加权重于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>weight</b> things, you give them different values according to how important or significant they are.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">权重;重要性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is given a particular <b>weight</b>, it is given a particular value according to how important or significant it is.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(事物的)分量，重量，重压</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about <b>the weight of</b> something, you mean that it is large in amount or has great power, which means that it is difficult to oppose or fight against.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">重要性;分量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something gives <b>weight</b> to what a person says, thinks, or does, they emphasize its significance.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">重要性;影响力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you give something or someone <b>weight</b>, you consider them to be very important or influential in a particular situation.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">负担;重担</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you feel a <b>weight</b> on you, you have a problem or a responsibility that is difficult for you to manage and that you are very worried about.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://dead weight\">dead weight</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有分量;有影响力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or their opinion <b>carries weight</b>, they are respected and are able to influence people.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">非常有价值;十分重要</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is <b>worth</b> their <b>weight in gold</b>, you are emphasizing that they are so useful, helpful, or valuable that you feel you could not manage without them.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尽本分;做好分内事</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>pull</b> your <b>weight</b>, you work as hard as everyone else who is involved in the same task or activity.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">仗势欺人;盛气凌人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>throws</b> their <b>weight around</b> or <b>throws</b> their <b>weight about</b>, they act aggressively and use their authority over other people more than they need to.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（利用自己的影响等）全力相助，鼎力支持</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>throw</b> your <b>weight behind</b> a person, plan, or campaign, you use all your influence and do everything you can to support them.  \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>a weight off</b> your <b>mind</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://mind\">mind</a></b>; \r \r\r\r</span>",
+    "display_hwd": "weight",
+    "ext": "",
+    "hwd": "weight",
+    "phonetics": "英\r[weɪt]美\r[wet]",
+    "phrase": "",
+    "sense": "★★★★☆ "
+  }
+]

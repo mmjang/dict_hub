@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">调查；打探；探究；探听</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>probe into</b> something, you ask questions or try to discover facts about it.  \r \r\r\r</span>",
+    "display_hwd": "probing",
+    "ext": "",
+    "hwd": "probing",
+    "phonetics": "英\r[ˈprəʊbɪŋ]美\r[ˈproʊbɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（医生或牙医用细长的工具）探查，检查，探测</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a doctor or dentist <b>probes</b>, he or she uses a long instrument to examine part of a patient's body.  \r \r\r\r</span>",
+    "display_hwd": "probing",
+    "ext": "",
+    "hwd": "probing",
+    "phonetics": "英\r[ˈprəʊbɪŋ]美\r[ˈproʊbɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（医生和牙医用的）探针</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>probe</b> is a long thin instrument that doctors and dentists use to examine parts of the body.  \r \r\r\r</span>",
+    "display_hwd": "probing",
+    "ext": "",
+    "hwd": "probing",
+    "phonetics": "英\r[ˈprəʊbɪŋ]美\r[ˈproʊbɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">搜寻；搜查</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>probe</b> a place, you search it in order to find someone or something that you are looking for.  \r \r\r\r</span>",
+    "display_hwd": "probing",
+    "ext": "",
+    "hwd": "probing",
+    "phonetics": "英\r[ˈprəʊbɪŋ]美\r[ˈproʊbɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">侦察，侦探（敌情）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a conflict such as a war, if one side <b>probes</b> another side's defences, they try to find their weaknesses, for example by attacking them in specific areas using a small number of troops.  \r \r\r\r</span>",
+    "display_hwd": "probing",
+    "ext": "",
+    "hwd": "probing",
+    "phonetics": "英\r[ˈprəʊbɪŋ]美\r[ˈproʊbɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">航天探测器；太空探测器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>space probe</b> is a spacecraft which travels into space with no people in it, usually in order to study the planets and send information about them back to earth.  \r \r\r\r</span>",
+    "display_hwd": "probing",
+    "ext": "",
+    "hwd": "probing",
+    "phonetics": "英\r[ˈprəʊbɪŋ]美\r[ˈproʊbɪŋ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

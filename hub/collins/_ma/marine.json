@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">水兵;海军陆战队士兵</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>marine</b> is a  member of an armed force, for example the US Marine Corps or the Royal Marines, who is specially trained for military duties at sea as well as on land.  \r \r\r\r</span>",
+    "display_hwd": "marine",
+    "ext": "",
+    "hwd": "marine",
+    "phonetics": "英\r[məˈri:n]美\r[məˈrin]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">海洋的;海生的;海产的</span>",
+    "def_en": "<span class=\"endef\"><b>Marine</b> is used to describe things relating to the sea or to the animals and plants that live in the sea.  \r \r\r\r</span>",
+    "display_hwd": "marine",
+    "ext": "",
+    "hwd": "marine",
+    "phonetics": "英\r[məˈri:n]美\r[məˈrin]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">海船的;海运的;海事的</span>",
+    "def_en": "<span class=\"endef\"><b>Marine</b> is used to describe things relating to ships and their movement at sea.  \r \r\r\r</span>",
+    "display_hwd": "marine",
+    "ext": "",
+    "hwd": "marine",
+    "phonetics": "英\r[məˈri:n]美\r[məˈrin]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

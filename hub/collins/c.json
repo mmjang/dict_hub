@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">英语字母表的第3个字母</span>",
+    "def_en": "<span class=\"endef\"><b>C</b> is the third letter of the English alphabet.  \r \r\r\r</span>",
+    "display_hwd": "C",
+    "ext": "",
+    "hwd": "C",
+    "phonetics": "英\r[si:]美\r[si]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">C大调音阶中的第一音;C音</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In music, <b>C</b> is the first note in the scale of C major.  \r \r\r\r</span>",
+    "display_hwd": "C",
+    "ext": "",
+    "hwd": "C",
+    "phonetics": "英\r[si:]美\r[si]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（作业、考试等）丙等，第三等，C级</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you get a <b>C</b> as a mark for a piece of work or in an exam, your work is average.  \r \r\r\r</span>",
+    "display_hwd": "C",
+    "ext": "",
+    "hwd": "C",
+    "phonetics": "英\r[si:]美\r[si]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于日期或数字前)约,大约</span>",
+    "def_en": "<span class=\"endef\"><b>c</b>. is written in front of a date or number to indicate that it is approximate. <b>c</b>. is an abbreviation for (缩略 =) 'circa'.  \r \r\r\r</span>",
+    "display_hwd": "C",
+    "ext": "",
+    "hwd": "C",
+    "phonetics": "英\r[si:]美\r[si]",
+    "phrase": "",
+    "sense": ""
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于首字母为C的一些单词的缩写,如 copyright, Celsius 等)</span>",
+    "def_en": "<span class=\"endef\"><b>C</b> or <b>c</b> is used as an abbreviation for words beginning with c, such as 'copyright' or 'Celsius'.  \r \r\r\r</span>",
+    "display_hwd": "C",
+    "ext": "",
+    "hwd": "C",
+    "phonetics": "英\r[si:]美\r[si]",
+    "phrase": "",
+    "sense": ""
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://C-in-C\">C-in-C</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://c/o\">c/o</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "C",
+    "ext": "",
+    "hwd": "C",
+    "phonetics": "英\r[si:]美\r[si]",
+    "phrase": "",
+    "sense": "see also:"
+  }
+]

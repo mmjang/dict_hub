@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">饥饿感</span>",
+    "def_en": "<span class=\"endef\"><b>Hunger</b> is the feeling of weakness or discomfort that you get when you need something to eat.  \r \r\r\r</span>",
+    "display_hwd": "hunger",
+    "ext": "",
+    "hwd": "hunger",
+    "phonetics": "英\r[ˈhʌŋgə(r)]美\r[ˈhʌŋɡɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">饥饿;饥荒</span>",
+    "def_en": "<span class=\"endef\"><b>Hunger</b> is a severe lack of food which causes suffering or death.  \r \r\r\r</span>",
+    "display_hwd": "hunger",
+    "ext": "",
+    "hwd": "hunger",
+    "phonetics": "英\r[ˈhʌŋgə(r)]美\r[ˈhʌŋɡɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">渴望;渴求</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have a <b>hunger for</b> something, you want or need it very much.  \r \r\r\r</span>",
+    "display_hwd": "hunger",
+    "ext": "",
+    "hwd": "hunger",
+    "phonetics": "英\r[ˈhʌŋgə(r)]美\r[ˈhʌŋɡɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">渴望;渴求</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>hungers for</b> something or <b>hungers after</b> it, you are emphasizing that they want it very much.  \r \r\r\r</span>",
+    "display_hwd": "hunger",
+    "ext": "",
+    "hwd": "hunger",
+    "phonetics": "英\r[ˈhʌŋgə(r)]美\r[ˈhʌŋɡɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">旅费;路费;车费</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>fare</b> is the money that you pay for a journey that you make, for example, in a bus, train, or taxi.  \r \r\r\r</span>",
+    "display_hwd": "fare",
+    "ext": "",
+    "hwd": "fare",
+    "phonetics": "英\r[feə(r)]美\r[fer]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(饭店或咖啡店的)餐点，饮食，饭菜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>fare</b> at a restaurant or caff is the type of food that is served there.  \r \r\r\r</span>",
+    "display_hwd": "fare",
+    "ext": "",
+    "hwd": "fare",
+    "phonetics": "英\r[feə(r)]美\r[fer]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">进展;进行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something <b>fares</b> well or badly, you are referring to the degree of success they achieve in a particular situation or activity.  \r \r\r\r</span>",
+    "display_hwd": "fare",
+    "ext": "",
+    "hwd": "fare",
+    "phonetics": "英\r[feə(r)]美\r[fer]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

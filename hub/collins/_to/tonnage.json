@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(船舶的)吨位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>tonnage</b> of a ship is its size or the amount of space that it has inside it for cargo.  \r \r\r\r</span>",
+    "display_hwd": "tonnage",
+    "ext": "",
+    "hwd": "tonnage",
+    "phonetics": "英\r[ˈtʌnɪdʒ]美\r[ˈtʌnɪdʒ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">总吨数;总重量</span>",
+    "def_en": "<span class=\"endef\"><b>Tonnage</b> is the total number of tons that something weighs, or the total amount that there is of it.  \r \r\r\r</span>",
+    "display_hwd": "tonnage",
+    "ext": "",
+    "hwd": "tonnage",
+    "phonetics": "英\r[ˈtʌnɪdʒ]美\r[ˈtʌnɪdʒ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

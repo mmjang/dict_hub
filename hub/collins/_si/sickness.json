@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">患病;生病;不健康</span>",
+    "def_en": "<span class=\"endef\"><b>Sickness</b> is the state of being ill or unhealthy.  \r \r\r\r</span>",
+    "display_hwd": "sickness",
+    "ext": "",
+    "hwd": "sickness",
+    "phonetics": "英\r[ˈsɪknəs]美\r[ˈsɪknɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">恶心;呕吐感</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://morning sickness\">morning sickness</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://travel sickness\">travel sickness</a></b>;\r <b>Sickness</b> is the uncomfortable feeling that you are going to vomit.  \r \r\r\r</span>",
+    "display_hwd": "sickness",
+    "ext": "",
+    "hwd": "sickness",
+    "phonetics": "英\r[ˈsɪknəs]美\r[ˈsɪknɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">病症;疾病</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sickness</b> is a particular illness.  \r \r\r\r</span>",
+    "display_hwd": "sickness",
+    "ext": "",
+    "hwd": "sickness",
+    "phonetics": "英\r[ˈsɪknəs]美\r[ˈsɪknɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

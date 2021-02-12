@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">重大危险</span>",
+    "def_en": "<span class=\"endef\"><b>Perils</b> are great dangers.  \r \r\r\r</span>",
+    "display_hwd": "peril",
+    "ext": "",
+    "hwd": "peril",
+    "phonetics": "英\r[ˈperəl]美\r[ˈpɛrəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某活动或行为的）危险，问题</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>perils</b> of a particular activity or course of action are the dangers or problems it may involve.  \r \r\r\r</span>",
+    "display_hwd": "peril",
+    "ext": "",
+    "hwd": "peril",
+    "phonetics": "英\r[ˈperəl]美\r[ˈpɛrəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于警告）自冒风险</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone does something <b>at</b> their <b>peril</b>, you are warning them that they will probably suffer as a result of doing it.  \r \r\r\r</span>",
+    "display_hwd": "peril",
+    "ext": "",
+    "hwd": "peril",
+    "phonetics": "英\r[ˈperəl]美\r[ˈpɛrəl]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

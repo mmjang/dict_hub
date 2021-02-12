@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">打印机</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://laser printer\">laser printer</a></b>;\r A <b>printer</b> is a machine that can be connected to a computer in order to make copies on paper of documents or other information held by the computer.  \r \r\r\r</span>",
+    "display_hwd": "printer",
+    "ext": "",
+    "hwd": "printer",
+    "phonetics": "英\r[ˈprɪntə(r)]美\r[ˈprɪntɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">印刷工人；印刷厂；印刷公司</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>printer</b> is a person or company whose job is printing things such as books.  \r \r\r\r</span>",
+    "display_hwd": "printer",
+    "ext": "",
+    "hwd": "printer",
+    "phonetics": "英\r[ˈprɪntə(r)]美\r[ˈprɪntɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

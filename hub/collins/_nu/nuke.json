@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">核武器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>nuke</b> is a nuclear weapon.  \r \r\r\r</span>",
+    "display_hwd": "nuke",
+    "ext": "",
+    "hwd": "nuke",
+    "phonetics": "英\r[nju:k]美\r[nuk,njuk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">对…进行核打击</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one country <b>nukes</b> another, it attacks it using nuclear weapons.  \r \r\r\r</span>",
+    "display_hwd": "nuke",
+    "ext": "",
+    "hwd": "nuke",
+    "phonetics": "英\r[nju:k]美\r[nuk,njuk]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

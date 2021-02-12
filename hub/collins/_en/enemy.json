@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">敌人;仇敌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is your <b>enemy</b>, they hate you or want to harm you.  \r \r\r\r</span>",
+    "display_hwd": "enemy",
+    "ext": "",
+    "hwd": "enemy",
+    "phonetics": "英\r[ˈenəmi]美\r[ˈɛnəmi]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">反对者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is your <b>enemy</b>, they are opposed to you and to what you think or do.  \r \r\r\r</span>",
+    "display_hwd": "enemy",
+    "ext": "",
+    "hwd": "enemy",
+    "phonetics": "英\r[ˈenəmi]美\r[ˈɛnəmi]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">敌军;敌国</span>",
+    "def_en": "<span class=\"endef\"><b>The enemy</b> is an army or other force that is opposed to you in a war, or a country with which your country is at war.  \r \r\r\r</span>",
+    "display_hwd": "enemy",
+    "ext": "",
+    "hwd": "enemy",
+    "phonetics": "英\r[ˈenəmi]美\r[ˈɛnəmi]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing-coll\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大敌;危害</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing is the <b>enemy of</b> another thing, the second thing cannot happen or succeed because of the first thing.  \r \r\r\r</span>",
+    "display_hwd": "enemy",
+    "ext": "",
+    "hwd": "enemy",
+    "phonetics": "英\r[ˈenəmi]美\r[ˈɛnəmi]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

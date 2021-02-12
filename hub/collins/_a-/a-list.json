@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">极有名的；极具人气的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>A-list</b> celebrity is a celebrity who is very famous indeed.  \r \r\r\r</span>",
+    "display_hwd": "A-list",
+    "ext": "",
+    "hwd": "A-list",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最具人气的名人榜;一线明星红人榜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>A-list</b> of celebrities is a group of celebrities who are very famous indeed.  \r \r\r\r</span>",
+    "display_hwd": "A-list",
+    "ext": "",
+    "hwd": "A-list",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

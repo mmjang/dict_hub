@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">由选举产生的;选任的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>elective</b> post or committee is one to which people are appointed as a result of winning an election.  \r \r\r\r</span>",
+    "display_hwd": "elective",
+    "ext": "",
+    "hwd": "elective",
+    "phonetics": "英\r[ɪˈlektɪv]美\r[ɪˈlɛktɪv]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（外科手术）非急需的，可选择的</span>",
+    "def_en": "<span class=\"endef\"><b>Elective</b> surgery is surgery that you choose to have before it becomes essential.  \r \r\r\r</span>",
+    "display_hwd": "elective",
+    "ext": "",
+    "hwd": "elective",
+    "phonetics": "英\r[ɪˈlektɪv]美\r[ɪˈlɛktɪv]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">选修课</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>elective</b> is a subject which a student can choose to study as part of his or her course.  \r \r\r\r</span>",
+    "display_hwd": "elective",
+    "ext": "",
+    "hwd": "elective",
+    "phonetics": "英\r[ɪˈlektɪv]美\r[ɪˈlɛktɪv]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

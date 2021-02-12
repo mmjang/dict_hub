@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">强调;着重指出</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stress</b> a point in a discussion, you put extra emphasis on it because you think it is important.  \r \r\r\r</span>",
+    "display_hwd": "stress",
+    "ext": "",
+    "hwd": "stress",
+    "phonetics": "英\r[stres]美\r[strɛs]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">精神压力;心理负担;紧张</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you feel under <b>stress</b>, you feel worried and tense because of difficulties in your life.  \r \r\r\r</span>",
+    "display_hwd": "stress",
+    "ext": "",
+    "hwd": "stress",
+    "phonetics": "英\r[stres]美\r[strɛs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">压力;应力</span>",
+    "def_en": "<span class=\"endef\"><b>Stresses</b> are strong physical pressures applied to an object.  \r \r\r\r</span>",
+    "display_hwd": "stress",
+    "ext": "",
+    "hwd": "stress",
+    "phonetics": "英\r[stres]美\r[strɛs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">重读;用重音读</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stress</b> a word or part of a word when you say it, you put emphasis on it so that it sounds slightly louder.  \r \r\r\r</span>",
+    "display_hwd": "stress",
+    "ext": "",
+    "hwd": "stress",
+    "phonetics": "英\r[stres]美\r[strɛs]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

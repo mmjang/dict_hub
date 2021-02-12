@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">谷粒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>grain of</b> wheat, rice, or other cereal crop is a seed from it.  \r \r\r\r</span>",
+    "display_hwd": "grain",
+    "ext": "",
+    "hwd": "grain",
+    "phonetics": "英\r[greɪn]美\r[ɡren]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">谷物（尤指小麦或玉米）</span>",
+    "def_en": "<span class=\"endef\"><b>Grain</b> is a cereal crop, especially wheat or corn, that has been harvested and is used for food or in trade.  \r \r\r\r</span>",
+    "display_hwd": "grain",
+    "ext": "",
+    "hwd": "grain",
+    "phonetics": "英\r[greɪn]美\r[ɡren]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">细粒;微粒;小颗粒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>grain of</b> something such as sand or salt is a tiny hard piece of it.  \r \r\r\r</span>",
+    "display_hwd": "grain",
+    "ext": "",
+    "hwd": "grain",
+    "phonetics": "英\r[greɪn]美\r[ɡren]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一点；些微</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>grain of</b> a quality is a very small amount of it.  \r \r\r\r</span>",
+    "display_hwd": "grain",
+    "ext": "",
+    "hwd": "grain",
+    "phonetics": "英\r[greɪn]美\r[ɡren]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（木材表面的）纹理，纹路</span>",
+    "def_en": "<span class=\"endef\"><b>The grain</b> of a piece of wood is the direction of its fibres. You can also refer to the pattern of lines on the surface of the wood as <b>the grain</b>.  \r \r\r\r</span>",
+    "display_hwd": "grain",
+    "ext": "",
+    "hwd": "grain",
+    "phonetics": "英\r[greɪn]美\r[ɡren]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">违背本来的原则；与…格格不入</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that an idea or action <b>goes against the grain</b>, you mean that it is very difficult for you to accept it or do it, because it conflicts with your previous ideas, beliefs, or principles.  \r \r\r\r</span>",
+    "display_hwd": "grain",
+    "ext": "",
+    "hwd": "grain",
+    "phonetics": "英\r[greɪn]美\r[ɡren]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

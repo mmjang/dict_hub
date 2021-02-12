@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(户外的)信箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mailbox</b> is a box outside your house where your letters are delivered.  \r \r\r\r</span>",
+    "display_hwd": "mailbox",
+    "ext": "",
+    "hwd": "mailbox",
+    "phonetics": "英\r[ˈmeɪlbɒks]美\r[ˈmeɪlbɑks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">公共邮箱;公用邮筒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mailbox</b> is a metal box in a public place, where you put letters and packets to be collected. They are then sorted and delivered.  \r \r\r\r</span>",
+    "display_hwd": "mailbox",
+    "ext": "",
+    "hwd": "mailbox",
+    "phonetics": "英\r[ˈmeɪlbɒks]美\r[ˈmeɪlbɑks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">电子信箱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a computer, your <b>mailbox</b> is the file where your e-mail is stored.  \r \r\r\r</span>",
+    "display_hwd": "mailbox",
+    "ext": "",
+    "hwd": "mailbox",
+    "phonetics": "英\r[ˈmeɪlbɒks]美\r[ˈmeɪlbɑks]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

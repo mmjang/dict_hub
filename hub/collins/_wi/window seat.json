@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（房间内窗下的）靠窗的座位,窗座</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>window seat</b> is a seat which is fixed to the wall underneath a window in a room.  \r \r\r\r</span>",
+    "display_hwd": "window seat",
+    "ext": "",
+    "hwd": "window seat",
+    "phonetics": "英\r[ˈwindəusi:t]美\r[ˈwɪndosit]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（火车、巴士或飞机上的）靠窗的座位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a train, bus, or aeroplane, a <b>window seat</b> is a seat next to a window.  \r \r\r\r</span>",
+    "display_hwd": "window seat",
+    "ext": "",
+    "hwd": "window seat",
+    "phonetics": "英\r[ˈwindəusi:t]美\r[ˈwɪndosit]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

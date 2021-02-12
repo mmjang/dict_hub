@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">计量仪;计量表</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>meter</b> is a device that measures and records something such as the amount of gas or electricity that you have used.  \r \r\r\r</span>",
+    "display_hwd": "meter",
+    "ext": "",
+    "hwd": "meter",
+    "phonetics": "英\r[ˈmi:tə(r)]美\r[ˈmitɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用表计量(耗用的煤气、电等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>meter</b> something such as gas or electricity means to use a meter to measure how much of it people use, usually in order to calculate how much they have to pay.  \r \r\r\r</span>",
+    "display_hwd": "meter",
+    "ext": "",
+    "hwd": "meter",
+    "phonetics": "英\r[ˈmi:tə(r)]美\r[ˈmitɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 parking meter</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>meter</b> is the same as a <b>parking meter</b> .  \r \r\r\r</span>",
+    "display_hwd": "meter",
+    "ext": "",
+    "hwd": "meter",
+    "phonetics": "英\r[ˈmi:tə(r)]美\r[ˈmitɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://metre\">metre</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "meter",
+    "ext": "",
+    "hwd": "meter",
+    "phonetics": "英\r[ˈmi:tə(r)]美\r[ˈmitɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ see also:"
+  }
+]

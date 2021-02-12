@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">希腊的</span>",
+    "def_en": "<span class=\"endef\"><b>Greek</b> means belonging or relating to Greece.  \r \r\r\r</span>",
+    "display_hwd": "Greek",
+    "ext": "",
+    "hwd": "Greek",
+    "phonetics": "英\r[gri:k]美\r[ɡrik]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">希腊人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>Greek</b> is a person who comes from Greece.  \r \r\r\r</span>",
+    "display_hwd": "Greek",
+    "ext": "",
+    "hwd": "Greek",
+    "phonetics": "英\r[gri:k]美\r[ɡrik]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">希腊语</span>",
+    "def_en": "<span class=\"endef\"><b>Greek</b> is the language used in Greece.  \r \r\r\r</span>",
+    "display_hwd": "Greek",
+    "ext": "",
+    "hwd": "Greek",
+    "phonetics": "英\r[gri:k]美\r[ɡrik]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">古希腊语</span>",
+    "def_en": "<span class=\"endef\"><b>Greek</b> or <b>Ancient Greek</b> was the language used in Greece in ancient times.  \r \r\r\r</span>",
+    "display_hwd": "Greek",
+    "ext": "",
+    "hwd": "Greek",
+    "phonetics": "英\r[gri:k]美\r[ɡrik]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

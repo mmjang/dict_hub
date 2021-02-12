@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">海盗；海上劫掠者</span>",
+    "def_en": "<span class=\"endef\"><b>Pirates</b> are sailors who attack other ships and steal property from them.  \r \r\r\r</span>",
+    "display_hwd": "pirated",
+    "ext": "",
+    "hwd": "pirated",
+    "phonetics": "['paɪrətid]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">道德败坏者；违法者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to someone who behaves in an immoral or illegal way as a <b>pirate</b> .  \r \r\r\r</span>",
+    "display_hwd": "pirated",
+    "ext": "",
+    "hwd": "pirated",
+    "phonetics": "['paɪrətid]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">非法复制及出售（录像带、录音带、书籍、计算机程序等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who <b>pirates</b> video tapes, cassettes, books, or computer programs copies and sells them when they have no right to do so.  \r \r\r\r</span>",
+    "display_hwd": "pirated",
+    "ext": "",
+    "hwd": "pirated",
+    "phonetics": "['paɪrətid]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">盗版的；盗用的；剽窃的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pirate</b> version of something is an illegal copy of it.  \r \r\r\r</span>",
+    "display_hwd": "pirated",
+    "ext": "",
+    "hwd": "pirated",
+    "phonetics": "['paɪrətid]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

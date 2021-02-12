@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">排屋(指相互连接、式样相似的房屋)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>terrace</b> is a row of similar houses joined together by their side walls.  \r \r\r\r</span>",
+    "display_hwd": "terrace",
+    "ext": "",
+    "hwd": "terrace",
+    "phonetics": "英\r[ˈterəs]美\r[ˈtɛrɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(房屋外的)草坪，平台</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>terrace</b> is a flat area of stone or grass next to a building where people can sit.  \r \r\r\r</span>",
+    "display_hwd": "terrace",
+    "ext": "",
+    "hwd": "terrace",
+    "phonetics": "英\r[ˈterəs]美\r[ˈtɛrɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">梯田;阶地</span>",
+    "def_en": "<span class=\"endef\"><b>Terraces</b> are a series of flat areas built like steps on the side of a hill so that crops can be grown there.  \r \r\r\r</span>",
+    "display_hwd": "terrace",
+    "ext": "",
+    "hwd": "terrace",
+    "phonetics": "英\r[ˈterəs]美\r[ˈtɛrɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(足球赛观众可站立的)阶梯看台</span>",
+    "def_en": "<span class=\"endef\"><b>The terraces</b> at a football ground are wide steps that people can stand on when they are watching a game.  \r \r\r\r</span>",
+    "display_hwd": "terrace",
+    "ext": "",
+    "hwd": "terrace",
+    "phonetics": "英\r[ˈterəs]美\r[ˈtɛrɪs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

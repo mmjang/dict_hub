@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">船舶失事;船只遇难;海难</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is a <b>shipwreck</b>, a ship is destroyed in an accident at sea.  \r \r\r\r</span>",
+    "display_hwd": "shipwreck",
+    "ext": "",
+    "hwd": "shipwreck",
+    "phonetics": "英\r[ˈʃɪprek]美\r[ˈʃɪpˌrɛk]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">遇难船只;失事船只;沉船</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>shipwreck</b> is a ship which has been destroyed in an accident at sea.  \r \r\r\r</span>",
+    "display_hwd": "shipwreck",
+    "ext": "",
+    "hwd": "shipwreck",
+    "phonetics": "英\r[ˈʃɪprek]美\r[ˈʃɪpˌrɛk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使(人)遭遇海难</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is shipwrecked</b>, their ship is destroyed in an accident at sea but they survive and manage to reach land.  \r \r\r\r</span>",
+    "display_hwd": "shipwreck",
+    "ext": "",
+    "hwd": "shipwreck",
+    "phonetics": "英\r[ˈʃɪprek]美\r[ˈʃɪpˌrɛk]",
+    "phrase": "",
+    "sense": "v-passive\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

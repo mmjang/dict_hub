@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">眼镜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>specs</b> are their glasses.  \r \r\r\r</span>",
+    "display_hwd": "spec",
+    "ext": "",
+    "hwd": "spec",
+    "phonetics": "英\r[spek]美\r[spɛk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指机器、车辆的)规格，配置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>spec</b> for something, especially a machine or vehicle, is its design and the features included in it.  \r \r\r\r</span>",
+    "display_hwd": "spec",
+    "ext": "",
+    "hwd": "spec",
+    "phonetics": "英\r[spek]美\r[spɛk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">碰运气</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>on spec</b>, you do it hoping to get something that you want, but without being asked or without being certain to get it.  \r \r\r\r</span>",
+    "display_hwd": "spec",
+    "ext": "",
+    "hwd": "spec",
+    "phonetics": "英\r[spek]美\r[spɛk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

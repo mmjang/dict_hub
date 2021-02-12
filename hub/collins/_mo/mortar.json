@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">迫击炮</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mortar</b> is a big gun which fires missiles high into the air over  a short distance.  \r \r\r\r</span>",
+    "display_hwd": "mortar",
+    "ext": "",
+    "hwd": "mortar",
+    "phonetics": "英\r[ˈmɔ:tə(r)]美\r[ˈmɔrtə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">灰浆;砂浆;胶泥</span>",
+    "def_en": "<span class=\"endef\"><b>Mortar</b> is a mixture of sand, water, and cement or lime which is put between bricks to hold them together.  \r \r\r\r</span>",
+    "display_hwd": "mortar",
+    "ext": "",
+    "hwd": "mortar",
+    "phonetics": "英\r[ˈmɔ:tə(r)]美\r[ˈmɔrtə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">研钵;臼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mortar</b> is a bowl in which you can crush things such as herbs, spices, or grain using a rod called a pestle.  \r \r\r\r</span>",
+    "display_hwd": "mortar",
+    "ext": "",
+    "hwd": "mortar",
+    "phonetics": "英\r[ˈmɔ:tə(r)]美\r[ˈmɔrtə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>bricks and mortar</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://brick\">brick</a></b>; \r \r\r\r</span>",
+    "display_hwd": "mortar",
+    "ext": "",
+    "hwd": "mortar",
+    "phonetics": "英\r[ˈmɔ:tə(r)]美\r[ˈmɔrtə(r)]",
+    "phrase": "",
+    "sense": "★★☆☆☆ "
+  }
+]

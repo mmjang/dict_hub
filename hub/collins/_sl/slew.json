@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Slew</b> is the past tense of <b>slay</b> .  \r \r\r\r</span>",
+    "display_hwd": "slew",
+    "ext": "",
+    "hwd": "slew",
+    "phonetics": "英\r[slu:]美\r[slu]",
+    "phrase": "",
+    "sense": ""
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(使)(车辆失控)滑行,(使)侧滑</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a vehicle <b>slews</b> or <b>is slewed</b> across a road, it slides across it.  \r \r\r\r</span>",
+    "display_hwd": "slew",
+    "ext": "",
+    "hwd": "slew",
+    "phonetics": "英\r[slu:]美\r[slu]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">许多;大量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>slew of</b> things is a large number of them.  \r \r\r\r</span>",
+    "display_hwd": "slew",
+    "ext": "",
+    "hwd": "slew",
+    "phonetics": "英\r[slu:]美\r[slu]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

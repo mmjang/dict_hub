@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">谷仓；粮仓</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>granary</b> is a building which is used for storing grain.  \r \r\r\r</span>",
+    "display_hwd": "granary",
+    "ext": "",
+    "hwd": "granary",
+    "phonetics": "英\r[ˈgrænəri]美\r[ˈɡrænəri,ˈɡrenə-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（英国指面包）全麦的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, <b>Granary</b> bread contains whole grains of wheat.  \r \r\r\r</span>",
+    "display_hwd": "granary",
+    "ext": "",
+    "hwd": "granary",
+    "phonetics": "英\r[ˈgrænəri]美\r[ˈɡrænəri,ˈɡrenə-]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

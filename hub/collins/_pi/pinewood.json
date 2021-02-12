@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">松林</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pinewood</b> is a wood which consists mainly of pine trees.  \r \r\r\r</span>",
+    "display_hwd": "pinewood",
+    "ext": "",
+    "hwd": "pinewood",
+    "phonetics": "英\r[ˈpaɪnwʊd]美\r[ˈpaɪnˌwʊd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">松木</span>",
+    "def_en": "<span class=\"endef\"><b>Pinewood</b> is wood that has come from a pine tree.  \r \r\r\r</span>",
+    "display_hwd": "pinewood",
+    "ext": "",
+    "hwd": "pinewood",
+    "phonetics": "英\r[ˈpaɪnwʊd]美\r[ˈpaɪnˌwʊd]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

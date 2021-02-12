@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">病毒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>virus</b> is a kind of germ that can cause disease.  \r \r\r\r</span>",
+    "display_hwd": "virus",
+    "ext": "",
+    "hwd": "virus",
+    "phonetics": "英\r[ˈvaɪrəs]美\r[ˈvaɪrəs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">病毒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In computer technology, a <b>virus</b> is a program that introduces itself into a system, altering or destroying the information stored in the system.  \r \r\r\r</span>",
+    "display_hwd": "virus",
+    "ext": "",
+    "hwd": "virus",
+    "phonetics": "英\r[ˈvaɪrəs]美\r[ˈvaɪrəs]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

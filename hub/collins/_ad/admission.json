@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">准许进入；准许加入；进入；加入</span>",
+    "def_en": "<span class=\"endef\"><b>Admission</b> is permission given to a person to enter a place, or permission given to a country to enter an organization. <b>Admission</b> is also the act of entering a place.  \r \r\r\r</span>",
+    "display_hwd": "admission",
+    "ext": "",
+    "hwd": "admission",
+    "phonetics": "英\r[ədˈmɪʃn]美\r[ædˈmɪʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">获准入学者</span>",
+    "def_en": "<span class=\"endef\"><b>Admissions</b> to a place such as a school or university are the people who are allowed to enter or join it.  \r \r\r\r</span>",
+    "display_hwd": "admission",
+    "ext": "",
+    "hwd": "admission",
+    "phonetics": "英\r[ədˈmɪʃn]美\r[ædˈmɪʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">入场费；门票费</span>",
+    "def_en": "<span class=\"endef\"><b>Admission</b> at a park, museum, or other place is the amount of money that you pay to enter it.  \r \r\r\r</span>",
+    "display_hwd": "admission",
+    "ext": "",
+    "hwd": "admission",
+    "phonetics": "英\r[ədˈmɪʃn]美\r[ædˈmɪʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（对过错等的）承认，供认</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>admission</b> is a statement that something bad, unpleasant, or embarrassing is true.  \r \r\r\r</span>",
+    "display_hwd": "admission",
+    "ext": "",
+    "hwd": "admission",
+    "phonetics": "英\r[ədˈmɪʃn]美\r[ædˈmɪʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

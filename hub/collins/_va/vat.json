@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">增值税</span>",
+    "def_en": "<span class=\"endef\"><b>VAT</b> is a tax that is added to the price of goods or services. <b>VAT</b> is an abbreviation for (缩略=) 'value added tax'.  \r \r\r\r</span>",
+    "display_hwd": "VAT",
+    "ext": "",
+    "hwd": "VAT",
+    "phonetics": "英\r[ˌvi:eɪˈti:]美\r[ˈviˈe'ti，væt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大桶;大盆;缸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>vat</b> is a large barrel or tank in which liquids can be stored.  \r \r\r\r</span>",
+    "display_hwd": "vat",
+    "ext": "",
+    "hwd": "vat",
+    "phonetics": "英\r[væt]美\r[væt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">学业能力倾向测验(升读大学需要参加的一种考试)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>SAT</b> is an examination which is often taken by students who wish to enter a college or university. <b>SAT</b> is an abbreviation for (缩略=) 'Scholastic Aptitude Test'.  \r \r\r\r</span>",
+    "display_hwd": "SAT",
+    "ext": "",
+    "hwd": "SAT",
+    "phonetics": "英\r[ˌeseɪˈti:]",
+    "phrase": "",
+    "sense": "n-proper\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(针对七岁学童的)标准课业测评考试</span>",
+    "def_en": "<span class=\"endef\"><b>SATs</b> are a set of tasks given to seven-year-old schoolchildren in order to test their ability. <b>SAT</b> is an abbreviation for (缩略=) 'Standard Assessment Task'.  \r \r\r\r</span>",
+    "display_hwd": "SAT",
+    "ext": "",
+    "hwd": "SAT",
+    "phonetics": "英\r[ˌeseɪˈti:]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Sat</b> is the past tense and past participle of <b>sit</b>.  \r \r\r\r</span>",
+    "display_hwd": "sat",
+    "ext": "",
+    "hwd": "sat",
+    "phonetics": "英\r[sæt]美\r[sæt]",
+    "phrase": "",
+    "sense": ""
+  }
+]

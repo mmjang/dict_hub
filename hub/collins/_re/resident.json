@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">居民;住户;居住者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>residents</b> of a house or area are the people who live there.  \r \r\r\r</span>",
+    "display_hwd": "resident",
+    "ext": "",
+    "hwd": "resident",
+    "phonetics": "英\r[ˈrezɪdənt]美\r[ˈrɛzɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（在某地）居住的，居留的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>resident in</b> a country or a town lives there.  \r \r\r\r</span>",
+    "display_hwd": "resident",
+    "ext": "",
+    "hwd": "resident",
+    "phonetics": "英\r[ˈrezɪdənt]美\r[ˈrɛzɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★★☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(医生或教师)住在任职地的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>resident</b> doctor or teacher lives in the place where he or she works.  \r \r\r\r</span>",
+    "display_hwd": "resident",
+    "ext": "",
+    "hwd": "resident",
+    "phonetics": "英\r[ˈrezɪdənt]美\r[ˈrɛzɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★★☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">实习医生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>resident</b> or a <b>resident</b> doctor is a doctor who is receiving a period of specialized training in a hospital after leaving university.  \r \r\r\r</span>",
+    "display_hwd": "resident",
+    "ext": "",
+    "hwd": "resident",
+    "phonetics": "英\r[ˈrezɪdənt]美\r[ˈrɛzɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">特聘的;专聘的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an institution has a <b>resident</b> specialist, that specialist works for the institution.  \r \r\r\r</span>",
+    "display_hwd": "resident",
+    "ext": "",
+    "hwd": "resident",
+    "phonetics": "英\r[ˈrezɪdənt]美\r[ˈrɛzɪdənt,-ˌdɛnt]",
+    "phrase": "",
+    "sense": "★★★★☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

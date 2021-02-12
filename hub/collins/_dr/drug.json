@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">药;药物;药品</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>drug</b> is a chemical which is given to people in order to treat or prevent an illness or disease.  \r \r\r\r</span>",
+    "display_hwd": "drug",
+    "ext": "",
+    "hwd": "drug",
+    "phonetics": "英\r[drʌg]美\r[drʌɡ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毒品</span>",
+    "def_en": "<span class=\"endef\"><b>Drugs</b> are substances that some people take because of their pleasant effects, but which are usually illegal.  \r \r\r\r</span>",
+    "display_hwd": "drug",
+    "ext": "",
+    "hwd": "drug",
+    "phonetics": "英\r[drʌg]美\r[drʌɡ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">将…麻醉;给…服麻醉剂</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>drug</b> a person or animal, you give them a chemical substance in order to make them sleepy or unconscious.  \r \r\r\r</span>",
+    "display_hwd": "drug",
+    "ext": "",
+    "hwd": "drug",
+    "phonetics": "英\r[drʌg]美\r[drʌɡ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">往（食物或饮料中）投放麻醉药</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If food or drink <b>is drugged</b>, a chemical substance is added to it in order to make someone sleepy or unconscious when they eat or drink it.  \r \r\r\r</span>",
+    "display_hwd": "drug",
+    "ext": "",
+    "hwd": "drug",
+    "phonetics": "英\r[drʌg]美\r[drʌɡ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

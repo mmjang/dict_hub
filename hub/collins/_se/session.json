@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(议会等的)会议;(法庭的)开庭</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>session</b> is a meeting of a court, parliament, or other official group.  \r \r\r\r</span>",
+    "display_hwd": "session",
+    "ext": "",
+    "hwd": "session",
+    "phonetics": "英\r[ˈseʃn]美\r[ˈsɛʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(议会等的)会期;(法庭的)开庭期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>session</b> is a period during which the meetings of a court, parliament, or other official group are regularly held.  \r \r\r\r</span>",
+    "display_hwd": "session",
+    "ext": "",
+    "hwd": "session",
+    "phonetics": "英\r[ˈseʃn]美\r[ˈsɛʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某项活动的)一段时间，一场，一节</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>session</b> of a particular activity is a period of that activity.  \r \r\r\r</span>",
+    "display_hwd": "session",
+    "ext": "",
+    "hwd": "session",
+    "phonetics": "英\r[ˈseʃn]美\r[ˈsɛʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(音乐家)伴奏的</span>",
+    "def_en": "<span class=\"endef\"><b>Session</b> musicians are employed to play backing music in recording studios.  \r \r\r\r</span>",
+    "display_hwd": "session",
+    "ext": "",
+    "hwd": "session",
+    "phonetics": "英\r[ˈseʃn]美\r[ˈsɛʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

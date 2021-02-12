@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">十进位的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>decimal</b> system involves counting in units of ten.  \r \r\r\r</span>",
+    "display_hwd": "decimal",
+    "ext": "",
+    "hwd": "decimal",
+    "phonetics": "英\r[ˈdesɪml]美\r[ˈdɛsəməl]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">小数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>decimal</b> is a fraction that is written in the form of a dot followed by one or more numbers which represent tenths, hundredths, and so on: for example .5, .51, .517.  \r \r\r\r</span>",
+    "display_hwd": "decimal",
+    "ext": "",
+    "hwd": "decimal",
+    "phonetics": "英\r[ˈdesɪml]美\r[ˈdɛsəməl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

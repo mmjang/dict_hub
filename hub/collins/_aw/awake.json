@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">醒着的；没睡着的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>awake</b> is not sleeping.  \r \r\r\r</span>",
+    "display_hwd": "awake",
+    "ext": "",
+    "hwd": "awake",
+    "phonetics": "英\r[əˈweɪk]美\r[əˈwek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">毫无睡意的;失眠的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who is <b>wide awake</b> is fully awake and unable to sleep.  \r \r\r\r</span>",
+    "display_hwd": "awake",
+    "ext": "",
+    "hwd": "awake",
+    "phonetics": "英\r[əˈweɪk]美\r[əˈwek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">醒来；唤醒；叫醒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>awake</b> or when something <b>awakes</b> you, you wake up.  \r \r\r\r</span>",
+    "display_hwd": "awake",
+    "ext": "",
+    "hwd": "awake",
+    "phonetics": "英\r[əˈweɪk]美\r[əˈwek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

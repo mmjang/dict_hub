@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">玻璃</span>",
+    "def_en": "<span class=\"endef\"><b>Glass</b> is a hard transparent substance that is used to make things such as windows and bottles.  \r \r\r\r</span>",
+    "display_hwd": "glass",
+    "ext": "",
+    "hwd": "glass",
+    "phonetics": "英\r[glɑ:s]美\r[glæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">玻璃杯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>glass</b> is a container made from glass, which you can drink from and which does not have a handle.  \r \r\r\r</span>",
+    "display_hwd": "glass",
+    "ext": "",
+    "hwd": "glass",
+    "phonetics": "英\r[glɑ:s]美\r[glæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">玻璃制品</span>",
+    "def_en": "<span class=\"endef\"><b>Glass</b> is used to mean objects made of glass, for example drinking containers and bowls.  \r \r\r\r</span>",
+    "display_hwd": "glass",
+    "ext": "",
+    "hwd": "glass",
+    "phonetics": "英\r[glɑ:s]美\r[glæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">眼镜</span>",
+    "def_en": "<span class=\"endef\"><b>Glasses</b> are two lenses in a frame that some people wear in front of their eyes in order to help them see better.  \r \r\r\r</span>",
+    "display_hwd": "glass",
+    "ext": "",
+    "hwd": "glass",
+    "phonetics": "英\r[glɑ:s]美\r[glæs]",
+    "phrase": "",
+    "sense": "★★★★☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://dark glasses\">dark glasses</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://magnifying glass\">magnifying glass</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "glass",
+    "ext": "",
+    "hwd": "glass",
+    "phonetics": "英\r[glɑ:s]美\r[glæs]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">驾驶;开车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>drive</b> somewhere, you operate a car or other vehicle and control its movement and direction.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驾车送(人)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>drive</b> someone somewhere, you take them there in a car or other vehicle.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驱车旅行;驾车路程</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>drive</b> is a journey in a car or other vehicle.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(从马路通往住宅的宽阔)车道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>drive</b> is a wide piece of hard ground, or sometimes a private road, that leads from the road to a person's house.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驱动;推动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>drives</b> a machine, it supplies the power that makes it work.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">传动力;驱动力</span>",
+    "def_en": "<span class=\"endef\"><b>Drive</b> is the power supplied by the engine to particular wheels in a car or other vehicle to make the vehicle move.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（计算机的）驱动器</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://disk drive\">disk drive</a></b>;\r You use <b>drive</b> to refer to the mechanical part of a computer which reads the data on disks and tapes, or writes data onto them.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">击;打;敲;推</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>drive</b> something such as a nail <b>into</b> something else, you push it in or hammer it in using a lot of effort.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用力击(球);用力踢(球)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In games such as cricket, golf, or football, if a player <b>drives</b> a ball somewhere, they kick or hit it there with a lot of force.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(高尔夫球的)开球</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In golf, a <b>drive</b> is the first stroke a player makes from the tee.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(风、雨或雪朝某个方向)吹,卷,刮,冲</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If the wind, rain, or snow <b>drives</b> in a particular direction, it moves with great force in that direction.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驱赶;驱逐;赶走</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>drive</b> people or animals somewhere, you make them go to or from that place.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">迫使;逼迫</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>drive</b> someone <b>into</b> a particular state or situation means to force them into that state or situation.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驱使，迫使(某人做出极端的事情)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The desire or feeling that <b>drives</b> a person <b>to</b> do something, especially something extreme, is the desire or feeling that causes them to do it.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">精力;干劲;冲劲;决心</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone has <b>drive</b>, you mean they have energy and determination.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">强烈欲望;强烈需求;本能需求</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>drive</b> is a very strong need or desire in human beings that makes them act in particular ways.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(为达到某目的而进行的)努力,运动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>drive</b> is a special effort made by a group of people for a particular purpose.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于路名)路,大道</span>",
+    "def_en": "<span class=\"endef\"><b>Drive</b> is used in the names of some streets.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://driving\">driving</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">意欲所指;暗示</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you ask someone <b>what</b> they <b>are driving at</b>, you are asking what they are trying to say or what they are saying indirectly.  \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>drive a hard bargain</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bargain\">bargain</a></b>; \r \r\r\r</span>",
+    "display_hwd": "drive",
+    "ext": "",
+    "hwd": "drive",
+    "phonetics": "英\r[draɪv]美\r[draɪv]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

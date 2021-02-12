@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">钢笔</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fountain pen\">fountain pen</a></b>;\r A <b>pen</b> is a long thin object which you use to write in ink.  \rballpoint pen<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://ballpoint\">ballpoint</a></b>; \rfelt-tip pen<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://felt-tip\">felt-tip</a></b>; \r \r\r\r</span>",
+    "display_hwd": "pen",
+    "ext": "",
+    "hwd": "pen",
+    "phonetics": "英\r[pen]美\r[pɛn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">写；书写</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>pens</b> a letter, article, or book, they write it.  \r \r\r\r</span>",
+    "display_hwd": "pen",
+    "ext": "",
+    "hwd": "pen",
+    "phonetics": "英\r[pen]美\r[pɛn]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">栏；圈；棚</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://playpen\">playpen</a></b>;\r A <b>pen</b> is also a small area with a fence round it in which farm animals are kept for a short time.  \r \r\r\r</span>",
+    "display_hwd": "pen",
+    "ext": "",
+    "hwd": "pen",
+    "phonetics": "英\r[pen]美\r[pɛn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…关起来；把…圈起来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people or animals <b>are penned</b> somewhere or <b>are penned up</b>, they are forced to remain in a very small area.  \r \r\r\r</span>",
+    "display_hwd": "pen",
+    "ext": "",
+    "hwd": "pen",
+    "phonetics": "英\r[pen]美\r[pɛn]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">监狱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes say <b>the pen</b> to refer to a prison.  \r \r\r\r</span>",
+    "display_hwd": "pen",
+    "ext": "",
+    "hwd": "pen",
+    "phonetics": "英\r[pen]美\r[pɛn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">动笔；下笔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>put pen to paper</b>, you write something.  \r \r\r\r</span>",
+    "display_hwd": "pen",
+    "ext": "",
+    "hwd": "pen",
+    "phonetics": "英\r[pen]美\r[pɛn]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（英国大学某些学院的）院长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some university colleges in Britain, the <b>provost</b> is the head.  \r \r\r\r</span>",
+    "display_hwd": "provost",
+    "ext": "",
+    "hwd": "provost",
+    "phonetics": "英\r[ˈprɒvəst]美\r[ˈproʊvoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国某些大专院校的）教务长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some colleges and universities in the  United States, a <b>provost</b> is an official who deals with matters such as the teaching staff and the courses of study.  \r \r\r\r</span>",
+    "display_hwd": "provost",
+    "ext": "",
+    "hwd": "provost",
+    "phonetics": "英\r[ˈprɒvəst]美\r[ˈproʊvoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（苏格兰的）市长，镇长，区长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>provost</b> is the chief magistrate of a Scottish administrative area.  \r \r\r\r</span>",
+    "display_hwd": "provost",
+    "ext": "",
+    "hwd": "provost",
+    "phonetics": "英\r[ˈprɒvəst]美\r[ˈproʊvoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（天主教或圣公会中的）主教座堂（或大圣堂）教士长</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the Roman Catholic and Anglican Churches, a <b>provost</b> is the person who is in charge of the administration of a cathedral.  \r \r\r\r</span>",
+    "display_hwd": "provost",
+    "ext": "",
+    "hwd": "provost",
+    "phonetics": "英\r[ˈprɒvəst]美\r[ˈproʊvoʊst]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

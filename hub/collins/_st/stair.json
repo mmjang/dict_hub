@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">楼梯</span>",
+    "def_en": "<span class=\"endef\"><b>Stairs</b> are a set of steps inside a building which go from one floor to another.  \r \r\r\r</span>",
+    "display_hwd": "stair",
+    "ext": "",
+    "hwd": "stair",
+    "phonetics": "英\r[steə(r)]美\r[ster]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一层楼梯;一段楼梯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stair</b> is a flight of stairs.  \r \r\r\r</span>",
+    "display_hwd": "stair",
+    "ext": "",
+    "hwd": "stair",
+    "phonetics": "英\r[steə(r)]美\r[ster]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一级楼梯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stair</b> is one of the steps in a flight of stairs.  \r \r\r\r</span>",
+    "display_hwd": "stair",
+    "ext": "",
+    "hwd": "stair",
+    "phonetics": "英\r[steə(r)]美\r[ster]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

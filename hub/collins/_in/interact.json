@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">相互交流;相互沟通</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people <b>interact with</b> each other or <b>interact</b>, they communicate as they work or spend time together.  \r \r\r\r</span>",
+    "display_hwd": "interact",
+    "ext": "",
+    "hwd": "interact",
+    "phonetics": "英\r[ˌɪntərˈækt]美\r[ˌɪntɚˈækt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人与计算机或计算机与其他机器之间)交互作用，互动</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people <b>interact with</b> computers, or when computers <b>interact with</b> other machines, information or instructions are exchanged.  \r \r\r\r</span>",
+    "display_hwd": "interact",
+    "ext": "",
+    "hwd": "interact",
+    "phonetics": "英\r[ˌɪntərˈækt]美\r[ˌɪntɚˈækt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">相互作用;相互影响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When one thing <b>interacts with</b> another or two things <b>interact</b>, the two things affect each other's behaviour or condition.  \r \r\r\r</span>",
+    "display_hwd": "interact",
+    "ext": "",
+    "hwd": "interact",
+    "phonetics": "英\r[ˌɪntərˈækt]美\r[ˌɪntɚˈækt]",
+    "phrase": "",
+    "sense": "★★☆☆☆ v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

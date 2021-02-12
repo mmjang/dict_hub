@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">眼镜商；验光配镜师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>optician</b> is someone whose job involves testing people's sight, and making or selling glasses and contact lenses.  \r \r\r\r</span>",
+    "display_hwd": "optician",
+    "ext": "",
+    "hwd": "optician",
+    "phonetics": "英\r[ɒpˈtɪʃn]美\r[ɑpˈtɪʃn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">眼镜店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>optician</b> or an <b>optician's</b> is a shop where you can have your eyes tested and buy glasses and contact lenses.  \r \r\r\r</span>",
+    "display_hwd": "optician",
+    "ext": "",
+    "hwd": "optician",
+    "phonetics": "英\r[ɒpˈtɪʃn]美\r[ɑpˈtɪʃn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

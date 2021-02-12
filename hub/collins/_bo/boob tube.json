@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电视机</span>",
+    "def_en": "<span class=\"endef\"><b>The boob tube</b> is the television.  \r \r\r\r</span>",
+    "display_hwd": "boob tube",
+    "ext": "",
+    "hwd": "boob tube",
+    "phonetics": "英\r[bu:btju:b]美\r[bubtub]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（女性的）紧身胸衣，文胸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>boob tube</b> is a piece of women's clothing made of stretchy material that covers only her chest.  \r \r\r\r</span>",
+    "display_hwd": "boob tube",
+    "ext": "",
+    "hwd": "boob tube",
+    "phonetics": "英\r[bu:btju:b]美\r[bubtub]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

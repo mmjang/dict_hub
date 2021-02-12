@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">潮湿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say there is <b>humidity</b> when the air feels very heavy and damp.  \r \r\r\r</span>",
+    "display_hwd": "humidity",
+    "ext": "",
+    "hwd": "humidity",
+    "phonetics": "英\r[hju:ˈmɪdəti]美\r[hjuˈmɪdɪti]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（空气）湿度</span>",
+    "def_en": "<span class=\"endef\"><b>Humidity</b> is the amount of water in the air.  \r \r\r\r</span>",
+    "display_hwd": "humidity",
+    "ext": "",
+    "hwd": "humidity",
+    "phonetics": "英\r[hju:ˈmɪdəti]美\r[hjuˈmɪdɪti]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

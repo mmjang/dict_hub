@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（足球或橄榄球比赛中警告犯规球员的）黄牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In football or rugby, if a player is shown the <b>yellow card</b>, the referee holds up a yellow card to indicate that the player has broken the rules, and that if they do so again, they will be ordered to leave the pitch.  \r \r\r\r</span>",
+    "display_hwd": "yellow card",
+    "ext": "",
+    "hwd": "yellow card",
+    "phonetics": "英\r[ˈjeləukɑ:d]美\r[ˈjɛlokɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（足球或橄榄球比赛中）对…出示黄牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In football or rugby, if a player <b>is yellow carded</b>, they are shown the yellow card by the referee.  \r \r\r\r</span>",
+    "display_hwd": "yellow card",
+    "ext": "",
+    "hwd": "yellow card",
+    "phonetics": "英\r[ˈjeləukɑ:d]美\r[ˈjɛlokɑrd]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

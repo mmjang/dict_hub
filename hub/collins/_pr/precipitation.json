@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">降水</span>",
+    "def_en": "<span class=\"endef\"><b>Precipitation</b> is rain, snow, or hail.  \r \r\r\r</span>",
+    "display_hwd": "precipitation",
+    "ext": "",
+    "hwd": "precipitation",
+    "phonetics": "英\r[prɪˌsɪpɪˈteɪʃn]美\r[prɪˌsɪpɪˈteʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">沉淀；沉析</span>",
+    "def_en": "<span class=\"endef\"><b>Precipitation</b> is a process in a chemical reaction which causes solid particles to become separated from a liquid.  \r \r\r\r</span>",
+    "display_hwd": "precipitation",
+    "ext": "",
+    "hwd": "precipitation",
+    "phonetics": "英\r[prɪˌsɪpɪˈteɪʃn]美\r[prɪˌsɪpɪˈteʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

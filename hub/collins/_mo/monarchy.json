@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">君主政体;君主制</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>monarchy</b> is a system in which a country has a monarch.  \r \r\r\r</span>",
+    "display_hwd": "monarchy",
+    "ext": "",
+    "hwd": "monarchy",
+    "phonetics": "英\r[ˈmɒnəki]美\r[ˈmɑnərki]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">君主国;君主制国家</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>monarchy</b> is a country that has a monarch.  \r \r\r\r</span>",
+    "display_hwd": "monarchy",
+    "ext": "",
+    "hwd": "monarchy",
+    "phonetics": "英\r[ˈmɒnəki]美\r[ˈmɑnərki]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">皇室;王族</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>monarchy</b> is used to refer to the monarch and his or her family.  \r \r\r\r</span>",
+    "display_hwd": "monarchy",
+    "ext": "",
+    "hwd": "monarchy",
+    "phonetics": "英\r[ˈmɒnəki]美\r[ˈmɑnərki]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

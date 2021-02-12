@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">离开;启程;动身;出发</span>",
+    "def_en": "<span class=\"endef\"><b>Departure</b> or a <b>departure</b> is the act of going away from somewhere.  \r \r\r\r</span>",
+    "display_hwd": "departure",
+    "ext": "",
+    "hwd": "departure",
+    "phonetics": "英\r[dɪˈpɑ:tʃə(r)]美\r[dɪˈpɑrtʃə(r)]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">辞职;离职;（从某组织的）脱离</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>departure</b> of a person <b>from</b> a job, or a member from an organization, is their act of leaving it or being forced to leave it.  \r \r\r\r</span>",
+    "display_hwd": "departure",
+    "ext": "",
+    "hwd": "departure",
+    "phonetics": "英\r[dɪˈpɑ:tʃə(r)]美\r[dɪˈpɑrtʃə(r)]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">违背;背离</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone does something different or unusual, you can refer to their action as a <b>departure</b> .  \r \r\r\r</span>",
+    "display_hwd": "departure",
+    "ext": "",
+    "hwd": "departure",
+    "phonetics": "英\r[dɪˈpɑ:tʃə(r)]美\r[dɪˈpɑrtʃə(r)]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

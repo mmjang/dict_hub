@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">邮寄;投寄</span>",
+    "def_en": "<span class=\"endef\"><b>Mailing</b> is the activity of sending things to people through the postal service.  \r \r\r\r</span>",
+    "display_hwd": "mailing",
+    "ext": "",
+    "hwd": "mailing",
+    "phonetics": "英\r[ˈmeɪlɪŋ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">邮件</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>mailing</b> is something that is sent to people through the postal service.  \r \r\r\r</span>",
+    "display_hwd": "mailing",
+    "ext": "",
+    "hwd": "mailing",
+    "phonetics": "英\r[ˈmeɪlɪŋ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

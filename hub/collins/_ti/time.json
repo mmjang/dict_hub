@@ -1,0 +1,762 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">时间</span>",
+    "def_en": "<span class=\"endef\"><b>Time</b> is what we measure in minutes, hours, days, and years.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">时刻;时候;钟点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>time</b> to ask or talk about a specific point in the day, which can be stated in hours and minutes and is shown on clocks.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">规定时间</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://opening time\">opening time</a></b>;\r The <b>time</b> when something happens is the point in the day when it happens or is supposed to happen.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某一时区的)时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>time</b> to refer to the system of expressing time and counting hours that is used in a particular part of the world.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用来做某事或某事发生的)时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>time</b> to refer to the period that you spend doing something or when something has been happening.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(相当长的)一段时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something has been happening for <b>a time</b>, you mean that it has been happening for a fairly long period of time.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(某事发生的)一段(或特定)时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>time</b> to refer to a period of time or a point in time, when you are describing what is happening then. For example, if something happened <b>at</b> a particular <b>time</b>, that is when it happened. If it happens <b>at all times</b>, it always happens.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">历史时期;时代</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>time</b> or <b>times</b> to talk about a particular period in history or in your life.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">当代;时代潮流</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>the times</b> to refer to the present time and to modern fashions, tastes, and developments. For example, if you say that someone <b>keeps up with the times</b>, you mean they are fashionable or aware of modern developments. If you say they are <b>behind the times</b>, you mean they are unfashionable or not aware of them.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(经历的)一段时间，时期</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you describe the <b>time</b> that you had on a particular occasion or during a particular part of your life, you are describing the sort of experience that you had then.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">生命（期）;期限;时限</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>time</b> is the amount of time that you have to live, or to do a particular thing.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(从事特定活动的)合适时候</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say it is <b>time for</b> something, <b>time to</b> do something, or <b>time</b> you did something, you mean that this thing ought to happen or be done now.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">次;回</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you talk about a <b>time</b> when something happens, you are referring to a specific occasion when it happens.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">次</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>time</b> after numbers to say how often something happens.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">倍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>times</b> after numbers when comparing one thing to another and saying, for example, how much bigger, smaller, better, or worse it is.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">乘以</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>times</b> in arithmetic to link numbers or amounts that are multiplied together to reach a total.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ conj-coord\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(赛跑等)所用时间，成绩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>time</b> in a race is the amount of time it takes them to finish the race.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拍子;节拍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>time</b> of a piece of music is the number of beats that the piece has in each bar.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…确定时间;为…安排时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>time</b> something for a particular time, you plan or decide to do it or cause it to happen at this time.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">测定…所花时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>time</b> an action or activity, you measure how long someone takes to do it or how long it lasts.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://timing\">timing</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">该是…的时候了;早该…了</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say it is <b>about time</b> that something was done, you are saying in an emphatic way that it should happen or be done now, and really should have happened or been done sooner.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提前;预先</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>ahead of time</b>, you do it before a particular event or before you need to, in order to be well prepared.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(思想)先进，领先于时代</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is <b>ahead of</b> their <b>time</b> or <b>before</b> their <b>time</b>, they have new ideas a long time before other people start to think in the same way.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一直;始终</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens or is done <b>all the time</b>, it happens or is done continually.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一次;每次</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>at a time</b> after an amount to say how many things or how much of something is involved in one action, place, or group.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">随时;任何时候</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something could happen <b>at any time</b>, it is possible that it will happen very soon, though nobody can predict exactly when.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">即使在最好的情况下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>at the best of times</b> when you are making a negative or critical comment to emphasize that it is true even when the circumstances are as favourable as possible.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一度;曾经</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something was the case <b>at one time</b>, you mean that it was the case during a particular period in the past.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two or more things exist, happen, or are true <b>at the same time</b>, they exist, happen, or are true together although they seem to contradict each other.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">然而;不过</span>",
+    "def_en": "<span class=\"endef\"><b>At the same time</b> is used to introduce a statement that slightly changes or contradicts the previous statement.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有时;间或</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>at times</b> to say that something happens or is true on some occasions or at some moments.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…出生以前；在…有记忆前</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something was <b>before</b> your <b>time</b>, you mean that it happened or existed before you were born or before you were able to know about it or remember it.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">过早</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone has reached a particular stage in life <b>before</b> their <b>time</b>, they have reached it at a younger age than is normal.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">早该发生；早该如此</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say <b>not before time</b> after a statement has been made about something that has been done, you are saying in an emphatic way that you think it should have been done sooner.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结束</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>call time on</b> something, you end it.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坐牢;服刑</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone who <b>is doing time</b> is in prison.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">永远</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will be the case <b>for all time</b>, you mean that it will always be the case.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">目前;暂时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is the case or will happen <b>for the time being</b>, it is the case or will happen now, but only until something else becomes possible or happens.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不时地;间或;偶尔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>from time to time</b>, you do it occasionally but not regularly.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">常常;几乎总是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is the case <b>half the time</b> you mean that it often is the case.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不喜欢/喜欢;不赞成/赞成</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you <b>have no time for</b> a person or thing, you mean you do not like them or approve of them, and if you say that you <b>have a lot of time for</b> a person or thing, you mean you like them or approve of them very much.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(早)该…了;是时候…了</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>it is high time</b> that something happened or was done, you are saying in an emphatic way that it should happen or be done now, and really should have happened or been done sooner.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">及时;不迟</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>in time for</b> a particular event, you are not too late for it.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最终;迟早</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will happen <b>in time</b> or <b>given time</b>, you mean that it will happen eventually, when a lot of time has passed.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">合拍/不合拍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are playing, singing, or dancing <b>in time</b> with a piece of music, you are following the rhythm and speed of the music correctly. If you are <b>out of time</b> with it, you are not following the rhythm and speed of the music correctly.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…之后</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will happen, for example, <b>in</b> a week<b>'s time</b> or <b>in</b> two years<b>' time</b>, you mean that it will happen a week from now or two years from now.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提早，提前(到达)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you arrive somewhere <b>in good time</b>, you arrive early so that there is time to spare before a particular event.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">慢慢来;别急;来得及</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you tell someone that something will happen <b>in good time</b> or <b>all in good time</b>, you are telling them to be patient because it will happen eventually.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">立刻;马上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>in no time</b> or <b>in next to no time</b>, it happens almost immediately or very quickly.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从容地;不慌不忙地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>in</b> your <b>own time</b>, you do it at the speed that you choose, rather than allowing anyone to hurry you.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在业余时间;在空闲时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something such as work <b>in</b> your <b>own time</b> in British English, or <b>on</b> your <b>own time</b> in American English, you do it in your free time rather than, for example, at work or school.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">和着拍子;按节拍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep time</b> when playing or singing music, you follow or play the beat, without going too fast or too slowly.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(钟表)走得准</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you talk about how well a watch or clock <b>keeps time</b>, you are talking about how accurately it measures time.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">腾出时间;留出时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>make time for</b> a particular activity or person, you arrange to have some free time so that you can do the activity or spend time with the person.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(旅途)比预期的快</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you <b>made good time</b> on a journey, you mean it did not take you very long compared to the length of time you expected it to take.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">弥补过去损失的时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>is making up for lost time</b>, they are doing something actively and with enthusiasm because they have not had the opportunity to do it before or when they were younger.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">消磨时光;等待时机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are marking time</b>, you are doing something that is not particularly useful or interesting while you wait for something more important or interesting to happen.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">十之八九;几乎总是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something happens or is the case <b>nine times out of ten</b> or <b>ninety-nine times out of a hundred</b>, you mean that it happens on nearly every occasion or is almost always the case.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有史以来最…的;前所未有的;空前的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is, for example, the best writer <b>of all time</b>, or the most successful film <b>of all time</b>, you mean that they are the best or most successful that there has ever been.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">准时;按时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on time</b>, you are not late.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">迟早的事;只是时间问题</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that it is <b>only a matter of time</b> or <b>only a question of time</b> before something happens, you mean that it cannot be avoided and will definitely happen at some future date.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">当今;目前</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you refer to <b>our time</b> or <b>our times</b> you are referring to the present period in the history of the world.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">消遣;打发时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something to <b>pass the time</b> you do it because you have some time available and not because you really want to do it.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…寒暄;与…打招呼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>pass the time of day</b> with someone, you have a short friendly conversation with them.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(为争取时间)故意拖延</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>play for time</b>, you try to make something happen more slowly, because you do not want it to happen or because you need time to think about what to do if it happens.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">需要时间;耗时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something will <b>take time</b>, you mean that it will take a long time.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不着急;不慌忙;慢慢来</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> your <b>time</b> doing something, you do it quite slowly and do not hurry.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">认时间;认钟表</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a child can <b>tell the time</b>, they are able to find out what the time is by looking at a clock or watch.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">反复地;屡次;一再</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>time after time</b>, it happens in a similar way on many occasions.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">时光飞逝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>time flies</b>, you mean that it seems to pass very quickly.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">过得愉快;玩得高兴</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have <b>the time of</b> your <b>life</b>, you enjoy yourself very much indeed.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">须赶快;须尽快</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say there is <b>no time to lose</b> or <b>no time to be lost</b>, you mean you must hurry as fast as you can to do something.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">时间会验证</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>time will tell</b> whether something is true or correct, you mean that it will not be known until some time in the future whether it is true or correct.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">立即;马上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>waste no time in</b> doing something, you take the opportunity to do it immediately or quickly.  \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>time and again</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://again\">again</a></b>; \rto the end of time<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://end\">end</a></b>; \rin the fullness of time<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fullness\">fullness</a></b>; \rthere's no time like the present<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://present\">present</a></b>; \rthe time is ripe<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://ripe\">ripe</a></b>; \r \r\r\r</span>",
+    "display_hwd": "time",
+    "ext": "",
+    "hwd": "time",
+    "phonetics": "英\r[taɪm]美\r[taɪm]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

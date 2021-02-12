@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">附属国;附属地;托管地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dependency</b> is a country which is controlled by another country.  \r \r\r\r</span>",
+    "display_hwd": "dependency",
+    "ext": "",
+    "hwd": "dependency",
+    "phonetics": "英\r[dɪˈpendənsi]美\r[dɪˈpendənsi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指过分或不利的）依靠，依赖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You talk about someone's <b>dependency</b> when they have a deep emotional, physical, or financial need for a particular person or thing, especially one that you consider excessive or undesirable.  \r \r\r\r</span>",
+    "display_hwd": "dependency",
+    "ext": "",
+    "hwd": "dependency",
+    "phonetics": "英\r[dɪˈpendənsi]美\r[dɪˈpendənsi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(对酒精、毒品等的)依赖，瘾，癖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about alcohol <b>dependency</b> or chemical <b>dependency</b>, you are referring to a situation where someone is an alcoholic or is addicted to drugs.  \r \r\r\r</span>",
+    "display_hwd": "dependency",
+    "ext": "",
+    "hwd": "dependency",
+    "phonetics": "英\r[dɪˈpendənsi]美\r[dɪˈpendənsi]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

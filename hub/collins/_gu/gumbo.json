@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">秋葵汤（美国南部用肉或鱼以及秋葵荚做的汤或炖菜）</span>",
+    "def_en": "<span class=\"endef\"><b>Gumbo</b> is a type of soup or stew from the southern United States. It can be made with meat or fish, and usually contains okra.  \r \r\r\r</span>",
+    "display_hwd": "gumbo",
+    "ext": "",
+    "hwd": "gumbo",
+    "phonetics": "英\r[ˈgʌmbəʊ]美\r[ˈgʌmboʊ]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国某些地方）同okra</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In parts of the United States, <b>gumbo</b> is another name for <b>okra</b>.  \r \r\r\r</span>",
+    "display_hwd": "gumbo",
+    "ext": "",
+    "hwd": "gumbo",
+    "phonetics": "英\r[ˈgʌmbəʊ]美\r[ˈgʌmboʊ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

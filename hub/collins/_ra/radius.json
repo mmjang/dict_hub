@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">半径范围；半径距离</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>radius</b> around a particular point is the distance from it in any direction.  \r \r\r\r</span>",
+    "display_hwd": "radius",
+    "ext": "",
+    "hwd": "radius",
+    "phonetics": "英\r[ˈreɪdiəs]美\r[ˈrediəs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">半径</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>radius</b> of a circle is the distance from its centre to its outside edge.  \r \r\r\r</span>",
+    "display_hwd": "radius",
+    "ext": "",
+    "hwd": "radius",
+    "phonetics": "英\r[ˈreɪdiəs]美\r[ˈrediəs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

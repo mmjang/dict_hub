@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">国籍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have the <b>nationality</b> of a particular country, you were born there or have the legal right to be a citizen.  \r \r\r\r</span>",
+    "display_hwd": "nationality",
+    "ext": "",
+    "hwd": "nationality",
+    "phonetics": "英\r[ˌnæʃəˈnæləti]美\r[ˌnæʃə'næləti]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指未建立独立国家的)民族</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to people who have the same racial origins as a <b>nationality</b>, especially when they do not have their own independent country.  \r \r\r\r</span>",
+    "display_hwd": "nationality",
+    "ext": "",
+    "hwd": "nationality",
+    "phonetics": "英\r[ˌnæʃəˈnæləti]美\r[ˌnæʃə'næləti]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

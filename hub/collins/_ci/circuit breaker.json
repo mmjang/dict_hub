@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(电流)断路器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>circuit breaker</b> is a device which can stop the flow of electricity around a circuit by switching itself off if anything goes wrong.  \r \r\r\r</span>",
+    "display_hwd": "circuit breaker",
+    "ext": "",
+    "hwd": "circuit breaker",
+    "phonetics": "英\r[ˈsə:kitˈbreikə]美\r[ˈsɚkɪtˈbrekɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

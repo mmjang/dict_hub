@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">频率;发生次数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>frequency</b> of an event is the number of times it happens during a particular period.  \r \r\r\r</span>",
+    "display_hwd": "frequency",
+    "ext": "",
+    "hwd": "frequency",
+    "phonetics": "英\r[ˈfri:kwənsi]美\r[ˈfrikwənsi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(声波或无线电波的)频率，周率</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In physics, the <b>frequency</b> of a sound wave or a radio wave is the number of times it vibrates within a specified period of time.  \r \r\r\r</span>",
+    "display_hwd": "frequency",
+    "ext": "",
+    "hwd": "frequency",
+    "phonetics": "英\r[ˈfri:kwənsi]美\r[ˈfrikwənsi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

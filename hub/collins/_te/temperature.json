@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">温度;气温</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>temperature</b> of something is a measure of how hot or cold it is.  \r \r\r\r</span>",
+    "display_hwd": "temperature",
+    "ext": "",
+    "hwd": "temperature",
+    "phonetics": "英\r[ˈtemprətʃə(r)]美\r[ˈtɛmpərəˌtʃʊr,-tʃɚ,ˈtɛmprə-]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">体温</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>temperature</b> is the temperature of your body. A normal temperature is about 37˚ centigrade.  \r \r\r\r</span>",
+    "display_hwd": "temperature",
+    "ext": "",
+    "hwd": "temperature",
+    "phonetics": "英\r[ˈtemprətʃə(r)]美\r[ˈtɛmpərəˌtʃʊr,-tʃɚ,ˈtɛmprə-]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(特定场合的)氛围，情绪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>temperature</b> to talk about the feelings and emotions that people have in particular situations.  \r \r\r\r</span>",
+    "display_hwd": "temperature",
+    "ext": "",
+    "hwd": "temperature",
+    "phonetics": "英\r[ˈtemprətʃə(r)]美\r[ˈtɛmpərəˌtʃʊr,-tʃɚ,ˈtɛmprə-]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">室温;常温</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is at <b>room temperature</b>, its temperature is neither hot nor cold.  \r \r\r\r</span>",
+    "display_hwd": "temperature",
+    "ext": "",
+    "hwd": "temperature",
+    "phonetics": "英\r[ˈtemprətʃə(r)]美\r[ˈtɛmpərəˌtʃʊr,-tʃɚ,ˈtɛmprə-]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发烧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>are running a temperature</b> or if you <b>have a temperature</b>, your temperature is higher than it usually is.  \r \r\r\r</span>",
+    "display_hwd": "temperature",
+    "ext": "",
+    "hwd": "temperature",
+    "phonetics": "英\r[ˈtemprətʃə(r)]美\r[ˈtɛmpərəˌtʃʊr,-tʃɚ,ˈtɛmprə-]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">量…的体温</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> someone's <b>temperature</b> you use an instrument called a thermometer to measure the temperature of their body in order to see if they are ill.  \r \r\r\r</span>",
+    "display_hwd": "temperature",
+    "ext": "",
+    "hwd": "temperature",
+    "phonetics": "英\r[ˈtemprətʃə(r)]美\r[ˈtɛmpərəˌtʃʊr,-tʃɚ,ˈtɛmprə-]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

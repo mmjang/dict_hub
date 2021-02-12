@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">火车站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>station</b> is a building by a railway line where trains stop so that people can get on or off.  \r \r\r\r</span>",
+    "display_hwd": "station",
+    "ext": "",
+    "hwd": "station",
+    "phonetics": "英\r[ˈsteɪʃn]美\r[ˈsteʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(公共汽车)站</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A bus <b>station</b> is a building, usually in a town or city, where buses stop, usually for a while, so that people can get on or off.  \r \r\r\r</span>",
+    "display_hwd": "station",
+    "ext": "",
+    "hwd": "station",
+    "phonetics": "英\r[ˈsteɪʃn]美\r[ˈsteʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">广播电台(或电视台)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about a particular radio or television <b>station</b>, you are referring to the programmes broadcast by a particular radio or television company.  \r \r\r\r</span>",
+    "display_hwd": "station",
+    "ext": "",
+    "hwd": "station",
+    "phonetics": "英\r[ˈsteɪʃn]美\r[ˈsteʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">安置,派驻(士兵或官员);使驻扎</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If soldiers or officials <b>are stationed</b> in a place, they are sent there to do a job or to work for a period of time.  \r \r\r\r</span>",
+    "display_hwd": "station",
+    "ext": "",
+    "hwd": "station",
+    "phonetics": "英\r[ˈsteɪʃn]美\r[ˈsteʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ v-passive\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(常指为某一特定目的)在…守候</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>station yourself</b> somewhere, you go there and wait, usually for a particular purpose.  \r \r\r\r</span>",
+    "display_hwd": "station",
+    "ext": "",
+    "hwd": "station",
+    "phonetics": "英\r[ˈsteɪʃn]美\r[ˈsteʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://fire station\">fire station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://gas station\">gas station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://petrol station\">petrol station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://police station\">police station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://power station\">power station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://service station\">service station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://space station\">space station</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://way station\">way station</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "station",
+    "ext": "",
+    "hwd": "station",
+    "phonetics": "英\r[ˈsteɪʃn]美\r[ˈsteʃən]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  }
+]

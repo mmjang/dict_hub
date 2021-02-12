@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电路;(电流的)回路</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://closed-circuit\">closed-circuit</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://short-circuit\">short-circuit</a></b>;\r An electrical <b>circuit</b> is a complete route which an electric current can flow around.  \r \r\r\r</span>",
+    "display_hwd": "circuit",
+    "ext": "",
+    "hwd": "circuit",
+    "phonetics": "英\r[ˈsɜ:kɪt]美\r[ˈsɜrkɪt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指工作时的）巡回线路，巡回，巡游</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>circuit</b> is a series of places that are visited regularly by a person or group, especially as a part of their job.  \r \r\r\r</span>",
+    "display_hwd": "circuit",
+    "ext": "",
+    "hwd": "circuit",
+    "phonetics": "英\r[ˈsɜ:kɪt]美\r[ˈsɜrkɪt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">赛车道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A racing <b>circuit</b> is a track on which cars, motorbikes, or cycles race.  \r \r\r\r</span>",
+    "display_hwd": "circuit",
+    "ext": "",
+    "hwd": "circuit",
+    "phonetics": "英\r[ˈsɜ:kɪt]美\r[ˈsɜrkɪt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(绕着某地的)环行，环游</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>circuit of</b> a place or area is a journey all the way round it.  \r \r\r\r</span>",
+    "display_hwd": "circuit",
+    "ext": "",
+    "hwd": "circuit",
+    "phonetics": "英\r[ˈsɜ:kɪt]美\r[ˈsɜrkɪt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">食肉动物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>carnivore</b> is an animal that eats meat.  \r \r\r\r</span>",
+    "display_hwd": "carnivore",
+    "ext": "",
+    "hwd": "carnivore",
+    "phonetics": "英\r[ˈkɑ:nɪvɔ:(r)]美\r[ˈkɑrnɪvɔ(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">喜欢吃肉的人；食肉动物(诙谐说法)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe someone as a <b>carnivore</b>, you are saying, especially in a humorous way, that they eat meat.  \r \r\r\r</span>",
+    "display_hwd": "carnivore",
+    "ext": "",
+    "hwd": "carnivore",
+    "phonetics": "英\r[ˈkɑ:nɪvɔ:(r)]美\r[ˈkɑrnɪvɔ(r)]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

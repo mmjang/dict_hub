@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(广播或电视上播出的)实况解说，现场报道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>commentary</b> is a description of an event that is broadcast on radio or television while the event is taking place.  \r \r\r\r</span>",
+    "display_hwd": "commentary",
+    "ext": "",
+    "hwd": "commentary",
+    "phonetics": "英\r[ˈkɒməntri]美\r[ˈkɑmənteri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">评论性文章(或著作)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>commentary</b> is an article or book which explains or discusses something.  \r \r\r\r</span>",
+    "display_hwd": "commentary",
+    "ext": "",
+    "hwd": "commentary",
+    "phonetics": "英\r[ˈkɒməntri]美\r[ˈkɑmənteri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">讨论;评论</span>",
+    "def_en": "<span class=\"endef\"><b>Commentary</b> is discussion or criticism of something.  \r \r\r\r</span>",
+    "display_hwd": "commentary",
+    "ext": "",
+    "hwd": "commentary",
+    "phonetics": "英\r[ˈkɒməntri]美\r[ˈkɑmənteri]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

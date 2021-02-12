@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">失物招领处</span>",
+    "def_en": "<span class=\"endef\"><b>Lost and found</b> is the place where lost property is kept.  \r \r\r\r</span>",
+    "display_hwd": "lost and found",
+    "ext": "",
+    "hwd": "lost and found",
+    "phonetics": "英\r[lɔ:stændfaund]美\r[lɔstəndfaʊnd]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拾获的；捡获的；捡到的</span>",
+    "def_en": "<span class=\"endef\"><b>Lost and found</b> things are things which someone has lost and which someone else has found.  \r \r\r\r</span>",
+    "display_hwd": "lost and found",
+    "ext": "",
+    "hwd": "lost and found",
+    "phonetics": "英\r[lɔ:stændfaund]美\r[lɔstəndfaʊnd]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

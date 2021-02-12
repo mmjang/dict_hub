@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">起源于;来自;由…造成</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a condition or problem <b>stems from</b> something, it was caused originally by that thing.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阻止;遏制;制止</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stem</b> something, you stop it spreading, increasing, or continuing.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(植物的)秆，茎，梗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>stem</b> of a plant is the thin, upright part on which the flowers and leaves grow.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(酒杯的)颈，柄脚</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>stem</b> of a wine glass is the long thin part which connects the bowl to the base.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(烟斗)柄</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>stem</b> of a pipe is the long thin part through which smoke is sucked.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(语法中的)词干</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In grammar, the <b>stem</b> of a word is the main part of it, which does not change when the ending changes.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">从船首到船尾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>from stem to stern</b> on a boat, it involves the whole of the boat.  \r \r\r\r</span>",
+    "display_hwd": "stem",
+    "ext": "",
+    "hwd": "stem",
+    "phonetics": "英\r[stem]美\r[stɛm]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

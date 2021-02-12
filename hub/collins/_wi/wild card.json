@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">未知数;未知因素</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone or something as a <b>wild card</b> in a particular situation, you mean that they cause uncertainty because you do not know how they will behave.  \r \r\r\r</span>",
+    "display_hwd": "wild card",
+    "ext": "",
+    "hwd": "wild card",
+    "phonetics": "英\r[waildkɑ:d]美\r[waɪldkɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（给予没有正常参赛资格的选手准其参加比赛的）“外卡”;“外卡”选手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a sports player is given a <b>wild card</b> for a particular competition, they are allowed to play in it, although they have not qualified for it in the usual way. You can also use <b>wild card</b> to refer to a player who enters a competition in this way.  \r \r\r\r</span>",
+    "display_hwd": "wild card",
+    "ext": "",
+    "hwd": "wild card",
+    "phonetics": "英\r[waildkɑ:d]美\r[waɪldkɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用于代替任何字符或字符串的)通配符</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>wildcard</b> is a symbol such as * or ? which is used in some computing commands or searches in order to represent any character or range of characters.  \r \r\r\r</span>",
+    "display_hwd": "wild card",
+    "ext": "",
+    "hwd": "wild card",
+    "phonetics": "英\r[waildkɑ:d]美\r[waɪldkɑrd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

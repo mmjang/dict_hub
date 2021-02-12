@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">战斗</span>",
+    "def_en": "<span class=\"endef\"><b>Combat</b> is fighting that takes place in a war.  \r \r\r\r</span>",
+    "display_hwd": "combat",
+    "ext": "",
+    "hwd": "combat",
+    "phonetics": "英\r[ˈkɒmbæt]美\r[ˈkɑmbæt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">斗争;格斗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>combat</b> is a battle, or a fight between two people.  \r \r\r\r</span>",
+    "display_hwd": "combat",
+    "ext": "",
+    "hwd": "combat",
+    "phonetics": "英\r[ˈkɒmbæt]美\r[ˈkɑmbæt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…作斗争;打击</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people in authority <b>combat</b> something, they try to stop it happening.  \r \r\r\r</span>",
+    "display_hwd": "combat",
+    "ext": "",
+    "hwd": "combat",
+    "phonetics": "英\r[ˈkɒmbæt]美\r[ˈkɑmbæt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

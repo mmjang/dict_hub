@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">蛇</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>snake</b> is a long, thin reptile without legs.  \r \r\r\r</span>",
+    "display_hwd": "snake",
+    "ext": "",
+    "hwd": "snake",
+    "phonetics": "英\r[sneɪk]美\r[snek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">蜿蜒而行;曲折而行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that <b>snakes</b> in a particular direction goes in that direction in a line with a lot of bends.  \r \r\r\r</span>",
+    "display_hwd": "snake",
+    "ext": "",
+    "hwd": "snake",
+    "phonetics": "英\r[sneɪk]美\r[snek]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

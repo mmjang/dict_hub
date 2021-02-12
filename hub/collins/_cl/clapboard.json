@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(建筑物)装有护墙板的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>clapboard</b> building has walls which are covered with long narrow pieces of wood, usually painted white.  \r \r\r\r</span>",
+    "display_hwd": "clapboard",
+    "ext": "",
+    "hwd": "clapboard",
+    "phonetics": "英\r[ˈklæpbɔ:d]美\r[ˈklæbərd]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">同 clapperboard</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>clapboard</b> is the same as a <b>clapperboard</b> .  \r \r\r\r</span>",
+    "display_hwd": "clapboard",
+    "ext": "",
+    "hwd": "clapboard",
+    "phonetics": "英\r[ˈklæpbɔ:d]美\r[ˈklæbərd]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

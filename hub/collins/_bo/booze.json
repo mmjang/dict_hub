@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">酒</span>",
+    "def_en": "<span class=\"endef\"><b>Booze</b> is alcoholic drink.  \r \r\r\r</span>",
+    "display_hwd": "booze",
+    "ext": "",
+    "hwd": "booze",
+    "phonetics": "英\r[bu:z]美\r[buz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">喝酒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people <b>booze</b>, they drink alcohol.  \r \r\r\r</span>",
+    "display_hwd": "booze",
+    "ext": "",
+    "hwd": "booze",
+    "phonetics": "英\r[bu:z]美\r[buz]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

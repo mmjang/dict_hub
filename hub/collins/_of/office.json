@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">办公室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>office</b> is a room or a part of a building where people work sitting at desks.  \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指政府的）部，局，厅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>office</b> is a department of an organization, especially the government, where people deal with a particular kind of administrative work.  \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ n-count; n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（问询、购票或提供服务的）处，所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>office</b> is a small building or room where people can go for information, tickets, or a service of some kind.  \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诊所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A doctor's or dentist's <b>office</b> is a place where a doctor or dentist sees their patients.  \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">要职；公职；官职</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone holds <b>office</b> in a government, they have an important job or position of authority.  \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">帮助；协助</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's <b>good offices</b> are the help that they give to other people who are trying to achieve something.  \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://booking office\">booking office</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://box office\">box office</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://post office\">post office</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://register office\">register office</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://registry office\">registry office</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "office",
+    "ext": "",
+    "hwd": "office",
+    "phonetics": "英\r[ˈɒfɪs]美\r[ˈɔfɪs]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  }
+]

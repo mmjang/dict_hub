@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（固定用的）板条，压条</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>batten</b> is a long strip of wood that is fixed to something to strengthen it or to hold it firm.  \r \r\r\r</span>",
+    "display_hwd": "batten",
+    "ext": "",
+    "hwd": "batten",
+    "phonetics": "英\r[ˈbætn]美\r[ˈbætn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用板条（或压条）固定</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>is battened</b> in place, it is made secure by having battens fixed across it or being closed firmly.  \r \r\r\r</span>",
+    "display_hwd": "batten",
+    "ext": "",
+    "hwd": "batten",
+    "phonetics": "英\r[ˈbætn]美\r[ˈbætn]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>batten down the hatches</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hatch\">hatch</a></b>; \r \r\r\r</span>",
+    "display_hwd": "batten",
+    "ext": "",
+    "hwd": "batten",
+    "phonetics": "英\r[ˈbætn]美\r[ˈbætn]",
+    "phrase": "",
+    "sense": ""
+  }
+]

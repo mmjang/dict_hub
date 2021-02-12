@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(煤气、水、电或电话的)切断</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>disconnection</b> of a gas, water, or electricity supply, or of a telephone, is the act of disconnecting it so that it cannot be used.  \r \r\r\r</span>",
+    "display_hwd": "disconnection",
+    "ext": "",
+    "hwd": "disconnection",
+    "phonetics": "[,diskə'nekʃən]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">分开;分离</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>disconnection</b> of two things is the act or process of separating them so that they are no longer connected or linked in any way.  \r \r\r\r</span>",
+    "display_hwd": "disconnection",
+    "ext": "",
+    "hwd": "disconnection",
+    "phonetics": "[,diskə'nekʃən]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">心脏起搏器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pacemaker</b> is a device that is placed inside someone's body in order to help their heart beat in the right way.  \r \r\r\r</span>",
+    "display_hwd": "pacemaker",
+    "ext": "",
+    "hwd": "pacemaker",
+    "phonetics": "英\r[ˈpeɪsmeɪkə(r)]美\r[ˈpesˌmekɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（赛跑中的）领跑员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pacemaker</b> is a competitor in a race whose task is to start the race very quickly in order to help the other runners achieve a very fast time. Pacemakers usually stop before the race is finished.  \r \r\r\r</span>",
+    "display_hwd": "pacemaker",
+    "ext": "",
+    "hwd": "pacemaker",
+    "phonetics": "英\r[ˈpeɪsmeɪkə(r)]美\r[ˈpesˌmekɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

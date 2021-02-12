@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(车辆前面的)位置灯，边灯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sidelights</b> on a vehicle are the small lights at the front that help other drivers to notice the vehicle and to judge its width.  \r \r\r\r</span>",
+    "display_hwd": "sidelight",
+    "ext": "",
+    "hwd": "sidelight",
+    "phonetics": "英\r[ˈsaɪdlaɪt]美\r[ˈsaɪdˌlaɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(车辆两侧的)侧灯</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sidelights</b> on a vehicle are lights on its sides.  \r \r\r\r</span>",
+    "display_hwd": "sidelight",
+    "ext": "",
+    "hwd": "sidelight",
+    "phonetics": "英\r[ˈsaɪdlaɪt]美\r[ˈsaɪdˌlaɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(有关某情况的)侧面消息，趣闻，附带信息</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>sidelight on</b> a particular situation is a piece of information about that situation which is interesting but which is not particularly important.  \r \r\r\r</span>",
+    "display_hwd": "sidelight",
+    "ext": "",
+    "hwd": "sidelight",
+    "phonetics": "英\r[ˈsaɪdlaɪt]美\r[ˈsaɪdˌlaɪt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

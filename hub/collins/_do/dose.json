@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(药物等的)一剂，一服</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dose of</b> medicine or a drug is a measured amount of it which is intended to be taken at one time.  \r \r\r\r</span>",
+    "display_hwd": "dose",
+    "ext": "",
+    "hwd": "dose",
+    "phonetics": "英\r[dəʊs]美\r[doʊs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指数量很多的)一份，一次，一点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to an amount of something as a <b>dose of</b> that thing, especially when you want to emphasize that there is a great deal of it.  \r \r\r\r</span>",
+    "display_hwd": "dose",
+    "ext": "",
+    "hwd": "dose",
+    "phonetics": "英\r[dəʊs]美\r[doʊs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…服药</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>dose</b> a person or animal <b>with</b> medicine, you give them an amount of it.  \r \r\r\r</span>",
+    "display_hwd": "dose",
+    "ext": "",
+    "hwd": "dose",
+    "phonetics": "英\r[dəʊs]美\r[doʊs]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

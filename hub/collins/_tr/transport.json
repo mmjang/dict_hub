@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">交通工具;运输工具</span>",
+    "def_en": "<span class=\"endef\"><b>Transport</b> refers to any vehicle that you can travel in or carry goods in.  \r \r\r\r</span>",
+    "display_hwd": "transport",
+    "ext": "",
+    "hwd": "transport",
+    "phonetics": "英\r[ˈtrænspɔ:t]美\r[ˈtrænspɔrt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">交通运输系统;公共交通(网)</span>",
+    "def_en": "<span class=\"endef\"><b>Transport</b> is a system for taking people or goods from one place to another, for example using buses or trains.  \r \r\r\r</span>",
+    "display_hwd": "transport",
+    "ext": "",
+    "hwd": "transport",
+    "phonetics": "英\r[ˈtrænspɔ:t]美\r[ˈtrænspɔrt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">运输;运送</span>",
+    "def_en": "<span class=\"endef\"><b>Transport</b> is the activity of taking goods or people from one place to another in a vehicle.  \r \r\r\r</span>",
+    "display_hwd": "transport",
+    "ext": "",
+    "hwd": "transport",
+    "phonetics": "英\r[ˈtrænspɔ:t]美\r[ˈtrænspɔrt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">运输;运送</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>transport</b> people or goods somewhere is to take them from one place to another in a vehicle.  \r \r\r\r</span>",
+    "display_hwd": "transport",
+    "ext": "",
+    "hwd": "transport",
+    "phonetics": "英\r[ˈtrænspɔ:t]美\r[ˈtrænspɔrt]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使身处他境</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you <b>are transported</b> to another place or time, you mean that something causes you to feel that you are living in the other place or at the other time.  \r \r\r\r</span>",
+    "display_hwd": "transport",
+    "ext": "",
+    "hwd": "transport",
+    "phonetics": "英\r[ˈtrænspɔ:t]美\r[ˈtrænspɔrt]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(军用)运输工具;(尤指)运输机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A military or troop <b>transport</b> is a military vehicle, especially a plane, that is used to carry soldiers or equipment.  \r \r\r\r</span>",
+    "display_hwd": "transport",
+    "ext": "",
+    "hwd": "transport",
+    "phonetics": "英\r[ˈtrænspɔ:t]美\r[ˈtrænspɔrt]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

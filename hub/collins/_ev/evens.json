@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（赛马、比赛等的）同额赌注</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a race or contest, if you bet on a horse or competitor that is quoted at <b>evens</b>, you will win a sum of money equal to your bet if that horse or competitor wins.  \r \r\r\r</span>",
+    "display_hwd": "evens",
+    "ext": "",
+    "hwd": "evens",
+    "phonetics": "英\r['i:vənz]美\r['ivənz]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（机会）均等的，各半的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If there is an <b>evens</b> chance that something will happen, it is equally likely that it will happen or will not happen.  \r \r\r\r</span>",
+    "display_hwd": "evens",
+    "ext": "",
+    "hwd": "evens",
+    "phonetics": "英\r['i:vənz]美\r['ivənz]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

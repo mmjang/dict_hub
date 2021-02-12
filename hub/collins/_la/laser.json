@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">激光</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>laser</b> is a narrow beam of concentrated light produced by a special machine. It is used for cutting very hard materials, and in many technical fields such as surgery and telecommunications.  \r \r\r\r</span>",
+    "display_hwd": "laser",
+    "ext": "",
+    "hwd": "laser",
+    "phonetics": "英\r[ˈleɪzə(r)]美\r[ˈlezɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">激光器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>laser</b> is a machine that produces a laser beam.  \r \r\r\r</span>",
+    "display_hwd": "laser",
+    "ext": "",
+    "hwd": "laser",
+    "phonetics": "英\r[ˈleɪzə(r)]美\r[ˈlezɚ]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

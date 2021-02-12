@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">序列号;编号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>serial number</b> of an object is a number on that object which identifies it.  \r \r\r\r</span>",
+    "display_hwd": "serial number",
+    "ext": "",
+    "hwd": "serial number",
+    "phonetics": "英\r[ˈsiəriəlˈnʌmbə]美\r[ˈsɪriəlˈnʌmbɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(美国的)部队编号，部队番号</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>serial number</b> of a member of the United States military forces is a number which identifies them.  \r \r\r\r</span>",
+    "display_hwd": "serial number",
+    "ext": "",
+    "hwd": "serial number",
+    "phonetics": "英\r[ˈsiəriəlˈnʌmbə]美\r[ˈsɪriəlˈnʌmbɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

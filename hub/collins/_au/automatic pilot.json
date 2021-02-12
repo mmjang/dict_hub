@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">轻车熟路;驾轻就熟;习惯性地做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on automatic pilot</b> or <b>on autopilot</b>, you are acting without thinking about what you are doing, usually because you have done it many times before.  \r \r\r\r</span>",
+    "display_hwd": "automatic pilot",
+    "ext": "",
+    "hwd": "automatic pilot",
+    "phonetics": "英\r[ˌɔ:təˈmætikˈpailət]美\r[ˌɔtəˈmætɪkˈpaɪlət]",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自动飞行仪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>automatic pilot</b> or an <b>autopilot</b> is a device in an aircraft that automatically keeps it on a particular course.  \r \r\r\r</span>",
+    "display_hwd": "automatic pilot",
+    "ext": "",
+    "hwd": "automatic pilot",
+    "phonetics": "英\r[ˌɔ:təˈmætikˈpailət]美\r[ˌɔtəˈmætɪkˈpaɪlət]",
+    "phrase": "",
+    "sense": "n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

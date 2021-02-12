@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(人、团体或国家之间的)联系，关系，往来</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://industrial relations\">industrial relations</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://public relations\">public relations</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://race relations\">race relations</a></b>;\r <b>Relations</b> between people, groups, or countries are contacts between them and the way in which they behave towards each other.  \r \r\r\r</span>",
+    "display_hwd": "relation",
+    "ext": "",
+    "hwd": "relation",
+    "phonetics": "英\r[rɪˈleɪʃn]美\r[rɪˈleɪʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(两者之间的)关系，联系，关联</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about the <b>relation of</b> one thing <b>to</b> another, you are talking about the ways in which they are connected.  \r \r\r\r</span>",
+    "display_hwd": "relation",
+    "ext": "",
+    "hwd": "relation",
+    "phonetics": "英\r[rɪˈleɪʃn]美\r[rɪˈleɪʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">亲戚;亲属;家庭成员</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://poor relation\">poor relation</a></b>;\r Your <b>relations</b> are the members of your family.  \r \r\r\r</span>",
+    "display_hwd": "relation",
+    "ext": "",
+    "hwd": "relation",
+    "phonetics": "英\r[rɪˈleɪʃn]美\r[rɪˈleɪʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与…相比</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can talk about something <b>in relation to</b> something else when you want to compare the size, condition, or position of the two things.  \r \r\r\r</span>",
+    "display_hwd": "relation",
+    "ext": "",
+    "hwd": "relation",
+    "phonetics": "英\r[rɪˈleɪʃn]美\r[rɪˈleɪʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">关于;涉及</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is said or done <b>in relation to</b> a subject, it is said or done in connection with that subject.  \r \r\r\r</span>",
+    "display_hwd": "relation",
+    "ext": "",
+    "hwd": "relation",
+    "phonetics": "英\r[rɪˈleɪʃn]美\r[rɪˈleɪʃn]",
+    "phrase": "",
+    "sense": "★★★★☆ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

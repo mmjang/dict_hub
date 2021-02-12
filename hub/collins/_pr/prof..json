@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Prof</b>. is a written abbreviation for (书面缩略=) <b>Professor</b> .  \r \r\r\r</span>",
+    "display_hwd": "Prof.",
+    "ext": "",
+    "hwd": "Prof.",
+    "phonetics": "[prə'fɛsɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-title\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">教授</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes refer to a professor as a <b>prof</b> .  \r \r\r\r</span>",
+    "display_hwd": "Prof.",
+    "ext": "",
+    "hwd": "Prof.",
+    "phonetics": "[prə'fɛsɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（报纸上租赁广告中的）职业人士</span>",
+    "def_en": "<span class=\"endef\">\r\r In newspaper advertisements for things such as flats or apartments that are for rent, <b>prof</b>. means <b>professional</b>.  \r \r\r\r</span>",
+    "display_hwd": "Prof.",
+    "ext": "",
+    "hwd": "Prof.",
+    "phonetics": "[prə'fɛsɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Prof</b>. is a written abbreviation for (书面缩略=) <b>Professor</b> .  \r \r\r\r</span>",
+    "display_hwd": "prof.",
+    "ext": "",
+    "hwd": "prof.",
+    "phonetics": "英\r[prɔf]美\r[prɑf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-title\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">教授</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes refer to a professor as a <b>prof</b> .  \r \r\r\r</span>",
+    "display_hwd": "prof.",
+    "ext": "",
+    "hwd": "prof.",
+    "phonetics": "英\r[prɔf]美\r[prɑf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（报纸上租赁广告中的）职业人士</span>",
+    "def_en": "<span class=\"endef\">\r\r In newspaper advertisements for things such as flats or apartments that are for rent, <b>prof</b>. means <b>professional</b>.  \r \r\r\r</span>",
+    "display_hwd": "prof.",
+    "ext": "",
+    "hwd": "prof.",
+    "phonetics": "英\r[prɔf]美\r[prɑf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ "
+  }
+]

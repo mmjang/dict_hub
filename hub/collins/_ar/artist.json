@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">画家;雕塑家;艺术家</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>artist</b> is someone who draws or paints pictures or creates sculptures as a job or a hobby.  \r \r\r\r</span>",
+    "display_hwd": "artist",
+    "ext": "",
+    "hwd": "artist",
+    "phonetics": "英\r[ˈɑ:tɪst]美\r[ˈɑrtɪst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">艺术家（如小说家、诗人、导演等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>artist</b> is a person who creates novels, poems, films, or other things which can be considered as works of art.  \r \r\r\r</span>",
+    "display_hwd": "artist",
+    "ext": "",
+    "hwd": "artist",
+    "phonetics": "英\r[ˈɑ:tɪst]美\r[ˈɑrtɪst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">表演艺术家;艺人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>artist</b> is a performer such as a musician, actor, or dancer.  \r \r\r\r</span>",
+    "display_hwd": "artist",
+    "ext": "",
+    "hwd": "artist",
+    "phonetics": "英\r[ˈɑ:tɪst]美\r[ˈɑrtɪst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">能手;高手;大师</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is an <b>artist</b> at a particular activity, you mean they are very skilled at it.  \r \r\r\r</span>",
+    "display_hwd": "artist",
+    "ext": "",
+    "hwd": "artist",
+    "phonetics": "英\r[ˈɑ:tɪst]美\r[ˈɑrtɪst]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

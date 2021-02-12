@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">将(录像带、录音带）倒回;倒带;倒片</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When the tape in a video or tape recorder <b>rewinds</b> or when you <b>rewind</b> it, the tape goes backwards so that you can play it again.  \r \r\r\r</span>",
+    "display_hwd": "rewind",
+    "ext": "",
+    "hwd": "rewind",
+    "phonetics": "英\r[ˌri:ˈwaɪnd]美\r[riˈwaɪnd]",
+    "phrase": "",
+    "sense": "v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">倒带(键)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you put a video or cassette tape on <b>rewind</b>, you make the tape go backwards.  \r \r\r\r</span>",
+    "display_hwd": "rewind",
+    "ext": "",
+    "hwd": "rewind",
+    "phonetics": "英\r[ˌri:ˈwaɪnd]美\r[riˈwaɪnd]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

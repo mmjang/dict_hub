@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">语言；语言文字</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>language</b> is a system of communication which consists of a set of sounds and written symbols which are used by the people of a particular country or region for talking or writing.  \r \r\r\r</span>",
+    "display_hwd": "language",
+    "ext": "",
+    "hwd": "language",
+    "phonetics": "英\r[ˈlæŋgwɪdʒ]美\r[ˈlæŋɡwɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">言语；语言表达</span>",
+    "def_en": "<span class=\"endef\"><b>Language</b> is the use of a system of communication which consists of a set of sounds or written symbols.  \r \r\r\r</span>",
+    "display_hwd": "language",
+    "ext": "",
+    "hwd": "language",
+    "phonetics": "英\r[ˈlæŋgwɪdʒ]美\r[ˈlæŋɡwɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（某一领域的）全部词汇，术语</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the words used in connection with a particular subject as <b>the language of</b> that subject.  \r \r\r\r</span>",
+    "display_hwd": "language",
+    "ext": "",
+    "hwd": "language",
+    "phonetics": "英\r[ˈlæŋgwɪdʒ]美\r[ˈlæŋɡwɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">粗话；脏话</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to someone's use of rude words or swearing as <b>bad language</b> when you find it offensive.  \r \r\r\r</span>",
+    "display_hwd": "language",
+    "ext": "",
+    "hwd": "language",
+    "phonetics": "英\r[ˈlæŋgwɪdʒ]美\r[ˈlæŋɡwɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">语言风格；措辞</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>language</b> of a piece of writing or speech is the style in which it is written or spoken.  \r \r\r\r</span>",
+    "display_hwd": "language",
+    "ext": "",
+    "hwd": "language",
+    "phonetics": "英\r[ˈlæŋgwɪdʒ]美\r[ˈlæŋɡwɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">交流方式，交际方式（包括可识别符号、非语言声音、动作等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>language</b> to refer to various means of communication involving recognizable symbols, non-verbal sounds, or actions.  \r \r\r\r</span>",
+    "display_hwd": "language",
+    "ext": "",
+    "hwd": "language",
+    "phonetics": "英\r[ˈlæŋgwɪdʒ]美\r[ˈlæŋɡwɪdʒ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

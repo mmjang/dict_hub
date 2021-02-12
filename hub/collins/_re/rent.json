@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">租来;租借</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>rent</b> something, you regularly pay its owner a sum of money in order to be able to have it and use it yourself.  \r \r\r\r</span>",
+    "display_hwd": "rent",
+    "ext": "",
+    "hwd": "rent",
+    "phonetics": "英\r[rent]美\r[rɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出租;租给</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>rent</b> something <b>to</b> someone, you let them have it and use it in exchange for a sum of money which they pay you regularly.  \r \r\r\r</span>",
+    "display_hwd": "rent",
+    "ext": "",
+    "hwd": "rent",
+    "phonetics": "英\r[rent]美\r[rɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">租金;租用费</span>",
+    "def_en": "<span class=\"endef\"><b>Rent</b> is the amount of money that you pay regularly to use a house, flat, or piece of land.  \r \r\r\r</span>",
+    "display_hwd": "rent",
+    "ext": "",
+    "hwd": "rent",
+    "phonetics": "英\r[rent]美\r[rɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b>Rent</b> is the past tense and past participle of <b>rend</b> .  \r \r\r\r</span>",
+    "display_hwd": "rent",
+    "ext": "",
+    "hwd": "rent",
+    "phonetics": "英\r[rent]美\r[rɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ "
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://ground rent\">ground rent</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://peppercorn rent\">peppercorn rent</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "rent",
+    "ext": "",
+    "hwd": "rent",
+    "phonetics": "英\r[rent]美\r[rɛnt]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

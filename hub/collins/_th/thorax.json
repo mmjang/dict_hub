@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">胸部;胸腔;胸廓</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>thorax</b> is the part of your body between your neck and your waist.  \r \r\r\r</span>",
+    "display_hwd": "thorax",
+    "ext": "",
+    "hwd": "thorax",
+    "phonetics": "英\r[ˈθɔ:ræks]美\r[ˈθɔrˌæks,ˈθor-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(昆虫的)胸部，胸节</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An insect's <b>thorax</b> is the central part of its body to which the legs and wings are attached.  \r \r\r\r</span>",
+    "display_hwd": "thorax",
+    "ext": "",
+    "hwd": "thorax",
+    "phonetics": "英\r[ˈθɔ:ræks]美\r[ˈθɔrˌæks,ˈθor-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

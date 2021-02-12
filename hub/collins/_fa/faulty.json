@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(设备等)有问题的，有毛病的,出故障的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>faulty</b> piece of equipment has something wrong with it and is not working properly.  \r \r\r\r</span>",
+    "display_hwd": "faulty",
+    "ext": "",
+    "hwd": "faulty",
+    "phonetics": "英\r[ˈfɔ:lti]美\r[ˈfɔlti]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(论证或推理)错误的，谬误的,不完善的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe someone's argument or reasoning as <b>faulty</b>, you mean that it is wrong or contains mistakes, usually because they have not been thinking in a logical way.  \r \r\r\r</span>",
+    "display_hwd": "faulty",
+    "ext": "",
+    "hwd": "faulty",
+    "phonetics": "英\r[ˈfɔ:lti]美\r[ˈfɔlti]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">一天的工作时间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>workday</b> is the amount of time during a day which you spend doing your job.  \r \r\r\r</span>",
+    "display_hwd": "workday",
+    "ext": "",
+    "hwd": "workday",
+    "phonetics": "英\r[ˈwɜ:kdeɪ]美\r[ˈwɜrkdeɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">工作日</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>workday</b> is a day on which people go to work.  \r \r\r\r</span>",
+    "display_hwd": "workday",
+    "ext": "",
+    "hwd": "workday",
+    "phonetics": "英\r[ˈwɜ:kdeɪ]美\r[ˈwɜrkdeɪ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

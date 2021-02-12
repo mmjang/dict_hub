@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">城堡;堡垒</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://sand castle\">sand castle</a></b>;\r A <b>castle</b> is a large building with thick, high walls. Castles were built by important people, such as kings, in former times, especially for protection during wars and battles.  \r \r\r\r</span>",
+    "display_hwd": "castle",
+    "ext": "",
+    "hwd": "castle",
+    "phonetics": "英\r[ˈkɑ:sl]美\r[ˈkæsl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(国际象棋中的)车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In chess, a <b>castle</b> is a piece that can be moved forwards, backwards, or sideways.  \r \r\r\r</span>",
+    "display_hwd": "castle",
+    "ext": "",
+    "hwd": "castle",
+    "phonetics": "英\r[ˈkɑ:sl]美\r[ˈkæsl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

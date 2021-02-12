@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">觉察;发觉</span>",
+    "def_en": "<span class=\"endef\"><b>Detection</b> is the act of noticing or sensing something.  \r \r\r\r</span>",
+    "display_hwd": "detection",
+    "ext": "",
+    "hwd": "detection",
+    "phonetics": "英\r[dɪˈtekʃn]美\r[dɪˈtɛkʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发现;查出</span>",
+    "def_en": "<span class=\"endef\"><b>Detection</b> is the discovery of something which is supposed to be hidden.  \r \r\r\r</span>",
+    "display_hwd": "detection",
+    "ext": "",
+    "hwd": "detection",
+    "phonetics": "英\r[dɪˈtekʃn]美\r[dɪˈtɛkʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">侦查;侦破</span>",
+    "def_en": "<span class=\"endef\"><b>Detection</b> is the work of investigating a crime in order to find out what has happened and who committed it.  \r \r\r\r</span>",
+    "display_hwd": "detection",
+    "ext": "",
+    "hwd": "detection",
+    "phonetics": "英\r[dɪˈtekʃn]美\r[dɪˈtɛkʃən]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

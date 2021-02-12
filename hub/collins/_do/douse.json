@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">浇灭(火)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>douse</b> a fire, you stop it burning by pouring a lot of water over it.  \r \r\r\r</span>",
+    "display_hwd": "douse",
+    "ext": "",
+    "hwd": "douse",
+    "phonetics": "英\r[daʊs]美\r[daʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(把液体)浇（或洒、泼）在…上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>douse</b> someone or something <b>with</b> a liquid, you throw a lot of that liquid over them.  \r \r\r\r</span>",
+    "display_hwd": "douse",
+    "ext": "",
+    "hwd": "douse",
+    "phonetics": "英\r[daʊs]美\r[daʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">熄灭(灯)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>douse</b> a light, you turn it off.  \r \r\r\r</span>",
+    "display_hwd": "douse",
+    "ext": "",
+    "hwd": "douse",
+    "phonetics": "英\r[daʊs]美\r[daʊs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

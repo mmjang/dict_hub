@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">羊皮纸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In former times, <b>parchment</b> was the skin of a sheep or goat that was used for writing on.  \r \r\r\r</span>",
+    "display_hwd": "parchment",
+    "ext": "",
+    "hwd": "parchment",
+    "phonetics": "英\r[ˈpɑ:tʃmənt]美\r[ˈpɑrtʃmənt]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">仿羊皮纸</span>",
+    "def_en": "<span class=\"endef\"><b>Parchment</b> is a kind of thick yellowish paper.  \r \r\r\r</span>",
+    "display_hwd": "parchment",
+    "ext": "",
+    "hwd": "parchment",
+    "phonetics": "英\r[ˈpɑ:tʃmənt]美\r[ˈpɑrtʃmənt]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">羊皮纸文献</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>parchment</b> is a document written on parchment.  \r \r\r\r</span>",
+    "display_hwd": "parchment",
+    "ext": "",
+    "hwd": "parchment",
+    "phonetics": "英\r[ˈpɑ:tʃmənt]美\r[ˈpɑrtʃmənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">狼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>wolf</b> is a wild animal that looks like a large dog.  \r \r\r\r</span>",
+    "display_hwd": "wolf",
+    "ext": "",
+    "hwd": "wolf",
+    "phonetics": "英\r[wʊlf]美\r[wʊlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">狼吞虎咽地吃</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>wolfs</b> their food, they eat it all very quickly and greedily.  \r \r\r\r</span>",
+    "display_hwd": "wolf",
+    "ext": "",
+    "hwd": "wolf",
+    "phonetics": "英\r[wʊlf]美\r[wʊlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">喊“狼来了”;发假警报</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>cries wolf</b>, they say that there is a problem when there is not, with the result that people do not believe them when there really is a problem.  \r \r\r\r</span>",
+    "display_hwd": "wolf",
+    "ext": "",
+    "hwd": "wolf",
+    "phonetics": "英\r[wʊlf]美\r[wʊlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">勉强度日;糊口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>keep the wolf from the door</b>, you succeed in providing food and other necessary things for yourself or your family.  \r \r\r\r</span>",
+    "display_hwd": "wolf",
+    "ext": "",
+    "hwd": "wolf",
+    "phonetics": "英\r[wʊlf]美\r[wʊlf]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

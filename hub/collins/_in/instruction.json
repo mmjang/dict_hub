@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">指示;命令</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>instruction</b> is something that someone tells you to do.  \r \r\r\r</span>",
+    "display_hwd": "instruction",
+    "ext": "",
+    "hwd": "instruction",
+    "phonetics": "英\r[ɪnˈstrʌkʃn]美\r[ɪnˈstrʌkʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">教学;讲授</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone gives you <b>instruction</b> in a subject or skill, they teach it to you.  \r \r\r\r</span>",
+    "display_hwd": "instruction",
+    "ext": "",
+    "hwd": "instruction",
+    "phonetics": "英\r[ɪnˈstrʌkʃn]美\r[ɪnˈstrʌkʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用法说明;操作指南</span>",
+    "def_en": "<span class=\"endef\"><b>Instructions</b> are clear and detailed information on how to do something.  \r \r\r\r</span>",
+    "display_hwd": "instruction",
+    "ext": "",
+    "hwd": "instruction",
+    "phonetics": "英\r[ɪnˈstrʌkʃn]美\r[ɪnˈstrʌkʃən]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

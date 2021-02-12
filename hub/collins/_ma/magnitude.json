@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">巨大;庞大;重要(性)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you talk about the <b>magnitude</b> of something, you are talking about its great size, scale, or importance.  \r \r\r\r</span>",
+    "display_hwd": "magnitude",
+    "ext": "",
+    "hwd": "magnitude",
+    "phonetics": "英\r[ˈmægnɪtju:d]美\r[ˈmægnɪtud]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">星等(指星的亮度);震级;(爆炸的)强度</span>",
+    "def_en": "<span class=\"endef\"><b>Magnitude</b> is used in stating the size or extent of something such as a star, earthquake, or explosion.  \r \r\r\r</span>",
+    "display_hwd": "magnitude",
+    "ext": "",
+    "hwd": "magnitude",
+    "phonetics": "英\r[ˈmægnɪtju:d]美\r[ˈmægnɪtud]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">程度;重要性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>order of magnitude</b> when you are giving an approximate idea of the amount or importance of something.  \r \r\r\r</span>",
+    "display_hwd": "magnitude",
+    "ext": "",
+    "hwd": "magnitude",
+    "phonetics": "英\r[ˈmægnɪtju:d]美\r[ˈmægnɪtud]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">数量级</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In mathematics, if one amount is an <b>order of magnitude</b> larger than another, it is ten times larger than the other. If it is two <b>orders of magnitude</b> larger, it is a hundred times larger.  \r \r\r\r</span>",
+    "display_hwd": "magnitude",
+    "ext": "",
+    "hwd": "magnitude",
+    "phonetics": "英\r[ˈmægnɪtju:d]美\r[ˈmægnɪtud]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

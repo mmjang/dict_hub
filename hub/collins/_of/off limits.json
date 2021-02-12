@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">禁止入内的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a place is <b>off limits</b> to someone, they are not allowed to go there.  \r \r\r\r</span>",
+    "display_hwd": "off limits",
+    "ext": "",
+    "hwd": "off limits",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不得从事的；禁止使用（或拥有）的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that an activity or a substance is <b>off limits</b> for someone, you mean that they are not allowed to do it or have it.  \r \r\r\r</span>",
+    "display_hwd": "off limits",
+    "ext": "",
+    "hwd": "off limits",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

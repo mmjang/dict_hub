@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">捕鲸船</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>whaler</b> is a ship which is used in hunting whales.  \r \r\r\r</span>",
+    "display_hwd": "whaler",
+    "ext": "",
+    "hwd": "whaler",
+    "phonetics": "英\r[ˈweɪlə(r)]美\r[ˈhwelɚ,ˈwe-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">捕鲸船船员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>whaler</b> is someone who works on a ship which is used in hunting whales.  \r \r\r\r</span>",
+    "display_hwd": "whaler",
+    "ext": "",
+    "hwd": "whaler",
+    "phonetics": "英\r[ˈweɪlə(r)]美\r[ˈhwelɚ,ˈwe-]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

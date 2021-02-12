@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(大学课程的)单元，模块</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>module</b> is one of the separate parts of a course taught at a college or university.  \r \r\r\r</span>",
+    "display_hwd": "module",
+    "ext": "",
+    "hwd": "module",
+    "phonetics": "英\r[ˈmɒdju:l]美\r[ˈmɑdʒul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(航天器的)分离舱</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>module</b> is a part of a spacecraft which can operate by itself, often away from the rest of the spacecraft.  \r \r\r\r</span>",
+    "display_hwd": "module",
+    "ext": "",
+    "hwd": "module",
+    "phonetics": "英\r[ˈmɒdju:l]美\r[ˈmɑdʒul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（建筑物中的）构件，组件，模块</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>module</b> is one of a set of parts from which some buildings are made. Each module is made separately, and the completed modules are then joined together to form the building.  \r \r\r\r</span>",
+    "display_hwd": "module",
+    "ext": "",
+    "hwd": "module",
+    "phonetics": "英\r[ˈmɒdju:l]美\r[ˈmɑdʒul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(机器的)组件，部件;(尤指计算机的)模块，程序块</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>module</b> is a part of a machine, especially a computer, which performs a particular function.  \r \r\r\r</span>",
+    "display_hwd": "module",
+    "ext": "",
+    "hwd": "module",
+    "phonetics": "英\r[ˈmɒdju:l]美\r[ˈmɑdʒul]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

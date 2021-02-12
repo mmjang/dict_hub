@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（房间）有护墙板的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>panelled</b> room has decorative wooden panels covering its walls.  \r \r\r\r</span>",
+    "display_hwd": "panelled",
+    "ext": "",
+    "hwd": "panelled",
+    "phonetics": "['pænəld]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（墙、门或窗）镶有嵌板的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>panelled</b> wall, door, or window does not have a flat surface but has square or rectangular areas set into its surface.  \r \r\r\r</span>",
+    "display_hwd": "panelled",
+    "ext": "",
+    "hwd": "panelled",
+    "phonetics": "['pænəld]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

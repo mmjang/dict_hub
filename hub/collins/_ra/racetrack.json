@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">赛马跑道;赛马场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>racetrack</b> is a track on which horses race.  \r \r\r\r</span>",
+    "display_hwd": "racetrack",
+    "ext": "",
+    "hwd": "racetrack",
+    "phonetics": "英\r[ˈreɪstræk]美\r[ˈresˌtræk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（赛车、比赛等的）赛道，赛场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>racetrack</b> is a track for races, for example car or bicycle races.  \r \r\r\r</span>",
+    "display_hwd": "racetrack",
+    "ext": "",
+    "hwd": "racetrack",
+    "phonetics": "英\r[ˈreɪstræk]美\r[ˈresˌtræk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

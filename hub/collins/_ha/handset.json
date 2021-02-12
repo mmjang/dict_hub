@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">电话听筒</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>handset</b> of a telephone is the part that you hold next to your face in order to speak and listen.  \r \r\r\r</span>",
+    "display_hwd": "handset",
+    "ext": "",
+    "hwd": "handset",
+    "phonetics": "英\r[ˈhændset]美\r[ˈhændˌsɛt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（电视、音响等的）遥控器</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a device such as the remote control of a television or stereo as a <b>handset</b> .  \r \r\r\r</span>",
+    "display_hwd": "handset",
+    "ext": "",
+    "hwd": "handset",
+    "phonetics": "英\r[ˈhændset]美\r[ˈhændˌsɛt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

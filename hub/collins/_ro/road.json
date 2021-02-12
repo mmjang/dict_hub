@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">路;道路;公路</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>road</b> is a long piece of hard ground which is built between two places so that people can drive or ride easily from one place to the other.  \r \r\r\r</span>",
+    "display_hwd": "road",
+    "ext": "",
+    "hwd": "road",
+    "phonetics": "英\r[rəʊd]美\r[roʊd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">途径;方法;过程</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>road to</b> a particular result is the means of achieving it or the process of achieving it.  \r \r\r\r</span>",
+    "display_hwd": "road",
+    "ext": "",
+    "hwd": "road",
+    "phonetics": "英\r[rəʊd]美\r[roʊd]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">出发;动身</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>hit the road</b>, you set out on a journey.  \r \r\r\r</span>",
+    "display_hwd": "road",
+    "ext": "",
+    "hwd": "road",
+    "phonetics": "英\r[rəʊd]美\r[roʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在旅途中;在路上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on the road</b>, you are going on a long journey or a series of journeys by road.  \r \r\r\r</span>",
+    "display_hwd": "road",
+    "ext": "",
+    "hwd": "road",
+    "phonetics": "英\r[rəʊd]美\r[roʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">走向…;向…迈进;即将达到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>on the road to</b> something, you mean that they are likely to achieve it.  \r \r\r\r</span>",
+    "display_hwd": "road",
+    "ext": "",
+    "hwd": "road",
+    "phonetics": "英\r[rəʊd]美\r[roʊd]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>the end of the road</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://end\">end</a></b>; \r \r\r\r</span>",
+    "display_hwd": "road",
+    "ext": "",
+    "hwd": "road",
+    "phonetics": "英\r[rəʊd]美\r[roʊd]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

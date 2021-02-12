@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">骰子;色子</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dice</b> is a small cube which has between one and six spots or numbers on its sides, and which is used in games to provide random numbers. In old-fashioned English, 'dice' was used only as a plural form, and the singular was <b>die</b>, but now 'dice' is used as both the singular and the plural form.  \r \r\r\r</span>",
+    "display_hwd": "dice",
+    "ext": "",
+    "hwd": "dice",
+    "phonetics": "英\r[daɪs]美\r[daɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">掷骰子游戏</span>",
+    "def_en": "<span class=\"endef\"><b>Dice</b> is a game which is played using dice.  \r \r\r\r</span>",
+    "display_hwd": "dice",
+    "ext": "",
+    "hwd": "dice",
+    "phonetics": "英\r[daɪs]美\r[daɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把(食物)切成小块;将…切丁</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>dice</b> food, you cut it into small cubes.  \r \r\r\r</span>",
+    "display_hwd": "dice",
+    "ext": "",
+    "hwd": "dice",
+    "phonetics": "英\r[daɪs]美\r[daɪs]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

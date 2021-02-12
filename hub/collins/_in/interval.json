@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(事件、日期之间的)间隔</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>interval</b> between two events or dates is the period of time between them.  \r \r\r\r</span>",
+    "display_hwd": "interval",
+    "ext": "",
+    "hwd": "interval",
+    "phonetics": "英\r[ˈɪntəvl]美\r[ˈɪntərvl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">幕间休息;中场休息</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>interval</b> during a film, concert, show, or game is a short break between two of the parts.  \r \r\r\r</span>",
+    "display_hwd": "interval",
+    "ext": "",
+    "hwd": "interval",
+    "phonetics": "英\r[ˈɪntəvl]美\r[ˈɪntərvl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">音程</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In music, an <b>interval</b> is the difference in pitch between two musical notes.  \r \r\r\r</span>",
+    "display_hwd": "interval",
+    "ext": "",
+    "hwd": "interval",
+    "phonetics": "英\r[ˈɪntəvl]美\r[ˈɪntərvl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">每隔一段时间;时而</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something happens <b>at intervals</b>, it happens several times with gaps or pauses in between.  \r \r\r\r</span>",
+    "display_hwd": "interval",
+    "ext": "",
+    "hwd": "interval",
+    "phonetics": "英\r[ˈɪntəvl]美\r[ˈɪntərvl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…的间距;每隔…远的距离</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If things are placed <b>at</b> particular <b>intervals</b>, there are spaces of a particular size between them.  \r \r\r\r</span>",
+    "display_hwd": "interval",
+    "ext": "",
+    "hwd": "interval",
+    "phonetics": "英\r[ˈɪntəvl]美\r[ˈɪntərvl]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

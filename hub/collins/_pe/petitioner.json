@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">请愿者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>petitioner</b> is a person who presents or signs a petition.  \r \r\r\r</span>",
+    "display_hwd": "petitioner",
+    "ext": "",
+    "hwd": "petitioner",
+    "phonetics": "英\r[pəˈtɪʃənə(r)]美\r[pəˈtɪʃənɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">诉愿人；上诉人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>petitioner</b> is a person who brings a legal case to a court of law.  \r \r\r\r</span>",
+    "display_hwd": "petitioner",
+    "ext": "",
+    "hwd": "petitioner",
+    "phonetics": "英\r[pəˈtɪʃənə(r)]美\r[pəˈtɪʃənɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">上诉请求离婚者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>petitioner</b> is someone who goes to a court of law to ask for a divorce.  \r \r\r\r</span>",
+    "display_hwd": "petitioner",
+    "ext": "",
+    "hwd": "petitioner",
+    "phonetics": "英\r[pəˈtɪʃənə(r)]美\r[pəˈtɪʃənɚ]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

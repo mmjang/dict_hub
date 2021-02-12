@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">辩证关系;(两种力量或因素之间的)对立统一</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People refer to the <b>dialectic</b> or <b>dialectics</b> of a situation when they are referring to the way in which two very different forces or factors work together, and the way in which their differences are resolved.  \r \r\r\r</span>",
+    "display_hwd": "dialectic",
+    "ext": "",
+    "hwd": "dialectic",
+    "phonetics": "英\r[ˌdaɪəˈlektɪk]美\r[ˌdaɪəˈlɛktɪk]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">辩证法</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In philosophy, <b>dialectics</b> is a method of reasoning and reaching conclusions by considering theories and ideas together with ones that contradict them.  \r \r\r\r</span>",
+    "display_hwd": "dialectic",
+    "ext": "",
+    "hwd": "dialectic",
+    "phonetics": "英\r[ˌdaɪəˈlektɪk]美\r[ˌdaɪəˈlɛktɪk]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

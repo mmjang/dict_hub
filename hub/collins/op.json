@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">手术</span>",
+    "def_en": "<span class=\"endef\">\r\r An <b>op</b> is a medical operation.  \r \r\r\r</span>",
+    "display_hwd": "op",
+    "ext": "",
+    "hwd": "op",
+    "phonetics": "英\r[ɒp]美\r[ɑp]",
+    "phrase": "",
+    "sense": ""
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">军事行动；作战</span>",
+    "def_en": "<span class=\"endef\"><b>Ops</b> are military operations.  \r \r\r\r</span>",
+    "display_hwd": "op",
+    "ext": "",
+    "hwd": "op",
+    "phonetics": "英\r[ɒp]美\r[ɑp]",
+    "phrase": "",
+    "sense": ""
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">机会；时机</span>",
+    "def_en": "<span class=\"endef\">\r\r An <b>op</b> is an opportunity. For example, a <b>photo op</b> is an opportunity for someone to take photographs, or to have photographs taken of them.  \r \r\r\r</span>",
+    "display_hwd": "op",
+    "ext": "",
+    "hwd": "op",
+    "phonetics": "英\r[ɒp]美\r[ɑp]",
+    "phrase": "",
+    "sense": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(要某人安静)嘘，别出声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>shush</b> when you are telling someone to be quiet.  \r \r\r\r</span>",
+    "display_hwd": "shush",
+    "ext": "",
+    "hwd": "shush",
+    "phonetics": "英\r[ʃʊʃ]美\r[ʃʌʃ]",
+    "phrase": "",
+    "sense": "convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通过嘘声等)使安静</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>shush</b> someone, you tell them to be quiet by saying 'shush' or 'sh', or by indicating in some other way that you want them to be quiet.  \r \r\r\r</span>",
+    "display_hwd": "shush",
+    "ext": "",
+    "hwd": "shush",
+    "phonetics": "英\r[ʃʊʃ]美\r[ʃʌʃ]",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

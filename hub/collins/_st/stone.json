@@ -1,0 +1,142 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">石头;石料</span>",
+    "def_en": "<span class=\"endef\"><b>Stone</b> is a hard solid substance found in the ground and often used for building houses.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">石子;小石块</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stone</b> is a small piece of rock that is found on the ground.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(作为宗教标志的)石碑;纪念碑</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stone</b> is a large piece of stone put somewhere in memory of a person or event, or as a religious symbol.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(表示观念或规则固定而不可改变)板上钉钉，铁板钉钉</span>",
+    "def_en": "<span class=\"endef\"><b>Stone</b> is used in expressions such as <b>set in stone</b> and <b>tablets of stone</b> to suggest that an idea or rule is firm and fixed, and cannot be changed.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">宝石</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to a jewel as a <b>stone</b> .  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">结石</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stone</b> is a small hard ball of minerals and other substances which sometimes forms in a person's kidneys or gall bladder.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">果核</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>stone</b> in a plum, cherry, or other fruit is the large hard seed in the middle of it.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…去核</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>stone</b> a fruit, you remove its stone.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向…扔石头;用石头砸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people <b>stone</b> someone or something, they throw stones at them.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">英石(重量单位，相当于 14 磅或6.35公斤)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>stone</b> is a measurement of weight, especially the weight of a person, equal to 14 pounds or 6.35 kilograms.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://weight\">weight</a></b></span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://stoned\">stoned</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://foundation stone\">foundation stone</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://paving stone\">paving stone</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://precious stone\">precious stone</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://stepping stone\">stepping stone</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">离…不远的;在…附近的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that one place is <b>a stone's throw from</b> another, you mean that the places are close to each other.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">挖空心思;千方百计;用尽一切手段</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you will <b>leave no stone unturned</b>, you are emphasizing that you will try every way you can think of in order to achieve what you want.  \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>kill two birds with one stone</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bird\">bird</a></b>; \r \r\r\r</span>",
+    "display_hwd": "stone",
+    "ext": "",
+    "hwd": "stone",
+    "phonetics": "英\r[stəʊn]美\r[stoʊn]",
+    "phrase": "",
+    "sense": "★★★★☆ "
+  }
+]

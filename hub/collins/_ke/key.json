@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">钥匙</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>key</b> is a specially shaped piece of metal that you place in a lock and turn in order to open or lock a door, or to start or stop the engine of a vehicle.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（计算机或打字机的）键</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>keys</b> on a computer keyboard or typewriter are the buttons that you press in order to operate it.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（钢琴或风琴的）键</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>keys</b> of a piano or organ are the long narrow pieces of wood or plastic that you press in order to play it.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（音乐的）调</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In music, a <b>key</b> is a scale of musical notes that starts on one specific note.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（地图、图解或科技书籍的）略语表，符号表，凡例</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>key</b> on a map or diagram or in a technical book is a list of the symbols or abbreviations used and their meanings.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最重要的；关键的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>key</b> person or thing in a group is the most important one.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">关键；要诀</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>key to</b> a desirable situation or result is the way in which it can be achieved.  \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://master key\">master key</a></b>;\r   \runder lock and key<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://lock\">lock</a></b>; \r \r\r\r</span>",
+    "display_hwd": "key",
+    "ext": "",
+    "hwd": "key",
+    "phonetics": "英\r[ki:]美\r[ki]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  }
+]

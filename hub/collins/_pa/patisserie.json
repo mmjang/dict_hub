@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">糕点店</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>patisserie</b> is a shop where cakes and pastries are sold.  \r \r\r\r</span>",
+    "display_hwd": "patisserie",
+    "ext": "",
+    "hwd": "patisserie",
+    "phonetics": "英\r[pəˈti:səri]美\r[pəˈtɪsəri,pɑtisˈri]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">糕点</span>",
+    "def_en": "<span class=\"endef\"><b>Patisserie</b> is cakes and pastries.  \r \r\r\r</span>",
+    "display_hwd": "patisserie",
+    "ext": "",
+    "hwd": "patisserie",
+    "phonetics": "英\r[pəˈti:səri]美\r[pəˈtɪsəri,pɑtisˈri]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

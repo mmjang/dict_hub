@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">乳品店;乳品公司</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>dairy</b> is a shop or company that sells milk and food made from milk, such as butter, cream, and cheese.  \r \r\r\r</span>",
+    "display_hwd": "dairy",
+    "ext": "",
+    "hwd": "dairy",
+    "phonetics": "英\r[ˈdeəri]美\r[ˈderi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">乳品间;制酪场</span>",
+    "def_en": "<span class=\"endef\">\r\r\r On a farm, the <b>dairy</b> is the building where milk is kept or where cream, butter, and cheese are made.  \r \r\r\r</span>",
+    "display_hwd": "dairy",
+    "ext": "",
+    "hwd": "dairy",
+    "phonetics": "英\r[ˈdeəri]美\r[ˈderi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">奶制的;乳制的</span>",
+    "def_en": "<span class=\"endef\"><b>Dairy</b> is used to refer to foods such as butter and cheese that are made from milk.  \r \r\r\r</span>",
+    "display_hwd": "dairy",
+    "ext": "",
+    "hwd": "dairy",
+    "phonetics": "英\r[ˈdeəri]美\r[ˈderi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">产牛奶的;产乳的</span>",
+    "def_en": "<span class=\"endef\"><b>Dairy</b> is used to refer to the use of cattle to produce milk rather than meat.  \r \r\r\r</span>",
+    "display_hwd": "dairy",
+    "ext": "",
+    "hwd": "dairy",
+    "phonetics": "英\r[ˈdeəri]美\r[ˈderi]",
+    "phrase": "",
+    "sense": "★★☆☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

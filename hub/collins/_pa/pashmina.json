@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">山羊绒</span>",
+    "def_en": "<span class=\"endef\"><b>Pashmina</b> is very fine, soft wool made from the hair of goats.  \r \r\r\r</span>",
+    "display_hwd": "pashmina",
+    "ext": "",
+    "hwd": "pashmina",
+    "phonetics": "英\r[pæʃˈmi:nə]美\r[pæʃˈmiːnə]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">山羊绒披肩</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>pashmina</b> is a type of shawl made from pashmina.  \r \r\r\r</span>",
+    "display_hwd": "pashmina",
+    "ext": "",
+    "hwd": "pashmina",
+    "phonetics": "英\r[pæʃˈmi:nə]美\r[pæʃˈmiːnə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

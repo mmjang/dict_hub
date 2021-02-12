@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">阿尔巴尼亚的；阿尔巴尼亚人的；阿尔巴尼亚语的；阿尔巴尼亚文化的</span>",
+    "def_en": "<span class=\"endef\"><b>Albanian</b> means belonging or relating to Albania, its people, language, or culture.  \r \r\r\r</span>",
+    "display_hwd": "Albanian",
+    "ext": "",
+    "hwd": "Albanian",
+    "phonetics": "英\r[æl'beɪnɪən]美\r[æl'beɪnɪrn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阿尔巴尼亚人;阿尔巴尼亚裔人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>Albanian</b> is an Albanian citizen or a person of Albanian origin.  \r \r\r\r</span>",
+    "display_hwd": "Albanian",
+    "ext": "",
+    "hwd": "Albanian",
+    "phonetics": "英\r[æl'beɪnɪən]美\r[æl'beɪnɪrn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">阿尔巴尼亚语</span>",
+    "def_en": "<span class=\"endef\"><b>Albanian</b> is the language spoken by people who live in Albania.  \r \r\r\r</span>",
+    "display_hwd": "Albanian",
+    "ext": "",
+    "hwd": "Albanian",
+    "phonetics": "英\r[æl'beɪnɪən]美\r[æl'beɪnɪrn]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

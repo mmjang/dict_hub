@@ -1,0 +1,92 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">帆</span>",
+    "def_en": "<span class=\"endef\"><b>Sails</b> are large pieces of material attached to the mast of a ship. The wind blows against the sails and pushes the ship along.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(船)航行，行驶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say a ship <b>sails</b> when it moves over the sea.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">驾驶(帆船);(船)扬帆行驶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>sail</b> a boat or if a boat <b>sails</b>, it moves across water using its sails.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(风车的)翼板</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>sails</b> on a windmill are the long flat parts that are turned by the wind.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(人、物体)轻快而迅速地移动，飘过，飞过，掠过</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or thing <b>sails</b> somewhere, they move there smoothly and fairly quickly.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://sailing\">sailing</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">启航;开船</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When a ship <b>sets sail</b>, it leaves a port.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">坐帆船;乘帆船</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you cross the sea <b>under sail</b>, you cross it in a ship that has sails rather than an engine.  \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>sail close to the wind</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wind\">wind</a></b>; \rto take the wind out of someone's sails<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://wind\">wind</a></b>; \r \r\r\r</span>",
+    "display_hwd": "sail",
+    "ext": "",
+    "hwd": "sail",
+    "phonetics": "英\r[seɪl]美\r[sel]",
+    "phrase": "",
+    "sense": "★★★☆☆ "
+  }
+]

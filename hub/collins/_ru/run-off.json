@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(得分相同时的)加赛，决胜赛;(得票相同时的)决胜投票，决胜选举</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>run-off</b> is an extra vote or contest which is held in order to decide the winner of an election or competition, because no-one has yet clearly won.  \r \r\r\r</span>",
+    "display_hwd": "run-off",
+    "ext": "",
+    "hwd": "run-off",
+    "phonetics": "英\r[ˈrʌnˌɔ:f,-ˌɔf]美\r[ˈrʌnˌɔf,-ˌɑf]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">径流，溢流（指流入河流中的雨水）</span>",
+    "def_en": "<span class=\"endef\"><b>Run-off</b> is rainwater that forms a stream rather than being absorbed by the ground.  \r \r\r\r</span>",
+    "display_hwd": "run-off",
+    "ext": "",
+    "hwd": "run-off",
+    "phonetics": "英\r[ˈrʌnˌɔ:f,-ˌɔf]美\r[ˈrʌnˌɔf,-ˌɑf]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

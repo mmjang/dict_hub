@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">猫的;猫科的</span>",
+    "def_en": "<span class=\"endef\"><b>Feline</b> means belonging or relating to the cat family.  \r \r\r\r</span>",
+    "display_hwd": "feline",
+    "ext": "",
+    "hwd": "feline",
+    "phonetics": "英\r[ˈfi:laɪn]美\r[ˈfiˌlaɪn]",
+    "phrase": "",
+    "sense": "adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">猫;猫科动物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>feline</b> is an animal that belongs to the cat family.  \r \r\r\r</span>",
+    "display_hwd": "feline",
+    "ext": "",
+    "hwd": "feline",
+    "phonetics": "英\r[ˈfi:laɪn]美\r[ˈfiˌlaɪn]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">像猫一样(优雅)的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>feline</b> to describe someone's appearance or movements if they are elegant or graceful in a way that makes you think of a cat.  \r \r\r\r</span>",
+    "display_hwd": "feline",
+    "ext": "",
+    "hwd": "feline",
+    "phonetics": "英\r[ˈfi:laɪn]美\r[ˈfiˌlaɪn]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

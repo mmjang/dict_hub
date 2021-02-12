@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">拍卖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>auction</b> is a public sale where goods are sold to the person who offers the highest price.  \r \r\r\r</span>",
+    "display_hwd": "auction",
+    "ext": "",
+    "hwd": "auction",
+    "phonetics": "英\r[ˈɔ:kʃn]美\r[ˈɔkʃn]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拍卖</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>is auctioned</b>, it is sold in an auction.  \r \r\r\r</span>",
+    "display_hwd": "auction",
+    "ext": "",
+    "hwd": "auction",
+    "phonetics": "英\r[ˈɔ:kʃn]美\r[ˈɔkʃn]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

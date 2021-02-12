@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（数据的）包交换，分组交换</span>",
+    "def_en": "<span class=\"endef\"><b>Packet-switching</b> is a method of sending computer data on telephone lines which automatically divides the data into short pieces in order to send it and puts it together again when it is received.  \r \r\r\r</span>",
+    "display_hwd": "packet switching",
+    "ext": "",
+    "hwd": "packet switching",
+    "phonetics": "[ˈpækitˈswitʃiŋ]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

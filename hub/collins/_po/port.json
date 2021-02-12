@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">港市；口岸</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>port</b> is a town by the sea or on a river, which has a harbour.  \r \r\r\r</span>",
+    "display_hwd": "port",
+    "ext": "",
+    "hwd": "port",
+    "phonetics": "英\r[pɔ:t]美\r[pɔrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">港；港口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>port</b> is a harbour area where ships load and unload goods or passengers.  \r \r\r\r</span>",
+    "display_hwd": "port",
+    "ext": "",
+    "hwd": "port",
+    "phonetics": "英\r[pɔ:t]美\r[pɔrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（外接设备的）端口</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>port</b> on a computer is a place where you can attach another piece of equipment, for example a printer.  \r \r\r\r</span>",
+    "display_hwd": "port",
+    "ext": "",
+    "hwd": "port",
+    "phonetics": "英\r[pɔ:t]美\r[pɔrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">左舷的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In sailing, the <b>port</b> side of a ship is the left side when you are on it and facing towards the front.  \r \r\r\r</span>",
+    "display_hwd": "port",
+    "ext": "",
+    "hwd": "port",
+    "phonetics": "英\r[pɔ:t]美\r[pɔrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">波尔图葡萄酒</span>",
+    "def_en": "<span class=\"endef\"><b>Port</b> is a type of strong, sweet red wine.  \r \r\r\r</span>",
+    "display_hwd": "port",
+    "ext": "",
+    "hwd": "port",
+    "phonetics": "英\r[pɔ:t]美\r[pɔrt]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

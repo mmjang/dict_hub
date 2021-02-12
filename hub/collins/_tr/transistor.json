@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">晶体管</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>transistor</b> is a small electronic part in something such as a television or radio, which controls the flow of electricity.  \r \r\r\r</span>",
+    "display_hwd": "transistor",
+    "ext": "",
+    "hwd": "transistor",
+    "phonetics": "英\r[trænˈzɪstə(r)]美\r[trænˈzɪstɚ,-ˈsɪs-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">晶体管收音机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>transistor</b> or a <b>transistor radio</b> is a small portable radio.  \r \r\r\r</span>",
+    "display_hwd": "transistor",
+    "ext": "",
+    "hwd": "transistor",
+    "phonetics": "英\r[trænˈzɪstə(r)]美\r[trænˈzɪstɚ,-ˈsɪs-]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

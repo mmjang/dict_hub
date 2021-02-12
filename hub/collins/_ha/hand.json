@@ -1,0 +1,572 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>hands</b> are the parts of your body at the end of your arms. Each hand has four fingers and a thumb.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">作用;影响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>hand</b> of someone or something is their influence in an event or situation.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">照顾;支配;掌管</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>in</b> a particular person's <b>hands</b>, you mean that they are looking after it, own it, or are responsible for it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">帮助;援手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you ask someone for <b>a hand</b> with something, you are asking them to help you in what you are doing.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（工厂或农场的）工人，体力劳动者（通常指男性）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hand</b> is someone, usually a man, who does hard physical work, for example in a factory or on a farm, as part of a group of people who all do similar work.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常指演出前后的）鼓掌，掌声</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone asks an audience to give someone <b>a hand</b>, they are asking the audience to clap loudly, usually before or after that person performs.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（女方的）允婚</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a man asks for a woman's <b>hand in marriage</b>, he asks her or her parents for permission to marry her.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（纸牌游戏中的）手中的牌，一手牌</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a game of cards, your <b>hand</b> is the set of cards that you are holding in your hand at a particular time or the cards that are dealt to you at the beginning of the game.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一手之宽（测量马匹高度的单位，等于4英寸）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hand</b> is a measurement of four inches, which is used for measuring the height of a horse from its front feet to its shoulders.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（钟表上的）指针</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>hands</b> of a clock or watch are the thin pieces of metal or plastic that indicate what time it is.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">字迹;手迹;笔迹</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>hand</b> is the style in which you write with a pen or pencil.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（空间或时间上）接近的，不远的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>at hand</b> ,<b>near at hand</b>, or <b>close at hand</b>, it is very near in place or time.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…手中，从…那里（尤指受到不好的待遇）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone experiences a particular kind of treatment, especially unpleasant treatment, <b>at the hands of</b> a person or organization, they receive it from them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用手工</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>by hand</b>, you do it using your hands rather than a machine.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">变换所有权;易主;易手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something <b>changes hands</b>, its ownership changes, usually because it is sold to someone else.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">完全受（某人）支配;完全听命于（某人）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have someone <b>eating out of</b> your <b>hand</b>, they are completely under your control.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">连手带脚地，手脚一起地（捆绑）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone is bound <b>hand and foot</b>, both their hands and both their feet are tied together.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">迫使（某人）提前行动（或公开其所作所为）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>force</b> someone's <b>hand</b>, you force them to act sooner than they want to, or to act in public when they would prefer to keep their actions secret.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（为…）忙得不可开交;（因…）应接不暇</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>have</b> your <b>hands full with</b> something, you are very busy because of it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">自行决定权;自由行动权</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone gives you <b>a free hand</b>, they give you the freedom to use your own judgment and to do exactly as you wish.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">迅速而大量地（赚钱或花钱）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is making or losing money <b>hand over fist</b>, you mean that they are getting or losing a lot of money very quickly.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常指经过努力后）获得，得到</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>get</b> your <b>hands on</b> something or <b>lay</b> your <b>hands on</b> something, you manage to find it or obtain it, usually after some difficulty.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与某人）密切合作地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you work <b>hand in glove with</b> someone, you work very closely with them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（常指为表示爱意而）手拉手的，携着手的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two people are <b>hand in hand</b>, they are holding each other's nearest hand, usually while they are walking or sitting together. People often do this to show their affection for each other.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（两件事）密切相关地，同时并进地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two things <b>go hand in hand</b>, they are closely connected and cannot be considered separately from each other.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">参加;参与</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>have a hand in</b> something such as an event or activity, you are involved in it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（统治者）用高压手段，严厉地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone such as the ruler of a country treats people <b>with</b> a <b>heavy hand</b>, you are criticizing them because they are very strict and severe with them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（常指为表示爱意而）手拉手，牵手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If two people <b>are holding hands</b>, they are holding each other's nearest hand, usually while they are walking or sitting together. People often do this to show their affection for each other.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phr-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…精神上的支持</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you ask someone to <b>hold</b> your <b>hand</b> at an event that you are worried about, you ask them to support you by being there with you.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（比赛）尚待进行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a competition, if someone has games or matches <b>in hand</b>, they have more games or matches left to play than their opponent and therefore have the possibility of scoring more points.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（时间或金钱）宽余的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have time or money <b>in hand</b>, you have more time or money than you need.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（工作或问题）办理中的，处理中的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The job or problem <b>in hand</b> is the job or problem that you are dealing with at the moment.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（局势）在控制下，在掌握中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a situation is <b>in hand</b>, it is under control.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">偶尔练习以保持熟练</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something to <b>keep</b> your <b>hand in</b>, you practise a skill or hobby occasionally in order to remain fairly good at it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">趴着;四肢着地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are <b>on</b> your <b>hands and knees</b>, your knees and feet and the palms of your hands are touching the ground.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">向…伸出援手;给予…帮助</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>lend</b> someone <b>a hand</b>, you help them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（不客气的警告语）别碰…，别干涉…</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you tell someone to <b>keep</b> their <b>hands off</b> something or to <b>take</b> their <b>hands off</b> it, you are telling them in a rather aggressive way not to touch it or interfere with it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">马上;立即;无需询问（或查证）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do not know something <b>off hand</b>, you do not know it without having to ask someone else or look it up in a book.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">由…负责/不再由…负责</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have a problem or responsibility <b>on</b> your <b>hands</b>, you have to deal with it. If it is <b>off</b> your <b>hands</b>, you no longer have to deal with it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在手头;在近处;现有</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something is <b>on hand</b>, they are near and able to be used if they are needed.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一方面…（另一方面…）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>on the one hand</b> to introduce the first of two contrasting points, facts, or ways of looking at something. It is always followed later by <b>on the other hand</b> or 'on the other'.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（从）另一方面（来说）（用于引出相对照的另一点）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>on the other hand</b> to introduce the second of two contrasting points, facts, or ways of looking at something.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">失去控制;不可收拾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a person or a situation gets <b>out of hand</b>, you are no longer able to control them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">立即，不假思索地（屏弃、拒绝等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you dismiss or reject something <b>out of hand</b>, you do so immediately and do not consider believing or accepting it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">因失算而让…占便宜;做对…有利的事</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>play into</b> someone's <b>hands</b>, you do something which they want you to do and which places you in their power.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">摊牌;亮出底牌;表明自己的真实意图</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>show</b> your <b>hand</b>, you show how much power you have and the way you intend to act.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指为有所改善）接手，照管，担任起对…的责任</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>take</b> something or someone <b>in hand</b>, you take control or responsibility over them, especially in order to improve them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（因愤怒、绝望或厌恶而）骤然举起双手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>throws up</b> their <b>hands</b>, they express their anger, frustration, or disgust when a situation becomes so bad that they can no longer accept it.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">受到束缚;放不开手脚</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that your <b>hands are tied</b>, you mean that something is preventing you from acting in the way that you want to.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在手边;在附近</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have something <b>to hand</b> or <b>near to hand</b>, you have it with you or near you, ready to use when needed.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常指初次）尝试，试身手</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>try</b> your <b>hand at</b> an activity, you attempt to do it, usually for the first time.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">着手学做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>turn</b> your <b>hand to</b> something such as a practical activity, you learn about it and do it for the first time.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">洗手不干;不再管;和…断绝关系</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>wash</b> your <b>hands of</b> someone or something, you refuse to be involved with them any more or to take responsibility for them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">轻易取胜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>win hands down</b>, you win very easily.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hand-to-mouth\">hand-to-mouth</a></b>;\r   \rwith one's bare hands<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://bare\">bare</a></b>; \rto overplay one's hand<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://overplay\">overplay</a></b>; \rto shake someone's hand<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://shake\">shake</a></b>; \rto shake hands<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://shake\">shake</a></b>; \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">递;交;给</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>hand</b> something <b>to</b> someone, you pass it to them.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">你不得不佩服…</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say things such as '<b>You have to hand it to her</b>' or '<b>You've got to hand it to them</b>' when you admire someone for their skills or achievements and you think they deserve a lot of praise.  \r \r\r\r</span>",
+    "display_hwd": "hand",
+    "ext": "",
+    "hwd": "hand",
+    "phonetics": "英\r[hænd]美\r[hænd]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">茶;茶水</span>",
+    "def_en": "<span class=\"endef\"><b>Tea</b> is a drink made by adding hot water to tea leaves or tea bags. Many people add milk to the drink and some add sugar.  \r \r\r\r</span>",
+    "display_hwd": "tea",
+    "ext": "",
+    "hwd": "tea",
+    "phonetics": "英\r[ti:]美\r[ti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(用某些植物的叶子或花泡的)茶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Drinks such as mint <b>tea</b> or chamomile <b>tea</b> are made by pouring hot water on the dried leaves of the particular plant or flower.  \r \r\r\r</span>",
+    "display_hwd": "tea",
+    "ext": "",
+    "hwd": "tea",
+    "phonetics": "英\r[ti:]美\r[ti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">茶叶</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The chopped dried leaves of the plant that tea is made from is referred to as <b>tea</b> .  \r \r\r\r</span>",
+    "display_hwd": "tea",
+    "ext": "",
+    "hwd": "tea",
+    "phonetics": "英\r[ti:]美\r[ti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-mass\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">下午茶;午后茶点</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://afternoon tea\">afternoon tea</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://high tea\">high tea</a></b>;\r <b>Tea</b> is a meal some people eat in the late afternoon. It consists of food such as sandwiches and cakes, with tea to drink.  \r \r<span class=\"text_gray\">→see usage note at:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://meal\">meal</a></b></span>",
+    "display_hwd": "tea",
+    "ext": "",
+    "hwd": "tea",
+    "phonetics": "英\r[ti:]美\r[ti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（傍晚时吃的）晚点，晚餐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Some people refer to the main meal that they eat in the early part of the evening as <b>tea</b>.  \r \r\r\r</span>",
+    "display_hwd": "tea",
+    "ext": "",
+    "hwd": "tea",
+    "phonetics": "英\r[ti:]美\r[ti]",
+    "phrase": "",
+    "sense": "★★★★☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不感兴趣的人;不合胃口的事物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone or something is <b>not</b> your <b>cup of tea</b>, you mean that they are not the kind of person or thing that you like.  \r \r\r\r</span>",
+    "display_hwd": "tea",
+    "ext": "",
+    "hwd": "tea",
+    "phonetics": "英\r[ti:]美\r[ti]",
+    "phrase": "",
+    "sense": "★★★★☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

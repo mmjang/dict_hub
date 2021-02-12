@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">中风</span>",
+    "def_en": "<span class=\"endef\"><b>Apoplexy</b> is a stroke.  \r \r\r\r</span>",
+    "display_hwd": "apoplexy",
+    "ext": "",
+    "hwd": "apoplexy",
+    "phonetics": "英\r[ˈæpəpleksi]美\r[ˈæpəˌplɛksi]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">狂怒</span>",
+    "def_en": "<span class=\"endef\"><b>Apoplexy</b> is extreme anger.  \r \r\r\r</span>",
+    "display_hwd": "apoplexy",
+    "ext": "",
+    "hwd": "apoplexy",
+    "phonetics": "英\r[ˈæpəpleksi]美\r[ˈæpəˌplɛksi]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

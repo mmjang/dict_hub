@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">结果;后果;成果;效果</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>result</b> is something that happens or exists because of something else that has happened.  \r \r\r\r</span>",
+    "display_hwd": "result",
+    "ext": "",
+    "hwd": "result",
+    "phonetics": "英\r[rɪˈzʌlt]美\r[rɪˈzʌlt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">导致;引起;造成</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>results in</b> a particular situation or event, it causes that situation or event to happen.  \r \r\r\r</span>",
+    "display_hwd": "result",
+    "ext": "",
+    "hwd": "result",
+    "phonetics": "英\r[rɪˈzʌlt]美\r[rɪˈzʌlt]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">由…产生;由…引起</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>results from</b> a particular event or action, it is caused by that event or action.  \r \r\r\r</span>",
+    "display_hwd": "result",
+    "ext": "",
+    "hwd": "result",
+    "phonetics": "英\r[rɪˈzʌlt]美\r[rɪˈzʌlt]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(比赛的)结果，结局</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>result</b> is the situation that exists at the end of a contest.  \r \r\r\r</span>",
+    "display_hwd": "result",
+    "ext": "",
+    "hwd": "result",
+    "phonetics": "英\r[rɪˈzʌlt]美\r[rɪˈzʌlt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(计算的)结果;得数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>result</b> is the number that you get when you do a calculation.  \r \r\r\r</span>",
+    "display_hwd": "result",
+    "ext": "",
+    "hwd": "result",
+    "phonetics": "英\r[rɪˈzʌlt]美\r[rɪˈzʌlt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(考试的)成绩，分数</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>results</b> are the marks or grades that you get for examinations you have taken.  \r \r\r\r</span>",
+    "display_hwd": "result",
+    "ext": "",
+    "hwd": "result",
+    "phonetics": "英\r[rɪˈzʌlt]美\r[rɪˈzʌlt]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

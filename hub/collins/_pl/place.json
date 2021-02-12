@@ -1,0 +1,522 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（用于广场或较短街道的名称中）广场，街</span>",
+    "def_en": "<span class=\"endef\"><b>Place</b> is used as part of the name of a square or short street in a town.  \r \r\r\r</span>",
+    "display_hwd": "Place",
+    "ext": "",
+    "hwd": "Place",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">地方；地点；地区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>place</b> is any point, building, area, town, or country.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（已提到过的）地方,地点，地区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>the place</b> to refer to the point, building, area, town, or country that you have already mentioned.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（提供某种服务的）场所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to somewhere that provides a service, such as a hotel, restaurant, or institution, as a particular kind of <b>place</b>.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指在控制或组织下）发生，进行，举行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something <b>takes place</b>, it happens, especially in a controlled or organized way.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于 any，no，some 或 every 之后）…地方</span>",
+    "def_en": "<span class=\"endef\"><b>Place</b> can be used after 'any', 'no', 'some', or 'every' to mean 'anywhere', 'nowhere', 'somewhere', or 'everywhere'.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">到处（旅行）；各处（游览）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you go <b>places</b>, you visit pleasant or interesting places.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ adv\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">所属的位置；应在的位置；适当的位置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the position where something belongs, or where it is supposed to be, as its <b>place</b> .  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">座位；位子；空位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>place</b> is a seat or position that is available for someone to occupy.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">地位；处境</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Someone's or something's <b>place</b> in a society, system, or situation is their position in relation to other people or things.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（比赛或竞赛获得的）名次</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>place</b> in a race or competition is your position in relation to the other competitors. If you are in first place, you are ahead of all the other competitors.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">席位；名额</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you get a <b>place</b> in a team, on a committee, or on a course of study, for example, you are accepted as a member of the team or committee or as a student on the  course.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（合适的）时刻，时机</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A good <b>place to</b> do something in a situation or activity is a good time or stage at which to do it.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-sing\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">住所；寓所</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>place</b> is the house or flat where you live.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（书等中）正读到的部分；（演说等中）正讲到的地方</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>place in</b> a book or speech is the point you have reached in reading the book or making the speech.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（数学中的）位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say how many decimal <b>places</b> there are in a number, you are saying how many numbers there are to the right of the decimal point.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（尤指小心、稳当或特意地）放置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> something somewhere, you put it in a particular position, especially in a careful, firm, or deliberate way.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">使处（于）；把…置（于）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r To <b>place</b> a person or thing in a particular state means to cause them to be in it.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把（重点等）放（在）；将（责任等）归（于）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>place</b> instead of 'put' or 'lay' in certain expressions where the meaning is carried by the following noun. For example, if you <b>place emphasis on</b> something, you emphasize it, and if you <b>place the blame on</b> someone, you blame them.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">评定，划分（为某一等级或类别）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> someone or something in a particular class or group, you label or judge them in that way.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（在比赛或竞赛中）使获得第…名，使名列；（美国英语中常指）使获得亚军，使名列第二</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a competitor <b>is placed</b> first, second, or last, for example, that is their position at the end of a race or competition. In American English, <b>be placed</b> often means 'finish in second position'.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发出（订单等）；点（菜等）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> an order <b>for</b> a product or <b>for</b> a meal, you ask for it to be sent or brought to you.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（在报纸上）刊登（广告）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> an advertisement <b>in</b> a newspaper, you arrange for the advertisement to appear in the newspaper.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（请接线员帮助接通时）说出，给出（联系人的电话号码）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> a telephone call to a particular place, you give the telephone operator the number of the person you want to speak to and ask them to connect you.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">下（赌注）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> a bet, you bet money on something.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">为…找到职位；安插；为…找到住处；安置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an agency or organization <b>places</b> someone, it finds them a job or somewhere to live.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">认出；想起</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that you cannot <b>place</b> someone, you mean that you recognize them but cannot remember exactly who they are or where you have met them before.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://meeting place\">meeting place</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">到处；各处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is happening <b>all over the place</b>, it is happening in many different places.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（通常指乱七八糟地）随处遍布</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If things are <b>all over the place</b>, they are spread over a very large area, usually in a disorganized way.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">困惑；糊涂；一团糟</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is <b>all over the place</b>, you mean that they are confused or disorganized, and unable to think clearly or act properly.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与…）调换处境，互换角色</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>change places with</b> another person, you start being in their situation or role, and they start being in yours.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phr-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（情况）豁然开朗</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you have been trying to understand something puzzling and then everything <b>falls into place</b> or <b>clicks into place</b>, you suddenly understand how different pieces of information are connected and everything becomes clearer.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（事件等）自然而然地按所希望的方式发生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If things <b>fall into place</b>, events happen naturally to produce a situation you want.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（很可能）获得成功，飞黄腾达</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is going places</b>, you mean that they are showing a lot of talent or ability and are likely to become very successful.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（在政府、社会或组织中）身居高位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People <b>in high places</b> are people who have powerful and influential positions in a government, society, or organization.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在/不在正确的位置；在/不在通常的位置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>in place</b>, it is in its correct or usual position. If it is <b>out of place</b>, it is not in its correct or usual position.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（法律、政策、行政体系等）正在运作，就位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a law, a policy, or an administrative structure is <b>in place</b>, it is working or able to be used.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">代替；取代</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing or person is used or does something <b>in place of</b> another, they replace the other thing or person.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在某些地方；有几处</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something has particular characteristics or features <b>in places</b>, it has them at several points within an area.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">身在…的处境；处于…的位置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say what you would have done <b>in</b> someone else's <b>place</b>, you say what you would have done if you had been in their situation and had been experiencing what they were experiencing.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">起初；一开始</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>in the first place</b> when you are talking about the beginning of a situation or about the situation as it was before a series of events.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于列举事项）第一/第二，首先/其次；（用于强调）首要的是</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>in the first place</b> and <b>in the second place</b> to introduce the first and second in a series of points or reasons. <b>In the first place</b> can also be used to emphasize a very important point or reason.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（做…）不正确，不妥当，不在职责范围内</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that <b>it is not</b> your <b>place to</b> do something, you mean that it is not right or appropriate for you to do it, or that it is not your responsibility to do it.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">格格不入；不相称；不适当；不适时</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone or something seems <b>out of place</b> in a particular situation, they do not seem to belong there or to be suitable for that situation.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有利的境遇；一帆风顺的位置</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone has found their <b>place in the sun</b>, you mean that they are in a job or a situation where they will be happy and have everything that they want.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">把…置于…之上（或之前）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>place</b> one thing <b>above</b> ,<b>before</b>, or <b>over</b> another, you think that the first thing is more important than the second and you show this in your behaviour.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">杀…的气焰；使安分</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>put</b> someone <b>in</b> their <b>place</b>, you show them that they are less important or clever than they think they are.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（常为幽默用法）使有自知之明，使识相</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone should <b>be shown</b> their <b>place</b> or <b>be kept in</b> their <b>place</b>, you are saying, often in a humorous way, that they should be made aware of their low status.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与…相比）居次要地位</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing <b>takes second place to</b> another, it is considered to be less important and is given less attention than the other thing.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">代替；取代</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one thing or person <b>takes the place of</b> another or <b>takes</b> another's <b>place</b>, they replace the other thing or person.  \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>pride of place</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://pride\">pride</a></b>; \r \r\r\r</span>",
+    "display_hwd": "place",
+    "ext": "",
+    "hwd": "place",
+    "phonetics": "英\r[pleɪs]美\r[ples]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

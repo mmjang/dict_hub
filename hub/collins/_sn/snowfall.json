@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">降雪量</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>snowfall</b> in an area or country is the amount of snow that falls there during a particular period.  \r \r\r\r</span>",
+    "display_hwd": "snowfall",
+    "ext": "",
+    "hwd": "snowfall",
+    "phonetics": "英\r[ˈsnəʊfɔ:l]美\r[ˈsnoʊfɔl]",
+    "phrase": "",
+    "sense": "n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(一场)降雪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>snowfall</b> is a fall of snow.  \r \r\r\r</span>",
+    "display_hwd": "snowfall",
+    "ext": "",
+    "hwd": "snowfall",
+    "phonetics": "英\r[ˈsnəʊfɔ:l]美\r[ˈsnoʊfɔl]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

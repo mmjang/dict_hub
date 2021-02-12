@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">执照领有人；许可证接受者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>licensee</b> is a person or organization that has been given a licence.  \r \r\r\r</span>",
+    "display_hwd": "licensee",
+    "ext": "",
+    "hwd": "licensee",
+    "phonetics": "英\r[ˌlaɪsənˈsi:]美\r[ˌlaɪsənˈsi]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">售酒执照领有人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>licensee</b> is someone who has been given a licence to sell alcoholic drinks, for example in a pub.  \r \r\r\r</span>",
+    "display_hwd": "licensee",
+    "ext": "",
+    "hwd": "licensee",
+    "phonetics": "英\r[ˌlaɪsənˈsi:]美\r[ˌlaɪsənˈsi]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

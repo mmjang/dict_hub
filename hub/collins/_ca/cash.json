@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">现金;现款</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://hard cash\">hard cash</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://petty cash\">petty cash</a></b>;\r <b>Cash</b> is money in the form of notes and coins rather than cheques.  \r \r\r\r</span>",
+    "display_hwd": "cash",
+    "ext": "",
+    "hwd": "cash",
+    "phonetics": "英\r[kæʃ]美\r[kæʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(尤指现成的)资金，钱</span>",
+    "def_en": "<span class=\"endef\"><b>Cash</b> means the same as money, especially money which is immediately available.  \r \r\r\r</span>",
+    "display_hwd": "cash",
+    "ext": "",
+    "hwd": "cash",
+    "phonetics": "英\r[kæʃ]美\r[kæʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">兑现(支票)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>cash</b> a cheque, you exchange it at a bank for the amount of money that it is worth.  \r \r\r\r</span>",
+    "display_hwd": "cash",
+    "ext": "",
+    "hwd": "cash",
+    "phonetics": "英\r[kæʃ]美\r[kæʃ]",
+    "phrase": "",
+    "sense": "★★★★☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">磁盘;磁碟</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://disk drive\">disk drive</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://floppy disk\">floppy disk</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://hard disk\">hard disk</a></b>;\r In a computer, the <b>disk</b> is the part where information is stored.  \r \r\r\r</span>",
+    "display_hwd": "disk",
+    "ext": "",
+    "hwd": "disk",
+    "phonetics": "英\r[dɪsk]美\r[dɪsk]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

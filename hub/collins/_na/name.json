@@ -1,0 +1,252 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">名字;名称;姓名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>name</b> of a person, place, or thing is the word or group of words that is used to identify them.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">给…取名;给…命名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>name</b> someone or something, you give them a name, usually at the beginning of their life.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(以…)为…命名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>name</b> someone or something <b>after</b> another person or thing, you give them the same name as that person or thing.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">叫出…的名称;说出…的名字</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>name</b> someone, you identify them by stating their name.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提出，说出，指出(价格、时间、地点等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>name</b> something such as a price, time, or place, you say what you want it to be.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">提名;任命</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>name</b> the person for a particular job, you say who you want to have the job.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">名声;名望;声誉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to the reputation of a person or thing as their <b>name</b> .  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">名人;红人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can refer to someone as, for example, a famous <b>name</b> or a great <b>name</b> when they are well-known.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://assumed name\">assumed name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://big name\">big name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://brand name\">brand name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://Christian name\">Christian name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://code name\">code name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://first name\">first name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://given name\">given name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://maiden name\">maiden name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://middle name\">middle name</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://pet name\">pet name</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…的名义;在…的名下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something is <b>in</b> someone's <b>name</b>, it officially belongs to them or is reserved for them.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">代表;以…的名义</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone does something <b>in the name of</b> a group of people, they do it as the representative of that group.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">籍…为由;以…为名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>in the name of</b> an ideal or an abstract thing, you do it in order to preserve or promote that thing.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(加强提问或要求的语气)看在(上帝、人道等)的份儿上</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes use expressions such as '<b>in the name of</b> heaven' or '<b>in the name of</b> humanity' to add emphasis to a question or request.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有实无名的;未被认可的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a situation exists <b>in all but name</b>, you mean that it is not officially recognized even though it exists.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以名字;指名道姓地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you mention someone or something <b>by name</b>, or address someone <b>by name</b>, you use their name.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">名叫…;以…为名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>by name</b> or <b>by the name of</b> when you are saying what someone is called.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">谩骂;对…口出恶言</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>calls</b> you <b>names</b>, they insult you by saying unpleasant things to you or about you.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">最重要的东西;实质</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something is <b>the name of the game</b>, you mean that it is the most important aspect of a situation.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">支持，赞同(事业、项目等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>lend</b> your <b>name to</b> something such as a cause or project, you support it.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(因…)成名;(以…)出名</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>make a name for yourself</b> or <b>make</b> your <b>name as</b> something, you become well-known for that thing.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">点出(或指出)(做错事者)的名字</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>name names</b>, you identify the people who have done something, often something wrong.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(指报纸或官方机构)曝光，点名，指名(业绩差或犯错的人)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a newspaper or an official body <b>names and shames</b> people who have performed badly or who have done something wrong, it identifies those people by name.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在名义上;有名无实地</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a situation exists <b>in name only</b>, you mean that it does not have the status or position that it claims to have.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">凡是你说得出的，凡是你能想到的(应有尽有)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say <b>you name it</b>, usually after or before a list, to indicate that you are talking about a very wide range of things.  \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>a name to conjure with</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://conjure\">conjure</a></b>; \r \r\r\r</span>",
+    "display_hwd": "name",
+    "ext": "",
+    "hwd": "name",
+    "phonetics": "英\r[neɪm]美\r[nem]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

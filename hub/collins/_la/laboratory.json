@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（用于科研的）实验室，研究室，实验楼</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>laboratory</b> is a building or a room where scientific experiments, analyses, and research are carried out.  \r \r\r\r</span>",
+    "display_hwd": "laboratory",
+    "ext": "",
+    "hwd": "laboratory",
+    "phonetics": "英\r[ləˈbɒrətri]美\r[ˈlæbrətɔri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（学生使用的）实验室</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>laboratory</b> in a school, college, or university is a room containing scientific equipment where students are taught science subjects such as chemistry.  \r \r\r\r</span>",
+    "display_hwd": "laboratory",
+    "ext": "",
+    "hwd": "laboratory",
+    "phonetics": "英\r[ləˈbɒrətri]美\r[ˈlæbrətɔri]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://language laboratory\">language laboratory</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "laboratory",
+    "ext": "",
+    "hwd": "laboratory",
+    "phonetics": "英\r[ləˈbɒrətri]美\r[ˈlæbrətɔri]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

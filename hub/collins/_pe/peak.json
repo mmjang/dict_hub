@@ -1,0 +1,62 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">顶点；顶峰</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>peak</b> of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.  \r \r\r\r</span>",
+    "display_hwd": "peak",
+    "ext": "",
+    "hwd": "peak",
+    "phonetics": "英\r[pi:k]美\r[pik]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">达到顶点；达到顶峰；达到最高值</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When something <b>peaks</b>, it reaches its highest value or its highest level.  \r \r\r\r</span>",
+    "display_hwd": "peak",
+    "ext": "",
+    "hwd": "peak",
+    "phonetics": "英\r[pi:k]美\r[pik]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（水平、价值）最高的，最大的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>peak</b> level or value of something is its highest level or value.  \r \r\r\r</span>",
+    "display_hwd": "peak",
+    "ext": "",
+    "hwd": "peak",
+    "phonetics": "英\r[pi:k]美\r[pik]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">高峰的；高峰期的</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://peak time\">peak time</a></b>;\r <b>Peak</b> times are the times when there is most demand for something or most use of something.  \r \r\r\r</span>",
+    "display_hwd": "peak",
+    "ext": "",
+    "hwd": "peak",
+    "phonetics": "英\r[pi:k]美\r[pik]",
+    "phrase": "",
+    "sense": "★★★☆☆ adj\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">山峰；山顶；山巅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>peak</b> is a mountain or the top of a mountain.  \r \r\r\r</span>",
+    "display_hwd": "peak",
+    "ext": "",
+    "hwd": "peak",
+    "phonetics": "英\r[pi:k]美\r[pik]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">帽舌；帽檐</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>peak</b> of a cap is the part at the front that sticks out above your eyes.  \r \r\r\r</span>",
+    "display_hwd": "peak",
+    "ext": "",
+    "hwd": "peak",
+    "phonetics": "英\r[pi:k]美\r[pik]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

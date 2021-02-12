@@ -1,0 +1,82 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">花费;费用;开支</span>",
+    "def_en": "<span class=\"endef\"><b>Expense</b> is the money that something costs you or that you need to spend in order to do something.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（由雇主报销的）开支，费用，业务费用</span>",
+    "def_en": "<span class=\"endef\"><b>Expenses</b> are amounts of money that you spend while doing something in the course of your work, which will be paid back to you afterwards.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-plural\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">由…付费</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>at</b> someone's <b>expense</b>, they provide the money for it.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">拿…开玩笑;以…为嘲弄的对象</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone laughs or makes a joke <b>at</b> your <b>expense</b>, they do it to make you seem foolish.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以牺牲…的利益为代价</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you achieve something <b>at the expense of</b> someone, you do it in a way which might cause them some harm or disadvantage.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">以…为代价</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone does something <b>at the expense of</b> another thing, you are expressing concern at the fact that they are not doing the second thing, because the first thing uses all their resources.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">花（大笔）钱做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>go to the expense of</b> doing something, you do something which costs a lot of money. If you <b>go to</b> great <b>expense to</b> do something, you spend a lot of money in order to achieve it.  \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \rto <b>spare no expense</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://spare\">spare</a></b>; \r \r\r\r</span>",
+    "display_hwd": "expense",
+    "ext": "",
+    "hwd": "expense",
+    "phonetics": "英\r[ɪkˈspens]美\r[ɪkˈspɛns]",
+    "phrase": "",
+    "sense": "★★★☆☆ "
+  }
+]

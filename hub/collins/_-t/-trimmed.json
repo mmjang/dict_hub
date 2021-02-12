@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">整齐的;美观整洁的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>trim</b> is neat, tidy, and attractive.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">苗条的;修长的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you describe someone's figure as <b>trim</b>, you mean that it is attractive because there is no extra fat on their body.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">修剪;剪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>trim</b> something, for example someone's hair, you cut off small amounts of it in order to make it look neater and tidier.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">削减;缩减</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a government or other organization <b>trims</b> something such as a plan, policy, or amount, they reduce it slightly in extent or size.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">点缀；装饰；(以…）镶边</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a piece of clothing <b>is trimmed with</b> a type of material or design, it is decorated with it, usually along its edges.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">装饰(物);镶边</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>trim</b> on something such as a piece of clothing is a decoration, for example along its edges, that is in a different colour or material.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">健康;身体状况良好</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When people are <b>in trim</b> or <b>in good trim</b>, they are in good physical condition.  \r \r\r\r</span>",
+    "display_hwd": "-trimmed",
+    "ext": "",
+    "hwd": "-trimmed",
+    "phonetics": "",
+    "phrase": "",
+    "sense": "phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">衣帽间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In a public building, the <b>cloakroom</b> is the place where people can leave their coats, umbrellas, and so on.  \r \r\r\r</span>",
+    "display_hwd": "cloakroom",
+    "ext": "",
+    "hwd": "cloakroom",
+    "phonetics": "英\r[ˈkləʊkru:m]美\r[ˈkloʊkrum]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(公共场所或私人住宅一层的)厕所，洗手间</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>cloakroom</b> is a room containing toilets in a public building or a room containing a toilet on the ground floor of someone's house.  \r \r\r\r</span>",
+    "display_hwd": "cloakroom",
+    "ext": "",
+    "hwd": "cloakroom",
+    "phonetics": "英\r[ˈkləʊkru:m]美\r[ˈkloʊkrum]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

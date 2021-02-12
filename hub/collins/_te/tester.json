@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">测试员;试验员</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tester</b> is a person who has been asked to test a particular thing.  \r \r\r\r</span>",
+    "display_hwd": "tester",
+    "ext": "",
+    "hwd": "tester",
+    "phonetics": "英\r[ˈtestə(r)]美\r[ˈtɛstɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">测试器;测试仪</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>tester</b> is a machine or device that you use to test whether another machine or device is working properly.  \r \r\r\r</span>",
+    "display_hwd": "tester",
+    "ext": "",
+    "hwd": "tester",
+    "phonetics": "英\r[ˈtestə(r)]美\r[ˈtɛstɚ]",
+    "phrase": "",
+    "sense": "★☆☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

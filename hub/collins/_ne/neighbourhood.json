@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">(城镇中的)居住区，地段，街坊</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>neighbourhood</b> is one of the parts of a town where people live.  \r \r\r\r</span>",
+    "display_hwd": "neighbourhood",
+    "ext": "",
+    "hwd": "neighbourhood",
+    "phonetics": "英\r[ˈneɪbəhʊd]美\r[ˈneɪbərhʊd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">周边地区;邻居;社区</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>neighbourhood</b> of a place or person is the area or the people around them.  \r \r\r\r</span>",
+    "display_hwd": "neighbourhood",
+    "ext": "",
+    "hwd": "neighbourhood",
+    "phonetics": "英\r[ˈneɪbəhʊd]美\r[ˈneɪbərhʊd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大约;在…左右</span>",
+    "def_en": "<span class=\"endef\"><b>In the neighbourhood of</b> a number means approximately that number.  \r \r\r\r</span>",
+    "display_hwd": "neighbourhood",
+    "ext": "",
+    "hwd": "neighbourhood",
+    "phonetics": "英\r[ˈneɪbəhʊd]美\r[ˈneɪbərhʊd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ prep-phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…附近;靠近</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A place <b>in the neighbourhood of</b> another place is near it.  \r \r\r\r</span>",
+    "display_hwd": "neighbourhood",
+    "ext": "",
+    "hwd": "neighbourhood",
+    "phonetics": "英\r[ˈneɪbəhʊd]美\r[ˈneɪbərhʊd]",
+    "phrase": "",
+    "sense": "★★☆☆☆ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

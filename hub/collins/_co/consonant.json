@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">辅音</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>consonant</b> is a sound such as 'p', 'f', 'n', or 't' which you pronounce by stopping the air flowing freely through your mouth.  \r \r\r\r</span>",
+    "display_hwd": "consonant",
+    "ext": "",
+    "hwd": "consonant",
+    "phonetics": "英\r[ˈkɒnsənənt]美\r[ˈkɑnsənənt]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">一致的;相符的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Something that is <b>consonant with</b> something else fits or agrees with it very well.  \r \r\r\r</span>",
+    "display_hwd": "consonant",
+    "ext": "",
+    "hwd": "consonant",
+    "phonetics": "英\r[ˈkɒnsənənt]美\r[ˈkɑnsənənt]",
+    "phrase": "",
+    "sense": "adj-graded\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

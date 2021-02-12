@@ -1,0 +1,72 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（房子或公寓的）门厅</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>hall</b> in a house or flat is the area just inside the front door, into which some of the other rooms open.  \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（大楼里的）走廊，过道</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>hall</b> in a building is a long passage with doors into rooms on both sides of it.  \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大厅;会堂;礼堂</span>",
+    "def_en": "<span class=\"endef\"><span class=\"st\" onmouseout=\"st_mouseout(this)\" onmouseover=\"st_mouseover(this)\" style=\"font-weight:bold;\">See also:</span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://city hall\">city hall</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://town hall\">town hall</a></b>;\r A <b>hall</b> is a large room or building which is used for public events such as concerts, exhibitions, and meetings.  \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（大学或学院的）学生宿舍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If students live <b>in hall</b> in British English, or <b>in a hall</b> in American English, they live in a university or college building called a <b>hall of residence</b>.  \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（乡间）大庄园，府第（用于住宅名称中）</span>",
+    "def_en": "<span class=\"endef\"><b>Hall</b> is sometimes used as part of the name of a large house in the country.  \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">厅，会堂，礼堂（尤用于礼堂、音乐厅等名称中）</span>",
+    "def_en": "<span class=\"endef\"><b>Hall</b> is sometimes used as part of the name of a large building, especially one where public events or concerts take place  \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-in-names\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://entrance hall\">entrance hall</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://music hall\">music hall</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "hall",
+    "ext": "",
+    "hwd": "hall",
+    "phonetics": "英\r[hɔ:l]美\r[hɔl]",
+    "phrase": "",
+    "sense": "★★★☆☆ see also:"
+  }
+]

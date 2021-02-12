@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">工会领导人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>convenor</b> is a trade union official who organizes the union representatives at a particular factory.  \r \r\r\r</span>",
+    "display_hwd": "convenor",
+    "ext": "",
+    "hwd": "convenor",
+    "phonetics": "英\r[kən'vi:nə]美\r[kən'vinə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">会议召集人</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>convenor</b> is someone who convenes a meeting.  \r \r\r\r</span>",
+    "display_hwd": "convenor",
+    "ext": "",
+    "hwd": "convenor",
+    "phonetics": "英\r[kən'vi:nə]美\r[kən'vinə]",
+    "phrase": "",
+    "sense": "n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

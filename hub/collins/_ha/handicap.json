@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（生理或智力上的）残障，残疾</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>handicap</b> is a physical or mental disability.  \r \r\r\r</span>",
+    "display_hwd": "handicap",
+    "ext": "",
+    "hwd": "handicap",
+    "phonetics": "英\r[ˈhændikæp]美\r[ˈhændiˌkæp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不利条件;障碍</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>handicap</b> is an event or situation that places you at a disadvantage and makes it harder for you to do something.  \r \r\r\r</span>",
+    "display_hwd": "handicap",
+    "ext": "",
+    "hwd": "handicap",
+    "phonetics": "英\r[ˈhændikæp]美\r[ˈhændiˌkæp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">妨碍;使不利</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If an event or a situation <b>handicaps</b> someone or something, it places them at a disadvantage.  \r \r\r\r</span>",
+    "display_hwd": "handicap",
+    "ext": "",
+    "hwd": "handicap",
+    "phonetics": "英\r[ˈhændikæp]美\r[ˈhændiˌkæp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（高尔夫运动中的）给弱者增加的杆数，差点</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In golf, a <b>handicap</b> is an advantage given to someone who is not a good player, in order to make the players more equal. As you improve, your handicap gets lower.  \r \r\r\r</span>",
+    "display_hwd": "handicap",
+    "ext": "",
+    "hwd": "handicap",
+    "phonetics": "英\r[ˈhændikæp]美\r[ˈhændiˌkæp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（赛马比赛的）让步赛</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In horse racing, a <b>handicap</b> is a race in which some competitors are given a disadvantage of extra weight in an attempt to give everyone an equal chance of winning.  \r \r\r\r</span>",
+    "display_hwd": "handicap",
+    "ext": "",
+    "hwd": "handicap",
+    "phonetics": "英\r[ˈhændikæp]美\r[ˈhændiˌkæp]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

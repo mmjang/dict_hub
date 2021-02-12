@@ -1,0 +1,22 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">身份;本体</span>",
+    "def_en": "<span class=\"endef\">\r\r\r Your <b>identity</b> is who you are.  \r \r\r\r</span>",
+    "display_hwd": "identity",
+    "ext": "",
+    "hwd": "identity",
+    "phonetics": "英\r[aɪˈdentəti]美\r[aɪˈdɛntɪti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">个性;特性</span>",
+    "def_en": "<span class=\"endef\">\r\r\r The <b>identity</b> of a person or place is the characteristics they have that distinguish them from others.  \r \r\r\r</span>",
+    "display_hwd": "identity",
+    "ext": "",
+    "hwd": "identity",
+    "phonetics": "英\r[aɪˈdentəti]美\r[aɪˈdɛntɪti]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

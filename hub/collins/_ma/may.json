@@ -1,0 +1,172 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">五月</span>",
+    "def_en": "<span class=\"endef\"><b>May</b> is the fifth month of the year in the Western calendar.  \r \r\r\r</span>",
+    "display_hwd": "May",
+    "ext": "",
+    "hwd": "May",
+    "phonetics": "英\r[meɪ]美\r[mei]",
+    "phrase": "",
+    "sense": "n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">也许(会发生或出现);可能(会如此)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> to indicate that something will possibly happen or be true in the future, but you cannot be certain.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">有可能，也许(用于表示某事可能属实，但不确定)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> to indicate that there is a possibility that something is true, but you cannot be certain.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">也许，可能(用于表示某事有时或在某些情况下属实)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> to indicate that something is sometimes true or is true in some circumstances.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(与过去分词连用，用于表示有可能已经发生、属实或给出一个可能的解释)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may have</b> with a past participle when suggesting that it is possible that something happened or was true, or when giving a possible explanation for something.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尽管，或许(用于承认情况属实，但同时与更重要的事情作比较)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> in statements where you are accepting the truth of a situation, but contrasting it with something that is more important.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可以(用于举出在需要时可以加以利用的某些特性、事实等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> when you are mentioning a quality or fact about something that people can make use of if they want to.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(通常根据规则或法律)可以/不可以</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> to indicate that someone is allowed to do something, usually because of a rule or law. You use <b>may not</b> to indicate that someone is not allowed to do something.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可以(表示准许或请求许可)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> when you are giving permission to someone to do something, or when asking for permission.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可否(用于礼貌的请求)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> when you are making polite requests.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可以,能否（通常用于问句中，表示提出礼貌的建议、请求等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b>, usually in questions, when you are politely making suggestions or offering to do something.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">可以(用于有礼貌地插话、提问或引入话题等)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> as a polite way of interrupting someone, asking a question, or introducing what you are going to say next.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">也许会，可能会(用于提及别人对自己所说的话可能会有的反应或态度)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> when you are mentioning the reaction or attitude that you think someone is likely to have to something you are about to say.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">不妨说,可以说(用于强调)</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>may</b> in expressions such as <b>I may add</b> and <b>I may say</b> in order to emphasize a statement that you are making.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">(以便)能，可以（使某事发生）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something so that a particular thing <b>may</b> happen, you do it so that there is an opportunity for that thing to happen.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">祝;但愿</span>",
+    "def_en": "<span class=\"endef\">\r\r\r People sometimes use <b>may</b> to express hopes and wishes.  \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ modal\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\">\r\r   \r<b>be that as it may</b><span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://be\">be</a></b>; \rmay as well<span class=\"text_gray\" style=\"font-weight:bold;\">→see: </span><b class=\"text_blue\"><a class=\"explain\" href=\"entry://well\">well</a></b>; \r \r\r\r</span>",
+    "display_hwd": "may",
+    "ext": "",
+    "hwd": "may",
+    "phonetics": "英\r[meɪ]美\r[me]",
+    "phrase": "",
+    "sense": "★★★★★ "
+  }
+]

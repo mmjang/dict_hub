@@ -1,0 +1,32 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">公共汽车；巴士；大客车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>bus</b> is a large motor vehicle which carries passengers from one place to another. Buses drive along particular routes, and you have to pay to travel in them.  \r \r\r\r</span>",
+    "display_hwd": "busing",
+    "ext": "",
+    "hwd": "busing",
+    "phonetics": "英\r[ˈbʌsiŋ]美\r[ˈbʌsɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用大客车运送；乘坐公共汽车</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When someone is <b>bussed</b> to a particular place or when they <b>bus</b> there, they travel there on a bus.  \r \r\r\r</span>",
+    "display_hwd": "busing",
+    "ext": "",
+    "hwd": "busing",
+    "phonetics": "英\r[ˈbʌsiŋ]美\r[ˈbʌsɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">用校车送</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In some parts of the United States, when children are <b>bused</b> to school, they are transported by bus to a school in a different area so that children of different races can be educated together.  \r \r\r\r</span>",
+    "display_hwd": "busing",
+    "ext": "",
+    "hwd": "busing",
+    "phonetics": "英\r[ˈbʌsiŋ]美\r[ˈbʌsɪŋ]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

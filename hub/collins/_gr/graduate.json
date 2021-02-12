@@ -1,0 +1,52 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">（英国的）大学毕业生，学士学位获得者</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, a <b>graduate</b> is a person who has successfully completed a degree at a university or college and has received a certificate that shows this.  \r \r\r\r</span>",
+    "display_hwd": "graduate",
+    "ext": "",
+    "hwd": "graduate",
+    "phonetics": "英\r[ˈgrædʒuət]美\r[ˈɡrædʒuˌet]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国的）高中（或学院、大学）毕业生</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, a <b>graduate</b> is a student who has successfully completed a course at a high school, college, or university.  \r \r\r\r</span>",
+    "display_hwd": "graduate",
+    "ext": "",
+    "hwd": "graduate",
+    "phonetics": "英\r[ˈgrædʒuət]美\r[ˈɡrædʒuˌet]",
+    "phrase": "",
+    "sense": "★★★☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（英国）大学毕业</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In Britain, when a student <b>graduates</b> from university, they have successfully completed a degree course.  \r \r\r\r</span>",
+    "display_hwd": "graduate",
+    "ext": "",
+    "hwd": "graduate",
+    "phonetics": "英\r[ˈgrædʒuət]美\r[ˈɡrædʒuˌet]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（美国）中学（或大学）毕业，授予…学位（或毕业文凭）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r In the United States, when a student <b>graduates</b>, they complete their studies successfully and leave their school or university. You can also say that a school or university <b>graduates</b> a student or students.  \r \r\r\r</span>",
+    "display_hwd": "graduate",
+    "ext": "",
+    "hwd": "graduate",
+    "phonetics": "英\r[ˈgrædʒuət]美\r[ˈɡrædʒuˌet]",
+    "phrase": "",
+    "sense": "★★★☆☆ v-erg\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">晋升；升职；升级</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>graduate from</b> one thing <b>to</b> another, you go from a less important job or position to a more important one.  \r \r\r\r</span>",
+    "display_hwd": "graduate",
+    "ext": "",
+    "hwd": "graduate",
+    "phonetics": "英\r[ˈgrædʒuət]美\r[ˈɡrædʒuˌet]",
+    "phrase": "",
+    "sense": "★★★☆☆ verb\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

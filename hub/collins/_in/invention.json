@@ -1,0 +1,42 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">发明物;创造的事物</span>",
+    "def_en": "<span class=\"endef\">\r\r\r An <b>invention</b> is a machine, device, or system that has been invented by someone.  \r \r\r\r</span>",
+    "display_hwd": "invention",
+    "ext": "",
+    "hwd": "invention",
+    "phonetics": "英\r[ɪnˈvenʃn]美\r[ɪnˈvɛnʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发明;创造</span>",
+    "def_en": "<span class=\"endef\"><b>Invention</b> is the act of inventing something that has never been made or used before.  \r \r\r\r</span>",
+    "display_hwd": "invention",
+    "ext": "",
+    "hwd": "invention",
+    "phonetics": "英\r[ɪnˈvenʃn]美\r[ɪnˈvɛnʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">捏造;虚构</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you refer to someone's account of something as an <b>invention</b>, you think that it is untrue and that they have made it up.  \r \r\r\r</span>",
+    "display_hwd": "invention",
+    "ext": "",
+    "hwd": "invention",
+    "phonetics": "英\r[ɪnˈvenʃn]美\r[ɪnˈvɛnʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-var\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发明才能;创造能力</span>",
+    "def_en": "<span class=\"endef\"><b>Invention</b> is the ability to invent things or to have clever and original ideas.  \r \r\r\r</span>",
+    "display_hwd": "invention",
+    "ext": "",
+    "hwd": "invention",
+    "phonetics": "英\r[ɪnˈvenʃn]美\r[ɪnˈvɛnʃən]",
+    "phrase": "",
+    "sense": "★★☆☆☆ n-uncount\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

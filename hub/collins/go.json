@@ -1,0 +1,482 @@
+[
+  {
+    "def_cn": "<span class=\"text_blue\">去；行进</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>go</b> somewhere, you move or travel there.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">离开；走</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>go</b>, you leave the place where you are.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">去参加，去从事（某活动）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>go</b> to say that someone leaves the place where they are and does an activity, often a leisure activity.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">去做…（可用go to do, 也可用go and do，美国英语中还可用go do，然而一般说 went and did）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you <b>go to</b> do something, you move to a place in order to do it and you do it. You can also <b>go and</b> do something, and in American English, you can <b>go</b> do something. However, you always say that someone <b>went and</b> did something.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">去（上学、上班或教堂）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>go to</b> school, work, or church, you attend it regularly as part of your normal life.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（路）通向，延伸到，位于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r When you say where a road or path <b>goes</b>, you are saying where it begins or ends, or what places it is in.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于否定表达中，表示对所提到行为不赞成或不允许某人有这种行为）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>go</b> in expressions such as '<b>don't go telling everybody</b>', in order to express disapproval of the kind of behaviour you mention, or to tell someone not to behave in that way.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与further,beyond等词连用，表示某事的进展或程度）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>go</b> with words like 'further' and 'beyond' to show the degree or extent of something.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（时间）过去，流逝</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that a period of time <b>goes</b> quickly or slowly, you mean that it seems to pass quickly or slowly.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（钱）用于，花掉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say where money <b>goes</b>, you are saying what it is spent on.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">由…得到；授予；归于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that something <b>goes to</b> someone, you mean that it is given to them.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">上，参加（电视或电台节目）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>goes on</b> television or radio, they take part in a television or radio programme.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">被除掉；被去掉</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>goes</b>, someone gets rid of it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（常指被迫）辞职</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>goes</b>, they leave their job, usually because they are forced to.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">被放入；包含于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>goes into</b> something else, it is put in it as one of the parts or elements that form it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">装得进；塞得进</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>goes</b> in a particular place, it fits in that place or should be put there because it is the right size or shape.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（按惯例应）置于</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>goes</b> in a particular place, it belongs there or should be put there, because that is where you normally keep it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">除尽；除</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that one number <b>goes into</b> another number a particular number of times, you are dividing the second number by the first.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（官能）衰退，下降</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If one of a person's senses, such as their sight or hearing, <b>is going</b>, it is getting weak and they may soon lose it completely.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（灯泡、引擎等)损坏，报废，无法正常运转</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something such as a light bulb or a part of an engine <b>is going</b>, it is no longer working properly and will soon need to be replaced.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">奄奄一息；去世</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is going</b> or <b>has gone</b>, you are saying in an indirect way that they are dying or are dead.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">变得；成为</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>go</b> to say that a person or thing changes to another state or condition. For example, if someone <b>goes crazy</b>, they become crazy, and if something <b>goes green</b>, it changes colour and becomes green.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ v-link\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（表示是否穿戴或拥有某物）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>go</b> when indicating whether or not someone wears or has something. For example, if someone <b>goes barefoot</b>, they do not wear any shoes.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ v-link\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用在以un开头的形容词之前表示某事没有发生）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>go</b> before adjectives beginning with 'un-' to say that something does not happen. For example, if something <b>goes unheard</b>, nobody hears it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ v-link\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">进展；进行</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>go</b> to talk about the way something happens. For example, if an event or situation <b>goes well</b>, it is successful.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（机器或装置）运转，运行，工作</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a machine or device <b>is going</b>, it is working.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（铃等）鸣响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If a bell <b>goes</b>, it makes a noise, usually as a signal for you to do something.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（与…）相配；（与…）相称</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If something <b>goes with</b> something else, or if two things <b>go together</b>, they look or taste nice together.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ v-recip\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（用于引出要引用的话）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>go</b> to introduce something you are quoting. For example, you say <b>the story goes</b> or <b>the argument goes</b> just before you quote all or part of it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">发出…声响</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use <b>go</b> when indicating that something makes or produces a sound. For example, if you say that something <b>goes 'bang</b>', you mean it produces the sound 'bang'.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">说（代替say，表示引述他人的话或认为他们要说的话）</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You can use <b>go</b> instead of 'say' when you are quoting what someone has said or what you think they will say.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ verb\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">尝试；努力</span>",
+    "def_en": "<span class=\"endef\">\r\r\r A <b>go</b> is an attempt at doing something.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（牌戏、下棋等中）轮到的顺序</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If it is your <b>go</b> in a game, it is your turn to do something, for example to play a card or move a piece.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ n-count\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\"></span>",
+    "def_en": "<span class=\"endef\"><b class=\"text_blue\"><a class=\"explain\" href=\"entry://going\">going</a></b>;\r<b class=\"text_blue\"><a class=\"explain\" href=\"entry://gone\">gone</a></b>;\r   \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ see also:"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">全力以赴；不遗余力地做</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>go all out to</b> do something or <b>go all out for</b> something, you make the greatest possible effort to do it or get it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">干（或说）什么都行；什么事都不新鲜</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If people say '<b>anything goes</b>', they mean that anything people say or do is considered acceptable, and usually they mean that they do not approve of this.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">与同类的事物相比/跟其他小孩相比</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You use expressions like <b>as things go</b>  or <b>as children go</b> when you are describing one person or thing and comparing them with others of the same kind.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">未事先准备；无意之中</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you do something <b>as</b> you <b>go along</b>, you do it while you are doing another thing, without preparing it beforehand.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">干蠢事；犯傻</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>has gone and done</b> something, you are expressing your annoyance at the foolish thing they have done.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">大胆尝试吧</span>",
+    "def_en": "<span class=\"endef\">\r\r\r You say '<b>Go for it</b>' to encourage someone to increase their efforts to achieve or win something.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">攻击；批评；非难</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone <b>has a go at</b> you, they criticize you, often in a way that you feel is unfair.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">我们下一步该怎么办</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If someone says '<b>Where do we go from here?</b>' they are asking what should be done next, usually because a problem has not been solved in a satisfactory way.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ convention\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">在…方面取得一定成功</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone <b>is making a go of</b> something such as a business or relationship, you mean that they are having some success with it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">忙个没完；十分活跃</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that someone is always <b>on the go</b>, you mean that they are always busy and active.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">忙于做…</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you <b>have</b> something <b>on the go</b>, you have started it and are busy doing it.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">待做；有待完成</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that there are a particular number of things <b>to go</b>, you mean that they still remain to be dealt with.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（时间）剩下</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you say that there is a certain amount of time <b>to go</b>, you mean that there is that amount of time left before something happens or ends.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "def_cn": "<span class=\"text_blue\">（食物）带出餐馆吃的，外卖的</span>",
+    "def_en": "<span class=\"endef\">\r\r\r If you are in a café or restaurant and ask for an item of food <b>to go</b>, you mean that you want to take it away with you and not eat it there.  \r \r\r\r</span>",
+    "display_hwd": "go",
+    "ext": "",
+    "hwd": "go",
+    "phonetics": "英\r[gəʊ]美\r[goʊ]",
+    "phrase": "",
+    "sense": "★★★★★ phrase\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]
